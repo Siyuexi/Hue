@@ -1,0 +1,23 @@
+symbol: m1
+template: Traceback (most recent call last):
+tid: 3f81c79c
+5,
+||  File "<stdin>", line 1, in <module>
+||IndexError: list index out of range
+9,
+||  File "<stdin>", line 1, in <module>
+||KeyError: 'a'
+14,
+||  File "<stdin>", line 1, in <module>
+||ModuleNotFoundError: No module named 'nonexistmodule'
+19,
+||  File "<stdin>", line 1, in <module>
+||NameError: name 'm' is not defined
+80,
+|>  File "<stdin>", line 1, in <module>
+|>  File "<stdin>", line 3, in demo
+|>  File "<stdin>", line 3, in demo
+|>  File "<stdin>", line 3, in demo
+||  [Previous line repeated 995 more times]
+||  File "<stdin>", line 2, in demo
+||RecursionError: maximum recursion depth exceeded in comparison

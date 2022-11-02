@@ -1,0 +1,87 @@
+[17:18:24] INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_38865049064139660 terminating
+[17:18:24] INFO dfs.DataNode$PacketResponder: PacketResponder 0 for block blk_-6952295868487656571 terminating
+[17:18:24] INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.73.220:50010 is added to blk_7128370237687728475 size 67108864
+[17:18:24] INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_8229193803249955061 terminating
+[17:18:24] Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+IndexError: list index out of range
+
+[17:18:24] Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+KeyError: 'a'
+
+
+[17:18:24] Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ModuleNotFoundError: No module named 'nonexistmodule'
+
+
+[17:18:24] Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'm' is not defined
+[17:18:24] 081109 204106 329 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-6670958622368987959 terminating
+
+[17:18:24]     PID USER      PR  NI    VIRT    RES    SHR ST  %CPU  %MEM     TIME+ COMMAND       
+1708287 mqy       20   0   10.3g 904720  15404 R 102.0   0.9  11482:46 node          
+1252859 wwmm      20   0   68.1g   7.6g   1.2g R 100.0   8.0  92:49.17 python        
+1244584 wwmm      20   0   63.5g   7.4g   1.2g S  99.7   7.8 146:48.04 python        
+1260453 root      20   0       0      0      0 R   3.3   0.0   0:00.50 kworker/u258+ 
+2787694 yyl       20   0   83856  48684   2996 S   2.3   0.0 356:11.47 nvidia-smi    
+1264978 xjjl      20   0  980684 150724  36076 S   1.3   0.2   0:21.94 node          
+1265260 xjjl      20   0   16876   6016   3400 R   1.0   0.0   0:00.27 top           
+   2328 root      20   0 4090664  22644   5744 S   0.7   0.0 122:43.57 containerd    
+1038211 hyy       20   0 1074532 204272  34892 S   0.7   0.2   1:45.32 node          
+1605622 skyfall   20   0 1183740  83588  18484 S   0.7   0.1 101:15.58 node          
+1605675 skyfall   20   0 1058676 183600  26408 S   0.7   0.2  37:24.42 node          
+1776992 mysql     20   0 2388724 390160   6480 S   0.7   0.4  44:23.74 mysqld        
+     15 root      20   0       0      0      0 I   0.3   0.0  37:33.60 rcu_sched     
+   2958 root     -51   0       0      0      0 S   0.3   0.0   4:56.91 irq/327-nvid+ 
+ 813736 root      20   0       0      0      0 I   0.3   0.0   0:22.73 kworker/4:1-+ 
+ 889796 hyy       20   0   13.0g  64072   8936 S   0.3   0.1  12:52.16 java          
+ 987212 root      20   0       0      0      0 I   0.3   0.0   0:49.15 kworker/0:0-+ 
+1147262 root      20   0       0      0      0 I   0.3   0.0   0:06.62 kworker/7:2-+ 
+1212042 root      20   0       0      0      0 I   0.3   0.0   0:01.96 kworker/57:2+ 
+1247362 hyy       20   0   14020   6108   4504 S   0.3   0.0   0:06.77 sshd          
+1247415 jiaqi     20   0   21.3g 278592  44816 S   0.3   0.3   0:24.37 node   
+
+[17:18:24] INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.43.115:50010 is added to blk_3050920587428079149 size 67108864
+[17:18:24] INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.203.80:50010 is added to blk_7888946331804732825 size 67108864
+
+[17:18:24] 2019-08-14 14:51:22,299 ERROR [http-nio-8080-exec-8] classOne: Index out of range
+java.lang.StringIndexOutOfBoundsException: String index out of range: 18
+    at java.lang.String.charAt(String.java:658)
+	at com.example.app.loggingApp.classOne.getResult(classOne.java:15)
+	at com.example.app.loggingApp.AppController.tester(AppController.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+[...]
+
+[17:18:24] INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.11.85:50010 is added to blk_2377150260128098806 size 67108864
+[17:18:24] INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_572492839287299681 terminating
+[17:18:24] mysql> select * from mysql.general_log;
++---------------------+---------------------------+-----------+-----------+--------------+----------------------------------+
+| event_time          | user_host                 | thread_id | server_id | command_type | argument                         |
++---------------------+---------------------------+-----------+-----------+--------------+----------------------------------+
+| 2017-07-06 12:32:05 | root[root] @ localhost [] |         1 |         1 | Query        | show variables like 'general%'   |
+| 2017-07-06 12:32:28 | root[root] @ localhost [] |         1 |         1 | Query        | show variables like 'log_output' |
+| 2017-07-06 12:32:41 | root[root] @ localhost [] |         1 |         1 | Query        | select * from MyDB.test          |
+| 2017-07-06 12:34:36 | [root] @ localhost []     |         3 |         1 | Connect      | root@localhost on                |
+| 2017-07-06 12:34:36 | root[root] @ localhost [] |         3 |         1 | Query        | KILL QUERY 1                     |
+| 2017-07-06 12:34:36 | root[root] @ localhost [] |         3 |         1 | Quit         |                                  |
+| 2017-07-06 12:34:51 | root[root] @ localhost [] |         1 |         1 | Query        | select * from mysql.general_log  |
++---------------------+---------------------------+-----------+-----------+--------------+----------------------------------+
+7 rows in set (0.02 sec)
+[17:18:24] INFO dfs.DataNode$PacketResponder: Received block blk_3587508140051953248 of size 67108864 from /10.251.42.84
+[17:18:24] INFO dfs.DataNode$PacketResponder: Received block blk_5402003568334525940 of size 67108864 from /10.251.214.112
+[17:18:24] Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<stdin>", line 3, in demo
+  File "<stdin>", line 3, in demo
+  File "<stdin>", line 3, in demo
+  [Previous line repeated 995 more times]
+  File "<stdin>", line 2, in demo
+RecursionError: maximum recursion depth exceeded in comparison
