@@ -212,6 +212,8 @@ class Parser:
         f = open(self.odir + "meta.log",'w')
         f.write("Parsing starts at: " + time.asctime(time.localtime(time.time())) + '\n')
         for item in self.meta.list:
+            if item[0] == 't': # if it is a table message, then get rid of splitter output (if any)
+               item = re.sub('\|','',item) 
             f.write(item + '\n')
         f.close()
 

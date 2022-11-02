@@ -1,4 +1,4 @@
-Parsing starts at: Wed Nov  2 17:11:27 2022
+Parsing starts at: Wed Nov  2 20:44:39 2022
 s1, 1, INFO dfs.DataNode$PacketResponder: PacketResponder <*it> for block blk_<*it> terminating
 s1, 2, INFO dfs.DataNode$PacketResponder: PacketResponder <*it> for block blk_<*it> terminating
 s2, 3, INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: <*ip> is added to blk_<*it> size <*it>
@@ -14,7 +14,7 @@ s2, 48, INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap update
 m2, 50, <*it><?><*it><?><*it> <*it>:<*it>:<*it>,<*it> ERROR [http<?>nio<?><*it><?>exec<?><*it>] classOne: Index out of range
 s2, 63, INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: <*ip> is added to blk_<*it> size <*it>
 s1, 64, INFO dfs.DataNode$PacketResponder: PacketResponder <*it> for block blk_<*it> terminating
-t2, 65, | event_time | user_host | thread_id | server_id | command_type | argument |
+t2, 65,  event_time  user_host  thread_id  server_id  command_type  argument 
 s4, 78, INFO dfs.DataNode$PacketResponder: Received block blk_<*it> of size <*it> from <*ip>
 s4, 79, INFO dfs.DataNode$PacketResponder: Received block blk_<*it> of size <*it> from <*ip>
 m1, 80, Traceback (most recent call last):
