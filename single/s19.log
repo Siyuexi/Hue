@@ -1,5 +1,5 @@
 symbol: s19
-template: INFO mapreduce.Job: The url to track the job: htt<*dr>
+template: INFO mapreduce.Job: The url to track the job: http:<*dr>
 tid: 81c7e5b0
 102,http://master1.cuhk.com:8088/proxy/application_1667571544727_0240/,
 170,http://master1.cuhk.com:8088/proxy/application_1667571544727_0239/,

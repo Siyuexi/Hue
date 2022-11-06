@@ -1,5 +1,5 @@
 symbol: s16
-template: INFO conf.Configuration: found resource resource<?>types.xml at fil<*dr>
+template: INFO conf.Configuration: found resource resource<?>types.xml at file:<*dr>
 tid: f68bc38d
 99,resource-types.xml,file:/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop/resource-types.xml,
 167,resource-types.xml,file:/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop/resource-types.xml,

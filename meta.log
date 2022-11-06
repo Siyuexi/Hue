@@ -1,4 +1,4 @@
-Parsing starts at: Sun Nov  6 15:20:08 2022
+Parsing starts at: Sun Nov  6 22:13:24 2022
 s1, 1, INFO dfs.DataNode$PacketResponder: PacketResponder <*it> for block blk_<*it> terminating
 s1, 2, INFO dfs.DataNode$PacketResponder: PacketResponder <*it> for block blk_<*it> terminating
 s2, 3, INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: <*ip> is added to blk_<*it> size <*it>
@@ -20,19 +20,19 @@ s4, 79, INFO dfs.DataNode$PacketResponder: Received block blk_<*it> of size <*it
 m1, 80, Traceback (most recent call last):
 s5, 88, INFO client.AHSProxy: Connecting to Application History server at manager.cuhk.com<*ip>
 s6, 89, INFO hdfs.DFSClient: Created token for team7: HDFS_DELEGATION_TOKEN owner<?>team7@BIGDATA, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it> on ha<?>hdfs:cuhkcluster
-s7, 90, INFO kms.KMSClientProvider: Getting new token from htt<*dr> renewer:rm<*dr>
+s7, 90, INFO kms.KMSClientProvider: Getting new token from http:<*dr> renewer:rm<*dr>
 s8, 91, INFO kms.KMSClientProvider: New token received: (Kind: kms<?>dt, Service: <*ip>, Ident: (kms<?>dt owner<?>team7, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>))
-s9, 92, INFO security.TokenCache: Got dt for hdf<*dr> Kind: HDFS_DELEGATION_TOKEN, Service: ha<?>hdfs:cuhkcluster, Ident: (token for team7: HDFS_DELEGATION_TOKEN owner<?>team7@BIGDATA, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>)
-s10, 93, INFO security.TokenCache: Got dt for hdf<*dr> Kind: kms<?>dt, Service: <*ip>, Ident: (kms<?>dt owner<?>team7, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>)
+s9, 92, INFO security.TokenCache: Got dt for hdfs:<*dr> Kind: HDFS_DELEGATION_TOKEN, Service: ha<?>hdfs:cuhkcluster, Ident: (token for team7: HDFS_DELEGATION_TOKEN owner<?>team7@BIGDATA, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>)
+s10, 93, INFO security.TokenCache: Got dt for hdfs:<*dr> Kind: kms<?>dt, Service: <*ip>, Ident: (kms<?>dt owner<?>team7, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>)
 s11, 94, INFO mapreduce.JobResourceUploader: Disabling Erasure Coding for path: <*dr>
 s12, 95, INFO input.FileInputFormat: Total input files to process : <*it>
 s13, 96, INFO mapreduce.JobSubmitter: number of splits:<*it>
 s14, 97, INFO mapreduce.JobSubmitter: Submitting tokens for job: job_<*it>_<*it>
 s15, 98, INFO mapreduce.JobSubmitter: Executing with tokens: [Kind: HDFS_DELEGATION_TOKEN, Service: ha<?>hdfs:cuhkcluster, Ident: (token for team7: HDFS_DELEGATION_TOKEN owner<?>team7@BIGDATA, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>), Kind: kms<?>dt, Service: <*ip>, Ident: (kms<?>dt owner<?>team7, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>)]
-s16, 99, INFO conf.Configuration: found resource resource<?>types.xml at fil<*dr>
+s16, 99, INFO conf.Configuration: found resource resource<?>types.xml at file:<*dr>
 s17, 100, INFO impl.TimelineClientImpl: Timeline service address: manager.cuhk.com:<*it>
 s18, 101, INFO impl.YarnClientImpl: Submitted application application_<*it>_<*it>
-s19, 102, INFO mapreduce.Job: The url to track the job: htt<*dr>
+s19, 102, INFO mapreduce.Job: The url to track the job: http:<*dr>
 s20, 103, INFO mapreduce.Job: Running job: job_<*it>_<*it>
 s21, 104, INFO mapreduce.Job: Job job_<*it>_<*it> running in uber mode : <*bl>
 s22, 105, INFO mapreduce.Job: map <*it>% reduce <*it>%
@@ -42,18 +42,18 @@ m3, 108, INFO mapreduce.Job: Counters: <*it>
 m4, 154, INFO client.AHSProxy: Connecting to Application History server at manager.cuhk.com<*ip>
 s5, 157, INFO client.AHSProxy: Connecting to Application History server at manager.cuhk.com<*ip>
 s6, 158, INFO hdfs.DFSClient: Created token for team7: HDFS_DELEGATION_TOKEN owner<?>team7@BIGDATA, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it> on ha<?>hdfs:cuhkcluster
-s7, 159, INFO kms.KMSClientProvider: Getting new token from htt<*dr> renewer:rm<*dr>
+s7, 159, INFO kms.KMSClientProvider: Getting new token from http:<*dr> renewer:rm<*dr>
 s8, 160, INFO kms.KMSClientProvider: New token received: (Kind: kms<?>dt, Service: <*ip>, Ident: (kms<?>dt owner<?>team7, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>))
-s9, 161, INFO security.TokenCache: Got dt for hdf<*dr> Kind: HDFS_DELEGATION_TOKEN, Service: ha<?>hdfs:cuhkcluster, Ident: (token for team7: HDFS_DELEGATION_TOKEN owner<?>team7@BIGDATA, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>)
-s10, 162, INFO security.TokenCache: Got dt for hdf<*dr> Kind: kms<?>dt, Service: <*ip>, Ident: (kms<?>dt owner<?>team7, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>)
+s9, 161, INFO security.TokenCache: Got dt for hdfs:<*dr> Kind: HDFS_DELEGATION_TOKEN, Service: ha<?>hdfs:cuhkcluster, Ident: (token for team7: HDFS_DELEGATION_TOKEN owner<?>team7@BIGDATA, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>)
+s10, 162, INFO security.TokenCache: Got dt for hdfs:<*dr> Kind: kms<?>dt, Service: <*ip>, Ident: (kms<?>dt owner<?>team7, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>)
 s11, 163, INFO mapreduce.JobResourceUploader: Disabling Erasure Coding for path: <*dr>
 s13, 164, INFO mapreduce.JobSubmitter: number of splits:<*it>
 s14, 165, INFO mapreduce.JobSubmitter: Submitting tokens for job: job_<*it>_<*it>
 s15, 166, INFO mapreduce.JobSubmitter: Executing with tokens: [Kind: HDFS_DELEGATION_TOKEN, Service: ha<?>hdfs:cuhkcluster, Ident: (token for team7: HDFS_DELEGATION_TOKEN owner<?>team7@BIGDATA, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>), Kind: kms<?>dt, Service: <*ip>, Ident: (kms<?>dt owner<?>team7, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>)]
-s16, 167, INFO conf.Configuration: found resource resource<?>types.xml at fil<*dr>
+s16, 167, INFO conf.Configuration: found resource resource<?>types.xml at file:<*dr>
 s17, 168, INFO impl.TimelineClientImpl: Timeline service address: manager.cuhk.com:<*it>
 s18, 169, INFO impl.YarnClientImpl: Submitted application application_<*it>_<*it>
-s19, 170, INFO mapreduce.Job: The url to track the job: htt<*dr>
+s19, 170, INFO mapreduce.Job: The url to track the job: http:<*dr>
 s20, 171, INFO mapreduce.Job: Running job: job_<*it>_<*it>
 s21, 172, INFO mapreduce.Job: Job job_<*it>_<*it> running in uber mode : <*bl>
 s22, 173, INFO mapreduce.Job: map <*it>% reduce <*it>%

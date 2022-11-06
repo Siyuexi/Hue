@@ -17,7 +17,7 @@ regex: # the regex order is important: The first must be timestame and the last 
     symbol: <*ip>
   - 
     name: dir
-    re: '((.:)|)(/\S+)+'
+    re: '(([A-Z]:)|)(/\S+)+'
     symbol: <*dr>
   -
     name: int
