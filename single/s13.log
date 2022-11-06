@@ -1,0 +1,5 @@
+symbol: s13
+template: INFO mapreduce.JobSubmitter: number of splits:<*it>
+tid: 0ca8912f
+96,splits:0,
+164,splits:1,

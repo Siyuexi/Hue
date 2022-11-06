@@ -1,0 +1,5 @@
+symbol: s20
+template: INFO mapreduce.Job: Running job: job_<*it>_<*it>
+tid: 0d134800
+103,job_1667571544727_0240,
+171,job_1667571544727_0239,

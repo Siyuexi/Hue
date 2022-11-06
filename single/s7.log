@@ -1,0 +1,5 @@
+symbol: s7
+template: INFO kms.KMSClientProvider: Getting new token from htt<*dr> renewer:rm<*dr>
+tid: 4917f558
+90,http://manager.cuhk.com:9292/kms/v1/,,renewer:rm/master1.cuhk.com@BIGDATA,
+159,http://manager.cuhk.com:9292/kms/v1/,,renewer:rm/master1.cuhk.com@BIGDATA,

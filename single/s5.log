@@ -1,0 +1,5 @@
+symbol: s5
+template: INFO client.AHSProxy: Connecting to Application History server at manager.cuhk.com<*ip>
+tid: a4a257b6
+88,manager.cuhk.com/10.26.10.201:10200,
+157,manager.cuhk.com/10.26.10.201:10200,

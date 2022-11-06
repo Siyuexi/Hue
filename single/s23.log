@@ -1,0 +1,4 @@
+symbol: s23
+template: INFO mapreduce.Job: Job job_<*it>_<*it> completed successfully
+tid: 6da489c4
+107,job_1667571544727_0240,

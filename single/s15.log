@@ -1,0 +1,5 @@
+symbol: s15
+template: INFO mapreduce.JobSubmitter: Executing with tokens: [Kind: HDFS_DELEGATION_TOKEN, Service: ha<?>hdfs:cuhkcluster, Ident: (token for team7: HDFS_DELEGATION_TOKEN owner<?>team7@BIGDATA, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>), Kind: kms<?>dt, Service: <*ip>, Ident: (kms<?>dt owner<?>team7, renewer<?>yarn, realUser<?>, issueDate<?><*it>, maxDate<?><*it>, sequenceNumber<?><*it>, masterKeyId<?><*it>)]
+tid: ddaa0976
+98,ha-hdfs:cuhkcluster,,owner=team7@BIGDATA,,renewer=yarn,,realUser=,,issueDate=1667650818147,,maxDate=1668255618147,,sequenceNumber=8389237,,masterKeyId=1027),,kms-dt,,10.26.10.201:9292,,(kms-dt,owner=team7,,renewer=yarn,,realUser=,,issueDate=1667650818231,,maxDate=1668255618231,,sequenceNumber=64564,,masterKeyId=638)],
+166,ha-hdfs:cuhkcluster,,owner=team7@BIGDATA,,renewer=yarn,,realUser=,,issueDate=1667650611231,,maxDate=1668255411231,,sequenceNumber=8389215,,masterKeyId=1027),,kms-dt,,10.26.10.201:9292,,(kms-dt,owner=team7,,renewer=yarn,,realUser=,,issueDate=1667650611347,,maxDate=1668255411347,,sequenceNumber=64563,,masterKeyId=638)],

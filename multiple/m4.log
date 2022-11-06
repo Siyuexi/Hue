@@ -1,0 +1,6 @@
+symbol: m4
+template: INFO client.AHSProxy: Connecting to Application History server at manager.cuhk.com<*ip>
+tid: a4a257b6
+154,manager.cuhk.com/10.26.10.201:10200,
+||Running 1 maps.
+||Job started: Sat Nov 05 20:12:19 CST 2022

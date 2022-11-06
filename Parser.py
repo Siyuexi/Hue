@@ -288,7 +288,6 @@ class Parser:
                 sf = True # splitter flag : depends on wether splitter in template
             else:
                 sf = False
-            print(sf)
             f = open(self.odir + "table/" + cls.symbol + '.log', 'w')
             f.write("symbol: " + cls.symbol + '\n')
             f.write("template: " + templstr + '\n')

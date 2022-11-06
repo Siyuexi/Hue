@@ -1,0 +1,5 @@
+symbol: s17
+template: INFO impl.TimelineClientImpl: Timeline service address: manager.cuhk.com:<*it>
+tid: f909233a
+100,manager.cuhk.com:8188,
+168,manager.cuhk.com:8188,

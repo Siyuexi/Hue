@@ -1,0 +1,5 @@
+symbol: m6
+template: INFO mapreduce.Job: Job job_<*it>_<*it> failed with state FAILED due to: Task failed task_<*it>_<*it>_m_<*it>
+tid: 5ee8890f
+397,job_1667571544727_0239,task_1667571544727_0239_m_000000,
+||Job failed as tasks failed. failedMaps:1 failedReduces:0 killedMaps:0 killedReduces: 0

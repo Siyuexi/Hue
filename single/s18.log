@@ -1,0 +1,5 @@
+symbol: s18
+template: INFO impl.YarnClientImpl: Submitted application application_<*it>_<*it>
+tid: 2d9a8895
+101,application_1667571544727_0240,
+169,application_1667571544727_0239,

@@ -1,0 +1,4 @@
+symbol: s12
+template: INFO input.FileInputFormat: Total input files to process : <*it>
+tid: 9a4976ad
+95,0,
