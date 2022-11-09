@@ -84,6 +84,7 @@ class Parser:
         return Msg()
 
     def parse(self, logname):
+        begintime = time.time()
         self.logpath = self.idir + logname
         self.log = open(self.logpath, 'r')
 
@@ -200,6 +201,8 @@ class Parser:
 
         self.__flush(msg) # last flush
         print("Parsing Done.")
+        endtime = time.time()
+        print("Parsing running time = {}s".format(endtime-begintime))
 
     # use the structure to output a parsed log file
     
@@ -280,6 +283,7 @@ class Parser:
 
         # table format log
         print("Building table format log files...")
+        begintime = time.time()
         for tid in tqdm(self.table.dict.keys()):
             cls = self.table.dict[tid]
             templseq = cls.template
@@ -320,6 +324,8 @@ class Parser:
             f.close()
 
         print("Printing Done.")
+        endtime = time.time()
+        print("Printing running time = {}s".format(endtime-begintime))
         
     # show parse tree
     def show(self):
