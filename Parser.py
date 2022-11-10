@@ -119,6 +119,7 @@ class Parser:
                 # get rid of timestamp
                 tseq = tseq[1 :] 
                 kseq = kseq[1 :]
+                pseq = pseq[1 :]
                 nf = True
             tlen = len(tseq)
             klen = len(kseq)
@@ -191,7 +192,6 @@ class Parser:
                 if self.__sim(tseq, lastseq) >= self.t_aggregate: # if it can be aggregate, then put them together
                     if line[0] != '\t' and line[0] != ' ': # if it is table message
                         msg.type = 't'
-                    lastseq = self.__find(tseq, lastseq, True)
                     msg.lines[-1].append(line)  
                 else: # or split them
                     msg.lines.append([line])
