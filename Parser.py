@@ -25,12 +25,11 @@ class Parser:
     def __sim(self, s1, s2):
         
         l = min((len(s1), len(s2)))
-        r = max((len(s1), len(s2)))
         k = 0
         for i in range(l):
             if s1[i] == s2[i]:
                 k += 1
-        return k / r
+        return k / l
 
     def __find(self, s1, s2, f): # f=True: find same elements; f=False: find different elements
         l = min((len(s1), len(s2)))
