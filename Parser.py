@@ -173,7 +173,7 @@ class Parser:
                     group.num += 1
                 else: # update template
                     templ = group.dict[tid]
-                    for i in range(tlen):
+                    for i in range(len(templ)):
                         if templ[i] != tseq[i]:
                             templ[i] = '<*>'
                     group.dict[tid] = templ
@@ -212,7 +212,6 @@ class Parser:
         """
         print("Building meta file...")
         f = open(self.odir + "meta.log",'w')
-        f.write("Parsing starts at: " + time.asctime(time.localtime(time.time())) + '\n')
         for item in self.meta.list:
             if item[0] == 't': # if it is a table message, then get rid of splitter output (if any)
                item = re.sub('\|','',item) 
