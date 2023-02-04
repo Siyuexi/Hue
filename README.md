@@ -23,7 +23,7 @@ for setting up the environments.
 
 ## Declaration
 
-1. All implementations of the parser (except Hue), logs (except HiBench and CPTS), and tools are from LogPAI (https://github.com/logpai). 
+1. All implementations of the parser (except Hue), logs (except HiBench and CTS), and tools are from LogPAI (https://github.com/logpai). 
 2. We offer reproduction of the following experiments：
    1. Experiments on parser accuracy in RQ1 and RQ2.
    2. Experiments on Hue's feedback mechanism in RQ3.
