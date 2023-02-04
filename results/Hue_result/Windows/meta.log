@@ -1,0 +1,2000 @@
+s1, 1, Loaded Servicing Stack <*> with Core: <*>
+s2, 2, <*> WcpInitialize <*> version <*> called (stack <*>
+s2, 3, <*> WcpInitialize <*> version <*> called (stack <*>
+s2, 4, <*> WcpInitialize <*> version <*> called (stack <*>
+s3, 5, Ending TrustedInstaller initialization.
+s4, 6, Starting the TrustedInstaller main loop.
+s5, 7, TrustedInstaller service starts successfully.
+s6, 8, SQM: Initializing online with Windows <?> <*>
+s7, 9, SQM: Cleaning up report files older than <*> days.
+s8, 10, SQM: Requesting upload of all unsent reports.
+s9, 11, SQM: Failed to start upload with file pattern: <*> flags: <*> <?> <*> E_FAIL]
+s10, 12, SQM: Failed to start standard sample upload. [HRESULT <?> <*> E_FAIL]
+s11, 13, SQM: Queued <*> file(s) for upload with pattern: <*> flags: <*>
+s12, 14, SQM: Warning: Failed to upload all unsent reports. [HRESULT <?> <*> E_FAIL]
+s13, 15, No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.
+s14, 16, NonStart: Checking to ensure startup processing was not required.
+s15, 17, <*> IAdvancedInstallerAwareStore_ResolvePendingTransactions (call <*> (flags <?> <*> progress <?> NULL, phase <?> <*> pdwDisposition <?> <*>
+s16, 18, <*> Creating NT transaction (seq <*> objectname <*>
+s17, 19, <*> Created NT transaction (seq <*> result <*> <*>
+s18, 20, <*> CSI perf trace:
+s19, 21, NonStart: Success, startup processing not required as expected.
+s20, 22, Startup processing thread terminated normally
+s21, 23, <*> CSI Store <*> <*>
+s22, 24, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 25, Session: <*> initialized by client WindowsUpdateAgent.
+s23, 26, Warning: Unrecognized packageExtended attribute.
+s24, 27, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 28, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 29, Warning: Unrecognized packageExtended attribute.
+s24, 30, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 31, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 32, Warning: Unrecognized packageExtended attribute.
+s24, 33, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 34, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 35, Warning: Unrecognized packageExtended attribute.
+s24, 36, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 37, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 38, Warning: Unrecognized packageExtended attribute.
+s23, 39, Warning: Unrecognized packageExtended attribute.
+s24, 40, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 41, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 42, Warning: Unrecognized packageExtended attribute.
+s24, 43, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 44, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 45, Warning: Unrecognized packageExtended attribute.
+s24, 46, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 47, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 48, Warning: Unrecognized packageExtended attribute.
+s24, 49, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 50, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 51, Warning: Unrecognized packageExtended attribute.
+s23, 52, Warning: Unrecognized packageExtended attribute.
+s24, 53, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 54, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 55, Warning: Unrecognized packageExtended attribute.
+s24, 56, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 57, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 58, Warning: Unrecognized packageExtended attribute.
+s24, 59, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 60, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 61, Warning: Unrecognized packageExtended attribute.
+s24, 62, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 63, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 64, Warning: Unrecognized packageExtended attribute.
+s23, 65, Warning: Unrecognized packageExtended attribute.
+s24, 66, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 67, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 68, Warning: Unrecognized packageExtended attribute.
+s24, 69, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 70, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 71, Warning: Unrecognized packageExtended attribute.
+s24, 72, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 73, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 74, Warning: Unrecognized packageExtended attribute.
+s24, 75, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 76, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 77, Warning: Unrecognized packageExtended attribute.
+s23, 78, Warning: Unrecognized packageExtended attribute.
+s24, 79, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 80, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 81, Warning: Unrecognized packageExtended attribute.
+s24, 82, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 83, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 84, Warning: Unrecognized packageExtended attribute.
+s24, 85, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 86, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 87, Warning: Unrecognized packageExtended attribute.
+s24, 88, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 89, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 90, Warning: Unrecognized packageExtended attribute.
+s23, 91, Warning: Unrecognized packageExtended attribute.
+s24, 92, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 93, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 94, Warning: Unrecognized packageExtended attribute.
+s24, 95, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 96, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 97, Warning: Unrecognized packageExtended attribute.
+s24, 98, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 99, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 100, Warning: Unrecognized packageExtended attribute.
+s24, 101, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 102, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 103, Warning: Unrecognized packageExtended attribute.
+s23, 104, Warning: Unrecognized packageExtended attribute.
+s24, 105, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 106, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 107, Warning: Unrecognized packageExtended attribute.
+s24, 108, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 109, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 110, Warning: Unrecognized packageExtended attribute.
+s24, 111, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 112, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 113, Warning: Unrecognized packageExtended attribute.
+s24, 114, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 115, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 116, Warning: Unrecognized packageExtended attribute.
+s23, 117, Warning: Unrecognized packageExtended attribute.
+s24, 118, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 119, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 120, Warning: Unrecognized packageExtended attribute.
+s24, 121, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 122, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 123, Warning: Unrecognized packageExtended attribute.
+s24, 124, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 125, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 126, Warning: Unrecognized packageExtended attribute.
+s24, 127, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 128, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 129, Warning: Unrecognized packageExtended attribute.
+s22, 130, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 131, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 132, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 133, Session: <*> initialized by client WindowsUpdateAgent.
+s23, 134, Warning: Unrecognized packageExtended attribute.
+s24, 135, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 136, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 137, Warning: Unrecognized packageExtended attribute.
+s24, 138, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 139, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 140, Warning: Unrecognized packageExtended attribute.
+s24, 141, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 142, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 143, Warning: Unrecognized packageExtended attribute.
+s24, 144, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 145, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 146, Warning: Unrecognized packageExtended attribute.
+s23, 147, Warning: Unrecognized packageExtended attribute.
+s24, 148, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 149, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 150, Warning: Unrecognized packageExtended attribute.
+s24, 151, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 152, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 153, Warning: Unrecognized packageExtended attribute.
+s24, 154, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 155, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 156, Warning: Unrecognized packageExtended attribute.
+s24, 157, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 158, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 159, Warning: Unrecognized packageExtended attribute.
+s23, 160, Warning: Unrecognized packageExtended attribute.
+s24, 161, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 162, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 163, Warning: Unrecognized packageExtended attribute.
+s24, 164, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 165, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 166, Warning: Unrecognized packageExtended attribute.
+s24, 167, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 168, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 169, Warning: Unrecognized packageExtended attribute.
+s24, 170, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 171, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 172, Warning: Unrecognized packageExtended attribute.
+s23, 173, Warning: Unrecognized packageExtended attribute.
+s24, 174, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 175, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 176, Warning: Unrecognized packageExtended attribute.
+s24, 177, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 178, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 179, Warning: Unrecognized packageExtended attribute.
+s24, 180, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 181, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 182, Warning: Unrecognized packageExtended attribute.
+s24, 183, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 184, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 185, Warning: Unrecognized packageExtended attribute.
+s23, 186, Warning: Unrecognized packageExtended attribute.
+s24, 187, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 188, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 189, Warning: Unrecognized packageExtended attribute.
+s24, 190, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 191, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 192, Warning: Unrecognized packageExtended attribute.
+s24, 193, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 194, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 195, Warning: Unrecognized packageExtended attribute.
+s24, 196, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 197, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 198, Warning: Unrecognized packageExtended attribute.
+s23, 199, Warning: Unrecognized packageExtended attribute.
+s24, 200, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 201, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 202, Warning: Unrecognized packageExtended attribute.
+s24, 203, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 204, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 205, Warning: Unrecognized packageExtended attribute.
+s24, 206, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 207, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 208, Warning: Unrecognized packageExtended attribute.
+s24, 209, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 210, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 211, Warning: Unrecognized packageExtended attribute.
+s23, 212, Warning: Unrecognized packageExtended attribute.
+s24, 213, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 214, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 215, Warning: Unrecognized packageExtended attribute.
+s24, 216, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 217, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 218, Warning: Unrecognized packageExtended attribute.
+s24, 219, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 220, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 221, Warning: Unrecognized packageExtended attribute.
+s24, 222, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 223, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 224, Warning: Unrecognized packageExtended attribute.
+s23, 225, Warning: Unrecognized packageExtended attribute.
+s24, 226, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 227, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 228, Warning: Unrecognized packageExtended attribute.
+s24, 229, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 230, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 231, Warning: Unrecognized packageExtended attribute.
+s24, 232, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 233, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 234, Warning: Unrecognized packageExtended attribute.
+s24, 235, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 236, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 237, Warning: Unrecognized packageExtended attribute.
+s22, 238, Session: <*> initialized by client WindowsUpdateAgent.
+s23, 239, Warning: Unrecognized packageExtended attribute.
+s24, 240, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 241, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 242, Warning: Unrecognized packageExtended attribute.
+s24, 243, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 244, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 245, Warning: Unrecognized packageExtended attribute.
+s24, 246, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 247, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 248, Warning: Unrecognized packageExtended attribute.
+s24, 249, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 250, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 251, Warning: Unrecognized packageExtended attribute.
+s23, 252, Warning: Unrecognized packageExtended attribute.
+s24, 253, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 254, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 255, Warning: Unrecognized packageExtended attribute.
+s24, 256, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 257, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 258, Warning: Unrecognized packageExtended attribute.
+s24, 259, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 260, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 261, Warning: Unrecognized packageExtended attribute.
+s24, 262, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 263, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 264, Warning: Unrecognized packageExtended attribute.
+s23, 265, Warning: Unrecognized packageExtended attribute.
+s24, 266, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 267, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 268, Warning: Unrecognized packageExtended attribute.
+s24, 269, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 270, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 271, Warning: Unrecognized packageExtended attribute.
+s24, 272, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 273, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 274, Warning: Unrecognized packageExtended attribute.
+s24, 275, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 276, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 277, Warning: Unrecognized packageExtended attribute.
+s23, 278, Warning: Unrecognized packageExtended attribute.
+s24, 279, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 280, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 281, Warning: Unrecognized packageExtended attribute.
+s24, 282, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 283, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 284, Warning: Unrecognized packageExtended attribute.
+s24, 285, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 286, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 287, Warning: Unrecognized packageExtended attribute.
+s24, 288, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 289, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 290, Warning: Unrecognized packageExtended attribute.
+s23, 291, Warning: Unrecognized packageExtended attribute.
+s24, 292, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 293, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 294, Warning: Unrecognized packageExtended attribute.
+s24, 295, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 296, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 297, Warning: Unrecognized packageExtended attribute.
+s24, 298, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 299, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 300, Warning: Unrecognized packageExtended attribute.
+s24, 301, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 302, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 303, Warning: Unrecognized packageExtended attribute.
+s23, 304, Warning: Unrecognized packageExtended attribute.
+s24, 305, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 306, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 307, Warning: Unrecognized packageExtended attribute.
+s24, 308, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 309, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 310, Warning: Unrecognized packageExtended attribute.
+s24, 311, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 312, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 313, Warning: Unrecognized packageExtended attribute.
+s24, 314, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 315, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 316, Warning: Unrecognized packageExtended attribute.
+s23, 317, Warning: Unrecognized packageExtended attribute.
+s24, 318, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 319, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 320, Warning: Unrecognized packageExtended attribute.
+s24, 321, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 322, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 323, Warning: Unrecognized packageExtended attribute.
+s24, 324, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 325, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 326, Warning: Unrecognized packageExtended attribute.
+s24, 327, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 328, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 329, Warning: Unrecognized packageExtended attribute.
+s23, 330, Warning: Unrecognized packageExtended attribute.
+s24, 331, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 332, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 333, Warning: Unrecognized packageExtended attribute.
+s24, 334, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 335, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 336, Warning: Unrecognized packageExtended attribute.
+s24, 337, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 338, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 339, Warning: Unrecognized packageExtended attribute.
+s24, 340, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 341, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 342, Warning: Unrecognized packageExtended attribute.
+s22, 343, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 344, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 345, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 346, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 347, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 348, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 349, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 350, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 351, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 352, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 353, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 354, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 355, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 356, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 357, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 358, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 359, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 360, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 361, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 362, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 363, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 364, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 365, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 366, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 367, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 368, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 369, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 370, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 371, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 372, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 373, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 374, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 375, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 376, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 377, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 378, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 379, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 380, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 381, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 382, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 383, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 384, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 385, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 386, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 387, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 388, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 389, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 390, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 391, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 392, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 393, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 394, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 395, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 396, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 397, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 398, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 399, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 400, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 401, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 402, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 403, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 404, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 405, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 406, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 407, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 408, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 409, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 410, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 411, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 412, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 413, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 414, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 415, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 416, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 417, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 418, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 419, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 420, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 421, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 422, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 423, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 424, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 425, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 426, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 427, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 428, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 429, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 430, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 431, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 432, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 433, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 434, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 435, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 436, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 437, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 438, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 439, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 440, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 441, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 442, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 443, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 444, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 445, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 446, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 447, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 448, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 449, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 450, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 451, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 452, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 453, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 454, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 455, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 456, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 457, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 458, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 459, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 460, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 461, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 462, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 463, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 464, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 465, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 466, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 467, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 468, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 469, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 470, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 471, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 472, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 473, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 474, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 475, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 476, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 477, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 478, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 479, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 480, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 481, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 482, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 483, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 484, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 485, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 486, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 487, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 488, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 489, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 490, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 491, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 492, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 493, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 494, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 495, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 496, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 497, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 498, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 499, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 500, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 501, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 502, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 503, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 504, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 505, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 506, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 507, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 508, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 509, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 510, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 511, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 512, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 513, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 514, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 515, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 516, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 517, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 518, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 519, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 520, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 521, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 522, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 523, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 524, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 525, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 526, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 527, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 528, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 529, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 530, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 531, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 532, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 533, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 534, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 535, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 536, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 537, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 538, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 539, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 540, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 541, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 542, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 543, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 544, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 545, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 546, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 547, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 548, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 549, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 550, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 551, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 552, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 553, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 554, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 555, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 556, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 557, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 558, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 559, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 560, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 561, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 562, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 563, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 564, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 565, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 566, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 567, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 568, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 569, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 570, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 571, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 572, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 573, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 574, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 575, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 576, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 577, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 578, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 579, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 580, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 581, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 582, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 583, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 584, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 585, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 586, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 587, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 588, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 589, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 590, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 591, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 592, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 593, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 594, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 595, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 596, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 597, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 598, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 599, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 600, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 601, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 602, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 603, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 604, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 605, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 606, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 607, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 608, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 609, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 610, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 611, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 612, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 613, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 614, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 615, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 616, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 617, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 618, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 619, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 620, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 621, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 622, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 623, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 624, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 625, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 626, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 627, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 628, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 629, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 630, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 631, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 632, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 633, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 634, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 635, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 636, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 637, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 638, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 639, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 640, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 641, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 642, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 643, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 644, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 645, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 646, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 647, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 648, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 649, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 650, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 651, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 652, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 653, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 654, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 655, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 656, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 657, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 658, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 659, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 660, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 661, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 662, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 663, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 664, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 665, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 666, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 667, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 668, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 669, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 670, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 671, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 672, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 673, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 674, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 675, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 676, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 677, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 678, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 679, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 680, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 681, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 682, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 683, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 684, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 685, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 686, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 687, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 688, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 689, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 690, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 691, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 692, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 693, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 694, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 695, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 696, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 697, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 698, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 699, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 700, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 701, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 702, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 703, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 704, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 705, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 706, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 707, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 708, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 709, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 710, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 711, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 712, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 713, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 714, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 715, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 716, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 717, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 718, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 719, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 720, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 721, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 722, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 723, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 724, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 725, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 726, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 727, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 728, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 729, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 730, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 731, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 732, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 733, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 734, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 735, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 736, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 737, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 738, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 739, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 740, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 741, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 742, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 743, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 744, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 745, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 746, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 747, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 748, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 749, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 750, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 751, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 752, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 753, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 754, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 755, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 756, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 757, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 758, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 759, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 760, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 761, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 762, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 763, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 764, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 765, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 766, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 767, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 768, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 769, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 770, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 771, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 772, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 773, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 774, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 775, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 776, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 777, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 778, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 779, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 780, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 781, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 782, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 783, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 784, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 785, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 786, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 787, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 788, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 789, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 790, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 791, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 792, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 793, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 794, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 795, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 796, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 797, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 798, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 799, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 800, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 801, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 802, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 803, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 804, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 805, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 806, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 807, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 808, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 809, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 810, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 811, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 812, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 813, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 814, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 815, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 816, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 817, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 818, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 819, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 820, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 821, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 822, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 823, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 824, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 825, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 826, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 827, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 828, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 829, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 830, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 831, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 832, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 833, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 834, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 835, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 836, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 837, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 838, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 839, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 840, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 841, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 842, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 843, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 844, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 845, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 846, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 847, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 848, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 849, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 850, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 851, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 852, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 853, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 854, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 855, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 856, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 857, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 858, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 859, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 860, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 861, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 862, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 863, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 864, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 865, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 866, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 867, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 868, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 869, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 870, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 871, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 872, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 873, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 874, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 875, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 876, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 877, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 878, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 879, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 880, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 881, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 882, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 883, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 884, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 885, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 886, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 887, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 888, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 889, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 890, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 891, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 892, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 893, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 894, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 895, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 896, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 897, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 898, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 899, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 900, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 901, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 902, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 903, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 904, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 905, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 906, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 907, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 908, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 909, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 910, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 911, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 912, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 913, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 914, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 915, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 916, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 917, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 918, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 919, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 920, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 921, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 922, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 923, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 924, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 925, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 926, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 927, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 928, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 929, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 930, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 931, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 932, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 933, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 934, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 935, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s28, 936, Failed to create backup log cab. [HRESULT <?> <*> ERROR_INVALID_FUNCTION]
+s29, 937, Reboot mark refs incremented to: <*>
+s30, 938, Scavenge: Starts
+s31, 939, <*> CSI Transaction <*> for deployment engine <?> with flags <*> and client id <*>
+s32, 940, Scavenge: Begin CSI Store
+s33, 941, 0000000a Performing <*> operations; <*> are not <*> and follow:
+s34, 942, 0000000b Store coherency cookie matches last scavenge cookie, skipping scavenge.
+s35, 943, 0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply <?> <?> <*>
+s36, 944, 0000000d Creating NT transaction (seq <*> objectname <*>
+s37, 945, 0000000e Created NT transaction (seq <*> result <*> <*>
+s38, 946, <*> CSI perf trace:
+s39, 947, Scavenge: Completed, disposition: <*>
+s40, 948, <*> CSI Transaction <*>
+s41, 949, Reboot mark refs: <*>
+s42, 950, Idle processing thread terminated normally
+s43, 951, Ending the TrustedInstaller main loop.
+s44, 952, Starting TrustedInstaller finalization.
+s45, 953, Ending TrustedInstaller finalization.
+s46, 954, Starting TrustedInstaller initialization.
+s1, 955, Loaded Servicing Stack <*> with Core: <*>
+s2, 956, <*> WcpInitialize <*> version <*> called (stack <*>
+s2, 957, <*> WcpInitialize <*> version <*> called (stack <*>
+s2, 958, <*> WcpInitialize <*> version <*> called (stack <*>
+s3, 959, Ending TrustedInstaller initialization.
+s4, 960, Starting the TrustedInstaller main loop.
+s5, 961, TrustedInstaller service starts successfully.
+s6, 962, SQM: Initializing online with Windows <?> <*>
+s7, 963, SQM: Cleaning up report files older than <*> days.
+s8, 964, SQM: Requesting upload of all unsent reports.
+s9, 965, SQM: Failed to start upload with file pattern: <*> flags: <*> <?> <*> E_FAIL]
+s10, 966, SQM: Failed to start standard sample upload. [HRESULT <?> <*> E_FAIL]
+s11, 967, SQM: Queued <*> file(s) for upload with pattern: <*> flags: <*>
+s12, 968, SQM: Warning: Failed to upload all unsent reports. [HRESULT <?> <*> E_FAIL]
+s13, 969, No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.
+s14, 970, NonStart: Checking to ensure startup processing was not required.
+s15, 971, <*> IAdvancedInstallerAwareStore_ResolvePendingTransactions (call <*> (flags <?> <*> progress <?> NULL, phase <?> <*> pdwDisposition <?> <*>
+s16, 972, <*> Creating NT transaction (seq <*> objectname <*>
+s17, 973, <*> Created NT transaction (seq <*> result <*> <*>
+s18, 974, <*> CSI perf trace:
+s19, 975, NonStart: Success, startup processing not required as expected.
+s20, 976, Startup processing thread terminated normally
+s47, 977, Loading offline registry hive: SOFTWARE, into registry key <*> from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SOFTWARE'.
+s48, 978, Loading offline registry hive: SYSTEM, into registry key <*> from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SYSTEM'.
+s49, 979, Loading offline registry hive: SECURITY, into registry key <*> from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SECURITY'.
+s50, 980, Loading offline registry hive: SAM, into registry key <*> from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SAM'.
+s51, 981, Loading offline registry hive: COMPONENTS, into registry key <*> from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\COMPONENTS'.
+s52, 982, Loading offline registry hive: DEFAULT, into registry key <*> from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\DEFAULT'.
+s53, 983, Loading offline registry hive: <*> into registry key <*> from path <*>
+s53, 984, Loading offline registry hive: <*> into registry key <*> from path <*>
+s54, 985, Offline image is: <?>
+s55, 986, Disabling manifest caching, because the image is not writeable.
+s56, 987, <*> PopulateComponentFamiliesKey <?> Begin
+s57, 988, <*> PopulateComponentFamiliesKey <?> End
+s58, 989, 0000000a CSI Store <*> <*>
+s59, 990, Session: <*> initialized by client SPP.
+s23, 991, Warning: Unrecognized packageExtended attribute.
+s24, 992, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 993, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 994, Warning: Unrecognized packageExtended attribute.
+s24, 995, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 996, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 997, Warning: Unrecognized packageExtended attribute.
+s24, 998, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 999, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1000, Warning: Unrecognized packageExtended attribute.
+s24, 1001, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1002, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1003, Warning: Unrecognized packageExtended attribute.
+s23, 1004, Warning: Unrecognized packageExtended attribute.
+s24, 1005, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1006, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1007, Warning: Unrecognized packageExtended attribute.
+s24, 1008, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1009, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1010, Warning: Unrecognized packageExtended attribute.
+s24, 1011, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1012, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1013, Warning: Unrecognized packageExtended attribute.
+s24, 1014, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1015, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1016, Warning: Unrecognized packageExtended attribute.
+s23, 1017, Warning: Unrecognized packageExtended attribute.
+s24, 1018, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1019, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1020, Warning: Unrecognized packageExtended attribute.
+s24, 1021, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1022, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1023, Warning: Unrecognized packageExtended attribute.
+s24, 1024, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1025, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1026, Warning: Unrecognized packageExtended attribute.
+s24, 1027, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1028, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1029, Warning: Unrecognized packageExtended attribute.
+s23, 1030, Warning: Unrecognized packageExtended attribute.
+s24, 1031, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1032, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1033, Warning: Unrecognized packageExtended attribute.
+s24, 1034, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1035, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1036, Warning: Unrecognized packageExtended attribute.
+s24, 1037, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1038, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1039, Warning: Unrecognized packageExtended attribute.
+s24, 1040, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1041, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1042, Warning: Unrecognized packageExtended attribute.
+s23, 1043, Warning: Unrecognized packageExtended attribute.
+s24, 1044, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1045, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1046, Warning: Unrecognized packageExtended attribute.
+s24, 1047, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1048, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1049, Warning: Unrecognized packageExtended attribute.
+s24, 1050, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1051, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1052, Warning: Unrecognized packageExtended attribute.
+s24, 1053, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1054, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1055, Warning: Unrecognized packageExtended attribute.
+s23, 1056, Warning: Unrecognized packageExtended attribute.
+s24, 1057, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1058, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1059, Warning: Unrecognized packageExtended attribute.
+s24, 1060, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1061, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1062, Warning: Unrecognized packageExtended attribute.
+s24, 1063, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1064, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1065, Warning: Unrecognized packageExtended attribute.
+s24, 1066, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1067, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1068, Warning: Unrecognized packageExtended attribute.
+s23, 1069, Warning: Unrecognized packageExtended attribute.
+s24, 1070, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1071, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1072, Warning: Unrecognized packageExtended attribute.
+s24, 1073, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1074, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1075, Warning: Unrecognized packageExtended attribute.
+s24, 1076, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1077, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1078, Warning: Unrecognized packageExtended attribute.
+s24, 1079, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1080, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1081, Warning: Unrecognized packageExtended attribute.
+s23, 1082, Warning: Unrecognized packageExtended attribute.
+s24, 1083, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1084, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1085, Warning: Unrecognized packageExtended attribute.
+s24, 1086, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1087, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1088, Warning: Unrecognized packageExtended attribute.
+s24, 1089, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1090, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1091, Warning: Unrecognized packageExtended attribute.
+s24, 1092, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1093, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1094, Warning: Unrecognized packageExtended attribute.
+s60, 1095, Unloading offline registry hive: <*>
+s60, 1096, Unloading offline registry hive: <*>
+s60, 1097, Unloading offline registry hive: <*>
+s60, 1098, Unloading offline registry hive: <*>
+s60, 1099, Unloading offline registry hive: <*>
+s60, 1100, Unloading offline registry hive: <*>
+s60, 1101, Unloading offline registry hive: <*>
+s60, 1102, Unloading offline registry hive: <*>
+s28, 1103, Failed to create backup log cab. [HRESULT <?> <*> ERROR_INVALID_FUNCTION]
+s61, 1104, 0000000b CSI Store <*> <*>
+s22, 1105, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1106, Session: <*> initialized by client WindowsUpdateAgent.
+s23, 1107, Warning: Unrecognized packageExtended attribute.
+s24, 1108, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1109, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1110, Warning: Unrecognized packageExtended attribute.
+s24, 1111, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1112, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1113, Warning: Unrecognized packageExtended attribute.
+s24, 1114, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1115, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1116, Warning: Unrecognized packageExtended attribute.
+s24, 1117, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1118, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1119, Warning: Unrecognized packageExtended attribute.
+s23, 1120, Warning: Unrecognized packageExtended attribute.
+s24, 1121, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1122, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1123, Warning: Unrecognized packageExtended attribute.
+s24, 1124, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1125, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1126, Warning: Unrecognized packageExtended attribute.
+s24, 1127, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1128, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1129, Warning: Unrecognized packageExtended attribute.
+s24, 1130, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1131, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1132, Warning: Unrecognized packageExtended attribute.
+s23, 1133, Warning: Unrecognized packageExtended attribute.
+s24, 1134, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1135, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1136, Warning: Unrecognized packageExtended attribute.
+s24, 1137, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1138, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1139, Warning: Unrecognized packageExtended attribute.
+s24, 1140, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1141, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1142, Warning: Unrecognized packageExtended attribute.
+s24, 1143, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1144, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1145, Warning: Unrecognized packageExtended attribute.
+s23, 1146, Warning: Unrecognized packageExtended attribute.
+s24, 1147, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1148, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1149, Warning: Unrecognized packageExtended attribute.
+s24, 1150, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1151, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1152, Warning: Unrecognized packageExtended attribute.
+s24, 1153, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1154, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1155, Warning: Unrecognized packageExtended attribute.
+s24, 1156, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1157, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1158, Warning: Unrecognized packageExtended attribute.
+s23, 1159, Warning: Unrecognized packageExtended attribute.
+s24, 1160, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1161, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1162, Warning: Unrecognized packageExtended attribute.
+s24, 1163, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1164, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1165, Warning: Unrecognized packageExtended attribute.
+s24, 1166, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1167, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1168, Warning: Unrecognized packageExtended attribute.
+s24, 1169, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1170, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1171, Warning: Unrecognized packageExtended attribute.
+s23, 1172, Warning: Unrecognized packageExtended attribute.
+s24, 1173, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1174, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1175, Warning: Unrecognized packageExtended attribute.
+s24, 1176, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1177, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1178, Warning: Unrecognized packageExtended attribute.
+s24, 1179, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1180, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1181, Warning: Unrecognized packageExtended attribute.
+s24, 1182, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1183, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1184, Warning: Unrecognized packageExtended attribute.
+s23, 1185, Warning: Unrecognized packageExtended attribute.
+s24, 1186, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1187, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1188, Warning: Unrecognized packageExtended attribute.
+s24, 1189, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1190, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1191, Warning: Unrecognized packageExtended attribute.
+s24, 1192, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1193, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1194, Warning: Unrecognized packageExtended attribute.
+s24, 1195, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1196, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1197, Warning: Unrecognized packageExtended attribute.
+s23, 1198, Warning: Unrecognized packageExtended attribute.
+s24, 1199, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1200, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1201, Warning: Unrecognized packageExtended attribute.
+s24, 1202, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1203, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1204, Warning: Unrecognized packageExtended attribute.
+s24, 1205, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1206, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1207, Warning: Unrecognized packageExtended attribute.
+s24, 1208, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1209, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1210, Warning: Unrecognized packageExtended attribute.
+s22, 1211, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 1212, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 1213, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1214, Session: <*> initialized by client WindowsUpdateAgent.
+s23, 1215, Warning: Unrecognized packageExtended attribute.
+s24, 1216, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1217, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1218, Warning: Unrecognized packageExtended attribute.
+s24, 1219, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1220, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1221, Warning: Unrecognized packageExtended attribute.
+s24, 1222, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1223, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1224, Warning: Unrecognized packageExtended attribute.
+s24, 1225, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1226, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1227, Warning: Unrecognized packageExtended attribute.
+s23, 1228, Warning: Unrecognized packageExtended attribute.
+s24, 1229, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1230, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1231, Warning: Unrecognized packageExtended attribute.
+s24, 1232, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1233, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1234, Warning: Unrecognized packageExtended attribute.
+s24, 1235, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1236, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1237, Warning: Unrecognized packageExtended attribute.
+s24, 1238, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1239, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1240, Warning: Unrecognized packageExtended attribute.
+s23, 1241, Warning: Unrecognized packageExtended attribute.
+s24, 1242, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1243, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1244, Warning: Unrecognized packageExtended attribute.
+s24, 1245, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1246, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1247, Warning: Unrecognized packageExtended attribute.
+s24, 1248, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1249, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1250, Warning: Unrecognized packageExtended attribute.
+s24, 1251, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1252, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1253, Warning: Unrecognized packageExtended attribute.
+s23, 1254, Warning: Unrecognized packageExtended attribute.
+s24, 1255, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1256, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1257, Warning: Unrecognized packageExtended attribute.
+s24, 1258, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1259, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1260, Warning: Unrecognized packageExtended attribute.
+s24, 1261, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1262, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1263, Warning: Unrecognized packageExtended attribute.
+s24, 1264, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1265, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1266, Warning: Unrecognized packageExtended attribute.
+s23, 1267, Warning: Unrecognized packageExtended attribute.
+s24, 1268, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1269, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1270, Warning: Unrecognized packageExtended attribute.
+s24, 1271, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1272, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1273, Warning: Unrecognized packageExtended attribute.
+s24, 1274, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1275, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1276, Warning: Unrecognized packageExtended attribute.
+s24, 1277, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1278, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1279, Warning: Unrecognized packageExtended attribute.
+s23, 1280, Warning: Unrecognized packageExtended attribute.
+s24, 1281, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1282, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1283, Warning: Unrecognized packageExtended attribute.
+s24, 1284, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1285, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1286, Warning: Unrecognized packageExtended attribute.
+s24, 1287, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1288, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1289, Warning: Unrecognized packageExtended attribute.
+s24, 1290, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1291, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1292, Warning: Unrecognized packageExtended attribute.
+s23, 1293, Warning: Unrecognized packageExtended attribute.
+s24, 1294, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1295, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1296, Warning: Unrecognized packageExtended attribute.
+s24, 1297, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1298, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1299, Warning: Unrecognized packageExtended attribute.
+s24, 1300, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1301, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1302, Warning: Unrecognized packageExtended attribute.
+s24, 1303, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1304, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1305, Warning: Unrecognized packageExtended attribute.
+s23, 1306, Warning: Unrecognized packageExtended attribute.
+s24, 1307, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1308, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1309, Warning: Unrecognized packageExtended attribute.
+s24, 1310, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1311, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1312, Warning: Unrecognized packageExtended attribute.
+s24, 1313, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1314, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1315, Warning: Unrecognized packageExtended attribute.
+s24, 1316, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1317, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1318, Warning: Unrecognized packageExtended attribute.
+s22, 1319, Session: <*> initialized by client WindowsUpdateAgent.
+s23, 1320, Warning: Unrecognized packageExtended attribute.
+s24, 1321, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1322, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1323, Warning: Unrecognized packageExtended attribute.
+s24, 1324, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1325, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1326, Warning: Unrecognized packageExtended attribute.
+s24, 1327, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1328, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1329, Warning: Unrecognized packageExtended attribute.
+s24, 1330, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1331, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1332, Warning: Unrecognized packageExtended attribute.
+s23, 1333, Warning: Unrecognized packageExtended attribute.
+s24, 1334, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1335, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1336, Warning: Unrecognized packageExtended attribute.
+s24, 1337, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1338, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1339, Warning: Unrecognized packageExtended attribute.
+s24, 1340, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1341, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1342, Warning: Unrecognized packageExtended attribute.
+s24, 1343, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1344, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1345, Warning: Unrecognized packageExtended attribute.
+s23, 1346, Warning: Unrecognized packageExtended attribute.
+s24, 1347, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1348, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1349, Warning: Unrecognized packageExtended attribute.
+s24, 1350, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1351, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1352, Warning: Unrecognized packageExtended attribute.
+s24, 1353, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1354, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1355, Warning: Unrecognized packageExtended attribute.
+s24, 1356, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1357, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1358, Warning: Unrecognized packageExtended attribute.
+s23, 1359, Warning: Unrecognized packageExtended attribute.
+s24, 1360, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1361, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1362, Warning: Unrecognized packageExtended attribute.
+s24, 1363, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1364, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1365, Warning: Unrecognized packageExtended attribute.
+s24, 1366, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1367, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1368, Warning: Unrecognized packageExtended attribute.
+s24, 1369, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1370, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1371, Warning: Unrecognized packageExtended attribute.
+s23, 1372, Warning: Unrecognized packageExtended attribute.
+s24, 1373, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1374, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1375, Warning: Unrecognized packageExtended attribute.
+s24, 1376, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1377, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1378, Warning: Unrecognized packageExtended attribute.
+s24, 1379, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1380, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1381, Warning: Unrecognized packageExtended attribute.
+s24, 1382, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1383, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1384, Warning: Unrecognized packageExtended attribute.
+s23, 1385, Warning: Unrecognized packageExtended attribute.
+s24, 1386, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1387, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1388, Warning: Unrecognized packageExtended attribute.
+s24, 1389, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1390, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1391, Warning: Unrecognized packageExtended attribute.
+s24, 1392, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1393, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1394, Warning: Unrecognized packageExtended attribute.
+s24, 1395, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1396, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1397, Warning: Unrecognized packageExtended attribute.
+s23, 1398, Warning: Unrecognized packageExtended attribute.
+s24, 1399, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1400, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1401, Warning: Unrecognized packageExtended attribute.
+s24, 1402, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1403, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1404, Warning: Unrecognized packageExtended attribute.
+s24, 1405, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1406, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1407, Warning: Unrecognized packageExtended attribute.
+s24, 1408, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1409, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1410, Warning: Unrecognized packageExtended attribute.
+s23, 1411, Warning: Unrecognized packageExtended attribute.
+s24, 1412, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1413, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1414, Warning: Unrecognized packageExtended attribute.
+s24, 1415, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1416, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1417, Warning: Unrecognized packageExtended attribute.
+s24, 1418, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1419, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1420, Warning: Unrecognized packageExtended attribute.
+s24, 1421, Expecting attribute name [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s25, 1422, Failed to get next element [HRESULT <?> <*> CBS_E_MANIFEST_INVALID_ITEM]
+s23, 1423, Warning: Unrecognized packageExtended attribute.
+s22, 1424, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 1425, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 1426, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 1427, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 1428, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 1429, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 1430, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 1431, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 1432, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 1433, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 1434, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 1435, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 1436, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 1437, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 1438, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1439, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1440, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1441, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1442, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1443, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1444, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1445, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1446, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1447, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1448, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1449, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1450, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1451, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1452, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1453, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1454, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1455, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1456, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1457, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1458, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1459, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1460, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1461, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1462, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1463, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1464, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1465, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1466, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1467, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1468, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1469, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1470, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1471, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1472, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1473, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1474, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1475, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1476, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1477, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1478, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1479, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1480, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1481, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1482, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1483, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1484, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1485, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1486, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1487, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1488, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1489, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1490, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1491, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1492, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1493, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1494, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1495, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1496, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1497, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1498, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1499, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1500, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1501, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1502, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1503, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1504, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1505, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1506, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1507, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1508, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1509, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1510, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1511, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1512, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1513, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1514, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1515, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1516, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1517, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1518, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1519, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1520, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1521, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1522, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1523, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1524, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1525, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1526, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1527, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1528, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1529, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1530, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1531, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1532, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1533, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1534, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1535, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1536, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1537, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1538, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1539, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1540, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1541, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1542, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1543, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1544, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1545, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1546, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1547, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1548, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1549, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1550, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1551, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1552, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1553, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1554, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1555, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1556, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1557, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1558, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1559, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1560, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1561, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1562, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1563, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1564, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1565, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1566, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1567, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1568, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1569, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1570, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1571, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1572, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1573, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1574, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1575, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1576, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1577, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1578, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1579, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1580, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1581, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1582, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1583, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1584, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1585, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1586, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1587, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1588, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1589, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1590, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1591, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1592, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1593, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1594, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1595, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1596, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1597, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1598, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1599, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1600, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1601, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1602, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1603, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1604, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1605, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1606, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1607, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1608, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1609, Session: <*> initialized by client WindowsUpdateAgent.
+s26, 1610, Failed to internally open package. [HRESULT <?> <*> CBS_E_INVALID_PACKAGE]
+s22, 1611, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1612, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1613, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1614, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1615, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1616, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1617, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1618, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1619, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1620, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1621, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1622, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1623, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1624, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1625, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1626, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1627, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1628, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1629, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1630, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1631, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1632, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1633, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1634, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1635, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1636, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1637, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1638, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1639, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1640, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1641, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1642, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1643, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1644, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1645, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1646, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1647, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1648, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1649, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1650, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1651, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1652, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1653, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1654, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1655, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1656, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1657, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1658, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1659, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1660, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1661, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1662, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1663, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1664, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1665, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1666, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1667, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1668, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1669, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1670, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1671, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1672, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1673, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1674, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1675, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1676, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1677, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1678, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1679, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1680, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1681, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1682, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1683, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1684, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1685, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1686, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1687, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1688, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1689, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1690, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1691, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1692, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1693, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1694, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1695, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1696, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1697, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1698, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1699, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1700, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1701, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1702, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1703, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1704, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1705, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1706, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1707, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1708, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1709, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1710, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1711, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1712, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1713, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1714, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1715, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1716, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1717, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1718, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1719, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1720, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1721, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1722, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1723, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1724, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1725, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1726, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1727, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1728, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1729, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1730, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1731, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1732, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1733, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1734, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1735, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1736, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1737, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1738, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1739, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1740, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1741, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1742, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1743, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1744, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1745, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1746, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1747, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1748, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1749, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1750, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1751, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1752, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1753, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1754, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1755, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1756, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1757, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1758, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1759, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1760, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1761, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1762, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1763, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1764, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1765, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1766, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1767, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1768, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1769, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1770, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1771, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1772, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1773, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1774, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1775, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1776, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1777, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1778, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1779, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1780, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1781, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1782, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1783, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1784, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1785, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1786, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1787, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1788, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1789, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1790, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1791, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1792, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1793, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1794, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1795, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1796, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1797, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1798, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1799, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1800, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1801, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1802, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1803, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1804, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1805, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1806, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1807, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1808, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1809, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1810, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1811, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1812, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1813, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1814, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1815, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1816, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1817, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1818, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1819, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1820, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1821, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1822, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1823, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1824, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1825, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1826, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1827, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1828, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1829, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1830, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1831, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1832, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1833, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1834, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1835, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1836, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1837, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1838, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1839, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1840, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1841, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1842, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1843, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1844, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1845, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1846, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1847, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1848, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1849, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1850, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1851, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1852, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1853, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1854, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1855, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1856, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1857, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1858, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1859, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1860, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1861, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1862, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1863, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1864, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1865, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1866, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1867, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1868, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1869, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1870, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1871, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1872, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1873, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1874, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1875, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1876, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1877, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1878, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1879, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1880, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1881, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1882, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1883, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1884, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1885, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1886, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1887, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1888, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1889, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1890, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1891, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1892, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1893, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1894, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1895, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1896, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1897, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1898, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1899, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1900, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1901, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1902, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1903, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1904, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1905, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1906, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1907, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1908, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1909, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1910, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1911, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1912, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1913, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1914, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1915, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1916, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1917, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1918, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1919, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1920, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1921, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1922, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1923, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1924, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1925, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1926, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1927, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1928, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1929, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1930, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1931, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1932, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1933, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1934, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1935, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1936, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1937, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1938, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1939, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1940, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1941, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1942, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1943, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1944, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1945, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1946, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1947, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1948, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1949, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1950, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1951, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1952, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1953, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1954, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1955, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1956, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1957, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1958, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1959, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1960, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1961, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1962, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1963, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1964, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1965, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1966, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1967, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1968, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1969, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1970, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1971, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1972, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1973, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1974, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1975, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1976, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1977, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1978, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1979, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1980, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1981, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1982, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1983, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1984, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1985, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1986, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1987, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1988, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1989, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1990, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1991, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1992, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1993, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1994, Session: <*> initialized by client WindowsUpdateAgent.
+s22, 1995, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1996, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1997, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 1998, Read out cached package applicability for package: <*> ApplicableState: <*> <*>
+s22, 1999, Session: <*> initialized by client WindowsUpdateAgent.
+s27, 2000, Read out cached package applicability for package: <*> ApplicableState: <*> <*>

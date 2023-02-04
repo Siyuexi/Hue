@@ -1,0 +1,45 @@
+EventId,EventTemplate,Occurrences
+86757490,Processed session termination for sessionid <*>,47
+31bdce23,Connection request from old client ; will be dropped if server is in r-o mode,39
+11b247b3,Notification <*> (n.leader) <*> (n.zxid) <*> (n.round) <*> (n.state) <*> (n.sid) <*> (n.peerEPoch) <*> (my state),12
+85394710,Got user-level KeeperException when processing sessionid 0x34ed93485090001 type create cxid 0x55b8bb0f zxid 0x100000010 txntype -1 reqpath n/a Error Path /home/curi/.zookeeper Error KeeperErrorCode NodeExists for /home/curi/.zookeeper,1
+00078e14,LOOKING,4
+c172d526,FOLLOWING,2
+663a6d5a,Received connection request,299
+e9225b3a,******* GOODBYE ********,19
+3ca44635,Revalidating client <*>,3
+d459c04c,Starting quorum peer,1
+9cb3def4,First is 0x0,1
+a9459b27,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084,1
+cb66604c,Notification time out <*>,37
+7a2ec7d0,Send worker leaving thread,262
+d6afa32e,Accepted socket connection from,48
+54cb9693,Server environment <*> <*>,7
+ee5abedc,My election bind port,1
+331b4187,<*> set to <*>,8
+e5802811,Snapshotting 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,1
+62b848d3,Snapshotting 0x50000062e to /var/lib/zookeeper/version-2/snapshot.50000062e,1
+ecefe136,caught end of stream exception,37
+b29376b2,Server environment java.vendor Oracle Corporation,2
+3581cf8c,Follower sid 3 info org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,1
+c7ef5ae9,shutdown of request processor complete,1
+4c5926a1,Getting a snapshot from leader,2
+45a3ec5d,Interrupted while waiting for message on queue,314
+0425aab9,Client attempting to <*> <*> <*> at,44
+f8c6d06b,Expiring session <*> timeout of <*> exceeded,40
+a1237171,FOLLOWING - LEADER ELECTION TOOK - <*>,2
+5a503d0b,Cannot open channel to <*> at election address,86
+a34c9763,New election. My id 1 proposed zxid 0x700000000,1
+0cf47064,Unexpected exception causing shutdown while sock still open,12
+495b290d,Connection broken for id <*> my id <*> error,291
+af5d070c,Closed socket connection for client which had sessionid <*>,44
+7d52b44f,Established session <*> with negotiated timeout <*> for client,50
+4e1011a6,Have smaller server identifier so dropping the connection (2 1),1
+27abbd8d,Server environment zookeeper.version 3.4.5--1 built on 06/10/2013 17 26 GMT,1
+ee015cf3,Closed socket connection for client (no session established for client),4
+a4f8027c,Exception causing close of session 0x0 due to java.io.IOException ZooKeeperServer not running,3
+7ec47079,Server environment java.class.path /etc/zookeeper/conf /usr/share/java/jline.jar /usr/share/java/log4j-1.2.jar /usr/share/java/xercesImpl.jar /usr/share/java/xmlParserAPIs.jar /usr/share/java/netty.jar /usr/share/java/slf4j-api.jar /usr/share/java/slf4j-log4j12.jar /usr/share/java/zookeeper.jar,1
+cc0d06c4,Have quorum of supporters; starting up and setting last processed zxid 0xb00000000,1
+273e53f2,Interrupting SendWorker,266
+029a7bf2,Unexpected Exception,1
+9d86801d,Sending DIFF,1

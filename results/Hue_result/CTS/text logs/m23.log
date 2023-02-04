@@ -1,0 +1,22 @@
+symbol: m23
+identifier: delete rui user all Error: command found at '^' position
+659,
+|| delete rui user all
+||   ^
+||Error: command found at '^' position
+865,
+|| delete rui user all
+||   ^
+||Error: command found at '^' position
+873,
+|| delete rui user all
+||   ^
+||Error: command found at '^' position
+878,
+|| delete rui user all
+||   ^
+||Error: command found at '^' position
+1544,
+|| delete rui user all
+||   ^
+||Error: command found at '^' position

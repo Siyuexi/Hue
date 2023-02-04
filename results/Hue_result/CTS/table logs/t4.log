@@ -1,0 +1,12 @@
+symbol: t4
+identifier: LCR9S9KXL231L (Slot)I3vpn capacity enhance enable
+71,
+LCR959GRAD0Q,--,400,NetEngine9000,500M,Upgrade,to,10G,Port,Enable,RTU,(per,500M),
+LCR959GRAD0Q,Resource,400,NetEngine9000,500M,Upgrade,to,10G,Port,Enable,RTU,(per,500M),
+LCR9S7KXL4V1L,(License)active,port-I3vpn,slot,<slot-id>,card,<card-id>,port,<port-list>,
+LCR9S8KXL5V1L,(License)active,port-I3vpn,slot,<slot-id>,card,<card-id>,port,<port-list>,
+962,
+LCR959GRAD0Q,--,401,NetEngine9000,500M,Upgrade,to,10G,Port,Enable,RTU,(per,500M),
+LCR959GRAD0Q,Resource,401,NetEngine9000,500M,Upgrade,to,10G,Port,Enable,RTU,(per,500M),
+LCR9S7KXL4V1L,(License)active,port-I3vpn,slot,<slot-id>,card,<card-id>,port,<port-list>,
+LCR9S8KXL5V1L,(License)active,port-I3vpn,slot,<slot-id>,card,<card-id>,port,<port-list>,

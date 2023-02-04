@@ -1,0 +1,3 @@
+symbol: s35
+template: 0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply <?> <?> <*>
+943,-,coldpatching=FALSE,applyflags=7,

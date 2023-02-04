@@ -1,0 +1,15 @@
+EventId,EventTemplate,Occurrences
+be5f008c,PacketResponder <*> for block terminating,311
+26ae4ce0,BLOCK* NameSystem.allocateBlock <*>,115
+8af8295d,Verification succeeded for,20
+83f566ef,BLOCK* ask to delete,5
+adb8aa1f,Receiving block src / dest /,292
+feb61af9,Got exception while serving to /,80
+9d7e930c,Received block of size <*> from /,292
+3baf76de,BLOCK* NameSystem.delete is added to invalidSet of,224
+d4e8dd53,BLOCK* NameSystem.addStoredBlock blockMap updated is added to size <*>,314
+56976721,Received block src / dest / of size 67108864,2
+04f18fa6,Deleting block file <*>,263
+77a0252d,Served block to /,80
+034a4132,Starting thread to transfer block to,1
+d8860e14,BLOCK* ask to replicate to datanode(s),1

@@ -1,0 +1,6 @@
+symbol: s51
+template: securityd_xpc_dictionary_handler <*> copy_matching Error <?> <*> "query missing class name" (paramErr: error in user parameter list) <?> missing class name}
+93,cloudd[326],Domain=NSOSStatusErrorDomain,Code=-50,UserInfo={NSDescription=query,
+1867,cloudd[326],Domain=NSOSStatusErrorDomain,Code=-50,UserInfo={NSDescription=query,
+1870,cloudd[326],Domain=NSOSStatusErrorDomain,Code=-50,UserInfo={NSDescription=query,
+1979,cloudd[326],Domain=NSOSStatusErrorDomain,Code=-50,UserInfo={NSDescription=query,

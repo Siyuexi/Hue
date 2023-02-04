@@ -1,0 +1,3 @@
+symbol: s103
+template: [IOBluetoothFamily][staticBluetoothTransportShowsUp] <?> Received Bluetooth Controller register service notification <?> <*>
+223,--,--,0x7000,

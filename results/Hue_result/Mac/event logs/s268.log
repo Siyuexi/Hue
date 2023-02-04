@@ -1,0 +1,3 @@
+symbol: s268
+template: CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+1271,1499295963.492254,,=,RoamFail:sts:1_rsn:1,

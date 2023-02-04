@@ -1,0 +1,12 @@
+symbol: s8
+template: mkdir: cannot create directory <*> File exists
+8,'/home/user/results/job1':,
+203,'/home/user/results':,
+204,'/home/user/results/job3':,
+205,'/home/user/results/job2':,
+206,'/home/user/results/job1':,
+901,'/home/user/results/job1':,
+1127,'/home/user9/results':,
+1128,'/home/user9/results/job3':,
+1129,'/home/user9/results/job2':,
+1130,'/home/user9/results/job1':,

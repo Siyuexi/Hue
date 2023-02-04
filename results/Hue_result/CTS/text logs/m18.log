@@ -1,0 +1,14 @@
+symbol: m18
+identifier: Y Warning: Some warnings or configuration dofferences occurred in the last rollback. Continue? <*>
+272,[Y/N]:,
+|| Y
+||Warning: Some warnings or configuration dofferences occurred in the last rollback. Continue? [Y/N]:
+275,[Y/N]:,
+|| Y
+||Warning: Some warnings or configuration dofferences occurred in the last rollback. Continue? [Y/N]:
+1197,[Y/N]:,
+|| Y
+||Warning: Some warnings or configuration dofferences occurred in the last rollback. Continue? [Y/N]:
+1200,[Y/N]:,
+|| Y
+||Warning: Some warnings or configuration dofferences occurred in the last rollback. Continue? [Y/N]:

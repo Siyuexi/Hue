@@ -1,0 +1,3 @@
+symbol: s38
+template: Follower sid: <*> : info : <*>
+1380,3,org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,

@@ -1,0 +1,4 @@
+symbol: s87
+template: not allocating divert_blk for <*> device <*>
+1304,non-ethernet,lo,
+1463,non-ethernet,sit0,

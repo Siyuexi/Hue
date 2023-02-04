@@ -1,0 +1,59 @@
+EventId,EventTemplate,Occurrences
+868b7c11,Registered signal handlers for [TERM HUP INT],1
+e44841ee,Changing <*> acls to yarn curi,4
+1750d225,SecurityManager authentication disabled; ui acls disabled; users with view permissions Set(yarn curi); users with modify permissions Set(yarn curi),2
+b923f8c3,Slf4jLogger started,1
+e99571c6,Starting remoting,1
+a466d131,Remoting started; listening on addresses [akka.tcp //sparkExecutorActorSystem@mesos-slave-07 55904],1
+f5a68e94,Successfully started service <*> on port <*>,2
+9ffef012,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,1
+8c093329,MemoryStore started with capacity 17.7 <*>,1
+7bd83845,Connecting to driver spark //CoarseGrainedScheduler@<*> 48069,1
+5a5c5838,Successfully registered with driver,1
+508e4f7f,Starting executor ID 5 on host mesos-slave-07,1
+a352752c,Server created on 40984,1
+17f432d4,Trying to register BlockManager,1
+1c507e44,Registered BlockManager,1
+9ba7fdc2,Got assigned task <*>,305
+ae0572db,Running task <*> in stage <*> (TID <*>,305
+6c90e140,Started reading broadcast variable <*>,37
+e6566909,Block <*> stored as <*> in memory (estimated size <*> <*> free <*> <*>),149
+c0edc03b,Reading broadcast variable <*> took <*> ms,37
+cf025708,Partition <*> not found computing it,75
+b27fe6b1,Input split hdfs //<*> 9000/pjhe/logs/2kSOSP.log <*>,45
+560a2e26,<*> is deprecated. Instead use <*>,5
+ce01f966,Times total <*> boot <*> init <*> finish <*>,375
+33da0487,Finished task <*> in stage <*> (TID <*> <*> bytes result sent to driver,300
+d7f24216,Found block <*> locally,257
+a899e693,File Output Committer Algorithm version is 1,30
+3b58c0ea,Saved output of task <*> to hdfs //<*> <*>,30
+a2e0f090,attempt_201706092018_0024_m_000004_1026 Committed,1
+84fb13cd,attempt_201706092018_0024_m_000002_998 Committed,1
+3d3f1d62,attempt_201706092018_0024_m_000003_1012 Committed,1
+a880469d,attempt_201706092018_0024_m_000001_984 Committed,1
+87e164c0,attempt_201706092018_0024_m_000000_970 Committed,1
+5b3bf1d0,attempt_201706092018_0024_m_000044_1129 Committed,1
+78f2b9c7,attempt_201706092018_0024_m_000043_1128 Committed,1
+a579d4ff,attempt_201706092018_0024_m_000040_1125 Committed,1
+0a4ab484,attempt_201706092018_0024_m_000042_1127 Committed,1
+fe70ed6a,attempt_201706092018_0024_m_000041_1126 Committed,1
+75656e51,attempt_201706092018_0024_m_000083_1138 Committed,1
+736dc7d7,attempt_201706092018_0024_m_000084_1141 Committed,1
+0adc829c,attempt_201706092018_0024_m_000080_1135 Committed,1
+ec41322c,attempt_201706092018_0024_m_000082_1137 Committed,1
+c4e0afea,attempt_201706092018_0024_m_000081_1136 Committed,1
+e2f8219c,attempt_201706092018_0024_m_000124_1151 Committed,1
+af492972,attempt_201706092018_0024_m_000120_1145 Committed,1
+203dcac1,attempt_201706092018_0024_m_000122_1147 Committed,1
+14537a8d,attempt_201706092018_0024_m_000121_1146 Committed,1
+5f627a36,attempt_201706092018_0024_m_000123_1150 Committed,1
+aa1b7d06,attempt_201706092018_0024_m_000160_1155 Committed,1
+5a470f25,attempt_201706092018_0024_m_000163_1158 Committed,1
+95c6fecf,attempt_201706092018_0024_m_000164_1159 Committed,1
+10769ea6,attempt_201706092018_0024_m_000162_1157 Committed,1
+e864a4cf,attempt_201706092018_0024_m_000161_1156 Committed,1
+2613c558,attempt_201706092018_0025_m_000004_1199 Committed,1
+c27a4a3d,attempt_201706092018_0025_m_000003_1198 Committed,1
+c83ecf1a,attempt_201706092018_0025_m_000000_1166 Committed,1
+caa99583,attempt_201706092018_0025_m_000002_1194 Committed,1
+12806002,attempt_201706092018_0025_m_000001_1180 Committed,1

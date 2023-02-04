@@ -1,0 +1,8 @@
+symbol: s36
+template: AppleThunderboltNHIType2::waitForOk2Go2Sx <?> intel_rp <?> <*> dlla_reporting_supported <?> <*>
+64,-,=,1,=,0,
+297,-,=,1,=,0,
+318,-,=,1,=,0,
+531,-,=,1,=,0,
+791,-,=,1,=,0,
+1917,-,=,1,=,0,

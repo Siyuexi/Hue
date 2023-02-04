@@ -1,0 +1,58 @@
+EventId,EventTemplate,Occurrences
+cb66604c,Notification time out <*>,37
+9879a9ab,Received connection request <*>,299
+7a2ec7d0,Send worker leaving thread,262
+45a3ec5d,Interrupted while waiting for message on queue,314
+495b290d,Connection broken for id <*> my id <*> error,291
+273e53f2,Interrupting SendWorker,266
+20d23992,Closed socket connection for client <*> which had sessionid <*>,44
+ecefe136,caught end of stream exception,37
+b7af5099,Client attempting to <*> session <*> at <*>,44
+37ce0325,Established session <*> with negotiated timeout <*> for client <*>,50
+abe76bf8,Accepted socket connection from <*>,48
+029a7bf2,Unexpected Exception,1
+1bc7bc65,Connection request from old client <*>; will be dropped if server is in r-o mode,39
+a8a9fdbf,Server environment user.dir /,1
+1e7a3631,Cannot open channel to <*> at election address <*>,86
+86757490,Processed session termination for sessionid <*>,47
+f8c6d06b,Expiring session <*> timeout of <*> exceeded,40
+f311a57e,******* GOODBYE <*> ********,19
+00078e14,LOOKING,4
+1f5e64d1,My election bind port <*><*>,1
+4e1011a6,Have smaller server identifier so dropping the connection (2 1),1
+c172d526,FOLLOWING,2
+a34c9763,New election. My id 1 proposed zxid 0x700000000,1
+754c148d,Server environment host.name mesos-master-1,1
+a1237171,FOLLOWING - LEADER ELECTION TOOK - <*>,2
+9f58d6a4,Notification 3 (n.leader) <*> (n.zxid) 0x1 (n.round) <*> (n.state) 3 (n.sid) <*> (n.peerEPoch) LOOKING (my state),5
+8c716832,autopurge.snapRetainCount set to 3,1
+b29376b2,Server environment java.vendor Oracle Corporation,2
+14fb4d64,Revalidating client 0x14f05578bd80018,1
+27abbd8d,Server environment zookeeper.version 3.4.5--1 built on 06/10/2013 17 26 GMT,1
+3a6d8e33,Server environment user.name zookeeper,2
+87733492,Revalidating client 0x14f05578bd80013,1
+0ca7e7a0,Server environment os.name Linux,2
+bed3680d,Closed socket connection for client <*> (no session established for client),4
+a4f8027c,Exception causing close of session 0x0 due to java.io.IOException ZooKeeperServer not running,3
+787e7905,Notification <*> (n.leader) <*> (n.zxid) 0x2 (n.round) LOOKING (n.state) <*> (n.sid) 0xb (n.peerEPoch) <*> (my state),4
+da7d60d2,tickTime set to 2000,1
+0cf47064,Unexpected exception causing shutdown while sock still open,12
+85394710,Got user-level KeeperException when processing sessionid 0x34ed93485090001 type create cxid 0x55b8bb0f zxid 0x100000010 txntype -1 reqpath n/a Error Path /home/curi/.zookeeper Error KeeperErrorCode NodeExists for /home/curi/.zookeeper,1
+d2354a85,Notification 3 (n.leader) 0x10000006b (n.zxid) 0x2 (n.round) LOOKING (n.state) 3 (n.sid) 0x1 (n.peerEPoch) LEADING (my state),1
+d459c04c,Starting quorum peer,1
+e5802811,Snapshotting 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,1
+3204f3ff,autopurge.purgeInterval set to 0,3
+62b848d3,Snapshotting 0x50000062e to /var/lib/zookeeper/version-2/snapshot.50000062e,1
+3581cf8c,Follower sid 3 info org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,1
+d9947264,Revalidating client 0x24f0557806a001c,1
+2f5195c7,<*> set to -1,3
+7ec47079,Server environment java.class.path /etc/zookeeper/conf /usr/share/java/jline.jar /usr/share/java/log4j-1.2.jar /usr/share/java/xercesImpl.jar /usr/share/java/xmlParserAPIs.jar /usr/share/java/netty.jar /usr/share/java/slf4j-api.jar /usr/share/java/slf4j-log4j12.jar /usr/share/java/zookeeper.jar,1
+cc0d06c4,Have quorum of supporters; starting up and setting last processed zxid 0xb00000000,1
+06678ddb,Notification 2 (n.leader) 0xa0000009a (n.zxid) 0x1 (n.round) FOLLOWING (n.state) 1 (n.sid) 0xa (n.peerEPoch) LEADING (my state),1
+c7ef5ae9,shutdown of request processor complete,1
+9cb3def4,First is 0x0,1
+a9459b27,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084,1
+9d86801d,Sending DIFF,1
+4c5926a1,Getting a snapshot from leader,2
+28c0219f,Notification 3 (n.leader) 0x100001564 (n.zxid) 0x3 (n.round) FOLLOWING (n.state) 3 (n.sid) 0x2 (n.peerEPoch) FOLLOWING (my state),1
+fc2722f7,Server environment java.home /usr/lib/jvm/java-7-openjdk-amd64/jre,1

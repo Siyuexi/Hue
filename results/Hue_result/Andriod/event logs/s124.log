@@ -1,0 +1,5 @@
+symbol: s124
+template: sending alarm <*> type <*> when <*> <*> PendingIntentRecord{9600e20 android broadcastIntent}}}\, repeatInterval <?> <*> listenerTag <?>
+433,Alarm{aa90550,3,509142332,PendingIntent{1749923:,broadcastIntent}}},repeatInterval,=,0,listenerTag,=time_tick,
+855,Alarm{c1705d3,3,509202333,PendingIntent{1749923:,broadcastIntent}}},repeatInterval,=,0,listenerTag,=time_tick,
+1687,Alarm{d764221,3,509262332,PendingIntent{1749923:,broadcastIntent}}},repeatInterval,=,0,listenerTag,=time_tick,

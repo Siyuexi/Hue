@@ -1,0 +1,14 @@
+symbol: m16
+identifier: dir <*> <*> KB total <*> KB free)
+256,auto_9.08.100.56.cfg,5,435,330,(2,435,330,
+|| dir auto_9.08.100.56.cfg
+||Directory of cfcard:/
+||Idx    Attr      Size(Byte)            Date         Time          FileName
+||0      -rw-      22,344        April 23 2011  14:13:23     auto_9.08.100.56.cfg
+||5,435,330 KB total (2,435,330 KB free)
+1181,auto_9.08.100.56.cfg,5,435,3322,(2,435,3322,
+|| dir auto_9.08.100.56.cfg
+||Directory of cfcard:/
+||Idx    Attr      Size(Byte)            Date         Time          FileName
+||0      -rw-      22,344        April 23 2011  14:13:23     auto_9.08.100.56.cfg
+||5,435,3322 KB total (2,435,3322 KB free)

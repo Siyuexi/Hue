@@ -1,0 +1,5 @@
+symbol: s81
+template: Job failed as tasks failed. <*> <*> <*> killedReduces: <*>
+3442,failedMaps:0,failedReduces:1,killedMaps:0,0,
+3980,failedMaps:0,failedReduces:1,killedMaps:0,0,
+5008,failedMaps:1,failedReduces:0,killedMaps:0,0,

@@ -1,0 +1,318 @@
+EventId,EventTemplate,Occurrences
+e21dcac7,instruction cache parity error corrected,42
+dca09856,63543 double-hummer alignment exceptions,1
+896195a4,162 double-hummer alignment exceptions,1
+55c1ad51,141 double-hummer alignment exceptions,1
+901ce162,CE sym  at  mask ,92
+8181d880,ciod: failed to read message prefix on control stream (CioStream socket to ,3
+946610a6,generating <*>,721
+e1f80a39,force load/store alignment...............0,2
+e78d79a9,ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff,1
+a652fe7e,ciod: LOGIN  failed: No such file or directory,18
+24750a5a,"1 ddr errors(s) detected and corrected on rank 0, symbol  bit ",12
+a4c32faf,data TLB error interrupt,60
+e1cc1f13,ciod: Message code 0 is not 51 or 4294967295,1
+e2bd8dbe,data storage interrupt,30
+c105ddb5,instruction address: 0x00004ed8,20
+7412a3f3,data address: 0x00000002,8
+4b6b9fe0,machine check: i-fetch......................0,5
+5dbd85b2,program interrupt: illegal ,8
+6708e923,exception syndrome register: ,6
+5941d12d,data store interrupt caused by ,10
+47f83898,program interrupt: privileged instruction...0,5
+e1d3ea94,program interrupt: trap instruction.........0,1
+a80f5760,program interrupt: imprecise exception......0,5
+3a04f185,store operation.............................1,2
+660718af,machine state register: 0x00002000,4
+5f58909e,"problem state (0=sup,1=usr).......0",3
+9e18280f,floating point instr. enabled.....1,4
+d9a353bd,auxiliary processor.........................0,5
+10df4c16,machine check enable..............0,2
+92e27ffb,floating pt ex mode  enable......0,5
+3e151324,program interrupt: unimplemented operation..0,2
+9317ce26,debug interrupt enable............0,1
+3b9fd46c,byte ordering exception.....................0,2
+7903a8b9,data address space................0,5
+48109f45,core configuration register: 0x00002000,7
+e93b8f61,program interrupt: fp cr update.............0,1
+63a692ea,guaranteed  cache block ,3
+307fad2e,program interrupt: fp cr field .............0,4
+309572f4,icache prefetch depth....................0,1
+f3917acb,icache prefetch threshold................0,2
+ee031ae3,wait state enable.................0,1
+7a78adb0,critical input interrupt enable...0,1
+5d5b00ea,special purpose registers:,1
+efdcc224,lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000,1
+697a16ce,rts internal error,1
+9c2e5efb,debug wait enable.................0,2
+c0767c02,instruction address space.........0,1
+06b6caf2,disable store gathering..................0,3
+e346b0ca,total of  ddr error(s) detected and corrected,13
+2faf1a85,"ciod: Error loading  invalid or missing program image, No such file or directory",21
+113fa55e,ciod: Error creating node map from file    ,3
+49cb74fb,199680 double-hummer alignment exceptions,1
+a7cd1c9b,1969920 double-hummer alignment exceptions,1
+85d8b224,2576000 double-hummer alignment exceptions,2
+7b6a9ac2,6182400 double-hummer alignment exceptions,3
+24c48012,3091200 double-hummer alignment exceptions,3
+e6c065ed,23431872 double-hummer alignment exceptions,1
+eaee3522,259966605 double-hummer alignment exceptions,1
+5001f3d1,255244071 double-hummer alignment exceptions,1
+10cf763d,259822751 double-hummer alignment exceptions,1
+d0911d26,program interrupt,3
+e715c04c,instruction address: 0x0062fe04,1
+cf117fcb,Node card is not fully functional,6
+c2c61c3b,344040 double-hummer alignment exceptions,3
+d9cd70a3,Ido chip status changed:     status=M     PDT 2005,5
+465a70fb,Can not get assembly information for node card,6
+b871b2b2,1146800 double-hummer alignment exceptions,27
+1e4989f1,458720 double-hummer alignment exceptions,8
+bca37466,ciod: Missing or invalid fields on line 1 of node map file ,2
+c969ee68,1 torus receiver  input pipe error(s) (dcr  detected and corrected,3
+2dd6690a,632431728 double-hummer alignment exceptions,1
+c2678231,634368144 double-hummer alignment exceptions,1
+3498e821,632254896 double-hummer alignment exceptions,1
+f8715fba,633283776 double-hummer alignment exceptions,1
+781b48aa,ciod:        at line  of node map file ,2
+18c17096,1365301360 double-hummer alignment exceptions,1
+27c166a6,1315337824 double-hummer alignment exceptions,1
+87533b36,1401390016 double-hummer alignment exceptions,1
+b0f7d781,rts panic! - stopping execution,2
+faf424ad,118661512 double-hummer alignment exceptions,1
+68479b64,112099344 double-hummer alignment exceptions,1
+6c817048,113170696 double-hummer alignment exceptions,1
+5a1a9d87,117400328 double-hummer alignment exceptions,1
+3f012ede,112762744 double-hummer alignment exceptions,1
+7d5f2b52,116130784 double-hummer alignment exceptions,1
+79867111,114147592 double-hummer alignment exceptions,1
+81e7443a,113622512 double-hummer alignment exceptions,1
+4fa46fe8,114059360 double-hummer alignment exceptions,1
+429cdd0b,114091808 double-hummer alignment exceptions,1
+a75c51e0,115325776 double-hummer alignment exceptions,1
+eeb0d99d,113982272 double-hummer alignment exceptions,1
+cad0a609,113355952 double-hummer alignment exceptions,1
+6cdfe7d6,115193048 double-hummer alignment exceptions,1
+1bed2664,111990296 double-hummer alignment exceptions,1
+14c295a9,112625368 double-hummer alignment exceptions,1
+af9b0d46,116249832 double-hummer alignment exceptions,1
+f292e402,112481672 double-hummer alignment exceptions,1
+f01dbd96,116332728 double-hummer alignment exceptions,1
+11ff82ac,ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: Permission denied,1
+cf9aba3e,"rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015",1
+3083344b,8 floating point alignment exceptions,37
+c44ce7e9,15 floating point alignment exceptions,14
+90582f82,5 floating point alignment exceptions,22
+3072ad9f,685 floating point alignment exceptions,4
+6b2cbbf9,1005 floating point alignment exceptions,5
+6c1d2bfc,New ido chip inserted into the database:    ,3
+f50de301,NodeCard is not fully functional,1
+13a0eb7c,"Node card status: ALERT 0, ALERT 1, ALERT 2, ALERT 3 is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",1
+6f774513,Node card VPD check:  node in processor card slot  do not match. VPD ecid  found ,9
+30d1fd57,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",35
+fea6b6a3,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,5
+7d9320b3,"PrepareForService shutting down NodeCard(mLctn(R25-M1-N2), mCardSernum(203231503833343000000000594c31304b34333431303158), mLp(FF:F2:9F:16:CF:0F:00:0D:60:E9:30:F0), mIp(10.2.2.80), mType(4)) as part of Service Action 310",1
+83608f3a,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-,1
+7bcdb364,1 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+901fb52f,"ciod: Error loading  invalid or missing program image, Exec format error",17
+bff29180,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to  Link has been severed,9
+a207ab97,rts: kernel terminated for reason ,6
+e7cd4840,ciod: generated  core files for program ,30
+96b8441b,iar 003a90fc dear ,2
+43c4f5cc,iar 003a90dc dear 00b35148,1
+4d387d78,iar 003a9108 dear 00c07348,1
+c98654f7,2201500 double-hummer alignment exceptions,2
+c4a19711,iar 003a9294 dear 00c06c48,1
+b54b65c8,iar 003a92a0 dear ,7
+000977be,1547520 double-hummer alignment exceptions,1
+2dbabc14,iar 003a9260 dear ,14
+d9219c48,iar 003a929c dear ,5
+3dff13d8,iar 003a9254 dear ,3
+415e72d5,3095040 double-hummer alignment exceptions,1
+a278d50f,773760 double-hummer alignment exceptions,1
+b21d602c,iar 003a9258 dear 0136bd38,1
+6687c13f,1524480 double-hummer alignment exceptions,3
+0adff79c,iar 003a926c dear 00f2b078,1
+261c3aca,156055738 double-hummer alignment exceptions,1
+b78edacc,147337410 double-hummer alignment exceptions,1
+271b87e2,139632470 double-hummer alignment exceptions,1
+48376c07,155918940 double-hummer alignment exceptions,1
+afc6b95d,iar 00149fc0 dear 00739d98,1
+1351e2e4,iar 0014a150 dear ,13
+66928aeb,28298332 double-hummer alignment exceptions,1
+d72179b2,23768676 double-hummer alignment exceptions,1
+f6d8a972,34253552 double-hummer alignment exceptions,1
+60dd4f9d,35050330 double-hummer alignment exceptions,1
+b638a428,35418742 double-hummer alignment exceptions,1
+51b82239,47332148 double-hummer alignment exceptions,1
+26aa280b,39190074 double-hummer alignment exceptions,1
+acef6e8e,30646810 double-hummer alignment exceptions,1
+e047f776,36833864 double-hummer alignment exceptions,1
+786bd237,24669022 double-hummer alignment exceptions,1
+a747319d,38029258 double-hummer alignment exceptions,1
+6bf62414,39309752 double-hummer alignment exceptions,1
+c8ac30f0,27901852 double-hummer alignment exceptions,1
+1ced5403,41097026 double-hummer alignment exceptions,1
+99ff69c9,54600944 double-hummer alignment exceptions,1
+5e665240,32888202 double-hummer alignment exceptions,1
+fcb6eaf2,iar 00149ee0 dear ,2
+141622bc,iar 00149f88 dear ,2
+0a1dddbc,iar 0014a1e4 dear 0099e6c8,1
+7f2056e4,"NFS Mount failed on  slept 15 seconds, retrying (1)",2
+5069865d,"3 ddr errors(s) detected and corrected on rank 0, symbol 18, bit 0",1
+dfa12281,Lustre mount FAILED :  : point /p/gb1,9
+ed3d63e8,"4 ddr errors(s) detected and corrected on rank 0, symbol  bit ",3
+ed1433ad,ciod: pollControlDescriptors: Detected the debugger died.,3
+5a932531,"ciod: In packet from node 91.0 (R62-M1-Nf-C:J03-U11), message code 2 is not 3 or 4294967295 (softheader=003b005b 00030000 00000001 00000000)",1
+df150aa2,suppressing further interrupts of same type,2
+01b90347,rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007,1
+90c764d3,critical input interrupt (unit=0x0b  warning for torus  wire,2
+46bd866b,ciod: Error loading        ,20
+3b94ed09,4 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+ad349cc6,data cache search parity error detected. attempting to correct,6
+06a13402,shutdown complete,1
+5ec8481e,16 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+04bd23df,"Error receiving packet on tree network, expecting type 57 instead of type 3   00000002 00000000)  PSR1=00000000 PRXF=00000002 PIXF=00000007",5
+6b3e0c4d,iar 00106210 dear ,12
+4f74c91e,640404 floating point alignment exceptions,5
+561428bb,iar 00106228 dear ,12
+b8a246c1,iar 001061dc dear ,11
+cfa5e019,iar 00105ea0 dear 0244c28c,1
+624678c3,iar 00105e94 dear 02f5883c,1
+243ca606,640764 floating point alignment exceptions,1
+07231026,iar 00106568 dear ,6
+f3dbe243,487476 floating point alignment exceptions,2
+108470fa,iar 00106580 dear ,10
+55339016,iar 00106534 dear ,6
+f2d3ed15,2354412 floating point alignment exceptions,15
+cf11df8c,62500 floating point alignment exceptions,3
+bffe8e6a,iar 00106570 dear ,3
+7bd8021e,iar 001061fc dear 02f6676c,1
+d6e94844,iar 00106588 dear 0245a17c,1
+9d20dfe2,iar  dear 0245ccfc,4
+30529298,iar 00106bd8 dear ,6
+784477bb,iar 00106b8c dear ,2
+2f62bebd,iar 00106bc0 dear ,2
+ade89ac3,iar 0010681c dear 02f692fc,1
+a95b0dc5,iar 00106834 dear 0245cd0c,1
+5a3bf44c,iar 0010686c dear ,2
+f5586296,45684 floating point alignment exceptions,1
+acf840f1,iar 00106704 dear ,5
+e1d0c938,iar 0010639c dear 0245b71c,1
+60ee038e,iar 001063a0 dear 02f67e4c,1
+07c0ce6f,iar  dear 0245b64c,3
+a3998a46,iar 0010671c dear 0245b72c,1
+001b37e1,16604010 floating point alignment exceptions,1
+c1910c88,16469355 floating point alignment exceptions,1
+eab0b092,iar 00106390 dear 02f67cfc,1
+3c16a812,iar 0010635c dear 0245b62c,1
+fc4ef123,16736445 floating point alignment exceptions,1
+5d7a4f3a,iar 001061cc dear 02f6667c,1
+2e0195df,iar  dear 0245a09c,3
+5ec521fc,iar 001061ec dear 02f6668c,2
+c789b1bd,74350836 floating point alignment exceptions,1
+a5046eff,iar 0010650c dear 0246a95c,1
+ef417c1f,iar 00106988 dear 02f7bd6c,1
+b8a2a626,iar 00106cf8 dear 0246f9fc,1
+5c0eb359,54004554 floating point alignment exceptions,1
+496c096f,iar 001069a8 dear 02f7bd7c,1
+42cb6446,iar 001066ac dear ,3
+d50e7229,iar 001066c4 dear ,5
+5de33942,iar 00106678 dear 0252523c,1
+65d5132d,iar 001007b8 dear 065b4c7c,1
+334d8106,iar 001007a8 dear 065b4cac,1
+1329b15f,2667384 floating point alignment exceptions,1
+d2784a7b,iar 0010653c dear 0245a63c,1
+e305184f,407736 floating point alignment exceptions,1
+1b9dc3de,428412 floating point alignment exceptions,1
+ca453f90,441348 floating point alignment exceptions,1
+e7b11b82,iar 001061d4 dear 024696cc,1
+3124d338,iar 00106348 dear 024696bc,1
+fdf7e0a6,iar 00106204 dear 02f75edc,1
+c18c2a6d,"2 ddr errors(s) detected and corrected on rank 0, symbol  bit ",2
+ed0122c7,iar 00105e88 dear 02f6436c,1
+f476850d,iar 00105e84 dear ,2
+f1abb694,iar 001061e8 dear ,8
+d5ed795a,iar 00106200 dear ,4
+70d07f88,iar 001061b4 dear ,5
+b6d13664,19220208 floating point alignment exceptions,1
+4af7bfb8,iar 00106ba0 dear 0246de3c,1
+5759ac04,iar 00106b98 dear 0246dd9c,1
+8eefdd1c,iar 00106c0c dear 0246de1c,1
+a8f8ae9d,5302707 floating point alignment exceptions,1
+bb5e3aea,iar 00106448 dear ,4
+1d06e511,iar 00106288 dear 02f7a0fc,1
+91185f17,iar 00113890 dear 0fee9c3c,1
+6778ff8a,iar 00113898 dear 0fee9c4c,2
+18f86638,5 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected,1
+dda3283f,3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+8adae8de,iar 00106274 dear 0246da8c,1
+96d70998,iar 00106298 dear 02f7a18c,1
+92dd6921,488205 floating point alignment exceptions,1
+6a966f5f,"critical input interrupt (unit=0x0b  warning for   wire, suppressing further interrupts of same type",3
+27944acd,18507114 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 198 seconds,1
+ab50813a,26741629 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 268 seconds,1
+a007dbcc,"ciod: Received signal 15, code=0, errno=0, ",16
+84f7b235,Lustre mount FAILED :  : block_id : location,2
+bbe7100d,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4),7
+3779f432,ciod: Error reading message prefix on CioStream socket to  Connection timed out,2
+bc0af67f,ciod: Error reading message prefix on CioStream socket to     ,12
+8bf4e87a,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000,1
+46bea1e2,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,1
+e168c819,13 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 4562 seconds,1
+2d924494,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,51
+30ace0d1,"10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",7
+faa21128,"10740 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+a29e66d7,"10744 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+72cdb42d,"10700 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+4e9e1679,"10732 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+5f8d8011,"10655 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+fe7c3b37,"10650 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+67fd1f86,"10686 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+0aa43594,"10674 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+228de88e,"10730 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+2546c85a,"10692 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+11c83734,"10660 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+a1794837,"10752 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+8425e78e,"10676 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",4
+42aadffe,"10728 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+1cea9ec2,"10712 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+253e76fb,"10718 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+db71bf5f,"10644 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+9d2d47ad,"10738 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+12e9b4c0,"10646 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+acceef06,"10710 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+06f36793,"10706 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+c43deccc,"10765 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+57ddb8aa,"10698 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+994da01d,"10684 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+0539712c,"10652 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+968cb688,"1966 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+a5a96be3,"10714 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+ff9084a1,"10666 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+121a0d00,"10663 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+e60a05ae,"10766 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+0b3302d6,"10680 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+20d524dc,"10616 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+24a3d25c,"10754 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+3964ee1f,"10668 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+7b79316b,"10708 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+ba5a2fb5,"10640 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+fa9d0a23,"10636 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+779ac4a9,"10664 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+60d4f862,"10736 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+647c2ad8,"720 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+dbd5abfd,1           over  seconds,3
+13d4cf71,"PrepareForService shutting down Node card(mLctn(R10-M1-N2), mCardSernum(203231503833343000000000594c31304b34323934303257), mLp(FF:F2:9F:16:E0:DA:00:0D:60:E9:1F:25), mIp(10.1.1.164), mType(4)) as part of Service Action 648",1
+8c91f41e,Kernel detected  integer alignment exceptions  iar  dear   iar  dear   iar  dear   iar  dear   iar  dear   iar  dear   iar  dear   iar  dear ,9
+d826a017,"159 ddr error(s) detected and corrected on rank 0, symbol 29 over 2486 seconds",1
+a7413768,total of  ddr error(s) detected and corrected over  seconds,4
+3336f3db,minus normalized number..................0,1
+e9ed0f3d,fraction rounded.........................0,1
+5dd06682,size of scratchpad portion of L3.........0 (0M),1
+61ba8a93,"28 ddr error(s) detected and corrected on rank 0, symbol 21 over 11562 seconds",1
+2d17df4a,ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error,1
+f894b574,"2 ddr error(s) detected and corrected on rank 0, symbol  over  seconds",2
+1e925f9e,"5 ddr error(s) detected and corrected on rank 0, symbol 28 over 2946 seconds",1
+91dbf7fc,2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds,1
+f0a23bcb,fpr29=0xffffffff ffffffff ffffffff ffffffff,1
+dd92e0a7,Machine State Register: 0x0002f900,1

@@ -1,0 +1,25 @@
+EventId,EventTemplate,Occurrences
+74882d1d,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+77eb491f,Invalid user  from <*>,113
+09329d4c,input_userauth_request: invalid user  [preauth],113
+526267b4,pam_unix(sshd:auth): check pass; user unknown,135
+072bbeb0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,110
+b7e62ce8,Failed  for invalid user  from <*> port  ssh2,139
+cd9f0efa,Connection closed by <*> [preauth],34
+12ca011b,Received disconnect from <*>: 11: Bye Bye [preauth],413
+02878bda,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser=  ,384
+f4166045,Failed password for  from <*> port  ssh2,383
+ec45f624,message repeated 5 times: [ Failed password for root from <*> port  ssh2],2
+d60c6095,Disconnecting: Too many authentication failures for  [preauth],3
+2bbc82b3,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser=  user=root,2
+f3426a91,PAM service(sshd) ignoring max retries;  > 3,7
+50840386,Did not receive identification string from <*>,10
+6edd49cd,error: Received disconnect from <*>: 3: <*>: Auth fail [preauth],2
+f2419151,Received disconnect from <*>: 11: Closed due to user request. [preauth],7
+4fa2acd6,PAM  more authentication  logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,8
+0cf3b342,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],45
+1a09f548,Accepted password for fztu from <*> port 49116 ssh2,1
+f79c41f6,pam_unix(sshd:session): session opened for user fztu by (uid=0),1
+9439f964,Received disconnect from <*>: 11: disconnected by user,1
+2e323293,pam_unix(sshd:session): session closed for user fztu,1
+9e3975c8,fatal: Write failed: Connection reset by peer [preauth],1

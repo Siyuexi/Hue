@@ -1,0 +1,5 @@
+symbol: s88
+template: [PEGASUS] Computing PageRank. Max iteration <?> <*> threshold <?> <*> <*>
+3574,=,1,,=,0.002,,cur_iteration=1,
+4310,=,1,,=,0.002,,cur_iteration=1,
+5123,=,1,,=,0.002,,cur_iteration=1,

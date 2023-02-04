@@ -1,0 +1,5 @@
+symbol: m3
+identifier: Info: The max number of VTY users is <*> the number of current VTY users online is <*> and total number of terminal users online is <*> The current login time is <*> <*>
+24,16,,5,,3.,2019-01-11,15:00:13.,
+|| Info: The max number of VTY users is 16, the number of current VTY users online is 5, and total number of terminal users online is 3.
+|| The current login time is 2019-01-11 15:00:13.

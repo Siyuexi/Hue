@@ -1,0 +1,25 @@
+EventId,EventTemplate,Occurrences
+7f975a55,input_userauth_request invalid user <*> [preauth],113
+b5ddfe21,reverse mapping checking getaddrinfo for [] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+4bc6a3e8,error Received disconnect from 14 No more user authentication methods available. [preauth],45
+c35d9b6a,PAM <*> more authentication <*> logname uid 0 euid 0 tty ssh ruser rhost,8
+59c9bf63,pam_unix(sshd auth) authentication failure; logname uid 0 euid 0 tty ssh ruser rhost user <*>,383
+44ab1c45,PAM 5 more authentication failures; logname uid 0 euid 0 tty ssh ruser rhost . user root,1
+22800a41,Invalid user <*> from,113
+b7d18025,Connection closed by [preauth],34
+f9422447,pam_unix(sshd auth) check pass; user unknown,135
+dfe1333b,Did not receive identification string from,10
+44edfb7f,pam_unix(sshd session) session closed for user fztu,1
+25409be7,<*> password for <*> from port <*> ssh2,384
+00a684b8,PAM service(sshd) ignoring max retries; <*> > 3,7
+452c21cd,Failed <*> for invalid user <*> from port <*> ssh2,139
+95975803,Received disconnect from 11 Closed due to user request. [preauth],7
+1aad61ea,pam_unix(sshd session) session opened for user fztu by (uid 0),1
+4f26121c,pam_unix(sshd auth) authentication failure; logname uid 0 euid 0 tty ssh ruser rhost,110
+99bb7eb2,message repeated 5 times [ Failed password for root from port <*> ssh2],2
+dcb55ea8,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> user root,2
+3bb56feb,Received disconnect from 11 Bye Bye [preauth],413
+a27a8cd5,Received disconnect from 11 disconnected by user,1
+dbea380c,Disconnecting Too many authentication failures for <*> [preauth],3
+2140c989,error Received disconnect from 3 Auth fail [preauth],2
+e55c6b89,fatal Write failed Connection reset by peer [preauth],1

@@ -1,0 +1,11 @@
+symbol: s41
+template: Base or swap file too young to remove: <*>
+240,/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,
+329,/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,
+603,/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,
+785,/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,
+1261,/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,
+1537,/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,
+1637,/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,
+1818,/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,
+1912,/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,

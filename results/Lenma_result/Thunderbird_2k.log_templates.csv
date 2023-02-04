@@ -1,0 +1,189 @@
+EventId,EventTemplate,Occurrences
+e67290aa,session closed for user root,24
+9e5d812d,session opened for user root by (uid=0),19
+0b16f93f,(root) CMD (run-parts /etc/cron.hourly),14
+9cf72cdf,data_thread() got not answer from any  datasource,819
+0ba35a2f,synchronized to  stratum ,568
+2ed96dbe,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,62
+9e5401c0,[ib_sm_sweep.c:1455]: No topology change,62
+1254fb87,[ib_sm_sweep.c:1482]: No configuration change required,62
+d675f1ba,Local disconnected: Connection closed.,3
+6f48d48b,connection lost: 'Connection closed.',3
+df3d75c5,unable to qualify my own domain name  -- using short name,10
+f7d78c7c,"jA9J1UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.jA9J1UvC004306@eadmin1>, relay=#7#@localhost",1
+da6e19c4,"jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",1
+9a5ff5bf,"jA9J1Wd7019391: from=root, size=1594553, class=0, nrcpts=1, msgid=<200511091901.jA9J1Wd7019391@cadmin1>, relay=#7#@localhost",1
+830e594f,"jA9J1Wd7019391: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1624553, relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",1
+3fdcd64b,"jA9J1WSU011176: from=root, size=1593894, class=0, nrcpts=1, msgid=<200511091901.jA9J1WSU011176@badmin1>, relay=#7#@localhost",1
+e92ae7ad,"jA9J1WSU011176: to=root, ctladdr=root (0/0), delay=00:00:03, xdelay=00:00:00, mailer=relay, pri=1623894, relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",1
+1e67f1f0,"jA9J1WFE024258: from=root, size=1597080, class=0, nrcpts=1, msgid=<200511091901.jA9J1WFE024258@dadmin1>, relay=#7#@localhost",1
+4a3c494b,"jA9J1WFE024258: to=root, ctladdr=root (0/0), delay=00:00:03, xdelay=00:00:00, mailer=relay, pri=1627080, relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",1
+4ba39ef1,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1,5
+a012052e,DHCPOFFER on <*> to 00:11:43:e3:ba:c3 via eth1,5
+56468617,"jA9J1dQ7016560: from=root, size=1595423, class=0, nrcpts=1, msgid=<200511091901.jA9J1dQ7016560@aadmin1>, relay=#7#@localhost",1
+02b38692,"jA9J1dQ7016560: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1625423, relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",1
+87b32beb,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases,15
+479faafb,DHCPACK on <*> to 00:11:43:e3:ba:c3 via eth1,3
+f68d10d4,DHCPREQUEST for <*> (<*>) from 00:11:43:e3:ba:c3 via eth1,3
+ac1c51d0,START: tftp pid=16563 from=<*>,1
+2c461147,DHCPREQUEST for <*> (<*>) from 00:11:43:e3:ba:c3 via eth1: unknown lease <*>.,9
+76228a62,RRD_update   illegal attempt to update using time  when last update time is  (minimum one second step),10
+cfb119db,kernel time sync  ,2
+bf42626f,time reset +0.182379 s,1
+f327e724,Received SNMP packet(s) from #34#,1
+c2e7fd1e,(root) CMD (/projects/tbird/temps/get_temps ,5
+043b8824,My unqualified host name  unknown; sleeping for retry,5
+9a2362ec,CentOS-4 (Kernel Module GPG key),1
+907a853f,(supports S0 S4 S5),1
+b6c256df,DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000,1
+53b43afb,FADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd6b0,1
+4e96efc2,HPET (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd81c,1
+72f861e4,HPET id: 0xffffffff base: 0xfed00000,1
+3a9c2e3c,INT_SRC_OVR (bus 0 bus_irq  global_irq   ,2
+44f3f4b1,IOAPIC (id[0x08] address[0xfec00000] gsi_base[0]),1
+5b627707,IOAPIC (id[0x09] address[0xfec80000] gsi_base[32]),1
+1fd90a5e,IOAPIC (id[0x0a] address[0xfec83000] gsi_base[64]),1
+b10518c6,IRQ0 used by override.,1
+b41343ce,IRQ2 used by override.,1
+68867479,IRQ9 used by override.,1
+578ed9f6,Interpreter enabled,1
+45831b42,LAPIC (acpi_id[0x01] lapic_id[0x00] enabled),1
+e3d88e29,LAPIC (acpi_id[0x02] lapic_id[0x06] enabled),1
+eb59bc19,LAPIC (acpi_id[0x03] lapic_id[0x01] enabled),1
+0353d3f1,LAPIC (acpi_id[0x04] lapic_id[0x07] enabled),1
+7ccdbee3,LAPIC_NMI  high edge lint[0x1]),4
+86f68095,Local APIC address 0xfee00000,1
+3017b347,MADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd724,1
+788f7c5d,MCFG (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd854,1
+447997a8,PCI Interrupt Link  (IRQs 3 4 5 6 7 10 11 12) ,2
+6d341a3d,PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 10 *11 12),1
+113fe54b,"PCI Interrupt Link  (IRQs 3 4 5 6 7 10 11 12) *0, disabled.",5
+a9168737,PCI Interrupt Routing Table ,10
+8f27a0ae,PCI Root Bridge [PCI0] (00:00),1
+98b11c10,"PCI interrupt  -> GSI  (level, low) -> IRQ ",11
+c2a5aeb6,Power Button (FF) [PWRF],1
+f04ae94b,Processor  (supports C1),4
+836e5b3f,RSDP (v000 DELL ) @ 0x00000000000fd650,1
+2ab5b1d6,RSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd664,1
+d7711c63,SPCR (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd7cc,1
+9d577919,Subsystem revision 20040816,1
+7361aeb4,Using  for  routing,2
+1dd38330,Intel(R) Xeon(TM) CPU 3.60GHz stepping 03,1
+a6197c0e,L2 cache: 2048K,5
+1d502ac3,Physical Processor ID: ,5
+2a3e38ea,"Trace cache: 12K uops, L1 D cache: 16K",5
+ec02891a,colour VGA+ 80x25,1
+45b2a290,mounted filesystem with ordered data mode.,3
+5e3f56b2,"sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak Exp $",1
+48a2677d,"apic_id  version 32, address  GSI ",3
+f316a028,"routing cache hash table of 65536 buckets, 1024Kbytes",1
+d0465929,PCI Hot Plug PCI Core version: 0.5,1
+e2fb3f70,"root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr",1
+38a10bf2,Registered protocol family ,5
+070f12eb,Using software bounce buffering for IO (SWIOTLB),1
+6897f44b,Probing PCI hardware (bus 00),1
+0c202b29,Transparent bridge - 0000:00:1e.0,1
+ac19c8fd,Using MMCONFIG at e0000000,1
+d6561696,Using configuration type 1,1
+f3eeccc5,Compressed image found at block 0,1
+bf072ea4,Disabled at runtime.,1
+1f5a5a00,Initializing.,1
+87f03990,Registering netfilter hooks,1
+6e9b885c,Starting in permissive mode,1
+2906421b,Unregistering netfilter hooks,1
+8d0cc6f7,Hash tables configured (established 262144 bind 65536),1
+93a48642,Direct-Access ANSI SCSI revision: 02,1
+52a2d8e5,Processor ANSI SCSI revision: 02,1
+af09ff68,Disk quotas dquot_6.5.1,1
+ed26035f,Mounted root (ext2 filesystem).,1
+562690c7,MegaRAID Model: LD 0 RAID1 139G Rev: 516A,1
+49953e52,PE/PV Model: 1x2 SCSI BP Rev: 1.0,1
+02067985,initialized,1
+2208c291,initializing netlink socket (disabled),1
+dbfce3bd,passed.,1
+e8e264d5,4.1.0-ioctl (2003-12-10) initialised: #36#@#37#,1
+fd3babfb,allocating divert_blk for ,2
+3f0cd041,not allocating divert_blk for non-ethernet device ,2
+3c1ee567,v2.0:USB HID core driver,1
+a94a4812,eth0: e1000_probe: Intel(R) PRO/1000 Network Connection,1
+92f4f226,eth0: e1000_watchdog: NIC Link is Up 1000 Mbps Full Duplex,1
+8197b827,eth1: e1000_probe: Intel(R) PRO/1000 Network Connection,1
+0749e148,no floppy controllers found,1
+250f0088,RNG not detected,1
+64026355,Wait for ready failed before probe !,6
+077f9f16,Assuming 33MHz system bus speed for PIO modes; override with idebus=xx,1
+a32b187d,Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda,1
+3f393050,(C) 2000-2002 Netfilter core team,4
+925595f1,Installing public key data,1
+3bf8e71b,... autorun DONE.,2
+c9f51ad8,Autodetecting RAID arrays.,2
+b51afeb3,autorun ...,2
+937caf27,"md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27",1
+e690d5e1,#38#-rh1 (Release Date: Fri Dec 10 19:02:14 EST 2004),1
+1be7649b,#39# (Release Date: Mon Sep 27 22:15:07 EDT 2004),1
+88506e7c,fw version:[516A] bios version:[H418],1
+77aadb1c,probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0,1
+f264aa48,PS/2 mouse device common for all mice,1
+064d77c6,v2.0 (20020519),1
+08cb21a6,rpc.statd startup succeeded,1
+e052d25e,portmap startup succeeded,1
+b0d340d3,Starting ts_fixup: succeeded,1
+72d065cb,Version 1.0.6 Starting,1
+f2e67ce4,LSI Logic MegaRAID driver,1
+9a3891c8,scanning scsi channel 0 [Phy 0] for non-raid devices,1
+c7ce1084,scanning scsi channel 1 [virtual] for logical drives,1
+3f675647,asking for cache data failed,1
+fad5401a,assuming drive cache: write through,1
+fd141f52,sda1 sda2 sda3 sda4,1
+36bf2379,Registering secondary module capability,1
+feb4d855,"i8042  port at 0x60,0x64 irq ",2
+8bc8097a,syslog-ng startup succeeded,1
+9c7255ab,syslog-ng version 1.6.7 starting,1
+3d4eb037,Detected 3591.360 MHz processor.,1
+e481aae7,Using 14.318180 MHz HPET timer.,1
+c3d26cb6,Using HPET based timekeeping.,1
+8a2981ad,Creating Topspin /dev entries:,1
+4e5802d1,registered new driver ,4
+635d513d,probe of vesafb0 failed with error -6,1
+628ede82,"connection from ""#28#""",2
+0528e8ba,"User #29#, coming from #30#, authenticated.",2
+d43fc3b5,Now running on #29#'s privileges.,2
+f3646352,Mounting NFS filesystems: succeeded,1
+b46c9e83,Mounting other filesystems: failed,1
+d8441254,Warning: we failed to resolve data source name                                                                                                                   ,33
+7f1a8463,Warning: we failed to resolve data source name dadmin2 dadmin3 dadmin4,1
+50c45a23,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time 1131559854 when last update time is 1131559854 (minimum one second step),1
+0fd2fe9d,Warning: we failed to resolve trusted host name dadmin3 dadmin4,1
+782ef073,gmetad startup succeeded,1
+32d0250e,succeeded,2
+9691a053,Server listening on :: port 22.,1
+9b00fdb9,error: Bind to port 22 on <*> failed: Address already in use.,1
+6495bfbb,Cannot open file /dev/logsurfer for writing (No such file or directory),1
+03ed510d,Changing permissions on special file /dev/logsurfer,1
+e3b3c521,xinetd startup succeeded,1
+4038ae58,Reading included configuration file:   ,17
+495c2a2f,Started working: 1 available service,1
+7684af06,removing chargen,2
+b458454e,removing daytime,2
+9c821bbd,removing echo,2
+1ccafdda,removing eklogin,1
+b09eecbe,removing ftp,1
+8fe38321,removing klogin,1
+e7e410ae,removing kshell,1
+f1cfd0cf,removing ntalk,1
+bf4a8afb,removing printer,1
+94e319c5,removing rsync,1
+9e77251c,removing telnet,1
+8ca748a1,removing time,2
+99d1e3fb,xinetd Version 2.3.13 started with libwrap loadavg options compiled in.,1
+8e723286,"jA9JBVPb007417: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091911.jA9JBVPb007417@eadmin1>, relay=#7#@localhost",1
+3dff4e60,"jA9JBVPb007417: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=659060, relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",1
+e0436bda,"jA9JBWxH019649: from=root, size=1596872, class=0, nrcpts=1, msgid=<200511091911.jA9JBWxH019649@aadmin1>, relay=#7#@localhost",1
+7b1ab219,"jA9JBWxH019649: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1626872, relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",1
+dfdbc684,"jA9JBWEr014256: from=root, size=1593894, class=0, nrcpts=1, msgid=<200511091911.jA9JBWEr014256@badmin1>, relay=#7#@localhost",1
+6ebde2e3,"jA9JBWEr014256: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1623894, relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",1
+07f314ec,"jA9JBXgf022479: from=root, size=1594553, class=0, nrcpts=1, msgid=<200511091911.jA9JBXgf022479@cadmin1>, relay=#7#@localhost",1
+58f7b1f3,"jA9JBXgf022479: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1624553, relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",1
+eb26549e,"jA9JBXVI027337: from=root, size=1597080, class=0, nrcpts=1, msgid=<200511091911.jA9JBXVI027337@dadmin1>, relay=#7#@localhost",1
+b4a52731,"jA9JBXVI027337: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1627080, relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",1
+7fba7fb9,"Device: /dev/sda, Temperature changed -2 Celsius to 26 Celsius since last report",1

@@ -1,0 +1,2000 @@
+s1, 1, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s2, 2, Thermal pressure state: <*> Memory pressure state: <*>
+s3, 3, <*> dealloc
+s4, 4, ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+s5, 5, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s6, 6, mDNS_DeregisterInterface: Frequent transitions for interface awdl0 <*>
+s7, 7, ARPT: <*> IOPMPowerSource Information: onSleep, SleepType: Normal Sleep, 'ExternalConnected': Yes, 'TimeRemaining': <*>
+s8, 8, ARPT: <*> wl0: wl_update_tcpkeep_seq: Original Seq: <*> Ack: <*> Win size: <*>
+s9, 9, ARPT: <*> ARPT: Wake Reason: Wake on Scan offload
+s10, 10, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s11, 11, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s10, 12, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s12, 13, ARPT: <*> wl0: MDNS: <*> SRV Recs, <*> TXT Recs
+s13, 14, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s14, 15, setting hostname to <*>
+s15, 16, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s16, 17, CCIOReporterFormatter::addRegistryChildToChannelDictionary streams <*>
+s17, 18, <*> <<<< CRABS >>>> crabsFlumeHostAvailable: <*> flume reports host available again.
+s15, 19, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s11, 20, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s18, 21, AirPort: Link Down on awdl0. Reason <*> (Unspecified).
+s1, 22, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s19, 23, PM response took <*> ms <*> powerd)
+s15, 24, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s20, 25, ARPT: <*> wl0: Roamed or switched channel, reason <*> bssid <*> last RSSI <*>
+s7, 26, ARPT: <*> IOPMPowerSource Information: onSleep, SleepType: Normal Sleep, 'ExternalConnected': Yes, 'TimeRemaining': <*>
+s8, 27, ARPT: <*> wl0: wl_update_tcpkeep_seq: Original Seq: <*> Ack: <*> Win size: <*>
+s21, 28, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s15, 29, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 30, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s22, 31, IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, <*>
+s23, 32, network_reachability_changed : network is not reachable, netbiosd is shutting down
+s24, 33, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s2, 34, Thermal pressure state: <*> Memory pressure state: <*>
+s15, 35, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s25, 36, <*> deny <*> <*>
+s11, 37, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s26, 38, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s27, 39, AirPort: Link Up on <*>
+s15, 40, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 41, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s28, 42, Sandbox: <*> <*> <*> <*>
+s6, 43, mDNS_DeregisterInterface: Frequent transitions for interface awdl0 <*>
+s29, 44, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+s30, 45, AirPort: Link Up on <*>
+s13, 46, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s26, 47, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s31, 48, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s15, 49, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s32, 50, mDNS_DeregisterInterface: Frequent transitions for interface en0 <*>
+s33, 51, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> retries <?> <*>
+s34, 52, ARPT: <*> wl0: wl_update_tcpkeep_seq: Updated <*> from UserClient Seq <*> Ack <*> Win size <*>
+s4, 53, ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+s1, 54, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s5, 55, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s35, 56, en0::IO80211Interface::postMessage bssid changed
+s9, 57, ARPT: <*> ARPT: Wake Reason: Wake on Scan offload
+s10, 58, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s15, 59, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 60, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s2, 61, Thermal pressure state: <*> Memory pressure state: <*>
+s15, 62, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 63, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s36, 64, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> intel_rp <?> <*> dlla_reporting_supported <?> <*>
+s11, 65, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s37, 66, mDNS_RegisterInterface: Frequent transitions for interface en0 <*>
+s38, 67, AppleCamIn::wakeEventHandlerThread
+s27, 68, AirPort: Link Up on <*>
+s2, 69, Thermal pressure state: <*> Memory pressure state: <*>
+s39, 70, ARPT: <*> wl0: setup_keepalive: Local port: <*> Remote port: <*>
+s10, 71, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s21, 72, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s29, 73, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+s40, 74, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s41, 75, en0: channel changed to <*>
+s42, 76, ARPT: <*> AQM agg results <*> <*> <*> <*> <*> <*> <*>
+s43, 77, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s15, 78, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s44, 79, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s45, 80, Unrecognized attribute value: t:AbchPersonItemType
+s13, 81, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s28, 82, Sandbox: <*> <*> <*> <*>
+s28, 83, Sandbox: <*> <*> <*> <*>
+s46, 84, SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error <*> <*> "Account identity not set" <?> identity not set}
+s47, 85, CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+s28, 86, Sandbox: <*> <*> <*> <*>
+s25, 87, <*> deny <*> <*>
+s1, 88, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s48, 89, <*> : BTLE scanner Powered On
+s49, 90, button report: <*>
+s25, 91, <*> deny <*> <*>
+s50, 92, <*> : BTLE discovered device with hash <01faa200 <*> <*>
+s51, 93, securityd_xpc_dictionary_handler <*> copy_matching Error <?> <*> "query missing class name" (paramErr: error in user parameter list) <?> missing class name}
+s52, 94, Location icon should now be in state 'Inactive'
+s53, 95, ARPT: <*> wl0: setup_keepalive: interval <*> retry_interval <*> retry_count <*>
+s54, 96, ARPT: <*> wl0: MDNS: IPV4 Addr: <*>
+s1, 97, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s44, 98, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s35, 99, en0::IO80211Interface::postMessage bssid changed
+s55, 100, <*> evaluateCrazyIvan46]_block_invoke CI46 <?> Hit by torpedo! <*> tc19060 <*>
+s5, 101, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s56, 102, Setting BTCoex Config: <*> <*> <*> <*>
+s28, 103, Sandbox: <*> <*> <*> <*>
+s22, 104, IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, <*>
+s57, 105, Captive: <*> en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive)
+s15, 106, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s1, 107, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s35, 108, en0::IO80211Interface::postMessage bssid changed
+s58, 109, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from SUSPENDED to AUTO
+s59, 110, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s13, 111, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s60, 112, <*> : Finished generating hashes
+s61, 113, Captive: CNPluginHandler en0: Evaluating
+s15, 114, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 115, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s9, 116, ARPT: <*> ARPT: Wake Reason: Wake on Scan offload
+s45, 117, Unrecognized attribute value: t:AbchPersonItemType
+s19, 118, PM response took <*> ms <*> powerd)
+s62, 119, tcp_connection_destination_perform_socket_connect <*> connectx to <*> failed: <*> Network is down
+s63, 120, AirPort: Link Down on en0. Reason <*> (Disassociated because station leaving).
+s48, 121, <*> : BTLE scanner Powered On
+s64, 122, USBMSC Identifier <*> <*> <*>
+s10, 123, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s65, 124, CCXPCService::setStreamEventHandler Registered for notification callback.
+s66, 125, <*> Failed to read DnsConfig.
+s67, 126, Saw change in network reachability <*>
+s68, 127, [HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host <*>
+s69, 128, en0: BSSID changed to <*>
+s15, 129, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 130, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 131, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s70, 132, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s31, 133, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s56, 134, Setting BTCoex Config: <*> <*> <*> <*>
+s71, 135, <?> effectiveBundleID] using process name apsd as bundle ID (this is expected for daemons without bundle ID
+s63, 136, AirPort: Link Down on en0. Reason <*> (Disassociated because station leaving).
+s15, 137, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 138, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s34, 139, ARPT: <*> wl0: wl_update_tcpkeep_seq: Updated <*> from UserClient Seq <*> Ack <*> Win size <*>
+s15, 140, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s13, 141, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s46, 142, SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error <*> <*> "Account identity not set" <?> identity not set}
+s15, 143, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 144, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 145, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 146, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s72, 147, RTC: Maintenance <*> <*> sleep <*> <*>
+s38, 148, AppleCamIn::wakeEventHandlerThread
+s73, 149, en0: channel changed to <*>
+s53, 150, ARPT: <*> wl0: setup_keepalive: interval <*> retry_interval <*> retry_count <*>
+s30, 151, AirPort: Link Up on <*>
+s48, 152, <*> : BTLE scanner Powered On
+s15, 153, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s70, 154, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s25, 155, <*> deny <*> <*>
+s70, 156, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s74, 157, RTC: PowerByCalendarDate setting ignored
+s2, 158, Thermal pressure state: <*> Memory pressure state: <*>
+s75, 159, Location icon should now be in state 'Active'
+s26, 160, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s70, 161, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s76, 162, en0: <*> country code set to 'X3'.
+s44, 163, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s41, 164, en0: channel changed to <*>
+s64, 165, USBMSC Identifier <*> <*> <*>
+s77, 166, ARPT: <*> wl0: setup_keepalive: Seq: <*> Ack: <*> Win size: <*>
+s13, 167, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s1, 168, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s9, 169, ARPT: <*> ARPT: Wake Reason: Wake on Scan offload
+s78, 170, <*> deny <*> <*>
+s2, 171, Thermal pressure state: <*> Memory pressure state: <*>
+s72, 172, RTC: Maintenance <*> <*> sleep <*> <*>
+s79, 173, [HID] [MT] AppleMultitouchDevice::willTerminate entered
+s80, 174, [BluetoothHIDDeviceController] EventServiceDisconnectedCallback
+s81, 175, PMStats: Hibernate read took <*> ms
+s46, 176, SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error <*> <*> "Account identity not set" <?> identity not set}
+s82, 177, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s83, 178, pages <*> wire <*> act <*> inact <*> cleaned <*> spec <*> zf <*> throt <*> compr <*> xpmapped <*>
+s84, 179, VDCAssistant: Found a camera <*> but was not able to start it up <*> <*> successful)
+s85, 180, handle_will_sleep_auth_and_shield_windows: Reordering authw <*> state: <*>
+s10, 181, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s49, 182, button report: <*>
+s86, 183, <*> <*> <*> <*> <?> runKeystonesInThreadWithArg:] Checking with local engine: <*> <*> <?> > >> <*> <*> <*> <*> <*> <*> <*> <?> ) > <?> <*> <*> >
+s87, 184, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s87, 185, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s88, 186, Error returned from iconservicesagent: (null)
+s89, 187, tcp_connection_tls_session_error_callback_imp <*> <*> error <*>
+s87, 188, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s88, 189, Error returned from iconservicesagent: (null)
+s90, 190, SecOSStatusWith <*> Error <?> <*> "query missing class name" (paramErr: error in user parameter list) <?> missing class name}
+s91, 191, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s92, 192, WARNING: Type1 font data isn't in the correct format required by the Adobe Type <*> Font Format specification.
+s91, 193, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s88, 194, Error returned from iconservicesagent: (null)
+s87, 195, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s88, 196, Error returned from iconservicesagent: (null)
+s87, 197, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s87, 198, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s87, 199, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s15, 200, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s93, 201, device_generate_desktop_screenshot: authw <*> <*>
+s87, 202, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s91, 203, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s87, 204, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s93, 205, device_generate_desktop_screenshot: authw <*> <*>
+s87, 206, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s88, 207, Error returned from iconservicesagent: (null)
+s94, 208, <*> [Refusing to parse response to PROPPATCH because of <*> <*> <*>
+s95, 209, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s49, 210, button report: <*>
+s8, 211, ARPT: <*> wl0: wl_update_tcpkeep_seq: Original Seq: <*> Ack: <*> Win size: <*>
+s96, 212, Previous sleep cause: <*>
+s30, 213, AirPort: Link Up on <*>
+s97, 214, Wake reason: RTC (Alarm)
+s98, 215, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s1, 216, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s48, 217, <*> : BTLE scanner Powered On
+s99, 218, network changed: <*> <*> DNS! Proxy SMB
+s82, 219, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s100, 220, hibernate_page_list_setall found pageCount <*>
+s101, 221, [HID] [ATC] [Error] AppleDeviceManagementHIDEventService::start Could not make a string from out connection notification key
+s102, 222, en0: BSSID changed to <*>
+s103, 223, [IOBluetoothFamily][staticBluetoothTransportShowsUp] <?> Received Bluetooth Controller register service notification <?> <*>
+s21, 224, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s3, 225, <*> dealloc
+s95, 226, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s104, 227, <*> <*> <*> <*> <?> updateProductWithProductID:usingEngine:] Checking for updates for <*> using engine <*> <*> <?> > >> <*> <*> <*> <*> <*> <*> <*> <?> ) > <?> <*> <*> >
+s105, 228, <*> <*> <?> I <?> VoipWrapper <?> <*> <?> close video chat. llFriendUIN <?> <*>
+s7, 229, ARPT: <*> IOPMPowerSource Information: onSleep, SleepType: Normal Sleep, 'ExternalConnected': <*> 'TimeRemaining': <*>
+s96, 230, Previous sleep cause: <*>
+s1, 231, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s9, 232, ARPT: <*> ARPT: Wake Reason: Wake on Scan offload
+s19, 233, PM response took <*> ms <*> powerd)
+s106, 234, Bluetooth <?> LE is supported <?> Disable LE meta event
+s107, 235, <*> : Discoverable mode changed to Off
+s108, 236, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s109, 237, Captive: CNPluginHandler en0: Authenticated
+s110, 238, ARPT: <*> wl0: setup_keepalive: Local IP: <*>
+s75, 239, Location icon should now be in state 'Active'
+s33, 240, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> retries <?> <*>
+s18, 241, AirPort: Link Down on awdl0. Reason <*> (Unspecified).
+s13, 242, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s44, 243, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s82, 244, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s96, 245, Previous sleep cause: <*>
+s5, 246, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s45, 247, Unrecognized attribute value: t:AbchPersonItemType
+s111, 248, TBT W <*> <*>
+s112, 249, network changed: DNS* Proxy
+s12, 250, ARPT: <*> wl0: MDNS: <*> SRV Recs, <*> TXT Recs
+s11, 251, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s71, 252, <?> effectiveBundleID] using process name apsd as bundle ID (this is expected for daemons without bundle ID
+s10, 253, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s59, 254, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s113, 255, mDNS_RegisterInterface: Frequent transitions for interface awdl0 <*>
+s98, 256, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s78, 257, <*> deny <*> <*>
+s11, 258, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s70, 259, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s29, 260, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+s75, 261, Location icon should now be in state 'Active'
+s52, 262, Location icon should now be in state 'Inactive'
+s89, 263, tcp_connection_tls_session_error_callback_imp <*> <*> error <*>
+s91, 264, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s75, 265, Location icon should now be in state 'Active'
+s114, 266, ASL Sender Statistics
+s13, 267, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s46, 268, SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error <*> <*> "Account identity not set" <?> identity not set}
+s115, 269, <*> <*> <*> <*> <?> launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched <*> with process id: <*>
+s116, 270, <*> <*> <*> <*> <?> updateAllExceptProduct:] KSUpdateEngine updating all installed products, <*>
+s117, 271, <*> <*> <*> <*> main() ksfetch fetching URL (<NSMutableURLRequest: <*> URL: <*> }) to <*>
+s52, 272, Location icon should now be in state 'Inactive'
+s3, 273, <*> dealloc
+s118, 274, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s90, 275, SecOSStatusWith <*> Error <?> <*> "query missing class name" (paramErr: error in user parameter list) <?> missing class name}
+s75, 276, Location icon should now be in state 'Active'
+s89, 277, tcp_connection_tls_session_error_callback_imp <*> <*> error <*>
+s119, 278, <*> <<<< <*> >>>> piqca_setUsePreQueue: <*> report of layer being serviced <?> IQ has not yet begun to update
+s120, 279, <*> itemasync_SetProperty signalled <*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>
+s121, 280, KeychainGetICDPStatus: keychain: <*>
+s121, 281, KeychainGetICDPStatus: keychain: <*>
+s118, 282, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s121, 283, KeychainGetICDPStatus: keychain: <*>
+s122, 284, host connection <NSXPCConnection: <*> from pid <*> invalidated
+s123, 285, Error in CoreDragRemoveReceiveHandler: <*>
+s124, 286, ARPT: <*> wl0: leaveModulePoweredForOffloads: <*> will stay on.
+s10, 287, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s125, 288, ARPT: <*> IOPMPowerSource Information: onWake, SleepType: Normal Sleep, 'ExternalConnected': Yes, 'TimeRemaining': <*>
+s2, 289, Thermal pressure state: <*> Memory pressure state: <*>
+s75, 290, Location icon should now be in state 'Active'
+s13, 291, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s13, 292, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s59, 293, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s15, 294, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s25, 295, <*> deny <*> <*>
+s126, 296, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s36, 297, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> intel_rp <?> <*> dlla_reporting_supported <?> <*>
+s99, 298, network changed: <*> <*> DNS! Proxy SMB
+s15, 299, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s127, 300, Captive: CNPluginHandler en0: Inactive
+s65, 301, CCXPCService::setStreamEventHandler Registered for notification callback.
+s56, 302, Setting BTCoex Config: <*> <*> <*> <*>
+s13, 303, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s128, 304, in6_unlink_ifa: IPv6 address <*> no prefix
+s129, 305, network changed: <*> <*> DNS! Proxy SMB
+s15, 306, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s70, 307, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s12, 308, ARPT: <*> wl0: MDNS: <*> SRV Recs, <*> TXT Recs
+s69, 309, en0: BSSID changed to <*>
+s41, 310, en0: channel changed to <*>
+s15, 311, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s70, 312, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s130, 313, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s2, 314, Thermal pressure state: <*> Memory pressure state: <*>
+s15, 315, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s131, 316, PBRequester failed with Error Error <?> <*> "The request timed <*> <*> <?> <*> "The request timed <*> <*> <*> <*> <*> <?> request timed <*> <*> <*> <*> <*> <?> request timed <*>
+s130, 317, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s36, 318, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> intel_rp <?> <*> dlla_reporting_supported <?> <*>
+s15, 319, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 320, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s2, 321, Thermal pressure state: <*> Memory pressure state: <*>
+s106, 322, Bluetooth <?> LE is supported <?> Disable LE meta event
+s33, 323, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> retries <?> <*>
+s40, 324, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s15, 325, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s1, 326, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s38, 327, AppleCamIn::wakeEventHandlerThread
+s40, 328, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s132, 329, device_generate_lock_screen_screenshot: authw <*> <*> <*> shield <*> <*>
+s75, 330, Location icon should now be in state 'Active'
+s133, 331, <*> <*> <*> <*> KSHelperReceiveAllData() KSHelperTool read <*> bytes from stdin.
+s134, 332, <*> FigAgglomeratorSetObjectForKey signalled <*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>
+s52, 333, Location icon should now be in state 'Inactive'
+s89, 334, tcp_connection_tls_session_error_callback_imp <*> <*> error <*>
+s114, 335, ASL Sender Statistics
+s135, 336, <*> : BTLE scanner Powered Off
+s91, 337, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s136, 338, PBRequester failed with Error Error <?> <*> "The Internet connection appears to be <*> <*> <?> <*> "The Internet connection appears to be <*> <*> <*> <*> <*> <?> Internet connection appears to be <*> <*> <*> <*> <*> <?> Internet connection appears to be <*>
+s137, 339, ARPT: <*> AQM agg params <*> <*> <*> <*> <*>
+s138, 340, Received Capture Event
+s61, 341, Captive: CNPluginHandler en0: Evaluating
+s139, 342, Sandbox: <*> <*> <*> <*>
+s70, 343, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s28, 344, Sandbox: <*> <*> <*> <*>
+s24, 345, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s140, 346, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s75, 347, Location icon should now be in state 'Active'
+s1, 348, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s126, 349, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s13, 350, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s98, 351, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s18, 352, AirPort: Link Down on awdl0. Reason <*> (Unspecified).
+s114, 353, ASL Sender Statistics
+s31, 354, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s13, 355, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s46, 356, SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error <*> <*> "Account identity not set" <?> identity not set}
+s106, 357, Bluetooth <?> LE is supported <?> Disable LE meta event
+s13, 358, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s89, 359, tcp_connection_tls_session_error_callback_imp <*> <*> error <*>
+s141, 360, sigio_handler: sigio_handler_active <?> <*>
+s142, 361, ############################## _getSysMsgList
+s143, 362, Configuration Notice: ASL Module <*> claims selected messages. Those messages may not appear in standard system log files or in the ASL database.
+s7, 363, ARPT: <*> IOPMPowerSource Information: onSleep, SleepType: Normal Sleep, 'ExternalConnected': <*> 'TimeRemaining': <*>
+s144, 364, Wake reason: ?
+s73, 365, en0: channel changed to <*>
+s145, 366, <*> : Scanning mode Contacts Only
+s64, 367, USBMSC Identifier <*> <*> <*>
+s2, 368, Thermal pressure state: <*> Memory pressure state: <*>
+s77, 369, ARPT: <*> wl0: setup_keepalive: Seq: <*> Ack: <*> Win size: <*>
+s39, 370, ARPT: <*> wl0: setup_keepalive: Local port: <*> Remote port: <*>
+s146, 371, <*> : BTLE scanning stopped
+s25, 372, <*> deny <*> <*>
+s147, 373, wake time set <*> s
+s53, 374, ARPT: <*> wl0: setup_keepalive: interval <*> retry_interval <*> retry_count <*>
+s96, 375, Previous sleep cause: <*>
+s148, 376, [HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.
+s53, 377, ARPT: <*> wl0: setup_keepalive: interval <*> retry_interval <*> retry_count <*>
+s77, 378, ARPT: <*> wl0: setup_keepalive: Seq: <*> Ack: <*> Win size: <*>
+s29, 379, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+s13, 380, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s40, 381, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s13, 382, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s13, 383, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s146, 384, <*> : BTLE scanning stopped
+s128, 385, in6_unlink_ifa: IPv6 address <*> no prefix
+s38, 386, AppleCamIn::wakeEventHandlerThread
+s96, 387, Previous sleep cause: <*>
+s98, 388, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s149, 389, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s95, 390, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s52, 391, Location icon should now be in state 'Inactive'
+s150, 392, mDNS_DeregisterInterface: Frequent transitions for interface en0 <*>
+s149, 393, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s25, 394, <*> deny <*> <*>
+s13, 395, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s147, 396, wake time set <*> s
+s38, 397, AppleCamIn::wakeEventHandlerThread
+s25, 398, <*> deny <*> <*>
+s13, 399, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s74, 400, RTC: PowerByCalendarDate setting ignored
+s73, 401, en0: channel changed to <*>
+s8, 402, ARPT: <*> wl0: wl_update_tcpkeep_seq: Original Seq: <*> Ack: <*> Win size: <*>
+s33, 403, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> retries <?> <*>
+s49, 404, button report: <*>
+s151, 405, AppleCamIn::handleWakeEvent_gated
+s124, 406, ARPT: <*> wl0: leaveModulePoweredForOffloads: <*> will stay on.
+s33, 407, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> retries <?> <*>
+s2, 408, Thermal pressure state: <*> Memory pressure state: <*>
+s70, 409, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s141, 410, sigio_handler: sigio_handler_active <?> <*>
+s2, 411, Thermal pressure state: <*> Memory pressure state: <*>
+s28, 412, Sandbox: <*> <*> <*> <*>
+s12, 413, ARPT: <*> wl0: MDNS: <*> SRV Recs, <*> TXT Recs
+s29, 414, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+s4, 415, ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+s1, 416, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s31, 417, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s13, 418, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s2, 419, Thermal pressure state: <*> Memory pressure state: <*>
+s126, 420, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s1, 421, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s152, 422, <*> : Purged contact hashes
+s13, 423, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s25, 424, <*> deny <*> <*>
+s25, 425, <*> deny <*> <*>
+s5, 426, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s34, 427, ARPT: <*> wl0: wl_update_tcpkeep_seq: Updated <*> from UserClient Seq <*> Ack <*> Win size <*>
+s31, 428, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s153, 429, <*> : BTLE scanning started
+s13, 430, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s154, 431, IOPMrootDomain: idle cancel, state <*>
+s98, 432, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s2, 433, Thermal pressure state: <*> Memory pressure state: <*>
+s29, 434, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+s107, 435, <*> : Discoverable mode changed to Off
+s34, 436, ARPT: <*> wl0: wl_update_tcpkeep_seq: Updated <*> from UserClient Seq <*> Ack <*> Win size <*>
+s95, 437, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s39, 438, ARPT: <*> wl0: setup_keepalive: Local port: <*> Remote port: <*>
+s19, 439, PM response took <*> ms <*> powerd)
+s34, 440, ARPT: <*> wl0: wl_update_tcpkeep_seq: Updated <*> from UserClient Seq <*> Ack <*> Win size <*>
+s155, 441, ARPT: <*> ARPT: Wake Reason: Wake on TCP Timeout
+s13, 442, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s7, 443, ARPT: <*> IOPMPowerSource Information: onSleep, SleepType: Normal Sleep, 'ExternalConnected': <*> 'TimeRemaining': <*>
+s33, 444, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> retries <?> <*>
+s39, 445, ARPT: <*> wl0: setup_keepalive: Local port: <*> Remote port: <*>
+s1, 446, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s156, 447, hibernate_alloc_pages act <*> inact <*> anon <*> throt <*> spec <*> wire <*> wireinit <*>
+s157, 448, hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>
+s12, 449, ARPT: <*> wl0: MDNS: <*> SRV Recs, <*> TXT Recs
+s19, 450, PM response took <*> ms <*> powerd)
+s145, 451, <*> : Scanning mode Contacts Only
+s38, 452, AppleCamIn::wakeEventHandlerThread
+s70, 453, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s70, 454, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s96, 455, Previous sleep cause: <*>
+s30, 456, AirPort: Link Up on <*>
+s141, 457, sigio_handler: sigio_handler_active <?> <*>
+s49, 458, button report: <*>
+s158, 459, enabling <*> for <*> <*> <*> <*>
+s3, 460, <*> dealloc
+s159, 461, <*> <*> <*> <*> <?> performSelfUpdateWithEngine:] Checking for self update with Engine: <*> <*> <?> > >> <*> <*> <*> <*> <*> <*> <*> <?> ) > <?> <*> <*> >
+s160, 462, <*> <*> <*> <*> <?> updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.
+s3, 463, <*> dealloc
+s140, 464, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s134, 465, <*> FigAgglomeratorSetObjectForKey signalled <*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>
+s161, 466, <*> itemasync_CopyProperty signalled <*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>
+s161, 467, <*> itemasync_CopyProperty signalled <*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>
+s119, 468, <*> <<<< <*> >>>> piqca_setUsePreQueue: <*> report of layer being serviced <?> IQ has not yet begun to update
+s119, 469, <*> <<<< <*> >>>> piqca_setUsePreQueue: <*> report of layer being serviced <?> IQ has not yet begun to update
+s119, 470, <*> <<<< <*> >>>> piqca_setUsePreQueue: <*> report of layer being serviced <?> IQ has not yet begun to update
+s140, 471, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s120, 472, <*> itemasync_SetProperty signalled <*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>
+s120, 473, <*> itemasync_SetProperty signalled <*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>
+s120, 474, <*> itemasync_SetProperty signalled <*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>
+s140, 475, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s140, 476, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s161, 477, <*> itemasync_CopyProperty signalled <*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>
+s134, 478, <*> FigAgglomeratorSetObjectForKey signalled <*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>
+s140, 479, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s140, 480, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s161, 481, <*> itemasync_CopyProperty signalled <*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>
+s120, 482, <*> itemasync_SetProperty signalled <*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>
+s147, 483, wake time set <*> s
+s162, 484, Opened file <*> size <*> extents <*> maxio <*> ssd <*>
+s163, 485, NETWORK: no response from server, reachability, <*> queryRetries, <*>
+s22, 486, IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, <*>
+s59, 487, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s164, 488, Unexpected payload found for message <*> dataLen <*>
+s165, 489, CCFile::captureLog
+s166, 490, en0: Supported channels <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+s45, 491, Unrecognized attribute value: t:AbchPersonItemType
+s13, 492, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s167, 493, ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake <?> Full Wake/ Dark Wake / Maintenance wake
+s13, 494, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s5, 495, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s168, 496, Internal name did not resolve to internal address!
+s70, 497, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s169, 498, Service exited with abnormal code: <*>
+s170, 499, Central manager is not powered on
+s33, 500, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> retries <?> <*>
+s14, 501, setting hostname to <*>
+s171, 502, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s55, 503, <*> evaluateCrazyIvan46]_block_invoke CI46 <?> Hit by torpedo! <*> <*> <*>
+s172, 504, CCFile::copyFile fileName is <*> source <*> dest <*>
+s173, 505, ARPT: <*> framerdy <*> <*> framecnt <*>
+s108, 506, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s108, 507, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s82, 508, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s58, 509, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from SUSPENDED to AUTO
+s22, 510, IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, <*>
+s25, 511, <*> deny <*> <*>
+s174, 512, <IMMacNotificationCenterManager: <*> DND Enabled: YES
+s91, 513, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s59, 514, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s58, 515, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from SUSPENDED to AUTO
+s175, 516, <*> : Starting AirDrop server for user <*> on wake
+s28, 517, Sandbox: <*> <*> <*> <*>
+s13, 518, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s176, 519, ARPT: <*> wl0: setup_keepalive: Remote IP: <*>
+s8, 520, ARPT: <*> wl0: wl_update_tcpkeep_seq: Original Seq: <*> Ack: <*> Win size: <*>
+s72, 521, RTC: Maintenance <*> <*> sleep <*> <*>
+s28, 522, Sandbox: <*> <*> <*> <*>
+s124, 523, ARPT: <*> wl0: leaveModulePoweredForOffloads: <*> will stay on.
+s40, 524, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s167, 525, ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake <?> Full Wake/ Dark Wake / Maintenance wake
+s5, 526, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s106, 527, Bluetooth <?> LE is supported <?> Disable LE meta event
+s46, 528, SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error <*> <*> "Account identity not set" <?> identity not set}
+s70, 529, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s177, 530, <<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of <*> bytes @ <*> took <*> secs. to complete, <*> reads <?> <*> sec.
+s36, 531, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> intel_rp <?> <*> dlla_reporting_supported <?> <*>
+s25, 532, <*> deny <*> <*>
+s176, 533, ARPT: <*> wl0: setup_keepalive: Remote IP: <*>
+s38, 534, AppleCamIn::wakeEventHandlerThread
+s167, 535, ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake <?> Full Wake/ Dark Wake / Maintenance wake
+s71, 536, <?> effectiveBundleID] using process name apsd as bundle ID (this is expected for daemons without bundle ID
+s57, 537, Captive: <*> en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive)
+s178, 538, network changed: <*> <*> DNS Proxy SMB
+s138, 539, Received Capture Event
+s43, 540, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s179, 541, CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+s24, 542, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s172, 543, CCFile::copyFile fileName is <*> source <*> dest <*>
+s41, 544, en0: channel changed to <*>
+s28, 545, Sandbox: <*> <*> <*> <*>
+s180, 546, CCLogTap::profileRemoved, Owner: <*> Name: OneStats
+s177, 547, <<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of <*> bytes @ <*> took <*> <*> to complete, <*> reads <?> <*> sec.
+s10, 548, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s151, 549, AppleCamIn::handleWakeEvent_gated
+s171, 550, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s171, 551, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s171, 552, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s24, 553, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s165, 554, CCFile::captureLog
+s171, 555, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s38, 556, AppleCamIn::wakeEventHandlerThread
+s181, 557, network changed: <*> <?> <?>
+s42, 558, ARPT: <*> AQM agg results <*> <*> <*> <*> <*> <*> <*>
+s172, 559, CCFile::copyFile fileName is <*> source <*> dest <*>
+s171, 560, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s173, 561, ARPT: <*> framerdy <*> <*> framecnt <*>
+s172, 562, CCFile::copyFile fileName is <*> source <*> dest <*>
+s16, 563, CCIOReporterFormatter::addRegistryChildToChannelDictionary streams <*>
+s172, 564, CCFile::copyFile fileName is <*> source <*> dest <*>
+s24, 565, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s165, 566, CCFile::captureLog
+s182, 567, ARPT: <*> wlc_dump_aggfifo:
+s171, 568, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s165, 569, CCFile::captureLog
+s42, 570, ARPT: <*> AQM agg results <*> <*> <*> <*> <*> <*> <*>
+s172, 571, CCFile::copyFile fileName is <*> source <*> dest <*>
+s21, 572, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s22, 573, IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, <*>
+s144, 574, Wake reason: ?
+s31, 575, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s30, 576, AirPort: Link Up on <*>
+s21, 577, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s171, 578, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s183, 579, <*> <<<< CRABS >>>> crabsFlumeHostUnavailable: <*> flume reports host unavailable.
+s25, 580, <*> deny <*> <*>
+s29, 581, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+s21, 582, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s172, 583, CCFile::copyFile fileName is <*> source <*> dest <*>
+s179, 584, CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+s151, 585, AppleCamIn::handleWakeEvent_gated
+s182, 586, ARPT: <*> wlc_dump_aggfifo:
+s172, 587, CCFile::copyFile fileName is <*> source <*> dest <*>
+s184, 588, <*> Will write to: <*> <?> <*>
+s109, 589, Captive: CNPluginHandler en0: Authenticated
+s52, 590, Location icon should now be in state 'Inactive'
+s13, 591, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s62, 592, tcp_connection_destination_perform_socket_connect <*> connectx to <*> failed: <*> Network is <*>
+s108, 593, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s138, 594, Received Capture Event
+s171, 595, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s24, 596, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s165, 597, CCFile::captureLog
+s173, 598, ARPT: <*> framerdy <*> <*> framecnt <*>
+s2, 599, Thermal pressure state: <*> Memory pressure state: <*>
+s49, 600, button report: <*>
+s171, 601, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s179, 602, CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+s11, 603, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s61, 604, Captive: CNPluginHandler en0: Evaluating
+s55, 605, <*> evaluateCrazyIvan46]_block_invoke CI46 <?> Hit by torpedo! <*> <*> <*>
+s44, 606, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s185, 607, <*> <?> <*> Error <?> <*> "The request timed <*> <*> <?> <*> "The request timed <*> <*> <*> <*> <*> <?> request timed <*> <*> <*> <*> <*> <?> request timed <*>
+s165, 608, CCFile::captureLog
+s59, 609, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s4, 610, ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+s9, 611, ARPT: <*> ARPT: Wake Reason: Wake on Scan offload
+s12, 612, ARPT: <*> wl0: MDNS: <*> SRV Recs, <*> TXT Recs
+s186, 613, hibernate image path: <*>
+s187, 614, hibernate_flush_memory: buffer_cache_gc freed up <*> wired pages
+s188, 615, hibernate_machine_init pagesDone <*> sum2 81cafc41, time: <*> ms, <*> <*> comp bytes: <*> time: <*> ms <*> <*> crypt bytes: <*> time: <*> ms <*> <*>
+s2, 616, Thermal pressure state: <*> Memory pressure state: <*>
+s189, 617, ASSERTION FAILED: dvcAddrRef <?> ((void <*> <?> getDeviceAddress:] line: <*>
+s33, 618, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> retries <?> <*>
+s190, 619, hibernate_machine_init reading
+s191, 620, assertion failed: 15G1510: <*> <?> <*> <*> <*>
+s187, 621, hibernate_flush_memory: buffer_cache_gc freed up <*> wired pages
+s2, 622, Thermal pressure state: <*> Memory pressure state: <*>
+s191, 623, assertion failed: 15G1510: <*> <?> <*> <*> <*>
+s30, 624, AirPort: Link Up on <*>
+s40, 625, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s2, 626, Thermal pressure state: <*> Memory pressure state: <*>
+s192, 627, jemmytest
+s193, 628, <*> took <*> ms
+s194, 629, **** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] <?> calling IOBluetoothFamily's registerService() <?> <*> <*> <*>
+s195, 630, **** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] <?> Connected to the transport successfully <?> <*> <*> <*>
+s196, 631, hciControllerOnline; HID devices? <*>
+s197, 632, INIT <?> Host controller is published
+s198, 633, polled file major <*> minor <*> blocksize <*> pollers <*>
+s45, 634, Unrecognized attribute value: t:AbchPersonItemType
+s46, 635, SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error <*> <*> "Account identity not set" <?> identity not set}
+s199, 636, BuildActDeviceEntry exit
+s55, 637, <*> evaluateCrazyIvan46]_block_invoke CI46 <?> Hit by torpedo! <*> <*> <*>
+s151, 638, AppleCamIn::handleWakeEvent_gated
+s150, 639, mDNS_DeregisterInterface: Frequent transitions for interface en0 <*>
+s200, 640, ARPT: <*> IOPMPowerSource Information: onSleep, SleepType: Standby, 'ExternalConnected': No, 'TimeRemaining': <*>
+s5, 641, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s176, 642, ARPT: <*> wl0: setup_keepalive: Remote IP: <*>
+s201, 643, Wake reason: ARPT (Network)
+s202, 644, AppleActuatorHIDEventDriver: message service is terminated
+s189, 645, ASSERTION FAILED: dvcAddrRef <?> ((void <*> <?> getDeviceAddress:] line: <*>
+s183, 646, <*> <<<< CRABS >>>> crabsFlumeHostUnavailable: <*> flume reports host unavailable.
+s203, 647, en0: BSSID changed to <*>
+s49, 648, button report: <*>
+s204, 649, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s11, 650, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s171, 651, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s205, 652, payload Data <*> <*>
+s101, 653, [HID] [ATC] [Error] AppleDeviceManagementHIDEventService::start Could not make a string from out connection notification key
+s13, 654, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s206, 655, en0: <*> country code set to 'US'.
+s24, 656, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s21, 657, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s22, 658, IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, <*>
+s207, 659, WARNING: hibernate_page_list_setall skipped <*> xpmapped pages
+s208, 660, hibernate_teardown: wired_pages <*> free_pages <*> active_pages <*> inactive_pages <*> speculative_pages <*> cleaned_pages <*> compressor_pages <*>
+s83, 661, pages <*> wire <*> act <*> inact <*> cleaned <*> spec <*> zf <*> throt <*> compr <*> xpmapped <*>
+s209, 662, [BluetoothHIDDeviceController] EventServiceConnectedCallback
+s194, 663, **** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] <?> calling IOBluetoothFamily's registerService() <?> <*> <*> <*>
+s173, 664, ARPT: <*> framerdy <*> <*> framecnt <*>
+s42, 665, ARPT: <*> AQM agg results <*> <*> <*> <*> <*> <*> <*>
+s24, 666, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s134, 667, <*> FigAgglomeratorSetObjectForKey signalled <*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>
+s108, 668, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s138, 669, Received Capture Event
+s22, 670, IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, <*>
+s172, 671, CCFile::copyFile fileName is <*> source <*> dest <*>
+s74, 672, RTC: PowerByCalendarDate setting ignored
+s138, 673, Received Capture Event
+s49, 674, button report: <*>
+s210, 675, hibernate_rebuild_pmap_structs done: last_valid_compact_indx <*>
+s211, 676, BuildActDeviceEntry enter
+s109, 677, Captive: CNPluginHandler en0: Authenticated
+s1, 678, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s73, 679, en0: channel changed to <*>
+s212, 680, <*> Asked to exit for Diskarb
+s118, 681, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s140, 682, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s213, 683, <*> <*> <*> <*> <?> performAction] KSUpdateCheckAction starting update check for ticket(s): {( <*> <*> <*> <*> <*> <*> <*> > )} Using server: <*>
+s134, 684, <*> FigAgglomeratorSetObjectForKey signalled <*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>
+s192, 685, jemmytest
+s3, 686, <*> dealloc
+s134, 687, <*> FigAgglomeratorSetObjectForKey signalled <*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>
+s140, 688, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s214, 689, KeychainGetICDPStatus: status: off
+s91, 690, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s118, 691, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s134, 692, <*> FigAgglomeratorSetObjectForKey signalled <*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>
+s141, 693, sigio_handler: sigio_handler_active <?> <*>
+s108, 694, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s108, 695, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s165, 696, CCFile::captureLog
+s172, 697, CCFile::copyFile fileName is <*> source <*> dest <*>
+s41, 698, en0: channel changed to <*>
+s139, 699, Sandbox: <*> <*> <*> <*>
+s55, 700, <*> evaluateCrazyIvan46]_block_invoke CI46 <?> Hit by torpedo! <*> <*> <*>
+s28, 701, Sandbox: <*> <*> <*> <*>
+s52, 702, Location icon should now be in state 'Inactive'
+s140, 703, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s91, 704, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s192, 705, jemmytest
+s95, 706, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s75, 707, Location icon should now be in state 'Active'
+s3, 708, <*> dealloc
+s70, 709, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s140, 710, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s52, 711, Location icon should now be in state 'Inactive'
+s214, 712, KeychainGetICDPStatus: status: off
+s215, 713, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s89, 714, tcp_connection_tls_session_error_callback_imp <*> <*> error <*>
+s15, 715, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 716, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s4, 717, ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+s15, 718, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s151, 719, AppleCamIn::handleWakeEvent_gated
+s15, 720, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 721, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s216, 722, Checking iCDP status for DSID <*> <*>
+s15, 723, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s2, 724, Thermal pressure state: <*> Memory pressure state: <*>
+s215, 725, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s5, 726, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s15, 727, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s176, 728, ARPT: <*> wl0: setup_keepalive: Remote IP: <*>
+s215, 729, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s124, 730, ARPT: <*> wl0: leaveModulePoweredForOffloads: <*> will stay on.
+s15, 731, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 732, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s98, 733, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s15, 734, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s82, 735, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s2, 736, Thermal pressure state: <*> Memory pressure state: <*>
+s96, 737, Previous sleep cause: <*>
+s31, 738, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s142, 739, ############################## _getSysMsgList
+s15, 740, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s217, 741, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s96, 742, Previous sleep cause: <*>
+s15, 743, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s176, 744, ARPT: <*> wl0: setup_keepalive: Remote IP: <*>
+s15, 745, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 746, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s70, 747, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s74, 748, RTC: PowerByCalendarDate setting ignored
+s15, 749, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s155, 750, ARPT: <*> ARPT: Wake Reason: Wake on TCP Timeout
+s15, 751, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s110, 752, ARPT: <*> wl0: setup_keepalive: Local IP: <*>
+s13, 753, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s28, 754, Sandbox: <*> <*> <*> <*>
+s2, 755, Thermal pressure state: <*> Memory pressure state: <*>
+s90, 756, SecOSStatusWith <*> Error <?> <*> "query missing class name" (paramErr: error in user parameter list) <?> missing class name}
+s19, 757, PM response took <*> ms <*> powerd)
+s15, 758, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s106, 759, Bluetooth <?> LE is supported <?> Disable LE meta event
+s13, 760, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s98, 761, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s41, 762, en0: channel changed to <*>
+s2, 763, Thermal pressure state: <*> Memory pressure state: <*>
+s28, 764, Sandbox: <*> <*> <*> <*>
+s126, 765, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s215, 766, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s29, 767, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+s167, 768, ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake <?> Full Wake/ Dark Wake / Maintenance wake
+s15, 769, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s142, 770, ############################## _getSysMsgList
+s28, 771, Sandbox: <*> <*> <*> <*>
+s13, 772, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s15, 773, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s98, 774, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s106, 775, Bluetooth <?> LE is supported <?> Disable LE meta event
+s2, 776, Thermal pressure state: <*> Memory pressure state: <*>
+s15, 777, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 778, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s1, 779, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s24, 780, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s34, 781, ARPT: <*> wl0: wl_update_tcpkeep_seq: Updated <*> from UserClient Seq <*> Ack <*> Win size <*>
+s9, 782, ARPT: <*> ARPT: Wake Reason: Wake on Scan offload
+s22, 783, IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, <*>
+s110, 784, ARPT: <*> wl0: setup_keepalive: Local IP: <*>
+s15, 785, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 786, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s70, 787, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s15, 788, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s34, 789, ARPT: <*> wl0: wl_update_tcpkeep_seq: Updated <*> from UserClient Seq <*> Ack <*> Win size <*>
+s13, 790, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s36, 791, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> intel_rp <?> <*> dlla_reporting_supported <?> <*>
+s31, 792, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s15, 793, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 794, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 795, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s125, 796, ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': Yes, 'TimeRemaining': <*>
+s1, 797, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s218, 798, network changed: <*> <*> <?> <?>
+s27, 799, AirPort: Link Up on <*>
+s70, 800, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s28, 801, Sandbox: <*> <*> <*> <*>
+s39, 802, ARPT: <*> wl0: setup_keepalive: Local port: <*> Remote port: <*>
+s19, 803, PM response took <*> ms <*> powerd)
+s14, 804, setting hostname to <*>
+s108, 805, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s41, 806, en0: channel changed to <*>
+s35, 807, en0::IO80211Interface::postMessage bssid changed
+s15, 808, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s31, 809, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s59, 810, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s35, 811, en0::IO80211Interface::postMessage bssid changed
+s15, 812, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s70, 813, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s15, 814, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s38, 815, AppleCamIn::wakeEventHandlerThread
+s69, 816, en0: BSSID changed to <*>
+s219, 817, network changed: DNS*
+s220, 818, en0: Supported channels <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+s64, 819, USBMSC Identifier <*> <*> <*>
+s15, 820, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s95, 821, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s221, 822, en0: BSSID changed to <*>
+s44, 823, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s59, 824, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s15, 825, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 826, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s126, 827, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s4, 828, ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+s206, 829, en0: <*> country code set to 'US'.
+s166, 830, en0: Supported channels <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+s15, 831, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 832, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s138, 833, Received Capture Event
+s77, 834, ARPT: <*> wl0: setup_keepalive: Seq: <*> Ack: <*> Win size: <*>
+s18, 835, AirPort: Link Down on awdl0. Reason <*> (Unspecified).
+s151, 836, AppleCamIn::handleWakeEvent_gated
+s15, 837, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s108, 838, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s109, 839, Captive: CNPluginHandler en0: Authenticated
+s70, 840, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s15, 841, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s18, 842, AirPort: Link Down on awdl0. Reason <*> (Unspecified).
+s41, 843, en0: channel changed to <*>
+s15, 844, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s108, 845, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s10, 846, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s221, 847, en0: BSSID changed to <*>
+s139, 848, Sandbox: <*> <*> <*> <*>
+s129, 849, network changed: <*> <*> DNS! Proxy SMB
+s3, 850, <*> dealloc
+s38, 851, AppleCamIn::wakeEventHandlerThread
+s59, 852, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s70, 853, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s15, 854, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 855, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s222, 856, <*> <*> <*> <*> <?> verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for <*> with the requirement 'anchor apple generic and certificate <*> exists and certificate <*> exists and certificate <*> and <*>
+s223, 857, <*> <*> <*> <*> main() ksfetch done fetching.
+s77, 858, ARPT: <*> wl0: setup_keepalive: Seq: <*> Ack: <*> Win size: <*>
+s4, 859, ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+s59, 860, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s11, 861, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s26, 862, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s12, 863, ARPT: <*> wl0: MDNS: <*> SRV Recs, <*> TXT Recs
+s76, 864, en0: <*> country code set to 'X3'.
+s64, 865, USBMSC Identifier <*> <*> <*>
+s15, 866, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s59, 867, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s224, 868, network changed: <*> <?> <?> SMB
+s15, 869, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s225, 870, <*> Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid)
+s37, 871, mDNS_RegisterInterface: Frequent transitions for interface en0 <*>
+s17, 872, <*> <<<< CRABS >>>> crabsFlumeHostAvailable: <*> flume reports host available again.
+s15, 873, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s142, 874, ############################## _getSysMsgList
+s56, 875, Setting BTCoex Config: <*> <*> <*> <*>
+s15, 876, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s45, 877, Unrecognized attribute value: t:AbchPersonItemType
+s31, 878, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s15, 879, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 880, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s70, 881, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s70, 882, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s28, 883, Sandbox: <*> <*> <*> <*>
+s26, 884, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s13, 885, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s31, 886, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s15, 887, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 888, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s215, 889, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s41, 890, en0: channel changed to <*>
+s70, 891, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s140, 892, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s63, 893, AirPort: Link Down on en0. Reason <*> (Disassociated because station leaving).
+s15, 894, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 895, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s38, 896, AppleCamIn::wakeEventHandlerThread
+s59, 897, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s226, 898, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s16, 899, CCIOReporterFormatter::addRegistryChildToChannelDictionary streams <*>
+s15, 900, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s82, 901, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s171, 902, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s171, 903, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s126, 904, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s68, 905, [HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host <*>
+s28, 906, Sandbox: <*> <*> <*> <*>
+s126, 907, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s35, 908, en0::IO80211Interface::postMessage bssid changed
+s24, 909, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s15, 910, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 911, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s77, 912, ARPT: <*> wl0: setup_keepalive: Seq: <*> Ack: <*> Win size: <*>
+s227, 913, CCLogTap::profileRemoved, Owner: <*> Name: IO80211AWDLPeerManager
+s90, 914, SecOSStatusWith <*> Error <?> <*> "query missing class name" (paramErr: error in user parameter list) <?> missing class name}
+s151, 915, AppleCamIn::handleWakeEvent_gated
+s70, 916, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s28, 917, Sandbox: <*> <*> <*> <*>
+s25, 918, <*> deny <*> <*>
+s118, 919, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s140, 920, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s140, 921, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s52, 922, Location icon should now be in state 'Inactive'
+s140, 923, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s228, 924, extension <*> <?> (null)
+s140, 925, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s39, 926, ARPT: <*> wl0: setup_keepalive: Local port: <*> Remote port: <*>
+s1, 927, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s43, 928, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s24, 929, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s15, 930, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s2, 931, Thermal pressure state: <*> Memory pressure state: <*>
+s225, 932, <*> Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid)
+s64, 933, USBMSC Identifier <*> <*> <*>
+s53, 934, ARPT: <*> wl0: setup_keepalive: interval <*> retry_interval <*> retry_count <*>
+s38, 935, AppleCamIn::wakeEventHandlerThread
+s74, 936, RTC: PowerByCalendarDate setting ignored
+s15, 937, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s2, 938, Thermal pressure state: <*> Memory pressure state: <*>
+s15, 939, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s45, 940, Unrecognized attribute value: t:AbchPersonItemType
+s5, 941, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s98, 942, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s49, 943, button report: <*>
+s140, 944, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s52, 945, Location icon should now be in state 'Inactive'
+s229, 946, [Accounts] Current connection, <NSXPCConnection: <*> from pid <*> doesn't have account access.
+s230, 947, [Accounts] Failed to update account with identifier <*> error: Error <?> <*> "(null)"
+s75, 948, Location icon should now be in state 'Active'
+s140, 949, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s134, 950, <*> FigAgglomeratorSetObjectForKey signalled <*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>
+s231, 951, Session <*> created
+s140, 952, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s140, 953, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s134, 954, <*> FigAgglomeratorSetObjectForKey signalled <*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>
+s232, 955, <*> <*> <*> <*> <?> helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: <*>
+s114, 956, ASL Sender Statistics
+s95, 957, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s52, 958, Location icon should now be in state 'Inactive'
+s88, 959, Error returned from iconservicesagent: (null)
+s87, 960, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s87, 961, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s140, 962, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s2, 963, Thermal pressure state: <*> Memory pressure state: <*>
+s28, 964, Sandbox: <*> <*> <*> <*>
+s28, 965, Sandbox: <*> <*> <*> <*>
+s49, 966, button report: <*>
+s142, 967, ############################## _getSysMsgList
+s167, 968, ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake <?> Full Wake/ Dark Wake / Maintenance wake
+s15, 969, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s233, 970, kern_open_file_for_direct_io took <*> ms
+s15, 971, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 972, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s175, 973, <*> : Starting AirDrop server for user <*> on wake
+s125, 974, ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': Yes, 'TimeRemaining': <*>
+s167, 975, ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake <?> Full Wake/ Dark Wake / Maintenance wake
+s145, 976, <*> : Scanning mode Contacts Only
+s28, 977, Sandbox: <*> <*> <*> <*>
+s31, 978, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s53, 979, ARPT: <*> wl0: setup_keepalive: interval <*> retry_interval <*> retry_count <*>
+s38, 980, AppleCamIn::wakeEventHandlerThread
+s49, 981, button report: <*>
+s70, 982, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s15, 983, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s82, 984, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s34, 985, ARPT: <*> wl0: wl_update_tcpkeep_seq: Updated <*> from UserClient Seq <*> Ack <*> Win size <*>
+s221, 986, en0: BSSID changed to <*>
+s15, 987, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s82, 988, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s145, 989, <*> : Scanning mode Contacts Only
+s46, 990, SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error <*> <*> "Account identity not set" <?> identity not set}
+s70, 991, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s13, 992, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s13, 993, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s96, 994, Previous sleep cause: <*>
+s70, 995, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s53, 996, ARPT: <*> wl0: setup_keepalive: interval <*> retry_interval <*> retry_count <*>
+s124, 997, ARPT: <*> wl0: leaveModulePoweredForOffloads: <*> will stay on.
+s234, 998, CGXDisplayDidWakeNotification <*> posting kCGSDisplayDidWake
+s126, 999, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s46, 1000, SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error <*> <*> "Account identity not set" <?> identity not set}
+s235, 1001, Peripheral manager is not powered on
+s162, 1002, Opened file <*> size <*> extents <*> maxio <*> ssd <*>
+s68, 1003, [HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host <*>
+s28, 1004, Sandbox: <*> <*> <*> <*>
+s15, 1005, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s1, 1006, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s15, 1007, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1008, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s28, 1009, Sandbox: <*> <*> <*> <*>
+s15, 1010, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s154, 1011, IOPMrootDomain: idle cancel, state <*>
+s54, 1012, ARPT: <*> wl0: MDNS: IPV4 Addr: <*>
+s125, 1013, ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': Yes, 'TimeRemaining': <*>
+s98, 1014, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s5, 1015, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s15, 1016, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1017, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1018, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s97, 1019, Wake reason: RTC (Alarm)
+s31, 1020, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s40, 1021, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s125, 1022, ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': Yes, 'TimeRemaining': <*>
+s2, 1023, Thermal pressure state: <*> Memory pressure state: <*>
+s31, 1024, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s13, 1025, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s48, 1026, <*> : BTLE scanner Powered On
+s15, 1027, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s55, 1028, <*> evaluateCrazyIvan46]_block_invoke CI46 <?> Hit by torpedo! <*> <*> <*>
+s28, 1029, Sandbox: <*> <*> <*> <*>
+s15, 1030, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s145, 1031, <*> : Scanning mode Contacts Only
+s235, 1032, Peripheral manager is not powered on
+s15, 1033, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s215, 1034, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s125, 1035, ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': Yes, 'TimeRemaining': <*>
+s176, 1036, ARPT: <*> wl0: setup_keepalive: Remote IP: <*>
+s15, 1037, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s2, 1038, Thermal pressure state: <*> Memory pressure state: <*>
+s13, 1039, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s13, 1040, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s48, 1041, <*> : BTLE scanner Powered On
+s31, 1042, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s15, 1043, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s70, 1044, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s163, 1045, NETWORK: no response from server, reachability, <*> queryRetries, <*>
+s33, 1046, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> retries <?> <*>
+s1, 1047, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s94, 1048, <*> [Refusing to parse response to PROPPATCH because of <*> <*> <*>
+s236, 1049, PM response took <*> ms <*> WeChat)
+s132, 1050, device_generate_lock_screen_screenshot: authw <*> <*> <*> shield <*> <*>
+s82, 1051, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s82, 1052, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s118, 1053, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s118, 1054, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s214, 1055, KeychainGetICDPStatus: status: off
+s3, 1056, <*> dealloc
+s237, 1057, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1058, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1059, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1060, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1061, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1062, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1063, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1064, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1065, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1066, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1067, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1068, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1069, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1070, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1071, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1072, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1073, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1074, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1075, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1076, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1077, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1078, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1079, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1080, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1081, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1082, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1083, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1084, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1085, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1086, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1087, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1088, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1089, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1090, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1091, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1092, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1093, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1094, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1095, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1096, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1097, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1098, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1099, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1100, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1101, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1102, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1103, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1104, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1105, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1106, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1107, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1108, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1109, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1110, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1111, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1112, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1113, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1114, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1115, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1116, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1117, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1118, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1119, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1120, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1121, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1122, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1123, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1124, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1125, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1126, Cocoa scripting error for <*> character codes must be four characters long.
+s237, 1127, Cocoa scripting error for <*> character codes must be four characters long.
+s238, 1128, .sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': <*> is not a valid type name.
+s192, 1129, jemmytest
+s3, 1130, <*> dealloc
+s91, 1131, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s87, 1132, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s239, 1133, <*> Class TSUAtomicLRUCache is implemented in both <*> and <*> One of the two will be used. Which one is undefined.
+s240, 1134, Invalidating watch set.
+s239, 1135, <*> Class <*> is implemented in both <*> and <*> One of the two will be used. Which one is undefined.
+s46, 1136, SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error <*> <*> "Account identity not set" <?> identity not set}
+s87, 1137, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s94, 1138, <*> [Refusing to parse response to PROPPATCH because of <*> <*> <*>
+s192, 1139, jemmytest
+s241, 1140, <*> : Started generating hashes
+s153, 1141, <*> : BTLE scanning started
+s192, 1142, jemmytest
+s177, 1143, <<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of <*> bytes @ <*> took <*> <*> to complete, <*> reads <?> <*> sec.
+s52, 1144, Location icon should now be in state 'Inactive'
+s24, 1145, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s27, 1146, AirPort: Link Up on <*>
+s49, 1147, button report: <*>
+s242, 1148, button report: 0X80076ED
+s82, 1149, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s45, 1150, Unrecognized attribute value: t:AbchPersonItemType
+s243, 1151, <?> is deprecated for NSScrollWheel. Please use <?>
+s244, 1152, <?> is deprecated for NSScrollWheel. Please use <?>
+s245, 1153, <*> (Fig) signalled <*>
+s246, 1154, <*> <<<< CRABS >>>> crabsWaitForLoad: <*> time out <?> <*> (msRequestTimeout <*>
+s108, 1155, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s143, 1156, Configuration Notice: ASL Module <*> claims selected messages. Those messages may not appear in standard system log files or in the ASL database.
+s131, 1157, PBRequester failed with Error Error <?> <*> "The request timed <*> <*> <?> <*> "The request timed <*> <*> <*> <*> <*> <?> request timed <*> <*> <*> <*> <*> <?> request timed <*>
+s91, 1158, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s163, 1159, NETWORK: no response from server, reachability, <*> queryRetries, <*>
+s95, 1160, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s247, 1161, Failed to stop a scan <?> central is not powered on: <*>
+s93, 1162, device_generate_desktop_screenshot: authw <*> <*>
+s68, 1163, [HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host <*>
+s41, 1164, en0: channel changed to <*>
+s33, 1165, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> retries <?> <*>
+s70, 1166, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s2, 1167, Thermal pressure state: <*> Memory pressure state: <*>
+s70, 1168, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s215, 1169, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s176, 1170, ARPT: <*> wl0: setup_keepalive: Remote IP: <*>
+s38, 1171, AppleCamIn::wakeEventHandlerThread
+s221, 1172, en0: BSSID changed to <*>
+s221, 1173, en0: BSSID changed to <*>
+s25, 1174, <*> deny <*> <*>
+s74, 1175, RTC: PowerByCalendarDate setting ignored
+s215, 1176, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s97, 1177, Wake reason: RTC (Alarm)
+s28, 1178, Sandbox: <*> <*> <*> <*>
+s19, 1179, PM response took <*> ms <*> powerd)
+s248, 1180, Wake reason: <*> (SleepTimer)
+s64, 1181, USBMSC Identifier <*> <*> <*>
+s114, 1182, ASL Sender Statistics
+s249, 1183, **** [BroadcomBluetoothHostControllerUSBTransport][start] <?> Completed (matched on Device) <?> <*>
+s250, 1184, hibernate_newruntime_map time: <*> ms, IOPolledFilePollersOpen(), ml_get_interrupts_enabled <*>
+s188, 1185, hibernate_machine_init pagesDone <*> sum2 <*> time: <*> ms, <*> <*> comp bytes: <*> time: <*> ms <*> <*> crypt bytes: <*> time: <*> ms <*> <*>
+s251, 1186, vm_compressor_fastwake_warmup <*> <?> <*> <?> starting
+s199, 1187, BuildActDeviceEntry exit
+s252, 1188, <IMMacNotificationCenterManager: <*> enabled: YES (Topics: ( <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> ))
+s151, 1189, AppleCamIn::handleWakeEvent_gated
+s10, 1190, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s75, 1191, Location icon should now be in state 'Active'
+s52, 1192, Location icon should now be in state 'Inactive'
+s121, 1193, KeychainGetICDPStatus: keychain: <*>
+s121, 1194, KeychainGetICDPStatus: keychain: <*>
+s121, 1195, KeychainGetICDPStatus: keychain: <*>
+s118, 1196, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s88, 1197, Error returned from iconservicesagent: (null)
+s232, 1198, <*> <*> <*> <*> <?> helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: <*>
+s253, 1199, <*> <*> <*> <*> main() Fetcher received a request: <NSMutableURLRequest: <*> URL: <*> }
+s254, 1200, <*> <*> <*> <*> <?> performAction] KSPrefetchAction no updates to prefetch.
+s214, 1201, KeychainGetICDPStatus: status: off
+s105, 1202, <*> <*> <?> I <?> VoipWrapper <?> <*> <?> close video chat. llFriendUIN <?> <*>
+s1, 1203, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s118, 1204, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s255, 1205, <IMMacNotificationCenterManager: <*> observer: <*> notification: __CFNotification <*> <?> _NSDoNotDisturbEnabledNotification}
+s56, 1206, Setting BTCoex Config: <*> <*> <*> <*>
+s16, 1207, CCIOReporterFormatter::addRegistryChildToChannelDictionary streams <*>
+s138, 1208, Received Capture Event
+s171, 1209, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s59, 1210, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s256, 1211, CCProfileMonitor::freeResources done
+s172, 1212, CCFile::copyFile fileName is <*> source <*> dest <*>
+s13, 1213, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s62, 1214, tcp_connection_destination_perform_socket_connect <*> connectx to <*> failed: <*> Network is <*>
+s257, 1215, <IMMacNotificationCenterManager: <*> NC Disabled: NO
+s258, 1216, <IMMacNotificationCenterManager: <*> DND Enabled: NO
+s88, 1217, Error returned from iconservicesagent: (null)
+s234, 1218, CGXDisplayDidWakeNotification <*> posting kCGSDisplayDidWake
+s258, 1219, <IMMacNotificationCenterManager: <*> DND Enabled: NO
+s55, 1220, <*> evaluateCrazyIvan46]_block_invoke CI46 <?> Hit by torpedo! <*> <*> <*>
+s70, 1221, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s49, 1222, button report: <*>
+s91, 1223, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s91, 1224, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s259, 1225, en0: BSSID changed to <*>
+s54, 1226, ARPT: <*> wl0: MDNS: IPV4 Addr: <*>
+s64, 1227, USBMSC Identifier <*> <*> <*>
+s259, 1228, en0: BSSID changed to <*>
+s260, 1229, Daemon connection invalidated!
+s13, 1230, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s43, 1231, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s43, 1232, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s24, 1233, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s172, 1234, CCFile::copyFile fileName is <*> source <*> dest <*>
+s165, 1235, CCFile::captureLog
+s42, 1236, ARPT: <*> AQM agg results <*> <*> <*> <*> <*> <*> <*>
+s43, 1237, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s171, 1238, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s172, 1239, CCFile::copyFile fileName is <*> source <*> dest <*>
+s184, 1240, <*> Will write to: <*> <?> <*>
+s43, 1241, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s43, 1242, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s172, 1243, CCFile::copyFile fileName is <*> source <*> dest <*>
+s43, 1244, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s138, 1245, Received Capture Event
+s172, 1246, CCFile::copyFile fileName is <*> source <*> dest <*>
+s165, 1247, CCFile::captureLog
+s179, 1248, CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+s99, 1249, network changed: <*> <*> DNS! Proxy SMB
+s261, 1250, ARPT: <*> IOPMPowerSource Information: onWake, SleepType: Normal Sleep, 'ExternalConnected': No, 'TimeRemaining': <*>
+s21, 1251, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s10, 1252, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s262, 1253, <*>
+s263, 1254, hibernate_machine_init: state <*> image pages <*> sum was d4e6c0b2, imageSize <*> <*> <*> nextFree <*>
+s79, 1255, [HID] [MT] AppleMultitouchDevice::willTerminate entered
+s106, 1256, Bluetooth <?> LE is supported <?> Disable LE meta event
+s189, 1257, ASSERTION FAILED: dvcAddrRef <?> ((void <*> <?> getDeviceAddress:] line: <*>
+s264, 1258, hibernate_rebuild completed <?> took <*> msecs
+s265, 1259, AppleActuatorDevice::stop Entered
+s266, 1260, AppleActuatorDevice::start Entered
+s215, 1261, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s1, 1262, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s100, 1263, hibernate_page_list_setall found pageCount <*>
+s267, 1264, bitmap_size <*> <*> <*> pages @ <*>
+s151, 1265, AppleCamIn::handleWakeEvent_gated
+s11, 1266, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s137, 1267, ARPT: <*> AQM agg params <*> <*> <*> <*> <*>
+s171, 1268, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s215, 1269, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s79, 1270, [HID] [MT] AppleMultitouchDevice::willTerminate entered
+s268, 1271, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s22, 1272, IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, <*>
+s67, 1273, Saw change in network reachability <*>
+s269, 1274, en0: manual intervention required!
+s257, 1275, <IMMacNotificationCenterManager: <*> NC Disabled: NO
+s270, 1276, DB Error: <*> "no such table: <*>
+s271, 1277, <*> <*> <*> <*> <?> beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: <*>
+s95, 1278, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s43, 1279, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s173, 1280, ARPT: <*> framerdy <*> <*> framecnt <*>
+s137, 1281, ARPT: <*> AQM agg params <*> <*> <*> <*> <*>
+s184, 1282, <*> Will write to: <*> <?> <*>
+s49, 1283, button report: <*>
+s227, 1284, CCLogTap::profileRemoved, Owner: <*> Name: IO80211AWDLPeerManager
+s52, 1285, Location icon should now be in state 'Inactive'
+s114, 1286, ASL Sender Statistics
+s121, 1287, KeychainGetICDPStatus: keychain: <*>
+s214, 1288, KeychainGetICDPStatus: status: off
+s75, 1289, Location icon should now be in state 'Active'
+s272, 1290, <IMMacNotificationCenterManager: <*> enabled: NO (Topics: ( ))
+s132, 1291, device_generate_lock_screen_screenshot: authw <*> <*> <*> shield <*> <*>
+s110, 1292, ARPT: <*> wl0: setup_keepalive: Local IP: <*>
+s70, 1293, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s13, 1294, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s165, 1295, CCFile::captureLog
+s53, 1296, ARPT: <*> wl0: setup_keepalive: interval <*> retry_interval <*> retry_count <*>
+s54, 1297, ARPT: <*> wl0: MDNS: IPV4 Addr: <*>
+s25, 1298, <*> deny <*> <*>
+s17, 1299, <*> <<<< CRABS >>>> crabsFlumeHostAvailable: <*> flume reports host available again.
+s14, 1300, setting hostname to <*>
+s82, 1301, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s44, 1302, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s136, 1303, PBRequester failed with Error Error <?> <*> "The Internet connection appears to be <*> <*> <?> <*> "The Internet connection appears to be <*> <*> <*> <*> <*> <?> Internet connection appears to be <*> <*> <*> <*> <*> <?> Internet connection appears to be <*>
+s273, 1304, en0: BSSID changed to <*>
+s164, 1305, Unexpected payload found for message <*> dataLen <*>
+s13, 1306, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s52, 1307, Location icon should now be in state 'Inactive'
+s112, 1308, network changed: DNS* Proxy
+s44, 1309, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s78, 1310, <*> deny <*> <*>
+s274, 1311, arp_client_transmit(en0) failed, Network is down <*>
+s35, 1312, en0::IO80211Interface::postMessage bssid changed
+s76, 1313, en0: <*> country code set to 'X3'.
+s127, 1314, Captive: CNPluginHandler en0: Inactive
+s275, 1315, <?> evaluateCrazyIvan46] CI46 <?> Perform CrazyIvan46! <*> tc23407 <*>
+s108, 1316, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s66, 1317, <*> Failed to read DnsConfig.
+s58, 1318, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from SUSPENDED to AUTO
+s71, 1319, <?> effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID
+s165, 1320, CCFile::captureLog
+s171, 1321, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s179, 1322, CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+s13, 1323, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s261, 1324, ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': No, 'TimeRemaining': <*>
+s12, 1325, ARPT: <*> wl0: MDNS: <*> SRV Recs, <*> TXT Recs
+s28, 1326, Sandbox: <*> <*> <*> <*>
+s276, 1327, could discard act <*> inact <*> purgeable <*> spec <*> cleaned <*>
+s277, 1328, booter start at <*> ms smc <*> ms, <*> <*> <*> total <*> ms, dsply <*> <*> ms, tramp <*> ms
+s278, 1329, hostControllerOnline <?> Number of Paired devices <?> <*> List of Paired devices <?> ( <*> )
+s25, 1330, <*> deny <*> <*>
+s250, 1331, hibernate_newruntime_map time: <*> ms, IOPolledFilePollersOpen(), ml_get_interrupts_enabled <*>
+s40, 1332, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s11, 1333, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s201, 1334, Wake reason: ARPT (Network)
+s209, 1335, [BluetoothHIDDeviceController] EventServiceConnectedCallback
+s71, 1336, <?> effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID
+s78, 1337, <*> deny <*> <*>
+s83, 1338, pages <*> wire <*> act <*> inact <*> cleaned <*> spec <*> zf <*> throt <*> compr <*> xpmapped <*>
+s276, 1339, could discard act <*> inact <*> purgeable <*> spec <*> cleaned <*>
+s71, 1340, <?> effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID
+s11, 1341, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s70, 1342, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s267, 1343, bitmap_size <*> <*> <*> pages @ <*>
+s279, 1344, **** [BroadcomBluetoothHostController][SetupController] <?> Delay HCI Reset by 300ms ****
+s3, 1345, <*> dealloc
+s280, 1346, AppleActuatorHIDEventDriver: stop
+s281, 1347, **** [IOBluetoothHostControllerUSBTransport][start] <?> completed <?> result <?> TRUE <?> <*>
+s282, 1348, AppleActuatorDeviceUserClient::start Entered
+s137, 1349, ARPT: <*> AQM agg params <*> <*> <*> <*> <*>
+s95, 1350, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s198, 1351, polled file major <*> minor <*> blocksize <*> pollers <*>
+s262, 1352, <*>
+s191, 1353, assertion failed: 15G1510: <*> <?> <*> <*> <*>
+s283, 1354, <*> <*> <*> <*> main() Fetcher is exiting.
+s116, 1355, <*> <*> <*> <*> <?> updateAllExceptProduct:] KSUpdateEngine updating all installed products, <*>
+s2, 1356, Thermal pressure state: <*> Memory pressure state: <*>
+s66, 1357, <*> Failed to read DnsConfig.
+s134, 1358, <*> FigAgglomeratorSetObjectForKey signalled <*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>
+s284, 1359, Google Chrome <*> triggered unnest of range <*> DYLD shared region in VM map <*> not abnormal for debuggers, this increases system memory footprint until the target exits.
+s99, 1360, network changed: <*> <*> DNS! Proxy SMB
+s11, 1361, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s25, 1362, <*> deny <*> <*>
+s25, 1363, <*> deny <*> <*>
+s235, 1364, Peripheral manager is not powered on
+s78, 1365, <*> deny <*> <*>
+s207, 1366, WARNING: hibernate_page_list_setall skipped <*> xpmapped pages
+s211, 1367, BuildActDeviceEntry enter
+s108, 1368, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s40, 1369, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s70, 1370, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s25, 1371, <*> deny <*> <*>
+s156, 1372, hibernate_alloc_pages act <*> inact <*> anon <*> throt <*> spec <*> wire <*> wireinit <*>
+s189, 1373, ASSERTION FAILED: dvcAddrRef <?> ((void <*> <?> getDeviceAddress:] line: <*>
+s285, 1374, <?> evaluateCrazyIvan46] CI46 <?> Perform CrazyIvan46! <*> tc23677 <*>
+s58, 1375, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from SUSPENDED to AUTO
+s70, 1376, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s286, 1377, hibernate_page_list_setall(preflight <*> start
+s287, 1378, hibernate_page_list_setall time: <*> ms
+s288, 1379, <*> <*> ms
+s1, 1380, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s108, 1381, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s198, 1382, polled file major <*> minor <*> blocksize <*> pollers <*>
+s289, 1383, hibernate_teardown completed <?> discarded <*>
+s290, 1384, AppleActuatorDeviceUserClient::stop Entered
+s83, 1385, pages <*> wire <*> act <*> inact <*> cleaned <*> spec <*> zf <*> throt <*> compr <*> xpmapped <*>
+s162, 1386, Opened file <*> size <*> extents <*> maxio <*> ssd <*>
+s106, 1387, Bluetooth <?> LE is supported <?> Disable LE meta event
+s291, 1388, [IOBluetoothHostController::setConfigState] calling registerService
+s280, 1389, AppleActuatorHIDEventDriver: stop
+s68, 1390, [HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host <*>
+s292, 1391, [HID] [MT] AppleMultitouchDevice::start entered
+s71, 1392, <?> effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID
+s293, 1393, <*> <?> <*> Error <?> <*> "The Internet connection appears to be <*> <*> <?> <*> "The Internet connection appears to be <*> <*> <*> <*> <*> <?> Internet connection appears to be <*> <*> <*> <*> <*> <?> Internet connection appears to be <*>
+s294, 1394, Unable to start NetBIOS name service:
+s91, 1395, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s184, 1396, <*> Will write to: <*> <?> <*>
+s230, 1397, [Accounts] Failed to update account with identifier <*> error: Error <?> <*> "(null)"
+s121, 1398, KeychainGetICDPStatus: keychain: <*>
+s295, 1399, Got an XPC error: Connection invalid
+s95, 1400, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s95, 1401, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s296, 1402, <?> notifyChanges:toListWithIdentifier:] Notified of item changes to list with identifier <*>
+s3, 1403, <*> dealloc
+s117, 1404, <*> <*> <*> <*> main() ksfetch fetching URL (<NSMutableURLRequest: <*> URL: <*> }) to <*>
+s297, 1405, <*> <*> <*> <*> <?> performAction] KSPromptAction had no updates to apply.
+s298, 1406, no sleep images for WillPowerOffWithImages
+s13, 1407, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s49, 1408, button report: <*>
+s15, 1409, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s299, 1410, ChromeExistion main isUndetectWithCommand <?> <*>
+s300, 1411, after trim url <?> <*>
+s91, 1412, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s301, 1413, ChromeExistion main strSendMsg <?> <*>
+s75, 1414, Location icon should now be in state 'Active'
+s299, 1415, ChromeExistion main isUndetectWithCommand <?> <*>
+s302, 1416, url host <?> <*>
+s303, 1417, the url <?> <*>
+s152, 1418, <*> : Purged contact hashes
+s44, 1419, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s71, 1420, <?> effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID
+s9, 1421, ARPT: <*> ARPT: Wake Reason: Wake on Scan offload
+s41, 1422, en0: channel changed to <*>
+s30, 1423, AirPort: Link Up on <*>
+s71, 1424, <?> effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID
+s112, 1425, network changed: DNS* Proxy
+s73, 1426, en0: channel changed to <*>
+s25, 1427, <*> deny <*> <*>
+s304, 1428, <*> [Adding [<CalDAVAccountRefreshQueueableOperation: <*> <*> to failed <*>
+s138, 1429, Received Capture Event
+s171, 1430, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s182, 1431, ARPT: <*> wlc_dump_aggfifo:
+s24, 1432, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s42, 1433, ARPT: <*> AQM agg results <*> <*> <*> <*> <*> <*> <*>
+s11, 1434, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s21, 1435, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s305, 1436, network changed: <*> <?> <?>
+s24, 1437, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s171, 1438, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s42, 1439, ARPT: <*> AQM agg results <*> <*> <*> <*> <*> <*> <*>
+s16, 1440, CCIOReporterFormatter::addRegistryChildToChannelDictionary streams <*>
+s171, 1441, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s43, 1442, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s70, 1443, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s55, 1444, <*> evaluateCrazyIvan46]_block_invoke CI46 <?> Hit by torpedo! <*> <*> <*>
+s66, 1445, <*> Failed to read DnsConfig.
+s182, 1446, ARPT: <*> wlc_dump_aggfifo:
+s43, 1447, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s171, 1448, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s33, 1449, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> retries <?> <*>
+s44, 1450, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s20, 1451, ARPT: <*> wl0: Roamed or switched channel, reason <*> bssid <*> last RSSI <*>
+s306, 1452, en0: BSSID changed to <*>
+s128, 1453, in6_unlink_ifa: IPv6 address <*> no prefix
+s89, 1454, tcp_connection_tls_session_error_callback_imp <*> <*> error <*>
+s77, 1455, ARPT: <*> wl0: setup_keepalive: Seq: <*> Ack: <*> Win size: <*>
+s124, 1456, ARPT: <*> wl0: leaveModulePoweredForOffloads: <*> will stay on.
+s259, 1457, en0: BSSID changed to <*>
+s4, 1458, ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+s26, 1459, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s167, 1460, ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake <?> Full Wake/ Dark Wake / Maintenance wake
+s307, 1461, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s96, 1462, Previous sleep cause: <*>
+s215, 1463, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s62, 1464, tcp_connection_destination_perform_socket_connect <*> connectx to <*> failed: <*> Network is <*>
+s108, 1465, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s308, 1466, hibernate_rebuild started
+s197, 1467, INIT <?> Host controller is published
+s138, 1468, Received Capture Event
+s24, 1469, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s304, 1470, <*> [Adding [<CalDAVAccountRefreshQueueableOperation: <*> <*> to failed <*>
+s138, 1471, Received Capture Event
+s171, 1472, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s171, 1473, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s145, 1474, <*> : Scanning mode Contacts Only
+s28, 1475, Sandbox: <*> <*> <*> <*>
+s309, 1476, Service <*> tried to hijack endpoint <*> from owner: <*>
+s53, 1477, ARPT: <*> wl0: setup_keepalive: interval <*> retry_interval <*> retry_count <*>
+s13, 1478, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s64, 1479, USBMSC Identifier <*> <*> <*>
+s82, 1480, dnssd_clientstub ConnectToServer: connect() failed <*> <*> <*> <*> Operation not permitted
+s19, 1481, PM response took <*> ms <*> powerd)
+s73, 1482, en0: channel changed to <*>
+s72, 1483, RTC: Maintenance <*> <*> sleep <*> <*>
+s96, 1484, Previous sleep cause: <*>
+s133, 1485, <*> <*> <*> <*> KSHelperReceiveAllData() KSHelperTool read <*> bytes from stdin.
+s232, 1486, <*> <*> <*> <*> <?> helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: <*>
+s310, 1487, <*> <*> <*> <*> <?> updateEngineFinishedWithErrors:] Keystone finished: <*>
+s12, 1488, ARPT: <*> wl0: MDNS: <*> SRV Recs, <*> TXT Recs
+s2, 1489, Thermal pressure state: <*> Memory pressure state: <*>
+s98, 1490, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s5, 1491, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s4, 1492, ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+s1, 1493, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s128, 1494, in6_unlink_ifa: IPv6 address <*> no prefix
+s29, 1495, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+s98, 1496, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s96, 1497, Previous sleep cause: <*>
+s40, 1498, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s151, 1499, AppleCamIn::handleWakeEvent_gated
+s1, 1500, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s2, 1501, Thermal pressure state: <*> Memory pressure state: <*>
+s38, 1502, AppleCamIn::wakeEventHandlerThread
+s10, 1503, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s126, 1504, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s4, 1505, ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+s74, 1506, RTC: PowerByCalendarDate setting ignored
+s55, 1507, <*> evaluateCrazyIvan46]_block_invoke CI46 <?> Hit by torpedo! <*> <*> <*>
+s59, 1508, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s24, 1509, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s24, 1510, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s21, 1511, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s2, 1512, Thermal pressure state: <*> Memory pressure state: <*>
+s128, 1513, in6_unlink_ifa: IPv6 address <*> no prefix
+s2, 1514, Thermal pressure state: <*> Memory pressure state: <*>
+s261, 1515, ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': No, 'TimeRemaining': <*>
+s145, 1516, <*> : Scanning mode Contacts Only
+s270, 1517, DB Error: <*> "no such table: <*>
+s118, 1518, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s3, 1519, <*> dealloc
+s95, 1520, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s95, 1521, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s91, 1522, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s87, 1523, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s28, 1524, Sandbox: <*> <*> <*> <*>
+s3, 1525, <*> dealloc
+s311, 1526, <*> <*> PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification
+s105, 1527, <*> <*> <?> I <?> VoipWrapper <?> <*> <?> close video chat. llFriendUIN <?> <*>
+s15, 1528, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1529, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s68, 1530, [HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host <*>
+s28, 1531, Sandbox: <*> <*> <*> <*>
+s312, 1532, full wake request (reason <*> <*> ms
+s135, 1533, <*> : BTLE scanner Powered Off
+s142, 1534, ############################## _getSysMsgList
+s8, 1535, ARPT: <*> wl0: wl_update_tcpkeep_seq: Original Seq: <*> Ack: <*> Win size: <*>
+s15, 1536, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1537, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1538, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s313, 1539, <*>
+s142, 1540, ############################## _getSysMsgList
+s1, 1541, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s15, 1542, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s97, 1543, Wake reason: RTC (Alarm)
+s135, 1544, <*> : BTLE scanner Powered Off
+s5, 1545, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s15, 1546, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s176, 1547, ARPT: <*> wl0: setup_keepalive: Remote IP: <*>
+s34, 1548, ARPT: <*> wl0: wl_update_tcpkeep_seq: Updated <*> from UserClient Seq <*> Ack <*> Win size <*>
+s1, 1549, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s1, 1550, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s5, 1551, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s15, 1552, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1553, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s2, 1554, Thermal pressure state: <*> Memory pressure state: <*>
+s15, 1555, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s314, 1556, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s1, 1557, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s15, 1558, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1559, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1560, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s315, 1561, PM response took <*> ms <*> QQ)
+s74, 1562, RTC: PowerByCalendarDate setting ignored
+s135, 1563, <*> : BTLE scanner Powered Off
+s49, 1564, button report: <*>
+s70, 1565, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s46, 1566, SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error <*> <*> "Account identity not set" <?> identity not set}
+s192, 1567, jemmytest
+s214, 1568, KeychainGetICDPStatus: status: off
+s304, 1569, <*> [Adding [<CalDAVAccountRefreshQueueableOperation: <*> <*> to failed <*>
+s3, 1570, <*> dealloc
+s91, 1571, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s192, 1572, jemmytest
+s75, 1573, Location icon should now be in state 'Active'
+s316, 1574, <*> <*> <*> <*> <?> beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: <*>
+s95, 1575, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s163, 1576, NETWORK: no response from server, reachability, <*> queryRetries, <*>
+s91, 1577, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s317, 1578, Page bounds <*> <*> <*> <*>
+s318, 1579, Failed to connect (titleField) outlet from (MMSessionPickerChoosenRowView) to (NSTextField): missing setter or instance variable
+s319, 1580, <*> [Account <*> timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: <*> <*>
+s91, 1581, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s320, 1582, <*> [Account refresh failed with error: Error <?> <*> "(null)" <*> <?> <?> <*> immutable dict, count <?> <*> entries <?> <*> : Connection <?> <CFString <*> <*> <*> : <*> <?> <*> <*> : <*> <?> <*> <*> : Server <?> nginx <*> : Date <?> <CFString <*> "Fri, <*> Jul <*> <*> GMT"} } }]
+s91, 1583, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s121, 1584, KeychainGetICDPStatus: keychain: <*>
+s52, 1585, Location icon should now be in state 'Inactive'
+s317, 1586, Page bounds <*> <*> <*> <*>
+s47, 1587, CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+s321, 1588, Sandbox: <*> <*> <*> CFPBS:186A7:
+s89, 1589, tcp_connection_tls_session_error_callback_imp <*> <*> error <*>
+s3, 1590, <*> dealloc
+s322, 1591, no application identifier provided, can't use provisioning profiles <*>
+s323, 1592, tcp_connection_destination_handle_tls_close_notify <*> closing socket due to TLS CLOSE_NOTIFY alert
+s324, 1593, CFNetwork SSLHandshake failed <*>
+s325, 1594, Unable to simultaneously satisfy constraints: ( <*> (Names: <*> <*> <*> (Names: <*> <*> (Names: <*> <*> Will attempt to recover by breaking constraint <*> Set the NSUserDefault NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints to YES to have <?> visualizeConstraints:] automatically called when this happens. <*> break on objc_exception_throw to catch this in the debugger.
+s325, 1595, Unable to simultaneously satisfy constraints: ( <*> (Names: <*> <*> <*> (Names: <*> <*> (Names: <*> <*> Will attempt to recover by breaking constraint <*> Set the NSUserDefault NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints to YES to have <?> visualizeConstraints:] automatically called when this happens. <*> break on objc_exception_throw to catch this in the debugger.
+s326, 1596, Configuration Notice: ASL Module <*> sharing output destination <*> with ASL Module <*> Output parameters from ASL Module <*> override any specified in ASL Module <*>
+s91, 1597, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s257, 1598, <IMMacNotificationCenterManager: <*> NC Disabled: NO
+s257, 1599, <IMMacNotificationCenterManager: <*> NC Disabled: NO
+s172, 1600, CCFile::copyFile fileName is <*> source <*> dest <*>
+s59, 1601, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s57, 1602, Captive: <*> en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive)
+s15, 1603, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s327, 1604, <*> 20cb04f <*>
+s25, 1605, <*> deny <*> <*>
+s15, 1606, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s13, 1607, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s68, 1608, [HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host <*>
+s215, 1609, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s316, 1610, <*> <*> <*> <*> <?> beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: <*>
+s31, 1611, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s13, 1612, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s15, 1613, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1614, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s13, 1615, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s25, 1616, <*> deny <*> <*>
+s70, 1617, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s2, 1618, Thermal pressure state: <*> Memory pressure state: <*>
+s15, 1619, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s124, 1620, ARPT: <*> wl0: leaveModulePoweredForOffloads: <*> will stay on.
+s15, 1621, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s215, 1622, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s74, 1623, RTC: PowerByCalendarDate setting ignored
+s167, 1624, ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake <?> Full Wake/ Dark Wake / Maintenance wake
+s70, 1625, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s1, 1626, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s38, 1627, AppleCamIn::wakeEventHandlerThread
+s167, 1628, ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake <?> Full Wake/ Dark Wake / Maintenance wake
+s15, 1629, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1630, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s125, 1631, ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': Yes, 'TimeRemaining': <*>
+s15, 1632, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s39, 1633, ARPT: <*> wl0: setup_keepalive: Local port: <*> Remote port: <*>
+s38, 1634, AppleCamIn::wakeEventHandlerThread
+s15, 1635, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s75, 1636, Location icon should now be in state 'Active'
+s25, 1637, <*> deny <*> <*>
+s18, 1638, AirPort: Link Down on awdl0. Reason <*> (Unspecified).
+s15, 1639, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1640, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1641, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s31, 1642, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s1, 1643, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s30, 1644, AirPort: Link Up on <*>
+s15, 1645, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s70, 1646, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s25, 1647, <*> deny <*> <*>
+s38, 1648, AppleCamIn::wakeEventHandlerThread
+s328, 1649, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s15, 1650, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s215, 1651, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s15, 1652, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1653, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1654, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s4, 1655, ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+s15, 1656, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s98, 1657, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s15, 1658, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1659, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s24, 1660, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s15, 1661, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s171, 1662, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s26, 1663, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s14, 1664, setting hostname to <*>
+s329, 1665, CCDataTap::profileRemoved, Owner: <*> Name: StateSnapshots
+s15, 1666, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s31, 1667, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s1, 1668, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s15, 1669, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s2, 1670, Thermal pressure state: <*> Memory pressure state: <*>
+s98, 1671, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s14, 1672, setting hostname to <*>
+s44, 1673, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s78, 1674, <*> deny <*> <*>
+s15, 1675, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s10, 1676, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s21, 1677, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s2, 1678, Thermal pressure state: <*> Memory pressure state: <*>
+s40, 1679, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s15, 1680, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s13, 1681, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s15, 1682, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1683, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1684, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s330, 1685, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s15, 1686, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1687, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s330, 1688, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s15, 1689, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s30, 1690, AirPort: Link Up on <*>
+s15, 1691, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s77, 1692, ARPT: <*> wl0: setup_keepalive: Seq: <*> Ack: <*> Win size: <*>
+s31, 1693, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s72, 1694, RTC: Maintenance <*> <*> sleep <*> <*>
+s15, 1695, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s74, 1696, RTC: PowerByCalendarDate setting ignored
+s142, 1697, ############################## _getSysMsgList
+s1, 1698, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s41, 1699, en0: channel changed to <*>
+s331, 1700, Unrecognized XSSimpleTypeDefinition: OneOff
+s332, 1701, DB Path: <*>
+s333, 1702, Could not get event name for <*> <*> <*> Request for stale data
+s133, 1703, <*> <*> <*> <*> KSHelperReceiveAllData() KSHelperTool read <*> bytes from stdin.
+s334, 1704, <*> <*> <*> <*> <?> performAction] KSUpdateCheckAction starting update check for ticket(s): {( <*> <*> <*> <*> <?> <*> <*> <*> <*> <*> <?> <*> Chrome <*> <?> <*> <*> <?> <*> <?> <*> > )} Using server: <*>
+s52, 1705, Location icon should now be in state 'Inactive'
+s91, 1706, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s95, 1707, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s335, 1708, Error in CoreDragRemoveTrackingHandler: <*>
+s118, 1709, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s134, 1710, <*> FigAgglomeratorSetObjectForKey signalled <*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>
+s118, 1711, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s75, 1712, Location icon should now be in state 'Active'
+s309, 1713, Service <*> tried to hijack endpoint <*> from owner: <*>
+s75, 1714, Location icon should now be in state 'Active'
+s125, 1715, ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': Yes, 'TimeRemaining': <*>
+s336, 1716, Session <*> destroyed
+s88, 1717, Error returned from iconservicesagent: (null)
+s88, 1718, Error returned from iconservicesagent: (null)
+s91, 1719, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s87, 1720, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s88, 1721, Error returned from iconservicesagent: (null)
+s87, 1722, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s13, 1723, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s111, 1724, TBT W <*> <*>
+s151, 1725, AppleCamIn::handleWakeEvent_gated
+s225, 1726, <*> Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid)
+s257, 1727, <IMMacNotificationCenterManager: <*> NC Disabled: NO
+s128, 1728, in6_unlink_ifa: IPv6 address <*> no prefix
+s173, 1729, ARPT: <*> framerdy <*> <*> framecnt <*>
+s138, 1730, Received Capture Event
+s172, 1731, CCFile::copyFile fileName is <*> source <*> dest <*>
+s137, 1732, ARPT: <*> AQM agg params <*> <*> <*> <*> <*>
+s165, 1733, CCFile::captureLog
+s171, 1734, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s24, 1735, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s165, 1736, CCFile::captureLog
+s29, 1737, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+s111, 1738, TBT W <*> <*>
+s9, 1739, ARPT: <*> ARPT: Wake Reason: Wake on Scan offload
+s151, 1740, AppleCamIn::handleWakeEvent_gated
+s44, 1741, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s11, 1742, IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+s16, 1743, CCIOReporterFormatter::addRegistryChildToChannelDictionary streams <*>
+s184, 1744, <*> Will write to: <*> <?> <*>
+s171, 1745, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s16, 1746, CCIOReporterFormatter::addRegistryChildToChannelDictionary streams <*>
+s43, 1747, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s171, 1748, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s337, 1749, <?> evaluateCrazyIvan46] CI46 <?> Perform CrazyIvan46! <*> tc12042 <*>
+s25, 1750, <*> deny <*> <*>
+s106, 1751, Bluetooth <?> LE is supported <?> Disable LE meta event
+s71, 1752, <?> effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID
+s165, 1753, CCFile::captureLog
+s138, 1754, Received Capture Event
+s165, 1755, CCFile::captureLog
+s171, 1756, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s171, 1757, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s173, 1758, ARPT: <*> framerdy <*> <*> framecnt <*>
+s43, 1759, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s172, 1760, CCFile::copyFile fileName is <*> source <*> dest <*>
+s179, 1761, CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+s184, 1762, <*> Will write to: <*> <?> <*>
+s21, 1763, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s142, 1764, ############################## _getSysMsgList
+s111, 1765, TBT W <*> <*>
+s21, 1766, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s137, 1767, ARPT: <*> AQM agg params <*> <*> <*> <*> <*>
+s71, 1768, <?> effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID
+s109, 1769, Captive: CNPluginHandler en0: Authenticated
+s99, 1770, network changed: <*> <*> DNS! Proxy SMB
+s137, 1771, ARPT: <*> AQM agg params <*> <*> <*> <*> <*>
+s165, 1772, CCFile::captureLog
+s171, 1773, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s173, 1774, ARPT: <*> framerdy <*> <*> framecnt <*>
+s182, 1775, ARPT: <*> wlc_dump_aggfifo:
+s138, 1776, Received Capture Event
+s165, 1777, CCFile::captureLog
+s31, 1778, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s167, 1779, ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake <?> Full Wake/ Dark Wake / Maintenance wake
+s67, 1780, Saw change in network reachability <*>
+s70, 1781, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s10, 1782, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s71, 1783, <?> effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID
+s98, 1784, AppleThunderboltNHIType2::prePCIWake <?> power up complete <?> took <*> us
+s151, 1785, AppleCamIn::handleWakeEvent_gated
+s25, 1786, <*> deny <*> <*>
+s140, 1787, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s90, 1788, SecOSStatusWith <*> Error <?> <*> "query missing class name" (paramErr: error in user parameter list) <?> missing class name}
+s309, 1789, Service <*> tried to hijack endpoint <*> from owner: <*>
+s114, 1790, ASL Sender Statistics
+s128, 1791, in6_unlink_ifa: IPv6 address <*> no prefix
+s53, 1792, ARPT: <*> wl0: setup_keepalive: interval <*> retry_interval <*> retry_count <*>
+s114, 1793, ASL Sender Statistics
+s96, 1794, Previous sleep cause: <*>
+s167, 1795, ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake <?> Full Wake/ Dark Wake / Maintenance wake
+s5, 1796, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s5, 1797, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+s25, 1798, <*> deny <*> <*>
+s25, 1799, <*> deny <*> <*>
+s18, 1800, AirPort: Link Down on awdl0. Reason <*> (Unspecified).
+s1, 1801, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s114, 1802, ASL Sender Statistics
+s261, 1803, ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': No, 'TimeRemaining': <*>
+s38, 1804, AppleCamIn::wakeEventHandlerThread
+s41, 1805, en0: channel changed to <*>
+s59, 1806, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s56, 1807, Setting BTCoex Config: <*> <*> <*> <*>
+s108, 1808, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s294, 1809, Unable to start NetBIOS name service:
+s338, 1810, <?> evaluateCrazyIvan46] CI46 <?> Perform CrazyIvan46! <*> tc25354 <*>
+s20, 1811, ARPT: <*> wl0: Roamed or switched channel, reason <*> bssid <*> last RSSI <*>
+s127, 1812, Captive: CNPluginHandler en0: Inactive
+s339, 1813, en0: BSSID changed to <*>
+s151, 1814, AppleCamIn::handleWakeEvent_gated
+s136, 1815, PBRequester failed with Error Error <?> <*> "The Internet connection appears to be <*> <*> <?> <*> "The Internet connection appears to be <*> <*> <*> <*> <*> <?> Internet connection appears to be <*> <*> <*> <*> <*> <?> Internet connection appears to be <*>
+s172, 1816, CCFile::copyFile fileName is <*> source <*> dest <*>
+s179, 1817, CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+s226, 1818, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s179, 1819, CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+s138, 1820, Received Capture Event
+s71, 1821, <?> effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID
+s142, 1822, ############################## _getSysMsgList
+s70, 1823, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s234, 1824, CGXDisplayDidWakeNotification <*> posting kCGSDisplayDidWake
+s70, 1825, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s52, 1826, Location icon should now be in state 'Inactive'
+s336, 1827, Session <*> destroyed
+s140, 1828, <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected <*> notification
+s121, 1829, KeychainGetICDPStatus: keychain: <*>
+s118, 1830, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s91, 1831, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s340, 1832, Sandbox: <*> <*> <*> <*>
+s341, 1833, nw_path_evaluator_start_helper_connection net_helper_path_evaluation_start failed, dumping backtrace: <*> <*> <*> <*> <*> <?> <*> <*> <*> <*> <?> <*> <*> <*> <*> <?> <*> <*> <*> <*> <?> <*> <*> <*> <*> <?> <*> <*> <*> <*> <?> <*> <*> <*> <*> <?> <*> <*> <*> <*> <?> <*> <*> <*> <*> <?> <*> <*> <*> <*> <?> <*>
+s214, 1834, KeychainGetICDPStatus: status: off
+s342, 1835, CoreAnimation: warning, deleted thread with uncommitted CATransaction; set <*> in environment to log backtraces.
+s74, 1836, RTC: PowerByCalendarDate setting ignored
+s1, 1837, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s28, 1838, Sandbox: <*> <*> <*> <*>
+s13, 1839, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s41, 1840, en0: channel changed to <*>
+s68, 1841, [HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host <*>
+s67, 1842, Saw change in network reachability <*>
+s24, 1843, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s15, 1844, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s44, 1845, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s35, 1846, en0::IO80211Interface::postMessage bssid changed
+s96, 1847, Previous sleep cause: <*>
+s15, 1848, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1849, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s22, 1850, IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, <*>
+s31, 1851, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s22, 1852, IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, <*>
+s15, 1853, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1854, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s225, 1855, <*> Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid)
+s15, 1856, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s34, 1857, ARPT: <*> wl0: wl_update_tcpkeep_seq: Updated <*> from UserClient Seq <*> Ack <*> Win size <*>
+s48, 1858, <*> : BTLE scanner Powered On
+s15, 1859, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s15, 1860, <*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.
+s13, 1861, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s70, 1862, dnssd_clientstub ConnectToServer: <?> No of tries: <*>
+s151, 1863, AppleCamIn::handleWakeEvent_gated
+s40, 1864, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s343, 1865, full wake promotion (reason <*> <*> ms
+s94, 1866, <*> [Refusing to parse response to PROPPATCH because of <*> <*> <*>
+s51, 1867, securityd_xpc_dictionary_handler <*> copy_matching Error <?> <*> "query missing class name" (paramErr: error in user parameter list) <?> missing class name}
+s87, 1868, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s88, 1869, Error returned from iconservicesagent: (null)
+s51, 1870, securityd_xpc_dictionary_handler <*> copy_matching Error <?> <*> "query missing class name" (paramErr: error in user parameter list) <?> missing class name}
+s87, 1871, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s87, 1872, <?> generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>
+s95, 1873, NETWORK: requery, <*> <*> <*> <*> <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>
+s344, 1874, <*> HTTP load failed (kCFStreamErrorDomainSSL, <*>
+s345, 1875, [QL] No sandbox token for request <QLThumbnailRequest <*> it will probably fail
+s346, 1876, schedule invalidation <DYTransport <*> lost transport connection <*>
+s91, 1877, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s121, 1878, KeychainGetICDPStatus: keychain: <*>
+s2, 1879, Thermal pressure state: <*> Memory pressure state: <*>
+s214, 1880, KeychainGetICDPStatus: status: off
+s88, 1881, Error returned from iconservicesagent: (null)
+s192, 1882, jemmytest
+s121, 1883, KeychainGetICDPStatus: keychain: <*>
+s118, 1884, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s347, 1885, <*> mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled <*> (kFigMediaValidatorError_VideoCodecNotSupported) (video codec <*> at line <*>
+s348, 1886, <<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec <*>
+s349, 1887, <<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec <*> Failed codec specific check.
+s350, 1888, CoreAnimation: timed out fence <*>
+s121, 1889, KeychainGetICDPStatus: keychain: <*>
+s89, 1890, tcp_connection_tls_session_error_callback_imp <*> <*> error <*>
+s121, 1891, KeychainGetICDPStatus: keychain: <*>
+s351, 1892, Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable
+s52, 1893, Location icon should now be in state 'Inactive'
+s105, 1894, <*> <*> <?> I <?> VoipWrapper <?> <*> <?> close video chat. llFriendUIN <?> <*>
+s215, 1895, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s106, 1896, Bluetooth <?> LE is supported <?> Disable LE meta event
+s91, 1897, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s154, 1898, IOPMrootDomain: idle cancel, state <*>
+s352, 1899, <*> ERROR: <*> timed out after <*> <*> <*> <*>
+s26, 1900, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s167, 1901, ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake <?> Full Wake/ Dark Wake / Maintenance wake
+s49, 1902, button report: <*>
+s48, 1903, <*> : BTLE scanner Powered On
+s40, 1904, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s49, 1905, button report: <*>
+s53, 1906, ARPT: <*> wl0: setup_keepalive: interval <*> retry_interval <*> retry_count <*>
+s39, 1907, ARPT: <*> wl0: setup_keepalive: Local port: <*> Remote port: <*>
+s261, 1908, ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': No, 'TimeRemaining': <*>
+s215, 1909, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s124, 1910, ARPT: <*> wl0: leaveModulePoweredForOffloads: <*> will stay on.
+s29, 1911, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+s35, 1912, en0::IO80211Interface::postMessage bssid changed
+s128, 1913, in6_unlink_ifa: IPv6 address <*> no prefix
+s353, 1914, <?> evaluateCrazyIvan46] CI46 <?> Perform CrazyIvan46! <*> tc25805 <*>
+s10, 1915, <*> observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>
+s29, 1916, ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+s36, 1917, AppleThunderboltNHIType2::waitForOk2Go2Sx <?> intel_rp <?> <*> dlla_reporting_supported <?> <*>
+s64, 1918, USBMSC Identifier <*> <*> <*>
+s354, 1919, efi pagecount <*>
+s63, 1920, AirPort: Link Down on en0. Reason <*> (Disassociated because station leaving).
+s37, 1921, mDNS_RegisterInterface: Frequent transitions for interface en0 <*>
+s182, 1922, ARPT: <*> wlc_dump_aggfifo:
+s24, 1923, CCFile::captureLogRun() Exiting CCFile::captureLogRun
+s179, 1924, CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+s96, 1925, Previous sleep cause: <*>
+s249, 1926, **** [BroadcomBluetoothHostControllerUSBTransport][start] <?> Completed (matched on Device) <?> <*>
+s21, 1927, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s220, 1928, en0: Supported channels <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+s21, 1929, nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> <*>
+s43, 1930, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s171, 1931, CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>
+s172, 1932, CCFile::copyFile fileName is <*> source <*> dest <*>
+s276, 1933, <*> discard act <*> inact <*> purgeable <*> spec <*> cleaned <*>
+s108, 1934, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s35, 1935, en0::IO80211Interface::postMessage bssid changed
+s355, 1936, CCDataTap::profileRemoved, Owner: <*> Name: AssociationEventHistory
+s20, 1937, ARPT: <*> wl0: Roamed or switched channel, reason <*> bssid <*> last RSSI <*>
+s270, 1938, DB Error: <*> "no such table: <*>
+s63, 1939, AirPort: Link Down on en0. Reason <*> (Disassociated because station leaving).
+s1, 1940, <*> Thunderbolt HPD packet for route <?> <*> <?> <*> unplug <?> <*>
+s249, 1941, **** [BroadcomBluetoothHostControllerUSBTransport][start] <?> Completed (matched on Device) <?> <*>
+s59, 1942, <?> _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+s141, 1943, sigio_handler: sigio_handler_active <?> <*>
+s201, 1944, Wake reason: ARPT (Network)
+s356, 1945, Host controller terminated
+s357, 1946, [HID] [MT] AppleActuatorHIDEventDriver::start entered
+s64, 1947, USBMSC Identifier <*> <*> <*>
+s61, 1948, Captive: CNPluginHandler en0: Evaluating
+s109, 1949, Captive: CNPluginHandler en0: Authenticated
+s193, 1950, <*> took <*> ms
+s128, 1951, in6_unlink_ifa: IPv6 address <*> no prefix
+s55, 1952, <*> evaluateCrazyIvan46]_block_invoke CI46 <?> Hit by torpedo! <*> <*> <*>
+s56, 1953, Setting BTCoex Config: <*> <*> <*> <*>
+s49, 1954, button report: <*>
+s3, 1955, <*> dealloc
+s358, 1956, [BluetoothHIDDeviceController]ERROR: Could not find the disconnected object
+s127, 1957, Captive: CNPluginHandler en0: Inactive
+s58, 1958, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from SUSPENDED to AUTO
+s281, 1959, **** [IOBluetoothHostControllerUSBTransport][start] <?> completed <?> result <?> TRUE <?> <*>
+s108, 1960, tcp_connection_handle_connect_conditions_bad <*> failed: <*> <?> No network route
+s4, 1961, ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+s13, 1962, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s190, 1963, hibernate_machine_init reading
+s13, 1964, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s31, 1965, AppleThunderboltGenericHAL::earlyWake <?> complete <?> took <*> milliseconds
+s358, 1966, [BluetoothHIDDeviceController]ERROR: Could not find the disconnected object
+s14, 1967, setting hostname to <*>
+s186, 1968, hibernate image path: <*>
+s354, 1969, efi pagecount <*>
+s13, 1970, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s157, 1971, hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>
+s331, 1972, Unrecognized XSSimpleTypeDefinition: OneOff
+s359, 1973, vm_compressor_fastwake_warmup completed <?> took <*> msecs
+s226, 1974, CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+s172, 1975, CCFile::copyFile fileName is <*> source <*> dest <*>
+s109, 1976, Captive: CNPluginHandler en0: Authenticated
+s192, 1977, jemmytest
+s229, 1978, [Accounts] Current connection, <NSXPCConnection: <*> from pid <*> doesn't have account access.
+s51, 1979, securityd_xpc_dictionary_handler <*> copy_matching Error <?> <*> "query missing class name" (paramErr: error in user parameter list) <?> missing class name}
+s91, 1980, send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.
+s360, 1981, Unable to simultaneously satisfy constraints: ( <*> <?> <*> (Names: <*> <*> <?> <*> (Names: <*> <*> <?> <*> <?> <*> (Names: <*> <*> <?> <*> (Names: <*> ) Will attempt to recover by breaking constraint <*> <?> <*> (Names: <*> Set the NSUserDefault NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints to YES to have <?> visualizeConstraints:] automatically called when this happens. <*> break on objc_exception_throw to catch this in the debugger.
+s118, 1982, Path not allowed in target domain: type <?> pid, path <?> <*> error <?> <*> The specified service did not ship in the requestor's bundle, origin <?> <*>
+s310, 1983, <*> <*> <*> <*> <?> updateEngineFinishedWithErrors:] Keystone finished: <*>
+s361, 1984, <*> <*> <*> <*> <?> runKeystonesInThreadWithArg:] About to run checks for any other apps.
+s124, 1985, ARPT: <*> wl0: leaveModulePoweredForOffloads: <*> will stay on.
+s362, 1986, Arranged view frame: <*> <*> <*> <*>
+s94, 1987, <*> [Refusing to parse response to PROPPATCH because of <*> <*> <*>
+s44, 1988, IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+s363, 1989, CCProfileMonitor::setStreamEventHandler
+s52, 1990, Location icon should now be in state 'Inactive'
+s364, 1991, Telling CSI to go low power.
+s215, 1992, ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep
+s40, 1993, <?> notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) <*> <*> <?> <*> <*> <*> <*> <*> <*> <*>
+s46, 1994, SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error <*> <*> "Account identity not set" <?> identity not set}
+s106, 1995, Bluetooth <?> LE is supported <?> Disable LE meta event
+s26, 1996, ARPT: <*> wl0: MDNS: IPV6 Addr: <*>
+s64, 1997, USBMSC Identifier <*> <*> <*>
+s13, 1998, AppleCamIn::systemWakeCall <?> messageType <?> <*>
+s97, 1999, Wake reason: RTC (Alarm)
+s38, 2000, AppleCamIn::wakeEventHandlerThread

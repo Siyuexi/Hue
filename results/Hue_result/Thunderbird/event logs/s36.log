@@ -1,0 +1,6 @@
+symbol: s36
+template: LAPIC <*>
+1197,(acpi_id[0x01],
+1198,(acpi_id[0x02],
+1199,(acpi_id[0x03],
+1200,(acpi_id[0x04],

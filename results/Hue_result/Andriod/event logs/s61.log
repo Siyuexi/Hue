@@ -1,0 +1,3 @@
+symbol: s61
+template: flingToHeight: <*> <?> <*> <*> <?>
+160,vel=2849.079,,expand=true,,target=553.0,,collapseSpeedUpFactor=1.0,,expandBecauseOfFalsing=false,

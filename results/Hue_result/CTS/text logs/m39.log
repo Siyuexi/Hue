@@ -1,0 +1,8 @@
+symbol: m39
+identifier: display <?> LI V200R212SPH013 <*> <*> <*>
+1028,module-information,2021-05-21,09:53:19,V200R212SPH-NE9000_0521_3356_RM_CMS_mir.MOD,
+|| display module-information
+||                        Module-information
+||Module    Version       InstallTime      PackageName
+||RM         V200R212SPH201       2021-05-21 09:53:19      V200R212SPH-NE9000_0521_3356_RM_CMS_mir.MOD
+||LI        V200R212SPH013       2021-05-21 09:53:19      V200R212SPH-NE9000_0521_3356_RM_CMS_mir.MOD

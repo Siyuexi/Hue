@@ -1,0 +1,9 @@
+symbol: s14
+template: PAM service(sshd) ignoring max retries; <*> > <*>
+33,6,3,
+223,5,3,
+239,5,3,
+288,6,3,
+332,5,3,
+388,5,3,
+1003,6,3,

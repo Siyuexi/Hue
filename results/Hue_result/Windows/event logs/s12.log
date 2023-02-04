@@ -1,0 +1,4 @@
+symbol: s12
+template: SQM: Warning: Failed to upload all unsent reports. [HRESULT <?> <*> E_FAIL]
+14,=,0x80004005,-,
+968,=,0x80004005,-,

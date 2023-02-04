@@ -1,0 +1,5 @@
+symbol: s226
+template: CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
+898,1499192921.020010,,=,AssocFail:sts:5_rsn:0,
+1818,1499469856.145137,,=,AssocFail:sts:2_rsn:0,
+1974,1499518522.558304,,=,AssocFail:sts:2_rsn:0,

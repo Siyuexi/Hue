@@ -1,0 +1,168 @@
+EventId,EventTemplate,Occurrences
+82ea09ae,Created MRAppMaster for application appattempt_1445144423722_0020_000001,1
+b827c7a4,Executing with tokens,1
+6fe2dc24,Kind YARN_AM_RM_TOKEN Service Ident (appAttemptId { application_id { id 20 cluster_timestamp 1445144423722 } attemptId 1 } keyId -127633188),1
+0594ecc2,Using mapred newApiCommitter.,1
+c0c8618d,OutputCommitter set in config null,1
+d79644a2,OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter,1
+2ee5396c,Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler,1
+db7c59ca,Registering class org.apache.hadoop.mapreduce.v2.app.job.event.JobEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobEventDispatcher,1
+3d078819,Registering class org.apache.hadoop.mapreduce.v2.app.job.event.TaskEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$TaskEventDispatcher,1
+7c11e369,Registering class org.apache.hadoop.mapreduce.v2.app.job.event.TaskAttemptEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$TaskAttemptEventDispatcher,1
+f8594974,Registering class org.apache.hadoop.mapreduce.v2.app.commit.CommitterEventType for class org.apache.hadoop.mapreduce.v2.app.commit.CommitterEventHandler,1
+e057f515,Registering class org.apache.hadoop.mapreduce.v2.app.speculate.Speculator$EventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$SpeculatorEventDispatcher,1
+4294ed1e,Registering class org.apache.hadoop.mapreduce.v2.app.rm.ContainerAllocator$EventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$ContainerAllocatorRouter,1
+186cb319,Registering class org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncher$EventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$ContainerLauncherRouter,1
+7de9bc65,Default file system [hdfs //msra-sa-41 9000],3
+3a03968c,Emitting job history data to the timeline server is not enabled,1
+4970db4c,Registering class org.apache.hadoop.mapreduce.v2.app.job.event.JobFinishEvent$Type for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobFinishEventHandler,1
+ca7d7941,loaded properties from hadoop-metrics2.properties,1
+9e8ad6ab,Scheduled snapshot period at 10 second(s).,1
+fc657c96,MRAppMaster metrics system started,1
+d3121b5d,Adding job token for job_1445144423722_0020 to jobTokenSecretManager,1
+d19526e3,Not uberizing job_1445144423722_0020 because not enabled; too many maps; too much input;,1
+d9c1b418,Input size for job job_1445144423722_0020 1256521728. Number of splits 10,1
+354f3715,Number of reduces for job job_1445144423722_0020 1,1
+f818dffe,job_1445144423722_0020Job Transitioned from NEW to INITED,1
+8cb82d37,MRAppMaster launching normal non-uberized multi-container job job_1445144423722_0020.,1
+916d4a74,Using callQueue class java.util.concurrent.LinkedBlockingQueue,2
+192d0e3e,Starting Socket Reader #1 for port <*>,2
+8c4d0a72,Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server,1
+8592bc6d,Instantiated MRClientService at MININT-FNANLI5.fareast.corp.microsoft.com/<*> 62260,1
+0f129e3f,IPC Server Responder starting,2
+0c5b0a59,IPC Server listener on <*> starting,2
+a79a1702,Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog,1
+0859dbfb,Http request log for http.requests.mapreduce is not defined,1
+bbb12783,Added global filter 'safety' (class org.apache.hadoop.http.HttpServer2$QuotingInputFilter),1
+a69a9d3f,Added filter AM_PROXY_FILTER (class org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context <*>,2
+bbcb7314,adding path spec <*>,2
+dcd06e1a,Jetty bound to port 62267,1
+6b77fa65,jetty-6.1.26,1
+b77d000a,Extract jar file /D /hadoop-2.6.0-localbox/share/hadoop/yarn/hadoop-yarn-common-2.6.0-SNAPSHOT.jar!/webapps/mapreduce to C \Users\msrabi\AppData\Local\Temp\Jetty_0_0_0_0_62267_mapreduce____.8n7xum\webapp,1
+cdd0aa36,Started HttpServer2$SelectChannelConnectorWithSafeStartup@<*> 62267,1
+31bfc913,Web app /mapreduce started at 62267,1
+5ba9445a,Registered webapp guice modules,1
+10357c40,JOB_CREATE job_1445144423722_0020,1
+79408ee4,nodeBlacklistingEnabled true,1
+17dc3b51,maxTaskFailuresPerNode is 3,1
+93a481e4,blacklistDisablePercent is 33,1
+a8084fe0,Connecting to ResourceManager at msra-sa-41/<*> 8030,1
+da37e1be,maxContainerCapability <memory 8192 vCores 32>,1
+eb3e7e39,queue default,1
+361211a0,Upper limit on the thread pool size is 500,1
+e871b7f1,yarn.client.max-cached-nodemanagers-proxies 0,1
+8362f0f7,job_1445144423722_0020Job Transitioned from INITED to SETUP,1
+b6e516de,Processing the event EventType <*>,4
+59681fa2,job_1445144423722_0020Job Transitioned from SETUP to RUNNING,1
+6659e8b0,Resolved <*> to /default-rack,39
+af0da6f2,<*> Task Transitioned from NEW to SCHEDULED,11
+83c1b8ed,<*> TaskAttempt Transitioned from NEW to UNASSIGNED,14
+1fc50633,<*> <memory 1024 vCores 1>,2
+6b76b9f3,Event Writer setup for JobId job_1445144423722_0020 File hdfs //msra-sa-41 9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job_1445144423722_0020_1.jhist,1
+5ab345dc,<*> Scheduling PendingReds 1 ScheduledMaps <*> ScheduledReds 0 AssignedMaps <*> AssignedReds 0 CompletedMaps 0 CompletedReds 0 ContAlloc <*> ContRel 0 HostLocal 0 RackLocal <*>,17
+6613e5a1,getResources() for application_1445144423722_0020 ask 4 release 0 newContainers 0 finishedContainers 0 resourcelimit <memory <*> vCores <*> knownNMs 4,12
+f5f0fd6c,Recalculating schedule headroom <memory <*> vCores <*>,131
+773f4a2b,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,130
+0f71bb1f,Got allocated containers <*>,10
+3c6dde18,Assigned container container_1445144423722_0020_01_000002 to attempt_1445144423722_0020_m_000000_0,1
+c9ebd122,The <*> file on the remote FS is <*>,2
+60d079c6,Adding #0 tokens and #1 secret keys for NM use for launching container,1
+a83c59ee,Size of containertokens_dob is 1,1
+944f8887,Putting shuffle token in serviceData,1
+e0875905,attempt_1445144423722_0020_m_000000_0 TaskAttempt Transitioned from <*> <*> ASSIGNED,2
+9b32ab55,Processing the event EventType <*> for container <*> taskAttempt <*>,12
+c77ffeb6,Launching attempt_1445144423722_0020_m_000000_0,1
+55a912d1,Opening proxy 04DN8IQ.fareast.corp.microsoft.com 54883,1
+e355b3f2,Shuffle port returned by ContainerManager for <*> 13562,10
+48b56f62,TaskAttempt [attempt_1445144423722_0020_m_000000_0] using containerId [container_1445144423722_0020_01_000002 on NM [04DN8IQ.fareast.corp.microsoft.com 54883],1
+accbe83c,ATTEMPT_START task_1445144423722_0020_m_000000,1
+a66db97c,<*> Task Transitioned from SCHEDULED to RUNNING,10
+e58be014,Assigned container container_1445144423722_0020_01_000003 to attempt_1445144423722_0020_m_000001_0,1
+93ff9ece,attempt_1445144423722_0020_m_000001_0 TaskAttempt Transitioned from <*> <*> ASSIGNED,2
+ad28b9a2,Launching attempt_1445144423722_0020_m_000001_0,1
+4f0ff3aa,Opening proxy MININT-FNANLI5.fareast.corp.microsoft.com 52368,4
+94cb7220,TaskAttempt <*> using containerId <*> on NM [MININT-FNANLI5.fareast.corp.microsoft.com 52368],2
+846b3c60,ATTEMPT_START task_1445144423722_0020_m_000001,1
+7ccf79c0,Assigned container container_1445144423722_0020_01_000004 to attempt_1445144423722_0020_m_000002_0,1
+f5a50151,attempt_1445144423722_0020_m_000002_0 TaskAttempt Transitioned from <*> <*> ASSIGNED,2
+f943c4b7,Launching attempt_1445144423722_0020_m_000002_0,1
+605317c5,ATTEMPT_START task_1445144423722_0020_m_000002,1
+0179ece4,Auth successful for job_1445144423722_0020 (auth SIMPLE),10
+ed96672f,JVM with ID jvm_1445144423722_0020_m_000002 <*> <*> <*> task,2
+623ee31c,JVM with ID jvm_1445144423722_0020_m_000003 <*> <*> <*> task,2
+562d99bf,JVM with ID jvm_1445144423722_0020_m_000004 <*> <*> <*> task,2
+68225e09,Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is <*>,46
+774fd566,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is <*>,56
+a2820909,Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is <*>,55
+09d79c2f,Assigned container container_1445144423722_0020_01_000005 to attempt_1445144423722_0020_m_000003_0,1
+3f7322cc,attempt_1445144423722_0020_m_000003_0 TaskAttempt Transitioned from <*> <*> ASSIGNED,2
+bf3cd621,Launching attempt_1445144423722_0020_m_000003_0,1
+306c3f25,Opening proxy MSRA-SA-41.fareast.corp.microsoft.com 7109,6
+fd200c80,TaskAttempt <*> using containerId <*> on NM [MSRA-SA-41.fareast.corp.microsoft.com 7109],5
+1a7e63f4,ATTEMPT_START task_1445144423722_0020_m_000003,1
+db758794,JVM with ID jvm_1445144423722_0020_m_000005 <*> <*> <*> task,2
+1b461023,Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is <*>,39
+f5e008f7,Assigned container container_1445144423722_0020_01_000006 to attempt_1445144423722_0020_m_000004_0,1
+2e533014,Assigned container container_1445144423722_0020_01_000007 to attempt_1445144423722_0020_m_000005_0,1
+e03f95cb,<*> TaskAttempt Transitioned from UNASSIGNED to ASSIGNED,6
+684642cc,Launching attempt_1445144423722_0020_m_000004_0,1
+a4edfbd5,Launching attempt_1445144423722_0020_m_000005_0,1
+2a94fbaf,<*> TaskAttempt Transitioned from ASSIGNED to RUNNING,6
+0f9e00e3,ATTEMPT_START task_1445144423722_0020_m_000004,1
+1cb15479,ATTEMPT_START task_1445144423722_0020_m_000005,1
+6ff30824,Assigned container container_1445144423722_0020_01_000008 to attempt_1445144423722_0020_m_000006_0,1
+64234ef1,Launching attempt_1445144423722_0020_m_000006_0,1
+a59196b5,ATTEMPT_START task_1445144423722_0020_m_000006,1
+a6ad6334,JVM with ID <*> asked for a task,6
+24429e0f,JVM with ID <*> given task <*>,6
+eaa0904a,Progress of TaskAttempt attempt_1445144423722_0020_m_000005_0 is <*>,17
+15de4a53,Assigned container container_1445144423722_0020_01_000009 to attempt_1445144423722_0020_m_000007_0,1
+f8a6d197,Progress of TaskAttempt attempt_1445144423722_0020_m_000004_0 is <*>,17
+9f576aba,Launching attempt_1445144423722_0020_m_000007_0,1
+b6ebd73d,ATTEMPT_START task_1445144423722_0020_m_000007,1
+462d296f,Progress of TaskAttempt attempt_1445144423722_0020_m_000006_0 is <*>,17
+ed029ed9,Assigned container container_1445144423722_0020_01_000010 to attempt_1445144423722_0020_m_000008_0,1
+3092a03e,Launching attempt_1445144423722_0020_m_000008_0,1
+887ab37d,Opening proxy MSRA-SA-39.fareast.corp.microsoft.com 28345,2
+c841c08c,TaskAttempt <*> using containerId <*> on NM [MSRA-SA-39.fareast.corp.microsoft.com 28345],2
+e18bbe7b,ATTEMPT_START task_1445144423722_0020_m_000008,1
+c3caa667,Assigned container container_1445144423722_0020_01_000011 to attempt_1445144423722_0020_m_000009_0,1
+212d8df2,Launching attempt_1445144423722_0020_m_000009_0,1
+ed0241a2,ATTEMPT_START task_1445144423722_0020_m_000009,1
+d1328687,Cannot assign container Container [ContainerId container_1445144423722_0020_01_000012 NodeId MSRA-SA-39.fareast.corp.microsoft.com 28345 NodeHttpAddress MSRA-SA-39.fareast.corp.microsoft.com 8042 Resource <memory 1024 vCores 1> Priority 20 Token Token { kind ContainerToken service <*> 28345 } ] for a map as either container memory less than required <memory 1024 vCores 1> or no pending map tasks - maps.isEmpty true,1
+ba0e1b89,Received completed container <*>,2
+2712fdae,Container complete event for unknown container id container_1445144423722_0020_01_000012,1
+4d740803,Progress of TaskAttempt attempt_1445144423722_0020_m_000007_0 is <*>,15
+2a6feff7,Progress of TaskAttempt attempt_1445144423722_0020_m_000008_0 is <*>,13
+b343dc18,Progress of TaskAttempt attempt_1445144423722_0020_m_000009_0 is <*>,14
+0a1bddef,Done acknowledgement from attempt_1445144423722_0020_m_000003_0,1
+eb8ba753,attempt_1445144423722_0020_m_000003_0 TaskAttempt Transitioned from <*> <*> SUCCESS_CONTAINER_CLEANUP,2
+e70ff2e3,KILLING attempt_1445144423722_0020_m_000003_0,1
+04500f53,Task succeeded with attempt attempt_1445144423722_0020_m_000003_0,1
+2e4c310e,task_1445144423722_0020_m_000003 Task Transitioned from RUNNING to SUCCEEDED,1
+bcfab721,Num completed Tasks 1,1
+ec6b84b4,Reduce slow start threshold reached. Scheduling reduces.,1
+0c2d54f8,All maps assigned. Ramping up all remaining reduces 1,1
+e051b4cf,DefaultSpeculator.addSpeculativeAttempt -- we are speculating task_1445144423722_0020_m_000000,1
+6e264523,We launched 1 speculations. Sleeping 15000 milliseconds.,1
+a5763810,Scheduling a redundant attempt for task task_1445144423722_0020_m_000000,1
+ab470169,Diagnostics report from attempt_1445144423722_0020_m_000003_0 Container killed by the ApplicationMaster.,1
+0d1ba4af,Address change detected. Old msra-sa-41/<*> <*> New msra-sa-41 <*>,476
+56587bea,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for <*> seconds. Will retry shortly ...,326
+2584a877,Slow ReadProcessor read fields took 65020ms (threshold 30000ms); ack seqno -2 status SUCCESS status ERROR downstreamAckTimeNanos 0 targets [<*> 50010 <*> 50010],1
+58425e91,DFSOutputStream ResponseProcessor exception for block BP-1347369012-<*>-1444972147527 blk_1073743512_2731,1
+a853d0ef,Error Recovery for block BP-1347369012-<*>-1444972147527 blk_1073743512_2731 in pipeline <*> 50010 <*> 50010 bad datanode <*> 50010,1
+2ef07439,DataStreamer Exception,1
+b4ff2357,ERROR IN CONTACTING RM.,147
+8f3ccc35,Retrying connect to server msra-sa-41 8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries 10 sleepTime 1000 MILLISECONDS),146
+c55b5001,<*> <*> <*> <*> java.net.NoRouteToHostException No Route to Host from MININT-FNANLI5/<*> to msra-sa-41 9000 failed on socket timeout exception java.net.NoRouteToHostException No route to host no further information; For more details see http //wiki.apache.org/hadoop/NoRouteToHost,6
+74ed2705,attempt_1445144423722_0020_m_000002_0 TaskAttempt Transitioned from <*> <*> FAIL_CONTAINER_CLEANUP,2
+11ac0226,KILLING attempt_1445144423722_0020_m_000002_0,1
+fb4ab5cb,Task cleanup failed for attempt <*>,2
+f01f0f50,<*> TaskAttempt Transitioned from FAIL_TASK_CLEANUP to FAILED,2
+e4f4c0f8,Error writing History Event org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@7317849d,1
+8756b825,Thread Thread[eventHandlingThread 5 main] threw an Exception.,1
+2b7f7e1e,<*> failures on node MININT-FNANLI5.fareast.corp.microsoft.com,2
+410c36f9,Added <*> to list of failed maps,2
+8d90115d,attempt_1445144423722_0020_m_000001_0 TaskAttempt Transitioned from <*> <*> FAIL_CONTAINER_CLEANUP,2
+66b62166,KILLING attempt_1445144423722_0020_m_000001_0,1

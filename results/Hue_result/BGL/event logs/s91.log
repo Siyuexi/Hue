@@ -1,0 +1,3 @@
+symbol: s91
+template: ciod: In packet from node <*> <*> message code <*> is not <*> or <*> <?> <*> <*> <*>
+1394,91.0,(R62-M1-Nf-C:J03-U11),,2,3,4294967295,(softheader=003b005b,00030000,00000001,00000000),

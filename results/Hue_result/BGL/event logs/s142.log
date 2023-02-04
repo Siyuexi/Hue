@@ -1,0 +1,6 @@
+symbol: s142
+template: ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer
+1779,172.16.96.116:52839,,
+1781,172.16.96.116:52930,,
+1783,172.16.96.116:53387,,
+1785,172.16.96.116:41587,,

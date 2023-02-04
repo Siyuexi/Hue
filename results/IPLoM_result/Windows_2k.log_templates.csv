@@ -1,0 +1,44 @@
+EventId,EventTemplate,Occurrences
+4351fc0e,<*> TrustedInstaller <*>,5
+68044a27,SQM Failed to start upload with file pattern C \Windows\servicing\sqm\*_std.sqm flags [HRESULT - E_FAIL],2
+0ee415b1,No startup processing required TrustedInstaller service was not set as autostart or else a reboot is still pending.,2
+b2d220af,"00000009@2016/9/27 20 40 53.744 CSI Transaction @initialized for deployment engine {d16d444c-56d8-11d5-882d-0080c847b195} with flags 00000002 and client id [10]""TI6.0_0 0/""",1
+70236f55,TrustedInstaller service starts successfully.,2
+b494f763,Warning Unrecognized packageExtended attribute.,280
+9cbac0eb,Reboot mark refs 0,1
+26f0e468,Offline image is read-only,1
+aada5acd,<*> the TrustedInstaller main loop.,3
+859b86c8,<*> processing thread terminated normally,3
+6c4b2eec,<*> CSI Store <*> (initialized,3
+2f9f497c,Unloading offline registry hive <*>,8
+7902a9f7,Session <*> initialized by client <*>,609
+f3ea0ede,Expecting attribute name [HRESULT - CBS_E_MANIFEST_INVALID_ITEM],224
+e088906e,Reboot mark refs incremented to 1,1
+29bb2401,SQM Initializing online with Windows opt-in False,2
+bb3bab41,SQM Requesting upload of all unsent reports.,2
+7a8ea8bf,Loaded Servicing Stack v6.1.7601.23505 with Core C \Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\cbscore.dll,2
+af6dad2f,"<*> Creating NT transaction (seq <*> objectname [6]""(null)""",3
+690f0a19,NonStart Success startup processing not required as expected.,2
+4c4294e3,Failed to <*> <*> <*> [HRESULT - <*>,242
+555b51e8,SQM Cleaning up report files older than 10 days.,2
+8245149a,<*> Created NT transaction (seq <*> result handle <*>,3
+8ac3ead0,Failed to create backup log cab. [HRESULT - ERROR_INVALID_FUNCTION],2
+e03abb85,SQM Failed to start standard sample upload. [HRESULT - E_FAIL],2
+f962f859,0000000a Performing 1 operations; 1 are not lock/unlock and follow,1
+227d6206,0000000b Store coherency cookie matches last scavenge cookie skipping scavenge.,1
+a1610654,<*> <*> <*> <*> WcpInitialize (wcp.dll version 0.0.0.6) called (stack <*>,6
+392481ac,SQM Warning Failed to upload all unsent reports. [HRESULT - E_FAIL],2
+290ff3a6,0000000c ICSITransaction Commit calling IStorePendingTransaction Apply - coldpatching FALSE applyflags 7,1
+42accaea,SQM Queued 0 file(s) for upload with pattern C \Windows\servicing\sqm\*_all.sqm flags 0x6,2
+3ba035a4,00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags 00000004 progress NULL phase 0 pdwDisposition <*>,2
+7478e423,Read out cached package applicability for package <*> ApplicableState <*> CurrentState <*>,558
+5c10fe1e,Loading offline registry hive <*> into registry key <*> from path <*>,8
+66c0849b,Scavenge Starts,1
+246f6030,Scavenge Begin CSI Store,1
+aed2d067,Scavenge Completed disposition 0X1,1
+d2f42f84,<*> 20 <*> <*> CSI <*> <*>,3
+383911c4,00000007@2016/9/28 16 00 46.260 CSI perf trace,1
+3c5792b1,00000008@2016/9/28 16 00 46.635 PopulateComponentFamiliesKey - Begin,1
+b7d63086,00000009@2016/9/28 16 01 03.072 PopulateComponentFamiliesKey - End,1
+80e14a25,NonStart Checking to ensure startup processing was not required.,2
+68866c5f,Disabling manifest caching because the image is not writeable.,1

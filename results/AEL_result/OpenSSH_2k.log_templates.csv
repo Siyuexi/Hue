@@ -1,0 +1,37 @@
+EventId,EventTemplate,Occurrences
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+9302fad4,Invalid user <*> from <*>,113
+6b674ff1,input_userauth_request: invalid user <*> [preauth],113
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,135
+e2315f39,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,110
+ca409192,Failed <*> for invalid user <*> from <*> port <*> ssh2,139
+2491ca3e,Connection closed by <*> [preauth],34
+c5704dd9,Received disconnect from <*>: 11: Bye Bye [preauth],413
+8c227a12,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>.<*>  user=root,1
+07159a74,<*> password for <*> from <*> port <*> ssh2,384
+b17ca1b6,message repeated 5 times: [ Failed password for root from <*> port 42393 ssh2],1
+ea4aa83d,Disconnecting: Too many authentication failures for root [preauth],2
+0d20df76,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>.<*>  user=root,1
+2dd88708,PAM service(sshd) ignoring max retries; 6 > 3,3
+75aa868a,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=root,368
+c926c7d9,Did not receive identification string from <*>,10
+3a7285d3,error: Received disconnect from <*>: 3: <*>: Auth fail [preauth],2
+34de06f2,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=uucp,5
+e2e22af4,Received disconnect from <*>: 11: Closed due to user request. [preauth],7
+d72fd2a1,PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,4
+3e662e18,PAM service(sshd) ignoring max retries; 5 > 3,4
+7f8d7ef8,PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,2
+81dbc451,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=ftp,3
+2cd10f61,message repeated 5 times: [ Failed password for root from <*> port 50719 ssh2],1
+d207b4f5,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=root,1
+9b9289cb,PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,1
+d7242a1b,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],45
+ef34b033,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=sshd,2
+43979032,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=git,3
+5fa30d4a,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=mysql,2
+4ca88b08,pam_unix(sshd:session): session opened for user fztu by (uid=0),1
+afd2f664,Received disconnect from <*>: 11: disconnected by user,1
+cfe22f2e,pam_unix(sshd:session): session closed for user fztu,1
+92ffcac4,Disconnecting: Too many authentication failures for admin [preauth],1
+1048a82a,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,1
+f32f0642,fatal: Write failed: Connection reset by peer [preauth],1

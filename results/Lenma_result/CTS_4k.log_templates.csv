@@ -1,0 +1,99 @@
+EventId,EventTemplate,Occurrences
+8d200e8f,Process<*><*><*>,1
+9e7e47b7,<*> Start Process <*><*>,3
+a8c4be1c,Password for  <*>,4
+fc01eff3,<*> Start execute CPTS test <*><*>,3
+f0faa632,file_path<*><*>,2
+fceaec47,<*>precondition:begin<*><*>,1
+b46d3384,<*>precondition:end<*><*>,1
+a1e3dc88,mkdir: cannot create directory '<*> File exists<*>,10
+d9104934,55 bytes of data.<*> bytes from <*> icmp_seq<*><*> ttl<*><*> time<*><*>.<*> ms<*> bytes from <*> icmp_seq<*><*> ttl<*><*> time<*><*>.<*> ms<*> bytes from <*> icmp_seq<*><*> ttl<*><*> time<*><*>.27ms<*> bytes from <*> icmp_seq<*><*> ttl<*><*> time<*><*>.<*> ms<*> bytes from <*> icmp_seq<*><*> ttl<*><*> time<*><*>.<*> ms<*>,1
+67ea677b,Creating CPTS process.<*>,1
+639333f4,patching args<*><*>,4
+ad492bce,"Warning: Telnet is not a secure protocol, and it is recommended to use Stelnet.<*> <*>",2
+60e9e595,ne900156<*>,1
+80f2ba00,"Info: The max number of VTY users is <*>, the number of current VTY users online is <*>, and total number of terminal users online is <*>.<*> The current login time is <*> <*>:<*>:<*>.<*>",1
+b3fb792c,[<*> <*>:<*>:<*>.<*>] <*> <*>]: ,34
+1ed0e48d,quit<*>,9
+1fec6765,[<*> <*>:<*>:<*>.<*>] <*> <*>]:  ,45
+26d95752,display clock<*> <*>:<*>:<*><*> Zone(DefaultZoneName): UTC<*>,2
+c48f033a,"display version<*> Routing Platform Software<*> (R) software, Version <*>.<*> (<*> V800R022C10)<*> (C) <*><*><*> Technologies Co., Ltd.<*> uptime is <*> day, <*> hours, <*> minutes<*> version information:<*> version information:<*> Slot Quantity: <*><*> Slot Quantity: <*><*> version information:<*> (Master) <*>: uptime is <*> day, <*> hours, <*> minutes<*> Startup Time <*><*> <*>:<*>:<*><*> SDRAM Memory Size : <*> M bytes<*> CFCARD Memory Size : <*> M bytes<*> VMPU CR9D0MPUQ180<*>VMPU version information:<*> PCB Version : VIRTUALMPU REV A<*>",2
+3aec990e,display  Device status:<*> # Type Online Register Status Role Lsld Primary<*> LPU Present Registered Normal LC <*> NA<*> LPU Present Registered Normal LC <*> NA<*> LPU Present Registered Normal LC <*> NA<*> LPU Present Registered Normal MMB <*> Master<*>,2
+bd2a6a7b,display license<*> Lisense : cfcard:<*> state : Demo<*> ticket : No ticket<*> mode : commom<*> name Item type Value Description<*> <*> <*> NetEngine9000 500M Upgrade to 10G Port Enable RTU (per 500M)<*> Resource <*> NetEngine9000 500M Upgrade to 10G Port Enable RTU (per 500M)<*> <*> <*> <*> NetEngine9000 Virtual System Function License<*> Fuction Yes NetEngine9000 IP Performance Measure Licence (IP FPM)<*> name (View)Resource License Command<*>Line<*> (License)active port<*>I3vpn slot <slot<*>id> card <card<*>id> port <port<*>list><*> (Slot)I3vpn capacity enhance enable<*> (License)active port<*>I3vpn slot <slot<*>id> card <card<*>id> port <port<*>list><*> (License)active port<*>I3vpn slot <slot<*>id> card <card<*>id> port <port<*>list><*>,2
+1dce091b,[<*> <*>:<*>:<*>.<*>] <*> <*>]:   ,30
+16b1a7d8,display patch verbose<*> No patch exists.<*> current state is: Idle<*> Info:<*> PatchType Count<*> <*> <*><*>,2
+ac020583,display module<*>information<*> Module<*>information<*> Version InstallTime PackageName<*>  <*> <*>:<*>:<*> V200R212SPH<*>NE9000_<*>_<*>_RM_CMS_mir.MOD<*>  <*> <*>:<*>:<*> V200R212SPH<*>NE9000_<*>_RM_CMS_mir.MOD<*>  <*> <*>:<*>:<*> V200R212SPH<*>NE9000_<*>_<*>_RM_CMS_mir.MOD<*>  <*> <*>:<*>:<*> V200R212SPH<*>NE9000_RM_CMS_mir.MOD<*>,3
+d1aaedcb,display startup<*> <*> Configured startup sysytem software: cfcard:<*> startup sysytem software: cfcard:<*> Next startup sysytem software: cfcard:<*> Startup paf file: default<*> Next Startup paf file: default<*> Startup patch package: NULL<*> Next Startup patch package: NULL<*> <*> Configured startup sysytem software: cfcard:<*> startup sysytem software: cfcard:<*> Next startup sysytem software: cfcard:<*> Startup paf file: default<*> Next Startup paf file: default<*> Startup patch package: NULL<*> Next Startup patch package: NULL<*>,2
+de909afa,"system<*> system view, return view with return command.<*>",2
+0e5d6147,"diagnose<*> Enter system view, return view with return command.<*>",2
+a42206ec,commit<*>,2
+4c31f605,display data<*>channel<*>,2
+1b9a1522,display ptn<*>mode<*> ^<*> command found at '^' position<*>,2
+35d58b98,display vrcb<*> Version:  Version:  Version: vist12.<*><*> Version: VPP  Version: VPP ,2
+7d76b2c7,return<*>,4
+a515f5bb,[<*> <*>:<*>:<*>.<*>] <*> <*>]:     ,12
+ec2eb42d,display slot <*> chipisolate state<*>,2
+a1a5f195,display anti<*>theft status<*> NP state<*> TM state<*>,2
+c16c897f,version <*> <*>,2
+552a67f2,vrp_version <*> <*>,2
+f49e3344,ne_type <*> <*>,2
+9f90c42e,ipn <*> Router<*>,2
+ea01def7,display access<*>user<*> users :<*><*> users :<*><*> users :<*><*> users :<*><*> local users :<*><*> remote users :<*><*> ready :<*><*> state :<*><*>,2
+f555e6b2,"ERROR, execute cmd: '( <*> node <*>list <*>> <*> <*> grep RUNNING )' timedout.<*> STDOU<*> STDER<*>",2
+fb7d48a7,please set <*> and <*> manually<*>,2
+4c0600ac,<*> line <*>: filename argument required<*>,2
+334dad93,nohup: ignoring input<*>,2
+8a717841,display ipv6 prefix<*> ^<*> command found at '^' position<*>,2
+eac47d3e,display ip pool<*> address pool Statistic<*> : <*> Remote: <*> Server: <*> <*> address Statistic<*> :<*> Used :<*> Ratio :<*> <*>,2
+afd7d055,cd<*>,2
+f44dded6,pwd<*>,2
+a3de6229,"system<*>view<*> system view, return command.<*>",2
+3dbc29da,display commit list<*> commitID Label User TimeStamp<*> <*> _ ne900112 <*> <*>:<*>:<*><*> <*> _ ne900112 <*> <*>:<*>:<*><*> <*> _ ne900112 <*> <*>:<*>:<*><*> <*> va1 ne900112 <*> <*>:<*>:<*><*> <*> bbb ne900112 <*> <*>:<*>:<*><*> <*> commit_label ne900112 <*> <*>:<*>:<*><*> <*> <*> ne900112 <*> <*>:<*>:<*><*> <*>,2
+ca468b23,Parsing conf: <*>,8
+84e1445f,"dir <*> of cfcard:<*> Attr Size(Byte) Date Time FileName<*> <*>rw<*> <*>,<*> April <*> <*> <*>:<*>:<*> <*> KB total (<*>,<*>,<*> KB free)<*>",2
+707a2c9f,clear configuration commit label begin_rollback<*> ^<*> command found at '^' position<*>,2
+2aa73547,Warning: This operation will revert configuration changes to the file <*> Continue? [Y<*>,2
+1bc63e42,Y<*> Some warnings or configuration dofferences occurred in the last rollback. Continue? [Y<*>,4
+dc30acfb,"N<*> Some warnings or configuration dofferences occurred in the last rollback. Continue? [Y<*> rollback changes.<*> rollback result.<*> rollback finished, but there are still several differences.<*> use 'display configuration rollback result' to view the differences.<*> use 'display configuration rollback result' to view the changes.<*>",2
+023ab5e3,[<*> <*>:<*>:<*>.<*>] <*> <*>]:    ,31
+5924c376,display configuration rollback result<*> are still several differences as follow:<*>   password   password  #<*> license<*> active network<*>slice flex<*>channel <*> slot <*><*> active network<*>slice flex<*>channel <*> slot <*><*> active network<*>slice flex<*>channel <*> slot <*><*> active network<*>slice flex<*>channel <*> slot <*><*> active network<*>slice flex<*>channel <*> slot <*><*> active network<*>slice flex<*>channel <*> slot <*><*> #<*> interface GigabitEthernet5<*> undo dcn<*> #<*> interface GigabitEthernet5<*> undo dcn<*> #<*> interface GigabitEthernet5<*> undo dcn<*> #<*> interface GigabitEthernet5<*> undo dcn<*> #<*> interface GigabitEthernet5<*> undo dcn<*> #<*> interface GigabitEthernet5<*> undo dcn<*> #<*> interface GigabitEthernet4<*> undo dcn<*> #<*> interface GigabitEthernet4<*> undo dcn<*> #<*> interface GigabitEthernet4<*> undo dcn<*> #<*> interface GigabitEthernet4<*> undo dcn<*> #<*> interface GigabitEthernet4<*> undo dcn<*> #<*> interface GigabitEthernet4<*> undo dcn<*> #<*> domain default<*> #<*>,2
+e9ea47cb,21<*> <*>:<*>:<*> INFO mapreduce.Job: Job job_<*>_<*> running in uber mode : <*><*>,2
+53eccf00,21<*> <*>:<*>:<*> INFO mapreduce.Job:    ,8
+10c9e260,21<*> <*>:<*>:<*> INFO mapreduce.Job: Counters: <*><*> File System Counters<*> FILE: Number of bytes read<*><*><*> FILE: Number of bytes written<*><*><*> FILE: Number of read operations<*><*><*> FILE: Number of large read operations<*><*><*> FILE: Number of write operations<*><*><*> HDFS: Number of bytes read<*><*><*> HDFS: Number of bytes written<*><*><*> HDFS: Number of read operations<*><*><*> HDFS: Number of large read operations<*><*><*> HDFS: Number of write operations<*><*><*> Job Counters <*> Launched map tasks<*><*><*> Other local map tasks<*><*><*> Total time spent by all maps in occupied slots (ms)<*><*><*> Total time spent by all reduces in occupied slots (ms)<*><*><*> Total time spent by all map tasks (ms)<*><*><*> Total vcore<*>milliseconds taken by all map tasks<*><*><*> Total megabyte<*>milliseconds taken by all map tasks<*><*><*> Map<*>Reduce Framework<*> Map input records<*><*><*> Map output records<*><*><*> Input split bytes<*><*><*> Spilled Records<*><*><*> Failed Shuffles<*><*><*> Merged Map outputs<*><*><*> GC time elapsed (ms)<*><*><*> CPU time spent (ms)<*><*><*> Physical memory (bytes) snapshot<*><*><*> Virtual memory (bytes) snapshot<*><*><*> Total committed heap usage (bytes)<*><*><*> Peak Map Physical memory (bytes)<*><*><*> Peak Map Virtual memory (bytes)<*><*><*> <*> CHECKSUM<*><*><*> File Input Format Counters <*> Bytes Read<*><*><*> File Output Format Counters <*> Bytes Written<*><*><*>,1
+eb7100c9,"display version<*> Routing Platform Software<*> (R) software, Version <*>.<*> (<*> V800R022C10)<*> (C) <*><*><*> Technologies Co., Ltd.<*> uptime is <*> day, <*> hours, <*> minutes<*> version information:<*> version information:<*> Slot Quantity: <*><*> Slot Quantity: <*><*> version information:<*> (Master) <*>: uptime is <*> day, <*> hours, <*> minutes<*> Startup Time <*><*> <*>:<*>:<*><*> SDRAM Memory Size : <*> M bytes<*> CFCARD Memory Size : <*> M bytes<*> VMPU CR9D0MPUQ180<*>VMPU version information:<*> PCB Version : VIRTUALMPU REV A<*> (Master) <*>: uptime is <*> day, <*> hours, <*> minutes<*> Startup Time <*><*> <*>:<*>:<*><*> SDRAM Memory Size : <*> M bytes<*> CFCARD Memory Size : <*> M bytes<*> VMPU CR9D0MPUQ180<*>VMPU version information:<*> PCB Version : VIRTUALMPU REV C<*> version information:<*> <*>: uptime is <*> day, <*> hours, <*> minutes<*> StartupTime <*><*> <*>:<*>:<*><*> Host processor:<*> SDRAM Memory Size : <*> M bytes<*> Flash Memory Size :<*> M bytes<*> PCB Version : VIRTUALMPU REV C <*> EPLD Version : <*><*> FPGA Version : <*><*> CHIP Version : <*><*> CHIP2 Version : <*><*> FPGA Version : <*><*> FPGA2 Version : <*><*> CHIP Version : <*><*> CHIP2 Version : <*><*> Software Version: <*><*> <*>: uptime is <*> day, <*> hours, <*> minutes<*> StartupTime <*><*> <*>:<*>:<*><*> Host processor:<*> SDRAM Memory Size : <*> M bytes<*> Flash Memory Size :<*> M bytes<*> PCB Version : VIRTUALMPU REV C <*> EPLD Version : <*><*> FPGA Version : <*><*> CHIP Version : <*><*> CHIP2 Version : <*><*> FPGA Version : <*><*> FPGA2 Version : <*><*> CHIP Version : <*><*> CHIP2 Version : <*><*> Software Version: <*><*> <*>: uptime is <*> day, <*> hours, <*> minutes<*> StartupTime <*><*> <*>:<*>:<*><*> Host processor:<*> SDRAM Memory Size : <*> M bytes<*> Flash Memory Size :<*> M bytes<*> PCB Version : VIRTUALMPU REV C <*> EPLD Version : <*><*> FPGA Version : <*><*> CHIP Version : <*><*> CHIP2 Version : <*><*> FPGA Version : <*><*> FPGA2 Version : <*><*> CHIP Version : <*><*> CHIP2 Version : <*><*> Software Version: <*><*>",2
+f31bbd4e,"display ip routing<*>table all<*>routes<*> Flags: R<*>relay, D<*>download to fib, T<*>to vpn<*>instanse, B<*>black hole route<*> Table :_public_<*> Destinations: <*> Routes : <*><*> Proto Pre Cost Flags NextHop Interface<*> Direct <*> <*> D <*> GigabitEthernet1<*> Direct <*> <*> D <*> GigabitEthernet1<*> Direct <*> <*> D <*> GigabitEthernet1<*> Direct <*> <*> D <*> InLoopBack1<*> Direct <*> <*> D <*> InLoopBack1<*> Direct <*> <*> D <*> InLoopBack1<*> Table :_public_<*>",2
+adbfdd1e,display current<*>configuration<*> Version  configuration was updated at <*> <*>:<*>:<*><*> configuration was saved at <*> <*>:<*>:<*><*>            default<*> 8oed<*> soc<*>  password   service<*>type<*>  state active<*>       port<*>basic slot <*> card <*> port <*><*><*><*> port<*>evpn slot <*> card <*> port <*><*><*><*> port<*>vxlan slot <*> card <*> port <*><*><*><*> port<*>I3vpn slot <*> card <*> port <*><*><*><*>  shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*> 25GE5<*> shutdown<*> dcn<*> 25GE5<*> shutdown<*> dcn<*> 25GE5<*> shutdown<*> dcn<*> 25GE5<*> shutdown<*> dcn<*> 25GE5<*> shutdown<*> dcn<*> 25GE5<*> shutdown<*> dcn<*> Post5<*> ppp<*> shutdown<*> dcn<*> Post5<*> ppp<*> shutdown<*> dcn<*> Post5<*> ppp<*> shutdown<*> dcn<*> user Admin System<*> user Admin System rsa<*> user Admin System service<*> user Is3_System<*> user Is3_System rsa<*> user Is3_System service<*>,2
+cf48939b,"system<*>view immediately<*> system view, return user view with return command.<*>",4
+c3a7b600,user<*>interface con <*><*>,4
+de23c9f6,user<*>interface aux <*><*> ^<*> command found at '^' position.<*>,2
+e9c10b14,[<*> <*>:<*>:<*>.<*>] <*> <*>]: user<*>interface vyt <*> <*><*>,1
+72c6bfd9,user<*>interface vyt <*> <*><*>,2
+0503f536,authentication<*>mode bbb<*>,1
+67351224,user privilege level <*><*>,2
+57cfc46c,idle<*>timeout <*> <*><*> idle<*>timeout is configured as <*><*>,2
+8473bdf0,screen<*>length <*><*>,2
+e0d5ccff,W<*>,3
+01cf73d5,delete rui user all<*> ^<*> command found at '^' position<*>,5
+55b1cba0,undo netconf<*> ^<*> command found at '^' position<*>,2
+0fbffb6a,undo pki domain default<*> Illegal to delete PKI undo netconf<*>,2
+2e543879,undo       found at '^' position<*>,4
+b12886b4,undo ssh client  ^<*> Too many parameters found at '^' position<*>,4
+5b542048,undo ssh client hmac  ^<*> Too many parameters found at '^' position<*>,4
+f3f8d329,undo ssh user system<*> The configue is invalid<*>,2
+58dad206,undo ssh user Admin system<*> The configue is invalid<*>,2
+059c9c49,undo ip vpn<*>instance<*> Deleting the vpn<*>instance is not allowed.<*>,2
+b288aa81,undo ntp<*>service server<*> ^<*> Wrong parameter found at '^' position<*>,2
+4eb37833,undo service<*>template default <*><*> System defined service<*>template default <*> can not be deleted by user.<*>,6
+b6b391b0,display current<*>configuration<*> Last configuration was updated at <*> <*>:<*>:<*><*> Last configuration was saved at <*> <*>:<*>:<*><*>  neid <*><*> template<*>default <*><*> template<*>default <*><*> template<*>default <*><*> template<*>default <*><*> template<*>default <*><*> port<*>basic slot <*> card <*><*><*><*> port<*>evpn slot <*> card <*><*><*><*> port<*>vxlan slot <*> card <*><*><*><*> port<*>srv slot <*> card <*><*><*><*>  shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*> GigabitEthernet6<*> shutdown<*> dcn<*> GigabitEthernet7<*> shutdown<*> dcn<*> GigabitEthernet8<*> shutdown<*> dcn<*> GigabitEthernet9<*> shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*>  shutdown<*> dcn<*> 29GE8<*> shutdown<*> dcn<*> 29GE9<*> shutdown<*> dcn<*> 29GE15<*> shutdown<*> dcn<*> Post15<*>  shutdown<*> dcn<*> Post16<*>  shutdown<*> dcn<*> Post17<*>  shutdown<*> dcn<*> Post18<*>  shutdown<*> dcn<*> Post19<*>  shutdown<*> dcn<*> Post25<*>  shutdown<*> dcn<*>,2
+6fbe407b,interface Pos <*><*>,4
+445647b4,interface Pos <*><*> <*>,2
+a8a1c716,display clock<*> total used free shared buff<*> available<*> <*> <*> <*> <*> <*> <*><*> <*> <*> ,2
+b31818c3,Process<*><*>,2
+4593ab12,155 bytes of data.<*> bytes from <*> icmp_seq<*><*> ttl<*><*> time<*><*>.<*> ms<*> bytes from <*> icmp_seq<*><*> ttl<*><*> time<*><*>.<*> ms<*> bytes from <*> icmp_seq<*><*> ttl<*><*> time<*><*>.27ms<*> bytes from <*> icmp_seq<*><*> ttl<*><*> time<*><*>.<*> ms<*> bytes from <*> icmp_seq<*><*> ttl<*><*> time<*><*>.<*> ms<*>,1
+e9dfbdc0,Creating job3 data.<*>,1
+014c2a54,ne9001590<*> 7hregrw<*>,1
+97764d52,"<*> The max number of VTY users is <*>, the number of current VTY users online is <*>, and total number of terminal users online is <*>.<*> The current login time is <*> <*>:<*>:<*>.<*>",1
+d42c4bf3,display module<*>information<*> Module<*>information<*> Version InstallTime PackageName<*>  <*> <*>:<*>:<*>   <*> <*>:<*>:<*> ,2
+21da4632,authentication<*>mode ccc<*>,1
+87eb3884,"system<*>view immediately<*> system view,return view with command<*>",2
+05dc4f26,delete rui user all<*> ^<*> Unrecognized command found at '^' position<*>,3

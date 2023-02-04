@@ -1,0 +1,16 @@
+symbol: s94
+template: Skipping\, withExcluded: false\, <*> { <*> <*> (has extras) }
+291,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+300,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+1134,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+1142,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+1274,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+1282,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+1387,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+1395,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+1451,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+1459,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+1854,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+1862,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+1968,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),
+1976,Skipping,,false,,tr.intent:Intent,act=android.intent.action.MAIN,flg=0x10840000,cmp=com.android.incallui/.InCallActivity,(has,extras),

@@ -1,0 +1,9 @@
+symbol: s96
+template: Skipping\, withExcluded: false\, <*> { <*> <?> <*> (has extras) }
+294,Skipping,,false,,tr.intent:Intent,act=com.android.contacts.action.CHOOSE_SUB,dat=tel:xxxxxxxxxxx,flg=0x10808000,cmp=com.android.contacts/.ChooseSubActivity,(has,extras),
+1137,Skipping,,false,,tr.intent:Intent,act=com.android.contacts.action.CHOOSE_SUB,dat=tel:xxxxxxxxxxx,flg=0x10808000,cmp=com.android.contacts/.ChooseSubActivity,(has,extras),
+1277,Skipping,,false,,tr.intent:Intent,act=com.android.contacts.action.CHOOSE_SUB,dat=tel:xxxxxxxxxxx,flg=0x10808000,cmp=com.android.contacts/.ChooseSubActivity,(has,extras),
+1390,Skipping,,false,,tr.intent:Intent,act=com.android.contacts.action.CHOOSE_SUB,dat=tel:xxxxxxxxxxx,flg=0x10808000,cmp=com.android.contacts/.ChooseSubActivity,(has,extras),
+1454,Skipping,,false,,tr.intent:Intent,act=com.android.contacts.action.CHOOSE_SUB,dat=tel:xxxxxxxxxxx,flg=0x10808000,cmp=com.android.contacts/.ChooseSubActivity,(has,extras),
+1857,Skipping,,false,,tr.intent:Intent,act=com.android.contacts.action.CHOOSE_SUB,dat=tel:xxxxxxxxxxx,flg=0x10808000,cmp=com.android.contacts/.ChooseSubActivity,(has,extras),
+1971,Skipping,,false,,tr.intent:Intent,act=com.android.contacts.action.CHOOSE_SUB,dat=tel:xxxxxxxxxxx,flg=0x10808000,cmp=com.android.contacts/.ChooseSubActivity,(has,extras),

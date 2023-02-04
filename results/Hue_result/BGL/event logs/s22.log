@@ -1,0 +1,6 @@
+symbol: s22
+template: floating point instr. <*>
+257,enabled.....1,
+258,enabled.....1,
+259,enabled.....1,
+293,enabled.....1,

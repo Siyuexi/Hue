@@ -1,0 +1,3 @@
+symbol: s27
+template: insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode <?> <*> <?> ERR_DATA_INSERT
+730,=,4,errorMessage,=,

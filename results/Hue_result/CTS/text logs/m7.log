@@ -1,0 +1,38 @@
+symbol: m7
+identifier: display startup Next Startup patch package: NULL
+115,
+|| display startup
+||MainBoard: 
+|| Configured startup sysytem software:   cfcard:/NE9000_V90012BOBO.cc
+|| startup sysytem software:   cfcard:/NE9000_V900129988.cc
+|| Next startup sysytem software:   cfcard:/NE9000_V90012.cc
+|| Startup paf file:   default
+|| Next Startup paf file:   default
+|| Startup patch package:   NULL
+|| Next Startup patch package:   NULL
+||SlaveBoard: 
+|| Configured startup sysytem software:   cfcard:/NE9000_V9001255BO.cc
+|| startup sysytem software:   cfcard:/NE9000_V900178988.cc
+|| Next startup sysytem software:   cfcard:/NE9000_V9kl012.cc
+|| Startup paf file:   default
+|| Next Startup paf file:   default
+|| Startup patch package:   NULL
+|| Next Startup patch package:   NULL
+1038,
+|| display startup
+||MainBoard: 
+|| Configured startup sysytem software:   cfcard:/NE9000_V90012BO00.cc
+|| startup sysytem software:   cfcard:/NE9000_V900127788.cc
+|| Next startup sysytem software:   cfcard:/NE9000_V91112.cc
+|| Startup paf file:   default
+|| Next Startup paf file:   default
+|| Startup patch package:   NULL
+|| Next Startup patch package:   NULL
+||SlaveBoard: 
+|| Configured startup sysytem software:   cfcard:/NE9090_V9001255BO.cc
+|| startup sysytem software:   cfcard:/NE9090_V900178988.cc
+|| Next startup sysytem software:   cfcard:/NE9090_V9kl012.cc
+|| Startup paf file:   default
+|| Next Startup paf file:   default
+|| Startup patch package:   NULL
+|| Next Startup patch package:   NULL

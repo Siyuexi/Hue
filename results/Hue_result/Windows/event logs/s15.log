@@ -1,0 +1,4 @@
+symbol: s15
+template: <*> IAdvancedInstallerAwareStore_ResolvePendingTransactions (call <*> (flags <?> <*> progress <?> NULL, phase <?> <*> pdwDisposition <?> <*>
+17,00000004,1),=,00000004,,=,=,0,,=,@0xb6fd90,
+971,00000004,1),=,00000004,,=,=,0,,=,@0x116fa70,

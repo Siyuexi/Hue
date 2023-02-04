@@ -1,0 +1,10 @@
+symbol: m17
+identifier: clear configuration commit label begin_rollback Error: command found at '^' position
+265,
+|| clear configuration commit label begin_rollback
+||                         ^
+||Error: command found at '^' position
+1190,
+|| clear configuration commit label begin_rollback
+||                         ^
+||Error: command found at '^' position

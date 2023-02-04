@@ -1,0 +1,5 @@
+symbol: s133
+template: <*> <*> <*> <*> KSHelperReceiveAllData() KSHelperTool read <*> bytes from stdin.
+331,2017-07-02,20:50:47.457,ksfetch[32776/0x7fff79824000],[lvl=2],1926,
+1485,2017-07-06,14:57:16.261,ksfetch[37061/0x7fff79824000],[lvl=2],1999,
+1703,2017-07-07,10:54:41.296,ksfetch[37925/0x7fff79824000],[lvl=2],1926,

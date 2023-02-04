@@ -1,0 +1,4 @@
+symbol: s40
+template: debug wait <*>
+299,enable.................0,
+1031,enable.................0,

@@ -1,0 +1,3 @@
+symbol: s233
+template: kern_open_file_for_direct_io took <*> ms
+970,6,

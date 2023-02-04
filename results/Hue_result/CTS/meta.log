@@ -1,0 +1,382 @@
+s1, 1, <*>
+s2, 2, <?> Start Process <?>
+s3, 3, Password for USER0:
+s4, 4, <?> Start execute CPTS test <?>
+s5, 5, <*>
+s6, 6, <?>
+s7, 7, <?>
+s8, 8, mkdir: cannot create directory <*> File exists
+t1, 10, 55 bytes of data.
+s9, 17, Creating CPTS process.
+s10, 18, patching <?>
+m1, 19, Warning: Telnet is not a secure protocol, and it is recommended to use Stelnet. Username:
+m2, 22, <*> Password:
+m3, 24, Info: The max number of VTY users is <*> the number of current VTY users online is <*> and total number of terminal users online is <*> The current login time is <*> <*>
+s11, 27, <*> <*> <*> <*> quit
+s12, 28, quit
+s13, 30, <*> <*> <*> <*> display clock
+m4, 31, display clock Time Zone(DefaultZoneName): UTC
+s14, 36, <*> <*> <*> <*> display version
+t2, 37, Startup Time 2021/08/12 05:14:21
+s15, 58, <*> <*> <*> <*> display device
+t3, 59, Slot # Type Online Register Status Role Lsld Primary
+s16, 70, <*> <*> <*> <*> display license
+t4, 71, LCR9S9KXL231L (Slot)I3vpn capacity enhance enable
+s17, 91, <*> <*> <*> <*> display patch verbose
+m5, 92, display patch verbose <?> <?> <?>
+s18, 102, <*> <*> <*> <*> display <?>
+m6, 103, display <?> piaobai V200R212SPH001 <*> <*> <?>
+s19, 114, <*> <*> <*> <*> display startup
+m7, 115, display startup Next Startup patch package: NULL
+s20, 133, <*> <*> <*> <*> system
+m8, 134, system Enter system view, return view with return command.
+s21, 137, <*> <*> <*> <*> diagnose
+m9, 138, diagnose Warning: Enter system view, return view with return command.
+s22, 141, <*> <*> <*> <*> commit
+s23, 142, commit
+s24, 144, <*> <*> <*> <*> display <?>
+s25, 145, display <?>
+s26, 147, <*> <*> <*> <*> display <?>
+m10, 148, display <?> Error: command found at '^' position
+s27, 152, <*> <*> <*> <*> display vrcb
+t5, 153, VIST Version: vist12.335699989
+s28, 160, <*> <*> <*> <*> return
+s29, 161, return
+s30, 163, <*> <*> <*> <*> display slot <*> chipisolate state
+s31, 164, display slot <*> chipisolate state
+s32, 166, <*> <*> <*> <*> display <?> status
+m11, 167, display <?> status TM state
+s33, 174, version <?> <*>
+s34, 175, vrp_version <?> <*>
+s35, 176, ne_type <?> <*>
+s36, 177, ipn <?> Router
+s37, 179, <*> <*> <*> <*> display <?>
+t6, 180, display access-user
+m12, 192, ERROR, execute cmd: '( <*> node <?> <*> <*> <?> grep RUNNING )' timedout. STDERR:
+s38, 197, please set <*> and <*> manually
+s39, 198, <*> line <*> filename argument required
+s40, 199, nohup: ignoring input
+s2, 200, <?> Start Process <?>
+s41, 201, Password for user@BIGDATA:
+s4, 202, <?> Start execute CPTS test <?>
+s8, 203, mkdir: cannot create directory <*> File exists
+s8, 204, mkdir: cannot create directory <*> File exists
+s8, 205, mkdir: cannot create directory <*> File exists
+s8, 206, mkdir: cannot create directory <*> File exists
+s42, 208, <*> <*> <*> <*> display ipv6 prefix
+m13, 209, display ipv6 prefix Error: command found at '^' position
+s43, 213, <*> <*> <*> <*> display ip pool
+m14, 214, display ip pool Total <*> Used <*> Ratio <*>
+s11, 221, <*> <*> <*> <*> quit
+s12, 222, quit
+s44, 224, <*> <*> <*> <*> cd/
+s45, 225, cd/
+s46, 227, <*> <*> <*> <*> pwd
+s47, 228, pwd
+s48, 230, <*> <*> <*> <*> <?>
+m15, 231, <?> Enter system view, return command.
+s49, 234, <*> <*> <*> <*> display commit list
+t7, 235, No. commitID Label User TimeStamp
+s10, 247, patching <?>
+s50, 248, Parsing conf: <*>
+s50, 249, Parsing conf: <*>
+s50, 250, Parsing conf: <*>
+s50, 251, Parsing conf: <*>
+s11, 252, <*> <*> <*> <*> quit
+s12, 253, quit
+s51, 255, <*> <*> <*> <*> dir <*>
+m16, 256, dir <*> <*> KB total <*> KB free)
+s52, 264, <*> <*> <*> <*> clear configuration commit label begin_rollback
+m17, 265, clear configuration commit label begin_rollback Error: command found at '^' position
+s53, 269, <*> <*> <*> <*> rollback confuguration to file <*>
+s54, 270, Warning: This operation will revert configuration changes to the file <*> Continue? <*>
+s55, 271, <*> <*> <*> <*> Y
+m18, 272, Y Warning: Some warnings or configuration dofferences occurred in the last rollback. Continue? <*>
+s55, 274, <*> <*> <*> <*> Y
+m18, 275, Y Warning: Some warnings or configuration dofferences occurred in the last rollback. Continue? <*>
+s56, 277, <*> <*> <*> <*> N
+t8, 278, Configuration rollback finished, but there are still several differences.
+s57, 287, <*> <*> <*> <*> display configuration rollback result
+t9, 288, license
+s58, 341, <*> <*> INFO mapreduce.Job: Job <*> running in uber mode : <*>
+s59, 342, <*> <*> INFO mapreduce.Job: map <*> reduce <*>
+s59, 343, <*> <*> INFO mapreduce.Job: map <*> reduce <*>
+s59, 344, <*> <*> INFO mapreduce.Job: map <*> reduce <*>
+s60, 345, <*> <*> INFO mapreduce.Job: Job <*> completed successfully
+m19, 346, <*> <*> INFO mapreduce.Job: Counters: <*> File System Counters FILE: Number of bytes <*> Job Counters Launched map <*> <?> Framework Map <*> <*> <*> <*> File Input Format Counters Bytes <*> File Output Format Counters Bytes <*>
+s14, 387, <*> <*> <*> <*> display version
+t10, 388, PCB Version : VIRTUALMPU REV C
+s61, 466, <*> <*> <*> <*> display ip <?> <?>
+t11, 467, Destination/Mask Proto Pre Cost Flags NextHop Interface
+s62, 483, <*> <*> <*> <*> display <?>
+t12, 484, #
+s63, 611, <*> <*> <*> <*> <?> immediately
+m20, 612, <?> immediately Enter system view, return user view with return command.
+s64, 615, <*> <*> <*> <*> <?> con <*>
+s65, 616, <?> con <*>
+s64, 618, <*> <*> <*> <*> <?> con <*>
+s65, 619, <?> con <*>
+s66, 621, <*> <*> <*> <*> <?> aux <*>
+m21, 622, <?> aux <*> Error: command found at '^' position.
+s67, 626, <*> <*> <*> <*> <?> vyt <*> <*>
+s68, 627, <?> vyt <*> <*>
+s69, 629, <*> <*> <*> <*> <?> bbb
+s70, 630, <?> bbb
+s71, 632, <*> <*> <*> <*> user privilege level <*>
+s72, 633, user privilege level <*>
+s73, 635, <*> <*> <*> <*> <?> <*> <*>
+m22, 636, <?> <*> <*> Warning: <?> is configured as <*>
+s74, 639, <*> <*> <*> <*> <?> <*>
+s75, 640, <?> <*>
+s76, 642, <*> <*> <*> <*> W
+s77, 643, W
+s76, 645, <*> <*> <*> <*> W
+s77, 646, W
+s28, 648, <*> <*> <*> <*> return
+s29, 649, return
+s63, 651, <*> <*> <*> <*> <?> immediately
+m20, 652, <?> immediately Enter system view, return user view with return command.
+s63, 655, <*> <*> <*> <*> <?> immediately
+m20, 656, <?> immediately Enter system view, return user view with return command.
+s78, 658, <*> <*> <*> <*> delete rui user all
+m23, 659, delete rui user all Error: command found at '^' position
+s11, 663, <*> <*> <*> <*> quit
+s12, 664, quit
+s79, 666, <*> <*> <*> <*> undo netconf
+m24, 667, undo netconf Error: command found at '^' position
+s80, 671, <*> <*> <*> <*> undo pki domain default
+m25, 672, undo pki domain default Error: Illegal to delete PKI undo netconf
+s81, 675, <*> <*> <*> <*> undo ssh client
+m26, 676, undo ssh client Error: Too many parameters found at '^' position
+s82, 680, <*> <*> <*> <*> undo ssh client <?>
+m27, 681, undo ssh client <?> Error: Too many parameters found at '^' position
+s83, 685, <*> <*> <*> <*> undo ssh client hmac
+m28, 686, undo ssh client hmac Error: Too many parameters found at '^' position
+s84, 690, <*> <*> <*> <*> undo ssh client hmac <*>
+m29, 691, undo ssh client hmac <*> Error: Too many parameters found at '^' position
+s85, 695, <*> <*> <*> <*> undo ssh client hmac <*>
+m29, 696, undo ssh client hmac <*> Error: Too many parameters found at '^' position
+s86, 700, <*> <*> <*> <*> undo ssh user system
+m30, 701, undo ssh user system Error: The configue is invalid
+s87, 704, <*> <*> <*> <*> undo ssh user Admin system
+m31, 705, undo ssh user Admin system Error: The configue is invalid
+s88, 708, <*> <*> <*> <*> undo ip <?>
+m32, 709, undo ip <?> Error: Deleting the <?> is not allowed.
+s89, 712, <*> <*> <*> <*> undo <?> server
+m33, 713, undo <?> server Error: Wrong parameter found at '^' position
+s90, 717, <*> <*> <*> <*> undo <?> default <*>
+m34, 718, undo <?> default <*> Error: System defined <?> default <*> can not be deleted by user.
+s90, 721, <*> <*> <*> <*> undo <?> default <*>
+m34, 722, undo <?> default <*> Error: System defined <?> default <*> can not be deleted by user.
+s90, 725, <*> <*> <*> <*> undo <?> default <*>
+m34, 726, undo <?> default <*> Error: System defined <?> default <*> can not be deleted by user.
+s91, 729, <*> <*> <*> <*> undo set neid <*>
+m35, 730, undo set neid <*> Error: Unrecognized command found at '^' position
+s62, 734, <*> <*> <*> <*> display <?>
+t13, 735, #license
+s78, 864, <*> <*> <*> <*> delete rui user all
+m23, 865, delete rui user all Error: command found at '^' position
+s11, 869, <*> <*> <*> <*> quit
+s12, 870, quit
+s78, 872, <*> <*> <*> <*> delete rui user all
+m23, 873, delete rui user all Error: command found at '^' position
+s78, 877, <*> <*> <*> <*> delete rui user all
+m23, 878, delete rui user all Error: command found at '^' position
+s92, 882, <*> <*> <*> <*> interface Pos <*>
+s93, 883, interface Pos <*>
+s92, 885, <*> <*> <*> <*> interface Pos <*>
+s93, 886, interface Pos <*>
+s92, 888, <*> <*> <*> <*> interface Pos <*>
+s93, 889, interface Pos <*>
+s13, 891, <*> <*> <*> <*> display clock
+t14, 892, total used free shared buff/cache available
+s94, 897, <*>
+s94, 898, <*>
+s95, 899, Password for team9@BIGDATA:
+s5, 900, <*>
+s8, 901, mkdir: cannot create directory <*> File exists
+t15, 903, 155 bytes of data.
+s96, 910, Creating job3 data.
+s97, 911, patching <*>
+m1, 912, Warning: Telnet is not a secure protocol, and it is recommended to use Stelnet. Username:
+m36, 915, <*> Password: 7hregrw
+m37, 917, The current login time is <*> <*>
+s13, 921, <*> <*> <*> <*> display clock
+m4, 922, display clock Time Zone(DefaultZoneName): UTC
+s14, 927, <*> <*> <*> <*> display version
+t2, 928, Startup Time 2021/08/12 05:14:21
+s15, 949, <*> <*> <*> <*> display device
+t3, 950, Slot # Type Online Register Status Role Lsld Primary
+s16, 961, <*> <*> <*> <*> display license
+t4, 962, LCR9S9KXL231L (Slot)I3vpn capacity enhance enable
+s17, 982, <*> <*> <*> <*> display patch verbose
+m5, 983, display patch verbose <?> <?> <?>
+s18, 993, <*> <*> <*> <*> display <?>
+m38, 994, display <?> piaobai V200R212SPH002 <*> <*> <?>
+s18, 1005, <*> <*> <*> <*> display <?>
+m38, 1006, display <?> piaobai V200R212SPH002 <*> <*> <?>
+s18, 1017, <*> <*> <*> <*> display <?>
+m38, 1018, display <?> piaobai V200R212SPH002 <*> <*> <?>
+s18, 1027, <*> <*> <*> <*> display <?>
+m39, 1028, display <?> LI V200R212SPH013 <*> <*> <*>
+s19, 1037, <*> <*> <*> <*> display startup
+m7, 1038, display startup Next Startup patch package: NULL
+s20, 1056, <*> <*> <*> <*> system
+m8, 1057, system Enter system view, return view with return command.
+s21, 1060, <*> <*> <*> <*> diagnose
+m9, 1061, diagnose Warning: Enter system view, return view with return command.
+s22, 1064, <*> <*> <*> <*> commit
+s23, 1065, commit
+s24, 1067, <*> <*> <*> <*> display <?>
+s25, 1068, display <?>
+s26, 1070, <*> <*> <*> <*> display <?>
+m10, 1071, display <?> Error: command found at '^' position
+s27, 1075, <*> <*> <*> <*> display vrcb
+t16, 1076, VIST Version: vist12.335699981
+s28, 1083, <*> <*> <*> <*> return
+s29, 1084, return
+s30, 1086, <*> <*> <*> <*> display slot <*> chipisolate state
+s31, 1087, display slot <*> chipisolate state
+s32, 1089, <*> <*> <*> <*> display <?> status
+m11, 1090, display <?> status TM state
+s33, 1097, version <?> <*>
+s34, 1098, vrp_version <?> <*>
+s35, 1099, ne_type <?> <*>
+s36, 1100, ipn <?> Router
+s37, 1102, <*> <*> <*> <*> display <?>
+t6, 1103, display access-user
+m12, 1115, ERROR, execute cmd: '( <*> node <?> <*> <*> <?> grep RUNNING )' timedout. STDERR:
+s38, 1120, please set <*> and <*> manually
+s39, 1121, <*> line <*> filename argument required
+s40, 1123, nohup: ignoring input
+s2, 1124, <?> Start Process <?>
+s98, 1125, Password for user9@BIGDATA:
+s4, 1126, <?> Start execute CPTS test <?>
+s8, 1127, mkdir: cannot create directory <*> File exists
+s8, 1128, mkdir: cannot create directory <*> File exists
+s8, 1129, mkdir: cannot create directory <*> File exists
+s8, 1130, mkdir: cannot create directory <*> File exists
+s42, 1133, <*> <*> <*> <*> display ipv6 prefix
+m13, 1134, display ipv6 prefix Error: command found at '^' position
+s43, 1138, <*> <*> <*> <*> display ip pool
+m14, 1139, display ip pool Total <*> Used <*> Ratio <*>
+s11, 1146, <*> <*> <*> <*> quit
+s12, 1147, quit
+s44, 1149, <*> <*> <*> <*> cd/
+s45, 1150, cd/
+s46, 1152, <*> <*> <*> <*> pwd
+s47, 1153, pwd
+s48, 1155, <*> <*> <*> <*> <?>
+m15, 1156, <?> Enter system view, return command.
+s49, 1159, <*> <*> <*> <*> display commit list
+t7, 1160, No. commitID Label User TimeStamp
+s10, 1172, patching <?>
+s50, 1173, Parsing conf: <*>
+s50, 1174, Parsing conf: <*>
+s50, 1175, Parsing conf: <*>
+s50, 1176, Parsing conf: <*>
+s11, 1177, <*> <*> <*> <*> quit
+s12, 1178, quit
+s51, 1180, <*> <*> <*> <*> dir <*>
+m16, 1181, dir <*> <*> KB total <*> KB free)
+s52, 1189, <*> <*> <*> <*> clear configuration commit label begin_rollback
+m17, 1190, clear configuration commit label begin_rollback Error: command found at '^' position
+s53, 1194, <*> <*> <*> <*> rollback confuguration to file <*>
+s54, 1195, Warning: This operation will revert configuration changes to the file <*> Continue? <*>
+s55, 1196, <*> <*> <*> <*> Y
+m18, 1197, Y Warning: Some warnings or configuration dofferences occurred in the last rollback. Continue? <*>
+s55, 1199, <*> <*> <*> <*> Y
+m18, 1200, Y Warning: Some warnings or configuration dofferences occurred in the last rollback. Continue? <*>
+s56, 1202, <*> <*> <*> <*> N
+t8, 1203, Configuration rollback finished, but there are still several differences.
+s57, 1213, <*> <*> <*> <*> display configuration rollback result
+t9, 1214, license
+s58, 1267, <*> <*> INFO mapreduce.Job: Job <*> running in uber mode : <*>
+s59, 1268, <*> <*> INFO mapreduce.Job: map <*> reduce <*>
+s59, 1269, <*> <*> INFO mapreduce.Job: map <*> reduce <*>
+s59, 1270, <*> <*> INFO mapreduce.Job: map <*> reduce <*>
+s60, 1271, <*> <*> INFO mapreduce.Job: Job <*> completed successfully
+s14, 1274, <*> <*> <*> <*> display version
+t10, 1275, PCB Version : VIRTUALMPU REV C
+s61, 1353, <*> <*> <*> <*> display ip <?> <?>
+t11, 1354, Destination/Mask Proto Pre Cost Flags NextHop Interface
+s62, 1370, <*> <*> <*> <*> display <?>
+t12, 1371, #
+s63, 1498, <*> <*> <*> <*> <?> immediately
+m20, 1499, <?> immediately Enter system view, return user view with return command.
+s64, 1502, <*> <*> <*> <*> <?> con <*>
+s65, 1503, <?> con <*>
+s64, 1505, <*> <*> <*> <*> <?> con <*>
+s65, 1506, <?> con <*>
+s66, 1508, <*> <*> <*> <*> <?> aux <*>
+m21, 1509, <?> aux <*> Error: command found at '^' position.
+s67, 1513, <*> <*> <*> <*> <?> vyt <*> <*>
+s68, 1514, <?> vyt <*> <*>
+s99, 1516, <*> <*> <*> <*> <?> ccc
+s100, 1517, <?> ccc
+s71, 1519, <*> <*> <*> <*> user privilege level <*>
+s72, 1520, user privilege level <*>
+s73, 1522, <*> <*> <*> <*> <?> <*> <*>
+m22, 1523, <?> <*> <*> Warning: <?> is configured as <*>
+s74, 1526, <*> <*> <*> <*> <?> <*>
+s75, 1527, <?> <*>
+s76, 1529, <*> <*> <*> <*> W
+s77, 1530, W
+s28, 1532, <*> <*> <*> <*> return
+s29, 1533, return
+s63, 1535, <*> <*> <*> <*> <?> immediately
+m40, 1536, <?> immediately Enter system view,return view with command
+s63, 1539, <*> <*> <*> <*> <?> immediately
+m40, 1540, <?> immediately Enter system view,return view with command
+s78, 1543, <*> <*> <*> <*> delete rui user all
+m23, 1544, delete rui user all Error: command found at '^' position
+s11, 1548, <*> <*> <*> <*> quit
+s12, 1549, quit
+s79, 1551, <*> <*> <*> <*> undo netconf
+m24, 1552, undo netconf Error: command found at '^' position
+s80, 1556, <*> <*> <*> <*> undo pki domain default
+m25, 1557, undo pki domain default Error: Illegal to delete PKI undo netconf
+s81, 1560, <*> <*> <*> <*> undo ssh client
+m26, 1561, undo ssh client Error: Too many parameters found at '^' position
+s82, 1565, <*> <*> <*> <*> undo ssh client <?>
+m27, 1566, undo ssh client <?> Error: Too many parameters found at '^' position
+s83, 1570, <*> <*> <*> <*> undo ssh client hmac
+m28, 1571, undo ssh client hmac Error: Too many parameters found at '^' position
+s84, 1575, <*> <*> <*> <*> undo ssh client hmac <*>
+m29, 1576, undo ssh client hmac <*> Error: Too many parameters found at '^' position
+s85, 1580, <*> <*> <*> <*> undo ssh client hmac <*>
+m29, 1581, undo ssh client hmac <*> Error: Too many parameters found at '^' position
+s86, 1585, <*> <*> <*> <*> undo ssh user system
+m30, 1586, undo ssh user system Error: The configue is invalid
+s87, 1589, <*> <*> <*> <*> undo ssh user Admin system
+m31, 1590, undo ssh user Admin system Error: The configue is invalid
+s88, 1593, <*> <*> <*> <*> undo ip <?>
+m32, 1594, undo ip <?> Error: Deleting the <?> is not allowed.
+s89, 1597, <*> <*> <*> <*> undo <?> server
+m33, 1598, undo <?> server Error: Wrong parameter found at '^' position
+s90, 1602, <*> <*> <*> <*> undo <?> default <*>
+m34, 1603, undo <?> default <*> Error: System defined <?> default <*> can not be deleted by user.
+s90, 1606, <*> <*> <*> <*> undo <?> default <*>
+m34, 1607, undo <?> default <*> Error: System defined <?> default <*> can not be deleted by user.
+s90, 1610, <*> <*> <*> <*> undo <?> default <*>
+m34, 1611, undo <?> default <*> Error: System defined <?> default <*> can not be deleted by user.
+s91, 1614, <*> <*> <*> <*> undo set neid <*>
+m35, 1615, undo set neid <*> Error: Unrecognized command found at '^' position
+s62, 1619, <*> <*> <*> <*> display <?>
+t13, 1620, #license
+s78, 1749, <*> <*> <*> <*> delete rui user all
+m41, 1750, delete rui user all Error: Unrecognized command found at '^' position
+s11, 1754, <*> <*> <*> <*> quit
+s12, 1755, quit
+s78, 1757, <*> <*> <*> <*> delete rui user all
+m41, 1758, delete rui user all Error: Unrecognized command found at '^' position
+s78, 1762, <*> <*> <*> <*> delete rui user all
+m41, 1763, delete rui user all Error: Unrecognized command found at '^' position
+s92, 1767, <*> <*> <*> <*> interface Pos <*>
+s93, 1768, interface Pos <*>
+s92, 1770, <*> <*> <*> <*> interface Pos <*>
+s93, 1771, interface Pos <*>
+s92, 1773, <*> <*> <*> <*> interface Pos <*>
+s93, 1774, interface Pos <*>
+s13, 1776, <*> <*> <*> <*> display clock
+t14, 1777, total used free shared buff/cache available

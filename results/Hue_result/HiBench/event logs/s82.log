@@ -1,0 +1,4 @@
+symbol: s82
+template: <*> <*> WARN MahoutDriver: No trainnb.props found on classpath, will use <?> arguments only
+3512,22/11/21,21:04:11,command-line,
+5054,22/11/22,22:56:02,command-line,

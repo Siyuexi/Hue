@@ -1,0 +1,4 @@
+symbol: s117
+template: <*> <*> <*> <*> main() ksfetch fetching URL (<NSMutableURLRequest: <*> URL: <*> }) to <*>
+271,2017-07-02,15:46:41.445,ksfetch[32435/0x7fff79824000],[lvl=2],0x1005110b0>,{,URL:,https://tools.google.com/service/update2?cup2hreq=53f725cf03f511fab16f19e789ce64aa1eed72395fc246e9f1100748325002f4&cup2key=7:1132320327,}),to,
+1404,2017-07-06,09:24:14.417,ksfetch[36728/0x7fff79824000],[lvl=2],0x100602220>,{,URL:,https://tools.google.com/service/update2?cup2hreq=f5e83ec64ff3fc5533a3c206134a6517e274f9e1cb53df857e15049b6e4c9f8e&cup2key=7:1721929288,}),to,

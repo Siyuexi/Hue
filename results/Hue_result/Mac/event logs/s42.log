@@ -1,0 +1,9 @@
+symbol: s42
+template: ARPT: <*> AQM agg results <*> <*> <*> <*> <*> <*> <*>
+76,621799.252673:,0x8001,len,hi/lo:,0x0,0x26,BAbitmap(0-3),0,
+558,682827.873728:,0x8001,len,hi/lo:,0x0,0x26,BAbitmap(0-3),0,
+570,682840.256116:,0x8001,len,hi/lo:,0x0,0x30,BAbitmap(0-3),0,
+665,683780.224800:,0x8001,len,hi/lo:,0x0,0x26,BAbitmap(0-3),0,
+1236,724786.252727:,0x8001,len,hi/lo:,0x0,0x26,BAbitmap(0-3),0,
+1433,739163.832381:,0x8001,len,hi/lo:,0x0,0x26,BAbitmap(0-3),0,
+1439,739241.687186:,0x8001,len,hi/lo:,0x0,0x26,BAbitmap(0-3),0,

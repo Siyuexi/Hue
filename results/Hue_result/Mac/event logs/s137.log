@@ -1,0 +1,9 @@
+symbol: s137
+template: ARPT: <*> AQM agg params <*> <*> <*> <*> <*>
+339,669592.164786:,0xfc0,maxlen,hi/lo,0x0,0xffff,
+1267,725209.960568:,0xfc0,maxlen,hi/lo,0x0,0xffff,
+1281,725996.811165:,0xfc0,maxlen,hi/lo,0x0,0xffff,
+1349,729188.852474:,0xfc0,maxlen,hi/lo,0x0,0xffff,
+1732,770597.394609:,0xfc0,maxlen,hi/lo,0x0,0xffff,
+1767,770772.533370:,0xfc0,maxlen,hi/lo,0x0,0xffff,
+1771,770786.961436:,0xfc0,maxlen,hi/lo,0x0,0xffff,

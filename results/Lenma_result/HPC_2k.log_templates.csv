@@ -1,0 +1,177 @@
+EventId,EventTemplate,Occurrences
+fc89114a,Component State Change: Component \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state (HWID<*>),1
+181e8923,Component State Change: Component \042alt0\042 is in the unavailable state (HWID<*>),11
+015efd87,clusterAddMember (command 1902),1
+cb8dfed1,clusterAddMember (command 1900),1
+3adc02f8,risBoot (command 1903),1
+23f9787e,bootGenvmunix (command 1903),1
+247f8f69,boot (command 1911),1
+faa400ce,boot (command 1910),1
+44549762,boot (command 1978),1
+744eb318,boot (command 1967),1
+2dcd2c06,wait (command 1975),1
+5fdebd75,boot (command 1999),1
+5ed2245d,halt (command 1982),1
+56826b79,boot (command 1981),1
+f7e0a37e,boot (command 1973),1
+ec2d0e2f,wait (command 1973),1
+dbcc3c9e,wait (command 2057),1
+0d49dcae,boot (command 2152),1
+0a08261e,wait (command 2154),1
+c022abb5,boot (command 2141),1
+03951bdf,boot (command 2110),1
+f1899223,boot (command 2160),1
+fd6d99fd,halt (command 2221),1
+9ce2b421,wait (command 2217),2
+0f276a96,wait (command 2201),1
+672aee85,wait (command 2199),1
+0198a1a0,boot (command 2183),1
+5f916289,wait (command 2189),1
+d4821d0f,wait (command 2302),1
+d7ea8370,wait (command 2270),1
+8f8a3848,wait (command 2257),1
+fe2c62b7,boot (command 2257),1
+f8b73a77,boot (command 2316),2
+ace0fd86,wait (command 2322),1
+cfe21d51,wait (command 2354),1
+43ff9814,wait (command 2347),1
+675faad6,boot (command 2368),1
+af9b27cb,boot (command 2392),1
+83f470ae,boot (command 2406),1
+fa00485b,boot (command 2417),1
+35e61a11,boot (command 2423),1
+664cf9d6,wait (command 2424),1
+42c055ab,wait (command 2449),1
+edac54d4,boot (command 2464),1
+b46f05cb,wait (command 2468),1
+5a5e15ec,boot (command 2520),1
+2a8d8864,wait (command 2517),1
+18bb6cf5,boot (command 2517),1
+5b4a2b76,wait (command 2511),1
+d36f4f67,wait (command 2513),1
+7a103383,boot (command 2514),1
+de491496,wait (command 2484),1
+1376ca04,boot (command 2625),1
+81622536,wait (command 2607),1
+7a9285cd,boot (command 2616),3
+53f9cbca,boot (command 2619),1
+39026c3c,boot (command 2602),1
+f9888857,wait (command 2582),1
+49599518,boot (command 2584),1
+d0e834b4,wait (command 2549),1
+16e6cad7,boot (command 2550),1
+3896906d,boot (command 2548),1
+4c39bd73,boot (command 2538),1
+2d7f41bf,wait (command 2683),1
+13442589,boot (command 2686),1
+a2f7ff3c,wait (command 2682),1
+5102c01d,wait (command 2763),1
+cbe02fca,wait (command 2800),1
+4c88042d,boot (command 2790),1
+00c76a77,wait (command 2817),2
+b6ec3cc1,wait (command 2823),1
+ee81bb13,wait (command 2900),1
+64b10ace,wait (command 2885),1
+82014197,wait (command 2909),1
+6c6cdc85,boot (command 2960),1
+fcb27e79,wait (command 2963),1
+69dac1dd,boot (command 2999),1
+9eb3767c,halt (command 2992),1
+8f3a6239,wait (command 3087),1
+c8e2778a,wait (command 3079),1
+6661a02e,wait (command 3078),1
+1b852ac7,wait (command 3141),1
+1c7268c8,boot (command 3138),1
+e112be7f,boot (command 3169),2
+f694c3e1,boot (command 3194),1
+5ab27563,boot (command 3320),1
+6ac339e3,boot (command 3318),1
+0b82920a,boot (command 3317),1
+2b6844e4,wait (command 3319),1
+919b8c72,wait (command 3334),1
+5926c43c,boot (command 3334),1
+4dfe3b28,wait (command 3412),1
+5b1bb5b4,boot (command 3413),1
+40ce096b,boot (command 3473),1
+971fbc17,wait (command 3523),1
+37f6c2ce,wait (command 3525),1
+e9a44ce1,wait (command 3519),1
+454547a3,boot (command 3519),1
+82579b07,boot (command 3512),1
+12d87f81,boot (command 3579),1
+c4f1b231,boot (command 3572),1
+6961584f,boot (command 3580),1
+39e1e397,wait (command 3612),1
+0065e0e3,boot (command 3615),1
+36c2d285,wait (command 3609),1
+b513e25f,boot (command 3624),1
+f5397e99,wait (command 3649),1
+3ab98b24,boot (command 3639),1
+da189977,wait (command 3690),1
+9bb8932b,boot (command 3696),1
+7fb98fa3,wait (command 3698),1
+3980165e,wait (command 3709),1
+84cda5f8,wait (command 3837),1
+2fc1f484,wait (command 3847),1
+bd70dca9,boot (command 3951),1
+5dbecd1e,boot (command 3928),1
+eb45f510,boot (command 3939),1
+f468b06a,boot (command 3964),1
+95ca526d,wait (command 3973),1
+7c8434ee,wait (command 3981),2
+f3e23889,boot (command 4024),1
+3863f708,wait (command 4061),1
+6bdcde02,wait (command 4110),1
+0d22284e,boot (command 4118),1
+3ec6472e,wait (command 4116),1
+3008a54a,wait (command 4117),1
+01f3da16,boot (command 4109),1
+ed73598e,wait (command 4145),1
+1aa903c6,boot (command 4176),1
+591ff18a,boot (command 4170),1
+f194a4c3,wait (command 4176),2
+4c6e62d7,bootGenvmunix (command 4185),1
+a582e32a,boot (command 4223),1
+72fede4a,wait (command 4221),1
+35702657,wait (command 4219),1
+45fe98e6,Command has completed successfully,10
+cb45d47f,Targeting  and  child of command ,5
+87136404,Targeting domains:node-D7 and nodes:node-[224\ 228\ 232],1
+08db023b,Targeting domains:node-D0 and nodes:node-0,1
+16bdc59a,Targeting domains:node-D[0\ 5] and nodes:node-[27\ 191],1
+b905e355,Targeting domains:node-D2 and nodes:node-84,1
+9a772a5d,psu failure\ ambient<*>,5
+faa03835,Temperature (41C) exceeds warning threshold,2
+63e7b778,ClusterFileSystem: There is no server for ServerFileSystem domain ,32
+2f5ea901,NIFF: node  detected a failed network connection on network 5.5.224.0 via interface alt0,2
+f5c6cc67,ServerFileSystem: An ServerFileSystem domain panic has occurred on storage442,1
+64ee4fa8,Fan speeds (       ),90
+6723f984,Command has been aborted,1
+a7d1db7e,power/control problem,1
+3848c830,Link error,13
+a22bcddc,Link in reset,9
+1ef9379e,Link ok,13
+5cd819c8,Link error on broadcast tree ,4
+ee5d64e4,ServerFileSystem: ServerFileSystem domain  is full,12
+e9c6350c,ClusterFileSystem: ServerFileSystem domain  is no longer served by node ,36
+ea31f21f,running,162
+d639ee01,blocked,15
+0dbbeadb,not responding,60
+d8218a03,configured out,91
+78371352,inconsistent nodesets   <ok>   <ok>   <ok>   <ok>,2
+96b7db51,active,5
+6ea40eb4,not-responding,1
+ab693e0b,inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>,1
+25477253,starting,1
+06fb9f14,closing,1
+3c0a03cb,inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>,1
+a14a0139,normal,206
+5fd41706,warning,205
+0fd1d0aa,ambient<*>,292
+a188d364,critical,20
+8b1408d7,Linkerror event interval expired,394
+792c77f9,risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>,1
+3c894883,boot (command 2092) Error: HALT asserted\ cannot continue,1
+70e057e1,Failed subcommands 3406,1
+e3f07f8f,link errors remain current,56
+3f29a960,NIFF: node  has detected an available network connection on network  via interface ,91

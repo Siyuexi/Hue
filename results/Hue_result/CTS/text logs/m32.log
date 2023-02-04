@@ -1,0 +1,8 @@
+symbol: m32
+identifier: undo ip <?> Error: Deleting the <?> is not allowed.
+709,vpn-instance,vpn-instance,
+|| undo ip vpn-instance
+||Error: Deleting the vpn-instance is not allowed.
+1594,vpn-instance,vpn-instance,
+|| undo ip vpn-instance
+||Error: Deleting the vpn-instance is not allowed.

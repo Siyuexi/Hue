@@ -1,0 +1,6 @@
+symbol: s13
+template: <*> HadoopPrepareTerasort bench
+56,start,
+121,finish,
+2825,start,
+2889,finish,

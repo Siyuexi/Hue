@@ -1,0 +1,3 @@
+symbol: s21
+template: My election bind port: <*>
+581,0.0.0.0/0.0.0.0:3888,

@@ -1,0 +1,12 @@
+symbol: s20
+template: RRD_update <*> <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+404,(/var/lib/ganglia/rrds/C,Nodes/cn304/pkts_out.rrd):,1131563037,1131563037,
+519,(/var/lib/ganglia/rrds/D,Nodes/dn731/pkts_out.rrd):,1131563089,1131563089,
+579,(/var/lib/ganglia/rrds/D,Nodes/dn731/pkts_out.rrd):,1131563117,1131563117,
+631,(/var/lib/ganglia/rrds/D,Nodes/dn731/pkts_out.rrd):,1131563149,1131563149,
+943,(/var/lib/ganglia/rrds/D,Nodes/dn731/pkts_out.rrd):,1131563319,1131563319,
+1005,(/var/lib/ganglia/rrds/D,Nodes/dn731/pkts_out.rrd):,1131563349,1131563349,
+1125,(/var/lib/ganglia/rrds/D,Nodes/dn731/pkts_out.rrd):,1131563412,1131563412,
+1405,(/var/lib/ganglia/rrds/C,Nodes/cn776/pkts_out.rrd):,1131559854,1131559854,
+1406,(/var/lib/ganglia/rrds/D,Nodes/dn731/pkts_out.rrd):,1131559854,1131559854,
+1533,(/var/lib/ganglia/rrds/D,Nodes/dn731/pkts_out.rrd):,1131563473,1131563473,

@@ -1,0 +1,3 @@
+symbol: s53
+template: PID hash table entries: <*> (order <*> <*> bytes)
+1936,512,9:,4096,

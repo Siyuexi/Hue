@@ -1,0 +1,4 @@
+symbol: s50
+template: ciod: Missing or invalid fields on line <*> of node map file <*>
+597,1,/home/auselton/bgl/64mps.sequential.mapfile,
+1258,1,/home/auselton/bgl/mapfiles/bgl.128mps.f64.map,

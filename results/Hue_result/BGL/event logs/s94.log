@@ -1,0 +1,4 @@
+symbol: s94
+template: critical input interrupt <*> for torus <*> wire
+1469,(unit=0x0b,bit=0x06):,warning,for,torus,
+1518,(unit=0x0b,bit=0x0b):,warning,for,torus,

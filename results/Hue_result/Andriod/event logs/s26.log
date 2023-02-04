@@ -1,0 +1,5 @@
+symbol: s26
+template: <*> <*> <*> USER_ROTATION_LOCKED
+38,rotationForOrientationLw(orient=1,,last=0);,user=0,
+1266,rotationForOrientationLw(orient=-1,,last=0);,user=0,
+1376,rotationForOrientationLw(orient=1,,last=0);,user=0,

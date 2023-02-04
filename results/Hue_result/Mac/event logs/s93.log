@@ -1,0 +1,5 @@
+symbol: s93
+template: device_generate_desktop_screenshot: authw <*> <*>
+201,0x7fa823c89600(2000),,shield,
+205,0x7fa823c89600(2000),,shield,
+1162,0x7fa82407ea00(2000),,shield,

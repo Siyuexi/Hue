@@ -1,0 +1,6 @@
+symbol: s127
+template: received broadcast <*>
+442,android.intent.action.TIME_TICK,
+864,android.intent.action.TIME_TICK,
+1696,android.intent.action.TIME_TICK,
+1777,android.intent.action.BATTERY_CHANGED,

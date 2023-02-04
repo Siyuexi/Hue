@@ -1,0 +1,14 @@
+symbol: s55
+template: getResources() for <*> <*> <?> <*> <*> <*> <*> <*> <*>
+110,application_1445144423722_0020:,ask=4,release=,0,newContainers=0,finishedContainers=0,resourcelimit=<memory:10240,,vCores:-17>,knownNMs=4,
+136,application_1445144423722_0020:,ask=4,release=,0,newContainers=0,finishedContainers=0,resourcelimit=<memory:7168,,vCores:-20>,knownNMs=4,
+155,application_1445144423722_0020:,ask=4,release=,0,newContainers=0,finishedContainers=0,resourcelimit=<memory:4096,,vCores:-23>,knownNMs=4,
+174,application_1445144423722_0020:,ask=4,release=,0,newContainers=0,finishedContainers=0,resourcelimit=<memory:1024,,vCores:-26>,knownNMs=4,
+309,application_1445144423722_0020:,ask=4,release=,0,newContainers=0,finishedContainers=0,resourcelimit=<memory:0,,vCores:-27>,knownNMs=4,
+542,application_1445144423722_0020:,ask=4,release=,0,newContainers=1,finishedContainers=0,resourcelimit=<memory:0,,vCores:-27>,knownNMs=4,
+565,application_1445144423722_0020:,ask=4,release=,0,newContainers=0,finishedContainers=0,resourcelimit=<memory:0,,vCores:-27>,knownNMs=4,
+610,application_1445144423722_0020:,ask=4,release=,0,newContainers=0,finishedContainers=0,resourcelimit=<memory:0,,vCores:-27>,knownNMs=4,
+640,application_1445144423722_0020:,ask=4,release=,0,newContainers=1,finishedContainers=0,resourcelimit=<memory:0,,vCores:-27>,knownNMs=4,
+657,application_1445144423722_0020:,ask=4,release=,0,newContainers=1,finishedContainers=0,resourcelimit=<memory:0,,vCores:-27>,knownNMs=4,
+666,application_1445144423722_0020:,ask=0,release=,1,newContainers=0,finishedContainers=1,resourcelimit=<memory:1024,,vCores:-26>,knownNMs=4,
+825,application_1445144423722_0020:,ask=5,release=,0,newContainers=0,finishedContainers=1,resourcelimit=<memory:0,,vCores:-27>,knownNMs=4,

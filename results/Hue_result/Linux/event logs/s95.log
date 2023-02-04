@@ -1,0 +1,3 @@
+symbol: s95
+template: apm: BIOS version <*> Flags <*> version <*>
+1981,1.2,0x03,(Driver,version,

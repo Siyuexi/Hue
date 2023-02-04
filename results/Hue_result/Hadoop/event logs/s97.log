@@ -1,0 +1,8 @@
+symbol: s97
+template: <*> <*> <*> <*> <*> <*> No Route to Host from <*> to <*> failed on socket timeout exception: <*> No route to host: no further information; For more details see: <*>
+1020,Task:,attempt_1445144423722_0020_m_000002_0,-,exited,:,java.net.NoRouteToHostException:,MININT-FNANLI5/127.0.0.1,msra-sa-41:9000,java.net.NoRouteToHostException:,http://wiki.apache.org/hadoop/NoRouteToHost,
+1021,Diagnostics,report,from,attempt_1445144423722_0020_m_000002_0:,Error:,java.net.NoRouteToHostException:,MININT-FNANLI5/127.0.0.1,msra-sa-41:9000,java.net.NoRouteToHostException:,http://wiki.apache.org/hadoop/NoRouteToHost,
+1022,Diagnostics,report,from,attempt_1445144423722_0020_m_000002_0:,Error:,java.net.NoRouteToHostException:,MININT-FNANLI5/127.0.0.1,msra-sa-41:9000,java.net.NoRouteToHostException:,http://wiki.apache.org/hadoop/NoRouteToHost,
+1053,Task:,attempt_1445144423722_0020_m_000001_0,-,exited,:,java.net.NoRouteToHostException:,MININT-FNANLI5/127.0.0.1,msra-sa-41:9000,java.net.NoRouteToHostException:,http://wiki.apache.org/hadoop/NoRouteToHost,
+1054,Diagnostics,report,from,attempt_1445144423722_0020_m_000001_0:,Error:,java.net.NoRouteToHostException:,MININT-FNANLI5/127.0.0.1,msra-sa-41:9000,java.net.NoRouteToHostException:,http://wiki.apache.org/hadoop/NoRouteToHost,
+1055,Diagnostics,report,from,attempt_1445144423722_0020_m_000001_0:,Error:,java.net.NoRouteToHostException:,MININT-FNANLI5/127.0.0.1,msra-sa-41:9000,java.net.NoRouteToHostException:,http://wiki.apache.org/hadoop/NoRouteToHost,

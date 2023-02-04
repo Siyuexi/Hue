@@ -1,0 +1,4 @@
+symbol: s4
+template: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)
+4,
+7,

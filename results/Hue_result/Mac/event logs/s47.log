@@ -1,0 +1,4 @@
+symbol: s47
+template: CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+85,
+1587,

@@ -1,0 +1,5 @@
+symbol: s86
+template: Submit MapReduce Job: <*> <?> <*> jar <*> pegasus.PagerankNaive <*> <*> <*> <*> <*> nosym new
+3570,/usr/hdp/3.0.1.0-187/hadoop/bin/hadoop,--config,/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop,/home/team7/HiBench3/hadoopbench/pegasus/target/pegasus-2.0-SNAPSHOT.jar,hdfs://cuhkcluster/dataspace/team7/HiBench/Pagerank/Input/edges,hdfs://cuhkcluster/dataspace/team7/HiBench/Pagerank/Output,50,1,1,
+4307,/usr/hdp/3.0.1.0-187/hadoop/bin/hadoop,--config,/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop,/home/team7/HiBench3/hadoopbench/pegasus/target/pegasus-2.0-SNAPSHOT.jar,hdfs://cuhkcluster/dataspace/team7/HiBench/Pagerank/Input/edges,hdfs://cuhkcluster/dataspace/team7/HiBench/Pagerank/Output,50,2,1,
+5119,/usr/hdp/3.0.1.0-187/hadoop/bin/hadoop,--config,/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop,/home/team7/HiBench3/hadoopbench/pegasus/target/pegasus-2.0-SNAPSHOT.jar,hdfs://cuhkcluster/dataspace/team7/HiBench/Pagerank/Input/edges,hdfs://cuhkcluster/dataspace/team7/HiBench/Pagerank/Output,50,2,1,

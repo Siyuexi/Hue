@@ -1,0 +1,13 @@
+symbol: s134
+template: <*> FigAgglomeratorSetObjectForKey signalled <*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>
+332,[21:17:07.529],err=-16020,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c,92,
+465,[11:31:49.472],err=-16020,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c,92,
+478,[12:02:22.126],err=-16020,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c,92,
+667,[19:04:53.965],err=-16020,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c,92,
+684,[20:55:46.310],err=-16020,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c,92,
+687,[21:03:03.265],err=-16020,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c,92,
+692,[21:27:07.761],err=-16020,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c,92,
+950,[14:33:25.556],err=-16020,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c,92,
+954,[14:43:39.854],err=-16020,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c,92,
+1358,[01:11:06.715],err=-16020,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c,92,
+1710,[11:48:06.869],err=-16020,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c,92,

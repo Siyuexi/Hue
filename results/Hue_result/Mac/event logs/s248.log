@@ -1,0 +1,3 @@
+symbol: s248
+template: Wake reason: <*> (SleepTimer)
+1180,EC.SleepTimer,

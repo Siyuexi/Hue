@@ -1,0 +1,5 @@
+symbol: s234
+template: CGXDisplayDidWakeNotification <*> posting kCGSDisplayDidWake
+998,[712572581805245]:,
+1218,[723587602857832]:,
+1824,[771797848593539]:,

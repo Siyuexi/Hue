@@ -1,0 +1,5 @@
+symbol: s5
+template: visible is <*>
+5,system.time.showampm,
+7,system.charge.show,
+13,system.ownerinfo.show,

@@ -1,0 +1,12 @@
+symbol: s35
+template: en0::IO80211Interface::postMessage bssid changed
+56,
+99,
+108,
+807,
+811,
+908,
+1312,
+1846,
+1912,
+1935,

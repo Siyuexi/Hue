@@ -1,0 +1,4 @@
+symbol: s310
+template: <*> <*> <*> <*> <?> updateEngineFinishedWithErrors:] Keystone finished: <*>
+1487,2017-07-06,14:57:16.667,GoogleSoftwareUpdateAgent[37059/0x7000002a0000],[lvl=2],-[KSAgentApp(KeystoneDelegate),errors=0,
+1983,2017-07-08,06:26:32.364,GoogleSoftwareUpdateAgent[39159/0x7000002a0000],[lvl=2],-[KSAgentApp(KeystoneDelegate),errors=0,

@@ -1,0 +1,3 @@
+symbol: s108
+template: acquire <*> <*> <?> <?> <?> <*> <*>
+370,lock=237091223,,flags=0x1,,tag="WiredAccessoryManager",,name=android,,ws=null,,uid=1000,,pid=1702,

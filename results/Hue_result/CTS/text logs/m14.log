@@ -1,0 +1,14 @@
+symbol: m14
+identifier: display ip pool Total <*> Used <*> Ratio <*>
+214,:3,:3,:3,
+|| display ip pool
+||IP address pool Statistic
+||Local : 1    Remote: 1    Server: 1   
+||IP address Statistic
+||Total    :3         Used    :3         Ratio    :3         
+1139,:13,:13,:13,
+|| display ip pool
+||IP address pool Statistic
+||Local : 2    Remote: 2    Server: 2   
+||IP address Statistic
+||Total    :13         Used    :13         Ratio    :13         

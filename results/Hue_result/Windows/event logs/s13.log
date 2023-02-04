@@ -1,0 +1,4 @@
+symbol: s13
+template: No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.
+15,
+969,

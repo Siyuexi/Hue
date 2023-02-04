@@ -1,0 +1,4 @@
+symbol: s77
+template: <*> ANSI SCSI revision: <*>
+1292,Direct-Access,02,
+1293,Processor,02,

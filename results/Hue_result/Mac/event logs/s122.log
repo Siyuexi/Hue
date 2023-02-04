@@ -1,0 +1,3 @@
+symbol: s122
+template: host connection <NSXPCConnection: <*> from pid <*> invalidated
+284,0x7fddbbb015c0>,connection,from,pid,30298,

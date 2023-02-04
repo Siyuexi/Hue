@@ -1,0 +1,4 @@
+symbol: s7
+template: visible is <*> gt <*>
+9,system.call.count,0,
+11,system.message.count,0,

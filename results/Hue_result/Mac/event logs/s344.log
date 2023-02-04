@@ -1,0 +1,3 @@
+symbol: s344
+template: <*> HTTP load failed (kCFStreamErrorDomainSSL, <*>
+1874,NSURLSession/NSURLConnection,-9806),

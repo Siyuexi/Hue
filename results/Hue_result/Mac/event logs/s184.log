@@ -1,0 +1,8 @@
+symbol: s184
+template: <*> Will write to: <*> <?> <*>
+588,doSaveChannels@286:,/Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-03_16,27,09.307937],-,AuthFail:sts:5_rsn:0.xml,
+1240,doSaveChannels@286:,/Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-05_14,04,24.831957],-,AssocFail:sts:5_rsn:0.xml,
+1282,doSaveChannels@286:,/Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-05_16,24,29.663045],-,AuthFail:sts:5_rsn:0.xml,
+1396,doSaveChannels@286:,/Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-06_08,33,08.335034],-,AuthFail:sts:5_rsn:0.xml,
+1744,doSaveChannels@286:,/Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-07_13,38,22.072050],-,AssocFail:sts:2_rsn:0.xml,
+1762,doSaveChannels@286:,/Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-07_13,40,35.959475],-,AuthFail:sts:5_rsn:0.xml,

@@ -1,0 +1,4 @@
+symbol: s28
+template: Added filter AM_PROXY_FILTER <*> to context <*>
+38,(class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter),mapreduce,
+39,(class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter),static,

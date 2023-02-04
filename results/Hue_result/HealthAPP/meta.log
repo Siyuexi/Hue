@@ -1,0 +1,2000 @@
+s1, 1, onStandStepChanged <*>
+s2, 2, <*> <*> <*> <*>
+s3, 3, onReceive action: <*>
+s4, 4, processHandleBroadcastAction <*>
+s5, 5, flush sensor data
+s6, 6, getTodayTotalDetailSteps <?> <*>
+s7, 7, <*>
+s1, 8, onStandStepChanged <*>
+s8, 9, calculateCaloriesWithCache <*>
+s9, 10, calculateAltitudeWithCache <*>
+s10, 11, REPORT : <*> <*> <*> <*>
+s2, 12, <*> <*> <*> <*>
+s1, 13, onStandStepChanged <*>
+s1, 14, onStandStepChanged <*>
+s2, 15, <*> <*> <*> <*>
+s6, 16, getTodayTotalDetailSteps <?> <*>
+s7, 17, <*>
+s8, 18, calculateCaloriesWithCache <*>
+s9, 19, calculateAltitudeWithCache <*>
+s10, 20, REPORT : <*> <*> <*> <*>
+s1, 21, onStandStepChanged <*>
+s2, 22, <*> <*> <*> <*>
+s6, 23, getTodayTotalDetailSteps <?> <*>
+s7, 24, <*>
+s8, 25, calculateCaloriesWithCache <*>
+s9, 26, calculateAltitudeWithCache <*>
+s10, 27, REPORT : <*> <*> <*> <*>
+s1, 28, onStandStepChanged <*>
+s2, 29, <*> <*> <*> <*>
+s6, 30, getTodayTotalDetailSteps <?> <*>
+s7, 31, <*>
+s8, 32, calculateCaloriesWithCache <*>
+s9, 33, calculateAltitudeWithCache <*>
+s10, 34, REPORT : <*> <*> <*> <*>
+s1, 35, onStandStepChanged <*>
+s2, 36, <*> <*> <*> <*>
+s6, 37, getTodayTotalDetailSteps <?> <*>
+s7, 38, <*>
+s8, 39, calculateCaloriesWithCache <*>
+s9, 40, calculateAltitudeWithCache <*>
+s10, 41, REPORT : <*> <*> <*> <*>
+s1, 42, onStandStepChanged <*>
+s2, 43, <*> <*> <*> <*>
+s6, 44, getTodayTotalDetailSteps <?> <*>
+s7, 45, <*>
+s8, 46, calculateCaloriesWithCache <*>
+s9, 47, calculateAltitudeWithCache <*>
+s10, 48, REPORT : <*> <*> <*> <*>
+s1, 49, onStandStepChanged <*>
+s2, 50, <*> <*> <*> <*>
+s6, 51, getTodayTotalDetailSteps <?> <*>
+s7, 52, <*>
+s8, 53, calculateCaloriesWithCache <*>
+s9, 54, calculateAltitudeWithCache <*>
+s10, 55, REPORT : <*> <*> <*> <*>
+s1, 56, onStandStepChanged <*>
+s2, 57, <*> <*> <*> <*>
+s6, 58, getTodayTotalDetailSteps <?> <*>
+s7, 59, <*>
+s8, 60, calculateCaloriesWithCache <*>
+s9, 61, calculateAltitudeWithCache <*>
+s10, 62, REPORT : <*> <*> <*> <*>
+s1, 63, onStandStepChanged <*>
+s2, 64, <*> <*> <*> <*>
+s3, 65, onReceive action: <*>
+s1, 66, onStandStepChanged <*>
+s2, 67, <*> <*> <*> <*>
+s6, 68, getTodayTotalDetailSteps <?> <*>
+s7, 69, <*>
+s8, 70, calculateCaloriesWithCache <*>
+s9, 71, calculateAltitudeWithCache <*>
+s11, 72, isScreenOn <*>
+s12, 73, screen status unknown,think screen on
+s10, 74, REPORT : <*> <*> <*> <*>
+s3, 75, onReceive action: <*>
+s4, 76, processHandleBroadcastAction <*>
+s5, 77, flush sensor data
+s6, 78, getTodayTotalDetailSteps <?> <*>
+s7, 79, <*>
+s1, 80, onStandStepChanged <*>
+s8, 81, calculateCaloriesWithCache <*>
+s9, 82, calculateAltitudeWithCache <*>
+s10, 83, REPORT : <*> <*> <*> <*>
+s1, 84, onStandStepChanged <*>
+s2, 85, <*> <*> <*> <*>
+s1, 86, onStandStepChanged <*>
+s2, 87, <*> <*> <*> <*>
+s6, 88, getTodayTotalDetailSteps <?> <*>
+s7, 89, <*>
+s8, 90, calculateCaloriesWithCache <*>
+s9, 91, calculateAltitudeWithCache <*>
+s10, 92, REPORT : <*> <*> <*> <*>
+s1, 93, onStandStepChanged <*>
+s2, 94, <*> <*> <*> <*>
+s6, 95, getTodayTotalDetailSteps <?> <*>
+s7, 96, <*>
+s8, 97, calculateCaloriesWithCache <*>
+s9, 98, calculateAltitudeWithCache <*>
+s10, 99, REPORT : <*> <*> <*> <*>
+s1, 100, onStandStepChanged <*>
+s2, 101, <*> <*> <*> <*>
+s6, 102, getTodayTotalDetailSteps <?> <*>
+s7, 103, <*>
+s8, 104, calculateCaloriesWithCache <*>
+s9, 105, calculateAltitudeWithCache <*>
+s10, 106, REPORT : <*> <*> <*> <*>
+s1, 107, onStandStepChanged <*>
+s2, 108, <*> <*> <*> <*>
+s6, 109, getTodayTotalDetailSteps <?> <*>
+s7, 110, <*>
+s8, 111, calculateCaloriesWithCache <*>
+s9, 112, calculateAltitudeWithCache <*>
+s10, 113, REPORT : <*> <*> <*> <*>
+s1, 114, onStandStepChanged <*>
+s2, 115, <*> <*> <*> <*>
+s6, 116, getTodayTotalDetailSteps <?> <*>
+s7, 117, <*>
+s8, 118, calculateCaloriesWithCache <*>
+s9, 119, calculateAltitudeWithCache <*>
+s10, 120, REPORT : <*> <*> <*> <*>
+s1, 121, onStandStepChanged <*>
+s2, 122, <*> <*> <*> <*>
+s6, 123, getTodayTotalDetailSteps <?> <*>
+s7, 124, <*>
+s8, 125, calculateCaloriesWithCache <*>
+s9, 126, calculateAltitudeWithCache <*>
+s10, 127, REPORT : <*> <*> <*> <*>
+s1, 128, onStandStepChanged <*>
+s2, 129, <*> <*> <*> <*>
+s6, 130, getTodayTotalDetailSteps <?> <*>
+s7, 131, <*>
+s8, 132, calculateCaloriesWithCache <*>
+s9, 133, calculateAltitudeWithCache <*>
+s10, 134, REPORT : <*> <*> <*> <*>
+s1, 135, onStandStepChanged <*>
+s2, 136, <*> <*> <*> <*>
+s6, 137, getTodayTotalDetailSteps <?> <*>
+s7, 138, <*>
+s8, 139, calculateCaloriesWithCache <*>
+s9, 140, calculateAltitudeWithCache <*>
+s10, 141, REPORT : <*> <*> <*> <*>
+s1, 142, onStandStepChanged <*>
+s2, 143, <*> <*> <*> <*>
+s6, 144, getTodayTotalDetailSteps <?> <*>
+s7, 145, <*>
+s8, 146, calculateCaloriesWithCache <*>
+s9, 147, calculateAltitudeWithCache <*>
+s10, 148, REPORT : <*> <*> <*> <*>
+s1, 149, onStandStepChanged <*>
+s2, 150, <*> <*> <*> <*>
+s6, 151, getTodayTotalDetailSteps <?> <*>
+s7, 152, <*>
+s8, 153, calculateCaloriesWithCache <*>
+s9, 154, calculateAltitudeWithCache <*>
+s10, 155, REPORT : <*> <*> <*> <*>
+s1, 156, onStandStepChanged <*>
+s2, 157, <*> <*> <*> <*>
+s6, 158, getTodayTotalDetailSteps <?> <*>
+s7, 159, <*>
+s8, 160, calculateCaloriesWithCache <*>
+s9, 161, calculateAltitudeWithCache <*>
+s10, 162, REPORT : <*> <*> <*> <*>
+s1, 163, onStandStepChanged <*>
+s2, 164, <*> <*> <*> <*>
+s6, 165, getTodayTotalDetailSteps <?> <*>
+s7, 166, <*>
+s8, 167, calculateCaloriesWithCache <*>
+s9, 168, calculateAltitudeWithCache <*>
+s10, 169, REPORT : <*> <*> <*> <*>
+s1, 170, onStandStepChanged <*>
+s2, 171, <*> <*> <*> <*>
+s6, 172, getTodayTotalDetailSteps <?> <*>
+s7, 173, <*>
+s8, 174, calculateCaloriesWithCache <*>
+s9, 175, calculateAltitudeWithCache <*>
+s10, 176, REPORT : <*> <*> <*> <*>
+s1, 177, onStandStepChanged <*>
+s2, 178, <*> <*> <*> <*>
+s6, 179, getTodayTotalDetailSteps <?> <*>
+s7, 180, <*>
+s8, 181, calculateCaloriesWithCache <*>
+s9, 182, calculateAltitudeWithCache <*>
+s10, 183, REPORT : <*> <*> <*> <*>
+s1, 184, onStandStepChanged <*>
+s2, 185, <*> <*> <*> <*>
+s6, 186, getTodayTotalDetailSteps <?> <*>
+s7, 187, <*>
+s8, 188, calculateCaloriesWithCache <*>
+s9, 189, calculateAltitudeWithCache <*>
+s10, 190, REPORT : <*> <*> <*> <*>
+s1, 191, onStandStepChanged <*>
+s2, 192, <*> <*> <*> <*>
+s6, 193, getTodayTotalDetailSteps <?> <*>
+s7, 194, <*>
+s8, 195, calculateCaloriesWithCache <*>
+s9, 196, calculateAltitudeWithCache <*>
+s10, 197, REPORT : <*> <*> <*> <*>
+s1, 198, onStandStepChanged <*>
+s2, 199, <*> <*> <*> <*>
+s6, 200, getTodayTotalDetailSteps <?> <*>
+s7, 201, <*>
+s8, 202, calculateCaloriesWithCache <*>
+s9, 203, calculateAltitudeWithCache <*>
+s10, 204, REPORT : <*> <*> <*> <*>
+s1, 205, onStandStepChanged <*>
+s2, 206, <*> <*> <*> <*>
+s6, 207, getTodayTotalDetailSteps <?> <*>
+s7, 208, <*>
+s8, 209, calculateCaloriesWithCache <*>
+s9, 210, calculateAltitudeWithCache <*>
+s10, 211, REPORT : <*> <*> <*> <*>
+s1, 212, onStandStepChanged <*>
+s2, 213, <*> <*> <*> <*>
+s6, 214, getTodayTotalDetailSteps <?> <*>
+s7, 215, <*>
+s8, 216, calculateCaloriesWithCache <*>
+s9, 217, calculateAltitudeWithCache <*>
+s10, 218, REPORT : <*> <*> <*> <*>
+s1, 219, onStandStepChanged <*>
+s2, 220, <*> <*> <*> <*>
+s6, 221, getTodayTotalDetailSteps <?> <*>
+s7, 222, <*>
+s8, 223, calculateCaloriesWithCache <*>
+s9, 224, calculateAltitudeWithCache <*>
+s10, 225, REPORT : <*> <*> <*> <*>
+s1, 226, onStandStepChanged <*>
+s2, 227, <*> <*> <*> <*>
+s6, 228, getTodayTotalDetailSteps <?> <*>
+s7, 229, <*>
+s8, 230, calculateCaloriesWithCache <*>
+s9, 231, calculateAltitudeWithCache <*>
+s10, 232, REPORT : <*> <*> <*> <*>
+s1, 233, onStandStepChanged <*>
+s2, 234, <*> <*> <*> <*>
+s6, 235, getTodayTotalDetailSteps <?> <*>
+s7, 236, <*>
+s8, 237, calculateCaloriesWithCache <*>
+s9, 238, calculateAltitudeWithCache <*>
+s10, 239, REPORT : <*> <*> <*> <*>
+s1, 240, onStandStepChanged <*>
+s2, 241, <*> <*> <*> <*>
+s6, 242, getTodayTotalDetailSteps <?> <*>
+s7, 243, <*>
+s8, 244, calculateCaloriesWithCache <*>
+s9, 245, calculateAltitudeWithCache <*>
+s10, 246, REPORT : <*> <*> <*> <*>
+s1, 247, onStandStepChanged <*>
+s2, 248, <*> <*> <*> <*>
+s6, 249, getTodayTotalDetailSteps <?> <*>
+s7, 250, <*>
+s8, 251, calculateCaloriesWithCache <*>
+s9, 252, calculateAltitudeWithCache <*>
+s10, 253, REPORT : <*> <*> <*> <*>
+s1, 254, onStandStepChanged <*>
+s2, 255, <*> <*> <*> <*>
+s6, 256, getTodayTotalDetailSteps <?> <*>
+s7, 257, <*>
+s8, 258, calculateCaloriesWithCache <*>
+s9, 259, calculateAltitudeWithCache <*>
+s10, 260, REPORT : <*> <*> <*> <*>
+s1, 261, onStandStepChanged <*>
+s2, 262, <*> <*> <*> <*>
+s6, 263, getTodayTotalDetailSteps <?> <*>
+s7, 264, <*>
+s8, 265, calculateCaloriesWithCache <*>
+s9, 266, calculateAltitudeWithCache <*>
+s10, 267, REPORT : <*> <*> <*> <*>
+s1, 268, onStandStepChanged <*>
+s2, 269, <*> <*> <*> <*>
+s6, 270, getTodayTotalDetailSteps <?> <*>
+s7, 271, <*>
+s8, 272, calculateCaloriesWithCache <*>
+s9, 273, calculateAltitudeWithCache <*>
+s10, 274, REPORT : <*> <*> <*> <*>
+s1, 275, onStandStepChanged <*>
+s2, 276, <*> <*> <*> <*>
+s6, 277, getTodayTotalDetailSteps <?> <*>
+s7, 278, <*>
+s8, 279, calculateCaloriesWithCache <*>
+s9, 280, calculateAltitudeWithCache <*>
+s10, 281, REPORT : <*> <*> <*> <*>
+s1, 282, onStandStepChanged <*>
+s2, 283, <*> <*> <*> <*>
+s6, 284, getTodayTotalDetailSteps <?> <*>
+s7, 285, <*>
+s8, 286, calculateCaloriesWithCache <*>
+s9, 287, calculateAltitudeWithCache <*>
+s10, 288, REPORT : <*> <*> <*> <*>
+s1, 289, onStandStepChanged <*>
+s2, 290, <*> <*> <*> <*>
+s6, 291, getTodayTotalDetailSteps <?> <*>
+s7, 292, <*>
+s8, 293, calculateCaloriesWithCache <*>
+s9, 294, calculateAltitudeWithCache <*>
+s10, 295, REPORT : <*> <*> <*> <*>
+s1, 296, onStandStepChanged <*>
+s2, 297, <*> <*> <*> <*>
+s6, 298, getTodayTotalDetailSteps <?> <*>
+s7, 299, <*>
+s8, 300, calculateCaloriesWithCache <*>
+s9, 301, calculateAltitudeWithCache <*>
+s10, 302, REPORT : <*> <*> <*> <*>
+s1, 303, onStandStepChanged <*>
+s2, 304, <*> <*> <*> <*>
+s6, 305, getTodayTotalDetailSteps <?> <*>
+s7, 306, <*>
+s8, 307, calculateCaloriesWithCache <*>
+s9, 308, calculateAltitudeWithCache <*>
+s10, 309, REPORT : <*> <*> <*> <*>
+s1, 310, onStandStepChanged <*>
+s2, 311, <*> <*> <*> <*>
+s4, 312, processHandleBroadcastAction <*>
+s6, 313, getTodayTotalDetailSteps <?> <*>
+s7, 314, <*>
+s8, 315, calculateCaloriesWithCache <*>
+s9, 316, calculateAltitudeWithCache <*>
+s10, 317, REPORT : <*> <*> <*> <*>
+s1, 318, onStandStepChanged <*>
+s2, 319, <*> <*> <*> <*>
+s6, 320, getTodayTotalDetailSteps <?> <*>
+s7, 321, <*>
+s8, 322, calculateCaloriesWithCache <*>
+s9, 323, calculateAltitudeWithCache <*>
+s4, 324, processHandleBroadcastAction <*>
+s1, 325, onStandStepChanged <*>
+s2, 326, <*> <*> <*> <*>
+s6, 327, getTodayTotalDetailSteps <?> <*>
+s7, 328, <*>
+s8, 329, calculateCaloriesWithCache <*>
+s9, 330, calculateAltitudeWithCache <*>
+s1, 331, onStandStepChanged <*>
+s2, 332, <*> <*> <*> <*>
+s6, 333, getTodayTotalDetailSteps <?> <*>
+s7, 334, <*>
+s8, 335, calculateCaloriesWithCache <*>
+s9, 336, calculateAltitudeWithCache <*>
+s10, 337, REPORT : <*> <*> <*> <*>
+s1, 338, onStandStepChanged <*>
+s2, 339, <*> <*> <*> <*>
+s6, 340, getTodayTotalDetailSteps <?> <*>
+s7, 341, <*>
+s8, 342, calculateCaloriesWithCache <*>
+s9, 343, calculateAltitudeWithCache <*>
+s10, 344, REPORT : <*> <*> <*> <*>
+s1, 345, onStandStepChanged <*>
+s2, 346, <*> <*> <*> <*>
+s6, 347, getTodayTotalDetailSteps <?> <*>
+s7, 348, <*>
+s8, 349, calculateCaloriesWithCache <*>
+s9, 350, calculateAltitudeWithCache <*>
+s10, 351, REPORT : <*> <*> <*> <*>
+s1, 352, onStandStepChanged <*>
+s2, 353, <*> <*> <*> <*>
+s6, 354, getTodayTotalDetailSteps <?> <*>
+s7, 355, <*>
+s8, 356, calculateCaloriesWithCache <*>
+s9, 357, calculateAltitudeWithCache <*>
+s10, 358, REPORT : <*> <*> <*> <*>
+s1, 359, onStandStepChanged <*>
+s2, 360, <*> <*> <*> <*>
+s6, 361, getTodayTotalDetailSteps <?> <*>
+s7, 362, <*>
+s8, 363, calculateCaloriesWithCache <*>
+s9, 364, calculateAltitudeWithCache <*>
+s10, 365, REPORT : <*> <*> <*> <*>
+s1, 366, onStandStepChanged <*>
+s2, 367, <*> <*> <*> <*>
+s6, 368, getTodayTotalDetailSteps <?> <*>
+s7, 369, <*>
+s8, 370, calculateCaloriesWithCache <*>
+s9, 371, calculateAltitudeWithCache <*>
+s10, 372, REPORT : <*> <*> <*> <*>
+s1, 373, onStandStepChanged <*>
+s2, 374, <*> <*> <*> <*>
+s6, 375, getTodayTotalDetailSteps <?> <*>
+s7, 376, <*>
+s8, 377, calculateCaloriesWithCache <*>
+s9, 378, calculateAltitudeWithCache <*>
+s10, 379, REPORT : <*> <*> <*> <*>
+s1, 380, onStandStepChanged <*>
+s2, 381, <*> <*> <*> <*>
+s6, 382, getTodayTotalDetailSteps <?> <*>
+s7, 383, <*>
+s8, 384, calculateCaloriesWithCache <*>
+s9, 385, calculateAltitudeWithCache <*>
+s10, 386, REPORT : <*> <*> <*> <*>
+s1, 387, onStandStepChanged <*>
+s2, 388, <*> <*> <*> <*>
+s6, 389, getTodayTotalDetailSteps <?> <*>
+s7, 390, <*>
+s8, 391, calculateCaloriesWithCache <*>
+s9, 392, calculateAltitudeWithCache <*>
+s10, 393, REPORT : <*> <*> <*> <*>
+s1, 394, onStandStepChanged <*>
+s2, 395, <*> <*> <*> <*>
+s6, 396, getTodayTotalDetailSteps <?> <*>
+s7, 397, <*>
+s8, 398, calculateCaloriesWithCache <*>
+s9, 399, calculateAltitudeWithCache <*>
+s10, 400, REPORT : <*> <*> <*> <*>
+s1, 401, onStandStepChanged <*>
+s2, 402, <*> <*> <*> <*>
+s6, 403, getTodayTotalDetailSteps <?> <*>
+s7, 404, <*>
+s8, 405, calculateCaloriesWithCache <*>
+s9, 406, calculateAltitudeWithCache <*>
+s1, 407, onStandStepChanged <*>
+s2, 408, <*> <*> <*> <*>
+s6, 409, getTodayTotalDetailSteps <?> <*>
+s7, 410, <*>
+s8, 411, calculateCaloriesWithCache <*>
+s9, 412, calculateAltitudeWithCache <*>
+s10, 413, REPORT : <*> <*> <*> <*>
+s1, 414, onStandStepChanged <*>
+s2, 415, <*> <*> <*> <*>
+s6, 416, getTodayTotalDetailSteps <?> <*>
+s7, 417, <*>
+s8, 418, calculateCaloriesWithCache <*>
+s9, 419, calculateAltitudeWithCache <*>
+s10, 420, REPORT : <*> <*> <*> <*>
+s1, 421, onStandStepChanged <*>
+s2, 422, <*> <*> <*> <*>
+s6, 423, getTodayTotalDetailSteps <?> <*>
+s7, 424, <*>
+s8, 425, calculateCaloriesWithCache <*>
+s9, 426, calculateAltitudeWithCache <*>
+s10, 427, REPORT : <*> <*> <*> <*>
+s1, 428, onStandStepChanged <*>
+s2, 429, <*> <*> <*> <*>
+s6, 430, getTodayTotalDetailSteps <?> <*>
+s7, 431, <*>
+s8, 432, calculateCaloriesWithCache <*>
+s9, 433, calculateAltitudeWithCache <*>
+s10, 434, REPORT : <*> <*> <*> <*>
+s1, 435, onStandStepChanged <*>
+s2, 436, <*> <*> <*> <*>
+s6, 437, getTodayTotalDetailSteps <?> <*>
+s7, 438, <*>
+s8, 439, calculateCaloriesWithCache <*>
+s9, 440, calculateAltitudeWithCache <*>
+s10, 441, REPORT : <*> <*> <*> <*>
+s1, 442, onStandStepChanged <*>
+s2, 443, <*> <*> <*> <*>
+s6, 444, getTodayTotalDetailSteps <?> <*>
+s7, 445, <*>
+s8, 446, calculateCaloriesWithCache <*>
+s9, 447, calculateAltitudeWithCache <*>
+s10, 448, REPORT : <*> <*> <*> <*>
+s1, 449, onStandStepChanged <*>
+s2, 450, <*> <*> <*> <*>
+s6, 451, getTodayTotalDetailSteps <?> <*>
+s7, 452, <*>
+s8, 453, calculateCaloriesWithCache <*>
+s9, 454, calculateAltitudeWithCache <*>
+s10, 455, REPORT : <*> <*> <*> <*>
+s1, 456, onStandStepChanged <*>
+s2, 457, <*> <*> <*> <*>
+s6, 458, getTodayTotalDetailSteps <?> <*>
+s7, 459, <*>
+s8, 460, calculateCaloriesWithCache <*>
+s9, 461, calculateAltitudeWithCache <*>
+s10, 462, REPORT : <*> <*> <*> <*>
+s1, 463, onStandStepChanged <*>
+s2, 464, <*> <*> <*> <*>
+s6, 465, getTodayTotalDetailSteps <?> <*>
+s7, 466, <*>
+s8, 467, calculateCaloriesWithCache <*>
+s9, 468, calculateAltitudeWithCache <*>
+s10, 469, REPORT : <*> <*> <*> <*>
+s1, 470, onStandStepChanged <*>
+s2, 471, <*> <*> <*> <*>
+s6, 472, getTodayTotalDetailSteps <?> <*>
+s7, 473, <*>
+s8, 474, calculateCaloriesWithCache <*>
+s9, 475, calculateAltitudeWithCache <*>
+s10, 476, REPORT : <*> <*> <*> <*>
+s1, 477, onStandStepChanged <*>
+s2, 478, <*> <*> <*> <*>
+s6, 479, getTodayTotalDetailSteps <?> <*>
+s7, 480, <*>
+s8, 481, calculateCaloriesWithCache <*>
+s9, 482, calculateAltitudeWithCache <*>
+s10, 483, REPORT : <*> <*> <*> <*>
+s1, 484, onStandStepChanged <*>
+s2, 485, <*> <*> <*> <*>
+s6, 486, getTodayTotalDetailSteps <?> <*>
+s7, 487, <*>
+s8, 488, calculateCaloriesWithCache <*>
+s9, 489, calculateAltitudeWithCache <*>
+s10, 490, REPORT : <*> <*> <*> <*>
+s1, 491, onStandStepChanged <*>
+s2, 492, <*> <*> <*> <*>
+s6, 493, getTodayTotalDetailSteps <?> <*>
+s7, 494, <*>
+s8, 495, calculateCaloriesWithCache <*>
+s9, 496, calculateAltitudeWithCache <*>
+s10, 497, REPORT : <*> <*> <*> <*>
+s1, 498, onStandStepChanged <*>
+s2, 499, <*> <*> <*> <*>
+s6, 500, getTodayTotalDetailSteps <?> <*>
+s7, 501, <*>
+s8, 502, calculateCaloriesWithCache <*>
+s9, 503, calculateAltitudeWithCache <*>
+s10, 504, REPORT : <*> <*> <*> <*>
+s1, 505, onStandStepChanged <*>
+s2, 506, <*> <*> <*> <*>
+s6, 507, getTodayTotalDetailSteps <?> <*>
+s7, 508, <*>
+s8, 509, calculateCaloriesWithCache <*>
+s9, 510, calculateAltitudeWithCache <*>
+s10, 511, REPORT : <*> <*> <*> <*>
+s1, 512, onStandStepChanged <*>
+s2, 513, <*> <*> <*> <*>
+s6, 514, getTodayTotalDetailSteps <?> <*>
+s7, 515, <*>
+s8, 516, calculateCaloriesWithCache <*>
+s9, 517, calculateAltitudeWithCache <*>
+s10, 518, REPORT : <*> <*> <*> <*>
+s1, 519, onStandStepChanged <*>
+s2, 520, <*> <*> <*> <*>
+s6, 521, getTodayTotalDetailSteps <?> <*>
+s7, 522, <*>
+s8, 523, calculateCaloriesWithCache <*>
+s9, 524, calculateAltitudeWithCache <*>
+s10, 525, REPORT : <*> <*> <*> <*>
+s1, 526, onStandStepChanged <*>
+s2, 527, <*> <*> <*> <*>
+s6, 528, getTodayTotalDetailSteps <?> <*>
+s7, 529, <*>
+s8, 530, calculateCaloriesWithCache <*>
+s9, 531, calculateAltitudeWithCache <*>
+s10, 532, REPORT : <*> <*> <*> <*>
+s1, 533, onStandStepChanged <*>
+s2, 534, <*> <*> <*> <*>
+s6, 535, getTodayTotalDetailSteps <?> <*>
+s7, 536, <*>
+s8, 537, calculateCaloriesWithCache <*>
+s9, 538, calculateAltitudeWithCache <*>
+s10, 539, REPORT : <*> <*> <*> <*>
+s1, 540, onStandStepChanged <*>
+s2, 541, <*> <*> <*> <*>
+s6, 542, getTodayTotalDetailSteps <?> <*>
+s7, 543, <*>
+s8, 544, calculateCaloriesWithCache <*>
+s9, 545, calculateAltitudeWithCache <*>
+s10, 546, REPORT : <*> <*> <*> <*>
+s1, 547, onStandStepChanged <*>
+s2, 548, <*> <*> <*> <*>
+s6, 549, getTodayTotalDetailSteps <?> <*>
+s7, 550, <*>
+s8, 551, calculateCaloriesWithCache <*>
+s9, 552, calculateAltitudeWithCache <*>
+s10, 553, REPORT : <*> <*> <*> <*>
+s1, 554, onStandStepChanged <*>
+s2, 555, <*> <*> <*> <*>
+s6, 556, getTodayTotalDetailSteps <?> <*>
+s7, 557, <*>
+s8, 558, calculateCaloriesWithCache <*>
+s9, 559, calculateAltitudeWithCache <*>
+s10, 560, REPORT : <*> <*> <*> <*>
+s1, 561, onStandStepChanged <*>
+s2, 562, <*> <*> <*> <*>
+s4, 563, processHandleBroadcastAction <*>
+s6, 564, getTodayTotalDetailSteps <?> <*>
+s7, 565, <*>
+s8, 566, calculateCaloriesWithCache <*>
+s9, 567, calculateAltitudeWithCache <*>
+s10, 568, REPORT : <*> <*> <*> <*>
+s1, 569, onStandStepChanged <*>
+s2, 570, <*> <*> <*> <*>
+s6, 571, getTodayTotalDetailSteps <?> <*>
+s7, 572, <*>
+s8, 573, calculateCaloriesWithCache <*>
+s9, 574, calculateAltitudeWithCache <*>
+s10, 575, REPORT : <*> <*> <*> <*>
+s1, 576, onStandStepChanged <*>
+s2, 577, <*> <*> <*> <*>
+s6, 578, getTodayTotalDetailSteps <?> <*>
+s7, 579, <*>
+s8, 580, calculateCaloriesWithCache <*>
+s9, 581, calculateAltitudeWithCache <*>
+s10, 582, REPORT : <*> <*> <*> <*>
+s1, 583, onStandStepChanged <*>
+s2, 584, <*> <*> <*> <*>
+s6, 585, getTodayTotalDetailSteps <?> <*>
+s7, 586, <*>
+s8, 587, calculateCaloriesWithCache <*>
+s9, 588, calculateAltitudeWithCache <*>
+s10, 589, REPORT : <*> <*> <*> <*>
+s1, 590, onStandStepChanged <*>
+s2, 591, <*> <*> <*> <*>
+s6, 592, getTodayTotalDetailSteps <?> <*>
+s7, 593, <*>
+s8, 594, calculateCaloriesWithCache <*>
+s9, 595, calculateAltitudeWithCache <*>
+s4, 596, processHandleBroadcastAction <*>
+s1, 597, onStandStepChanged <*>
+s2, 598, <*> <*> <*> <*>
+s6, 599, getTodayTotalDetailSteps <?> <*>
+s7, 600, <*>
+s8, 601, calculateCaloriesWithCache <*>
+s9, 602, calculateAltitudeWithCache <*>
+s10, 603, REPORT : <*> <*> <*> <*>
+s1, 604, onStandStepChanged <*>
+s2, 605, <*> <*> <*> <*>
+s6, 606, getTodayTotalDetailSteps <?> <*>
+s7, 607, <*>
+s8, 608, calculateCaloriesWithCache <*>
+s9, 609, calculateAltitudeWithCache <*>
+s10, 610, REPORT : <*> <*> <*> <*>
+s1, 611, onStandStepChanged <*>
+s2, 612, <*> <*> <*> <*>
+s6, 613, getTodayTotalDetailSteps <?> <*>
+s7, 614, <*>
+s8, 615, calculateCaloriesWithCache <*>
+s9, 616, calculateAltitudeWithCache <*>
+s10, 617, REPORT : <*> <*> <*> <*>
+s1, 618, onStandStepChanged <*>
+s2, 619, <*> <*> <*> <*>
+s6, 620, getTodayTotalDetailSteps <?> <*>
+s7, 621, <*>
+s8, 622, calculateCaloriesWithCache <*>
+s9, 623, calculateAltitudeWithCache <*>
+s10, 624, REPORT : <*> <*> <*> <*>
+s1, 625, onStandStepChanged <*>
+s2, 626, <*> <*> <*> <*>
+s6, 627, getTodayTotalDetailSteps <?> <*>
+s7, 628, <*>
+s8, 629, calculateCaloriesWithCache <*>
+s9, 630, calculateAltitudeWithCache <*>
+s10, 631, REPORT : <*> <*> <*> <*>
+s1, 632, onStandStepChanged <*>
+s2, 633, <*> <*> <*> <*>
+s6, 634, getTodayTotalDetailSteps <?> <*>
+s7, 635, <*>
+s8, 636, calculateCaloriesWithCache <*>
+s9, 637, calculateAltitudeWithCache <*>
+s10, 638, REPORT : <*> <*> <*> <*>
+s1, 639, onStandStepChanged <*>
+s2, 640, <*> <*> <*> <*>
+s6, 641, getTodayTotalDetailSteps <?> <*>
+s7, 642, <*>
+s8, 643, calculateCaloriesWithCache <*>
+s9, 644, calculateAltitudeWithCache <*>
+s10, 645, REPORT : <*> <*> <*> <*>
+s1, 646, onStandStepChanged <*>
+s2, 647, <*> <*> <*> <*>
+s6, 648, getTodayTotalDetailSteps <?> <*>
+s7, 649, <*>
+s8, 650, calculateCaloriesWithCache <*>
+s9, 651, calculateAltitudeWithCache <*>
+s10, 652, REPORT : <*> <*> <*> <*>
+s1, 653, onStandStepChanged <*>
+s2, 654, <*> <*> <*> <*>
+s6, 655, getTodayTotalDetailSteps <?> <*>
+s7, 656, <*>
+s8, 657, calculateCaloriesWithCache <*>
+s9, 658, calculateAltitudeWithCache <*>
+s10, 659, REPORT : <*> <*> <*> <*>
+s1, 660, onStandStepChanged <*>
+s2, 661, <*> <*> <*> <*>
+s6, 662, getTodayTotalDetailSteps <?> <*>
+s7, 663, <*>
+s8, 664, calculateCaloriesWithCache <*>
+s9, 665, calculateAltitudeWithCache <*>
+s10, 666, REPORT : <*> <*> <*> <*>
+s1, 667, onStandStepChanged <*>
+s2, 668, <*> <*> <*> <*>
+s6, 669, getTodayTotalDetailSteps <?> <*>
+s7, 670, <*>
+s8, 671, calculateCaloriesWithCache <*>
+s9, 672, calculateAltitudeWithCache <*>
+s10, 673, REPORT : <*> <*> <*> <*>
+s1, 674, onStandStepChanged <*>
+s2, 675, <*> <*> <*> <*>
+s6, 676, getTodayTotalDetailSteps <?> <*>
+s7, 677, <*>
+s8, 678, calculateCaloriesWithCache <*>
+s9, 679, calculateAltitudeWithCache <*>
+s3, 680, onReceive action: <*>
+s1, 681, onStandStepChanged <*>
+s2, 682, <*> <*> <*> <*>
+s1, 683, onStandStepChanged <*>
+s2, 684, <*> <*> <*> <*>
+s3, 685, onReceive action: <*>
+s4, 686, processHandleBroadcastAction <*>
+s5, 687, flush sensor data
+s6, 688, getTodayTotalDetailSteps <?> <*>
+s7, 689, <*>
+s1, 690, onStandStepChanged <*>
+s8, 691, calculateCaloriesWithCache <*>
+s9, 692, calculateAltitudeWithCache <*>
+s10, 693, REPORT : <*> <*> <*> <*>
+s1, 694, onStandStepChanged <*>
+s2, 695, <*> <*> <*> <*>
+s6, 696, getTodayTotalDetailSteps <?> <*>
+s7, 697, <*>
+s8, 698, calculateCaloriesWithCache <*>
+s9, 699, calculateAltitudeWithCache <*>
+s1, 700, onStandStepChanged <*>
+s13, 701, flushTempCacheToDB by stand
+s14, 702, Alarm uploadStaticsToDB <*>
+s15, 703, writeDataToDB size <*>
+s16, 704, upLoadOneMinuteDataToEngine <*>
+s16, 705, upLoadOneMinuteDataToEngine <*>
+s16, 706, upLoadOneMinuteDataToEngine <*>
+s16, 707, upLoadOneMinuteDataToEngine <*>
+s16, 708, upLoadOneMinuteDataToEngine <*>
+s17, 709, getBinderPackageName packageName <?> <*>
+s17, 710, getBinderPackageName packageName <?> <*>
+s18, 711, getAppContext() isAppValid health or wear, packageName <?> <*>
+s2, 712, <*> <*> <*> <*>
+s17, 713, getBinderPackageName packageName <?> <*>
+s17, 714, getBinderPackageName packageName <?> <*>
+s19, 715, insertHiHealthData() checkAppType <*> appID <?> <*>
+s20, 716, insertHiHealthData() size <?> <*> <?> <*> Data Type <?> <*> <?> <*> <?> <*>
+s21, 717, saveHealthDetailData() deviceID <?> <*>
+s22, 718, saveStatData() type <*> <?> <*> <?> <*> is <*>
+s23, 719, new date <*> <*>
+s22, 720, saveStatData() type <*> <?> <*> <?> <*> is <*>
+s23, 721, new date <*> <*>
+s24, 722, saveHealthDetailData() saveOneDetailData fail hiHealthData <?> <*> <?> <*>
+s22, 723, saveStatData() type <*> <?> <*> <?> <*> is <*>
+s23, 724, new date <*> <*>
+s24, 725, saveHealthDetailData() saveOneDetailData fail hiHealthData <?> <*> <?> <*>
+s22, 726, saveStatData() type <*> <?> <*> <?> <*> is <*>
+s23, 727, new date <*> <*>
+s25, 728, bulkSaveDetailHiHealthData() size <?> <*> <?> <*>
+s26, 729, startListenerChange subscribeList <?> <*>
+s27, 730, insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode <?> <*> <?> ERR_DATA_INSERT
+s28, 731, insertHiHealthData() end totalTime <?> <*>
+s29, 732, uploadStaticsToDB() onResult type <?> <*> <*>
+s30, 733, uploadStaticsToDB failed <*>
+s31, 734, checkInsertStatus stepSum or calorieSum is enough
+s17, 735, getBinderPackageName packageName <?> <*>
+s17, 736, getBinderPackageName packageName <?> <*>
+s18, 737, getAppContext() isAppValid health or wear, packageName <?> <*>
+s32, 738, checkInsertStatus stepStatSum or calorieStatSum is enough
+s33, 739, stepSyncOrNot appSynTimes is <*> statsyncTimes is <*>
+s34, 740, startInsertSportSync start auto sync,app is <*>
+s17, 741, getBinderPackageName packageName <?> <*>
+s35, 742, checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>
+s36, 743, startInsertSportSync first <*> steps sync,do all sync
+s17, 744, getBinderPackageName packageName <?> <*>
+s37, 745, startSync hiSyncOption <?> <*> <*> <*> <*> <*> <*> <?> <*> who <?> <*>
+s19, 746, insertHiHealthData() checkAppType <*> appID <?> <*>
+s20, 747, insertHiHealthData() size <?> <*> <?> <*> Data Type <?> <*> <?> <*> <?> <*>
+s38, 748, needAutoSync autoSyncSwitch is open
+s21, 749, saveHealthDetailData() deviceID <?> <*>
+s39, 750, initDataPrivacy the dataPrivacy switch is open, start push health data!
+s40, 751, initDataPrivacy the dataPrivacy is <*>
+s41, 752, initUserPrivacy the userPrivacy switch is open, start push user data!
+s42, 753, initUserPrivacy the userPrivacy is <*>
+s43, 754, ifCanSync not! no cloud version
+s44, 755, sendSyncFailedBroadcast
+s25, 756, bulkSaveDetailHiHealthData() size <?> <*> <?> <*>
+s23, 757, new date <*> <*>
+s23, 758, new date <*> <*>
+s23, 759, new date <*> <*>
+s23, 760, new date <*> <*>
+s23, 761, new date <*> <*>
+s23, 762, new date <*> <*>
+s23, 763, new date <*> <*>
+s23, 764, new date <*> <*>
+s23, 765, new date <*> <*>
+s23, 766, new date <*> <*>
+s23, 767, new date <*> <*>
+s23, 768, new date <*> <*>
+s23, 769, new date <*> <*>
+s45, 770, saveRealTimeHealthDatasStat() size <?> <*> <?> <*>
+s26, 771, startListenerChange subscribeList <?> <*>
+s28, 772, insertHiHealthData() end totalTime <?> <*>
+s46, 773, InsertCallBack() onSuccess type <?> <*> <*>
+s47, 774, InsertEvent success <*> <*>
+s48, 775, <*>
+s49, 776, setWriteDBLastDataMinute success
+s50, 777, flush2DB result success
+s6, 778, getTodayTotalDetailSteps <?> <*>
+s7, 779, <*>
+s31, 780, checkInsertStatus stepSum or calorieSum is enough
+s8, 781, calculateCaloriesWithCache <*>
+s32, 782, checkInsertStatus stepStatSum or calorieStatSum is enough
+s33, 783, stepSyncOrNot appSynTimes is <*> statsyncTimes is <*>
+s34, 784, startInsertSportSync start auto sync,app is <*>
+s35, 785, checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>
+s36, 786, startInsertSportSync first <*> steps sync,do all sync
+s37, 787, startSync hiSyncOption <?> <*> <*> <*> <*> <*> <*> <?> <*> who <?> <*>
+s38, 788, needAutoSync autoSyncSwitch is open
+s9, 789, calculateAltitudeWithCache <*>
+s39, 790, initDataPrivacy the dataPrivacy switch is open, start push health data!
+s40, 791, initDataPrivacy the dataPrivacy is <*>
+s41, 792, initUserPrivacy the userPrivacy switch is open, start push user data!
+s42, 793, initUserPrivacy the userPrivacy is <*>
+s43, 794, ifCanSync not! no cloud version
+s44, 795, sendSyncFailedBroadcast
+s10, 796, REPORT : <*> <*> <*> <*>
+s1, 797, onStandStepChanged <*>
+s2, 798, <*> <*> <*> <*>
+s6, 799, getTodayTotalDetailSteps <?> <*>
+s7, 800, <*>
+s8, 801, calculateCaloriesWithCache <*>
+s9, 802, calculateAltitudeWithCache <*>
+s10, 803, REPORT : <*> <*> <*> <*>
+s1, 804, onStandStepChanged <*>
+s2, 805, <*> <*> <*> <*>
+s6, 806, getTodayTotalDetailSteps <?> <*>
+s7, 807, <*>
+s8, 808, calculateCaloriesWithCache <*>
+s9, 809, calculateAltitudeWithCache <*>
+s10, 810, REPORT : <*> <*> <*> <*>
+s1, 811, onStandStepChanged <*>
+s2, 812, <*> <*> <*> <*>
+s4, 813, processHandleBroadcastAction <*>
+s6, 814, getTodayTotalDetailSteps <?> <*>
+s7, 815, <*>
+s8, 816, calculateCaloriesWithCache <*>
+s9, 817, calculateAltitudeWithCache <*>
+s10, 818, REPORT : <*> <*> <*> <*>
+s1, 819, onStandStepChanged <*>
+s2, 820, <*> <*> <*> <*>
+s6, 821, getTodayTotalDetailSteps <?> <*>
+s7, 822, <*>
+s8, 823, calculateCaloriesWithCache <*>
+s9, 824, calculateAltitudeWithCache <*>
+s10, 825, REPORT : <*> <*> <*> <*>
+s1, 826, onStandStepChanged <*>
+s2, 827, <*> <*> <*> <*>
+s6, 828, getTodayTotalDetailSteps <?> <*>
+s7, 829, <*>
+s8, 830, calculateCaloriesWithCache <*>
+s9, 831, calculateAltitudeWithCache <*>
+s10, 832, REPORT : <*> <*> <*> <*>
+s1, 833, onStandStepChanged <*>
+s2, 834, <*> <*> <*> <*>
+s6, 835, getTodayTotalDetailSteps <?> <*>
+s7, 836, <*>
+s8, 837, calculateCaloriesWithCache <*>
+s9, 838, calculateAltitudeWithCache <*>
+s10, 839, REPORT : <*> <*> <*> <*>
+s1, 840, onStandStepChanged <*>
+s2, 841, <*> <*> <*> <*>
+s6, 842, getTodayTotalDetailSteps <?> <*>
+s7, 843, <*>
+s8, 844, calculateCaloriesWithCache <*>
+s9, 845, calculateAltitudeWithCache <*>
+s10, 846, REPORT : <*> <*> <*> <*>
+s1, 847, onStandStepChanged <*>
+s2, 848, <*> <*> <*> <*>
+s6, 849, getTodayTotalDetailSteps <?> <*>
+s7, 850, <*>
+s8, 851, calculateCaloriesWithCache <*>
+s9, 852, calculateAltitudeWithCache <*>
+s10, 853, REPORT : <*> <*> <*> <*>
+s1, 854, onStandStepChanged <*>
+s2, 855, <*> <*> <*> <*>
+s6, 856, getTodayTotalDetailSteps <?> <*>
+s7, 857, <*>
+s8, 858, calculateCaloriesWithCache <*>
+s9, 859, calculateAltitudeWithCache <*>
+s10, 860, REPORT : <*> <*> <*> <*>
+s1, 861, onStandStepChanged <*>
+s2, 862, <*> <*> <*> <*>
+s6, 863, getTodayTotalDetailSteps <?> <*>
+s7, 864, <*>
+s8, 865, calculateCaloriesWithCache <*>
+s9, 866, calculateAltitudeWithCache <*>
+s10, 867, REPORT : <*> <*> <*> <*>
+s1, 868, onStandStepChanged <*>
+s2, 869, <*> <*> <*> <*>
+s6, 870, getTodayTotalDetailSteps <?> <*>
+s7, 871, <*>
+s8, 872, calculateCaloriesWithCache <*>
+s9, 873, calculateAltitudeWithCache <*>
+s10, 874, REPORT : <*> <*> <*> <*>
+s1, 875, onStandStepChanged <*>
+s2, 876, <*> <*> <*> <*>
+s6, 877, getTodayTotalDetailSteps <?> <*>
+s7, 878, <*>
+s8, 879, calculateCaloriesWithCache <*>
+s9, 880, calculateAltitudeWithCache <*>
+s10, 881, REPORT : <*> <*> <*> <*>
+s1, 882, onStandStepChanged <*>
+s2, 883, <*> <*> <*> <*>
+s6, 884, getTodayTotalDetailSteps <?> <*>
+s7, 885, <*>
+s8, 886, calculateCaloriesWithCache <*>
+s9, 887, calculateAltitudeWithCache <*>
+s10, 888, REPORT : <*> <*> <*> <*>
+s1, 889, onStandStepChanged <*>
+s2, 890, <*> <*> <*> <*>
+s6, 891, getTodayTotalDetailSteps <?> <*>
+s7, 892, <*>
+s8, 893, calculateCaloriesWithCache <*>
+s9, 894, calculateAltitudeWithCache <*>
+s10, 895, REPORT : <*> <*> <*> <*>
+s1, 896, onStandStepChanged <*>
+s2, 897, <*> <*> <*> <*>
+s6, 898, getTodayTotalDetailSteps <?> <*>
+s7, 899, <*>
+s8, 900, calculateCaloriesWithCache <*>
+s9, 901, calculateAltitudeWithCache <*>
+s1, 902, onStandStepChanged <*>
+s2, 903, <*> <*> <*> <*>
+s6, 904, getTodayTotalDetailSteps <?> <*>
+s7, 905, <*>
+s8, 906, calculateCaloriesWithCache <*>
+s9, 907, calculateAltitudeWithCache <*>
+s3, 908, onReceive action: <*>
+s4, 909, processHandleBroadcastAction <*>
+s4, 910, processHandleBroadcastAction <*>
+s1, 911, onStandStepChanged <*>
+s2, 912, <*> <*> <*> <*>
+s2, 913, <*> <*> <*> <*>
+s2, 914, <*> <*> <*> <*>
+s2, 915, <*> <*> <*> <*>
+s2, 916, <*> <*> <*> <*>
+s3, 917, onReceive action: <*>
+s4, 918, processHandleBroadcastAction <*>
+s5, 919, flush sensor data
+s6, 920, getTodayTotalDetailSteps <?> <*>
+s7, 921, <*>
+s1, 922, onStandStepChanged <*>
+s8, 923, calculateCaloriesWithCache <*>
+s9, 924, calculateAltitudeWithCache <*>
+s10, 925, REPORT : <*> <*> <*> <*>
+s1, 926, onStandStepChanged <*>
+s2, 927, <*> <*> <*> <*>
+s4, 928, processHandleBroadcastAction <*>
+s6, 929, getTodayTotalDetailSteps <?> <*>
+s7, 930, <*>
+s8, 931, calculateCaloriesWithCache <*>
+s9, 932, calculateAltitudeWithCache <*>
+s1, 933, onStandStepChanged <*>
+s2, 934, <*> <*> <*> <*>
+s6, 935, getTodayTotalDetailSteps <?> <*>
+s7, 936, <*>
+s8, 937, calculateCaloriesWithCache <*>
+s9, 938, calculateAltitudeWithCache <*>
+s1, 939, onStandStepChanged <*>
+s2, 940, <*> <*> <*> <*>
+s6, 941, getTodayTotalDetailSteps <?> <*>
+s7, 942, <*>
+s8, 943, calculateCaloriesWithCache <*>
+s9, 944, calculateAltitudeWithCache <*>
+s1, 945, onStandStepChanged <*>
+s2, 946, <*> <*> <*> <*>
+s6, 947, getTodayTotalDetailSteps <?> <*>
+s7, 948, <*>
+s8, 949, calculateCaloriesWithCache <*>
+s9, 950, calculateAltitudeWithCache <*>
+s4, 951, processHandleBroadcastAction <*>
+s3, 952, onReceive action: <*>
+s4, 953, processHandleBroadcastAction <*>
+s4, 954, processHandleBroadcastAction <*>
+s4, 955, processHandleBroadcastAction <*>
+s1, 956, onStandStepChanged <*>
+s2, 957, <*> <*> <*> <*>
+s2, 958, <*> <*> <*> <*>
+s2, 959, <*> <*> <*> <*>
+s2, 960, <*> <*> <*> <*>
+s2, 961, <*> <*> <*> <*>
+s2, 962, <*> <*> <*> <*>
+s3, 963, onReceive action: <*>
+s4, 964, processHandleBroadcastAction <*>
+s5, 965, flush sensor data
+s6, 966, getTodayTotalDetailSteps <?> <*>
+s7, 967, <*>
+s1, 968, onStandStepChanged <*>
+s8, 969, calculateCaloriesWithCache <*>
+s9, 970, calculateAltitudeWithCache <*>
+s10, 971, REPORT : <*> <*> <*> <*>
+s1, 972, onStandStepChanged <*>
+s2, 973, <*> <*> <*> <*>
+s6, 974, getTodayTotalDetailSteps <?> <*>
+s7, 975, <*>
+s8, 976, calculateCaloriesWithCache <*>
+s9, 977, calculateAltitudeWithCache <*>
+s4, 978, processHandleBroadcastAction <*>
+s1, 979, onStandStepChanged <*>
+s2, 980, <*> <*> <*> <*>
+s6, 981, getTodayTotalDetailSteps <?> <*>
+s7, 982, <*>
+s8, 983, calculateCaloriesWithCache <*>
+s9, 984, calculateAltitudeWithCache <*>
+s3, 985, onReceive action: <*>
+s1, 986, onStandStepChanged <*>
+s3, 987, onReceive action: <*>
+s4, 988, processHandleBroadcastAction <*>
+s5, 989, flush sensor data
+s2, 990, <*> <*> <*> <*>
+s2, 991, <*> <*> <*> <*>
+s6, 992, getTodayTotalDetailSteps <?> <*>
+s7, 993, <*>
+s1, 994, onStandStepChanged <*>
+s8, 995, calculateCaloriesWithCache <*>
+s9, 996, calculateAltitudeWithCache <*>
+s10, 997, REPORT : <*> <*> <*> <*>
+s1, 998, onStandStepChanged <*>
+s2, 999, <*> <*> <*> <*>
+s51, 1000, timeStamp <*>
+s6, 1001, getTodayTotalDetailSteps <?> <*>
+s7, 1002, <*>
+s8, 1003, calculateCaloriesWithCache <*>
+s9, 1004, calculateAltitudeWithCache <*>
+s4, 1005, processHandleBroadcastAction <*>
+s52, 1006, startTimer start autoSync
+s37, 1007, startSync hiSyncOption <?> <*> <*> <*> <*> <*> <*> <?> <*> who <?> <*>
+s53, 1008, stepSyncOrNot appSynTimes is <*>
+s38, 1009, needAutoSync autoSyncSwitch is open
+s39, 1010, initDataPrivacy the dataPrivacy switch is open, start push health data!
+s40, 1011, initDataPrivacy the dataPrivacy is <*>
+s41, 1012, initUserPrivacy the userPrivacy switch is open, start push user data!
+s42, 1013, initUserPrivacy the userPrivacy is <*>
+s43, 1014, ifCanSync not! no cloud version
+s44, 1015, sendSyncFailedBroadcast
+s4, 1016, processHandleBroadcastAction <*>
+s1, 1017, onStandStepChanged <*>
+s2, 1018, <*> <*> <*> <*>
+s6, 1019, getTodayTotalDetailSteps <?> <*>
+s7, 1020, <*>
+s8, 1021, calculateCaloriesWithCache <*>
+s9, 1022, calculateAltitudeWithCache <*>
+s3, 1023, onReceive action: <*>
+s1, 1024, onStandStepChanged <*>
+s2, 1025, <*> <*> <*> <*>
+s3, 1026, onReceive action: <*>
+s4, 1027, processHandleBroadcastAction <*>
+s5, 1028, flush sensor data
+s6, 1029, getTodayTotalDetailSteps <?> <*>
+s7, 1030, <*>
+s1, 1031, onStandStepChanged <*>
+s8, 1032, calculateCaloriesWithCache <*>
+s9, 1033, calculateAltitudeWithCache <*>
+s10, 1034, REPORT : <*> <*> <*> <*>
+s1, 1035, onStandStepChanged <*>
+s2, 1036, <*> <*> <*> <*>
+s6, 1037, getTodayTotalDetailSteps <?> <*>
+s7, 1038, <*>
+s8, 1039, calculateCaloriesWithCache <*>
+s9, 1040, calculateAltitudeWithCache <*>
+s4, 1041, processHandleBroadcastAction <*>
+s4, 1042, processHandleBroadcastAction <*>
+s4, 1043, processHandleBroadcastAction <*>
+s4, 1044, processHandleBroadcastAction <*>
+s1, 1045, onStandStepChanged <*>
+s2, 1046, <*> <*> <*> <*>
+s6, 1047, getTodayTotalDetailSteps <?> <*>
+s7, 1048, <*>
+s8, 1049, calculateCaloriesWithCache <*>
+s9, 1050, calculateAltitudeWithCache <*>
+s3, 1051, onReceive action: <*>
+s4, 1052, processHandleBroadcastAction <*>
+s1, 1053, onStandStepChanged <*>
+s2, 1054, <*> <*> <*> <*>
+s2, 1055, <*> <*> <*> <*>
+s2, 1056, <*> <*> <*> <*>
+s3, 1057, onReceive action: <*>
+s4, 1058, processHandleBroadcastAction <*>
+s5, 1059, flush sensor data
+s6, 1060, getTodayTotalDetailSteps <?> <*>
+s7, 1061, <*>
+s1, 1062, onStandStepChanged <*>
+s8, 1063, calculateCaloriesWithCache <*>
+s9, 1064, calculateAltitudeWithCache <*>
+s10, 1065, REPORT : <*> <*> <*> <*>
+s1, 1066, onStandStepChanged <*>
+s2, 1067, <*> <*> <*> <*>
+s51, 1068, timeStamp <*>
+s4, 1069, processHandleBroadcastAction <*>
+s6, 1070, getTodayTotalDetailSteps <?> <*>
+s7, 1071, <*>
+s8, 1072, calculateCaloriesWithCache <*>
+s9, 1073, calculateAltitudeWithCache <*>
+s4, 1074, processHandleBroadcastAction <*>
+s4, 1075, processHandleBroadcastAction <*>
+s4, 1076, processHandleBroadcastAction <*>
+s4, 1077, processHandleBroadcastAction <*>
+s4, 1078, processHandleBroadcastAction <*>
+s4, 1079, processHandleBroadcastAction <*>
+s1, 1080, onStandStepChanged <*>
+s2, 1081, <*> <*> <*> <*>
+s6, 1082, getTodayTotalDetailSteps <?> <*>
+s7, 1083, <*>
+s8, 1084, calculateCaloriesWithCache <*>
+s9, 1085, calculateAltitudeWithCache <*>
+s1, 1086, onStandStepChanged <*>
+s2, 1087, <*> <*> <*> <*>
+s6, 1088, getTodayTotalDetailSteps <?> <*>
+s7, 1089, <*>
+s8, 1090, calculateCaloriesWithCache <*>
+s9, 1091, calculateAltitudeWithCache <*>
+s4, 1092, processHandleBroadcastAction <*>
+s4, 1093, processHandleBroadcastAction <*>
+s4, 1094, processHandleBroadcastAction <*>
+s4, 1095, processHandleBroadcastAction <*>
+s4, 1096, processHandleBroadcastAction <*>
+s4, 1097, processHandleBroadcastAction <*>
+s1, 1098, onStandStepChanged <*>
+s2, 1099, <*> <*> <*> <*>
+s6, 1100, getTodayTotalDetailSteps <?> <*>
+s7, 1101, <*>
+s8, 1102, calculateCaloriesWithCache <*>
+s9, 1103, calculateAltitudeWithCache <*>
+s3, 1104, onReceive action: <*>
+s1, 1105, onStandStepChanged <*>
+s2, 1106, <*> <*> <*> <*>
+s3, 1107, onReceive action: <*>
+s4, 1108, processHandleBroadcastAction <*>
+s5, 1109, flush sensor data
+s6, 1110, getTodayTotalDetailSteps <?> <*>
+s7, 1111, <*>
+s1, 1112, onStandStepChanged <*>
+s8, 1113, calculateCaloriesWithCache <*>
+s9, 1114, calculateAltitudeWithCache <*>
+s10, 1115, REPORT : <*> <*> <*> <*>
+s1, 1116, onStandStepChanged <*>
+s2, 1117, <*> <*> <*> <*>
+s6, 1118, getTodayTotalDetailSteps <?> <*>
+s7, 1119, <*>
+s8, 1120, calculateCaloriesWithCache <*>
+s9, 1121, calculateAltitudeWithCache <*>
+s1, 1122, onStandStepChanged <*>
+s2, 1123, <*> <*> <*> <*>
+s6, 1124, getTodayTotalDetailSteps <?> <*>
+s7, 1125, <*>
+s8, 1126, calculateCaloriesWithCache <*>
+s9, 1127, calculateAltitudeWithCache <*>
+s1, 1128, onStandStepChanged <*>
+s2, 1129, <*> <*> <*> <*>
+s6, 1130, getTodayTotalDetailSteps <?> <*>
+s7, 1131, <*>
+s8, 1132, calculateCaloriesWithCache <*>
+s9, 1133, calculateAltitudeWithCache <*>
+s4, 1134, processHandleBroadcastAction <*>
+s3, 1135, onReceive action: <*>
+s1, 1136, onStandStepChanged <*>
+s2, 1137, <*> <*> <*> <*>
+s3, 1138, onReceive action: <*>
+s4, 1139, processHandleBroadcastAction <*>
+s5, 1140, flush sensor data
+s6, 1141, getTodayTotalDetailSteps <?> <*>
+s7, 1142, <*>
+s1, 1143, onStandStepChanged <*>
+s8, 1144, calculateCaloriesWithCache <*>
+s9, 1145, calculateAltitudeWithCache <*>
+s10, 1146, REPORT : <*> <*> <*> <*>
+s1, 1147, onStandStepChanged <*>
+s2, 1148, <*> <*> <*> <*>
+s6, 1149, getTodayTotalDetailSteps <?> <*>
+s7, 1150, <*>
+s8, 1151, calculateCaloriesWithCache <*>
+s9, 1152, calculateAltitudeWithCache <*>
+s1, 1153, onStandStepChanged <*>
+s2, 1154, <*> <*> <*> <*>
+s6, 1155, getTodayTotalDetailSteps <?> <*>
+s7, 1156, <*>
+s8, 1157, calculateCaloriesWithCache <*>
+s9, 1158, calculateAltitudeWithCache <*>
+s1, 1159, onStandStepChanged <*>
+s2, 1160, <*> <*> <*> <*>
+s6, 1161, getTodayTotalDetailSteps <?> <*>
+s7, 1162, <*>
+s8, 1163, calculateCaloriesWithCache <*>
+s9, 1164, calculateAltitudeWithCache <*>
+s3, 1165, onReceive action: <*>
+s1, 1166, onStandStepChanged <*>
+s2, 1167, <*> <*> <*> <*>
+s2, 1168, <*> <*> <*> <*>
+s3, 1169, onReceive action: <*>
+s4, 1170, processHandleBroadcastAction <*>
+s5, 1171, flush sensor data
+s6, 1172, getTodayTotalDetailSteps <?> <*>
+s7, 1173, <*>
+s1, 1174, onStandStepChanged <*>
+s8, 1175, calculateCaloriesWithCache <*>
+s9, 1176, calculateAltitudeWithCache <*>
+s10, 1177, REPORT : <*> <*> <*> <*>
+s1, 1178, onStandStepChanged <*>
+s2, 1179, <*> <*> <*> <*>
+s51, 1180, timeStamp <*>
+s4, 1181, processHandleBroadcastAction <*>
+s6, 1182, getTodayTotalDetailSteps <?> <*>
+s7, 1183, <*>
+s8, 1184, calculateCaloriesWithCache <*>
+s9, 1185, calculateAltitudeWithCache <*>
+s1, 1186, onStandStepChanged <*>
+s2, 1187, <*> <*> <*> <*>
+s6, 1188, getTodayTotalDetailSteps <?> <*>
+s7, 1189, <*>
+s8, 1190, calculateCaloriesWithCache <*>
+s9, 1191, calculateAltitudeWithCache <*>
+s3, 1192, onReceive action: <*>
+s1, 1193, onStandStepChanged <*>
+s2, 1194, <*> <*> <*> <*>
+s3, 1195, onReceive action: <*>
+s4, 1196, processHandleBroadcastAction <*>
+s5, 1197, flush sensor data
+s6, 1198, getTodayTotalDetailSteps <?> <*>
+s7, 1199, <*>
+s1, 1200, onStandStepChanged <*>
+s8, 1201, calculateCaloriesWithCache <*>
+s9, 1202, calculateAltitudeWithCache <*>
+s10, 1203, REPORT : <*> <*> <*> <*>
+s1, 1204, onStandStepChanged <*>
+s2, 1205, <*> <*> <*> <*>
+s1, 1206, onStandStepChanged <*>
+s2, 1207, <*> <*> <*> <*>
+s6, 1208, getTodayTotalDetailSteps <?> <*>
+s7, 1209, <*>
+s8, 1210, calculateCaloriesWithCache <*>
+s9, 1211, calculateAltitudeWithCache <*>
+s4, 1212, processHandleBroadcastAction <*>
+s1, 1213, onStandStepChanged <*>
+s2, 1214, <*> <*> <*> <*>
+s6, 1215, getTodayTotalDetailSteps <?> <*>
+s7, 1216, <*>
+s8, 1217, calculateCaloriesWithCache <*>
+s9, 1218, calculateAltitudeWithCache <*>
+s4, 1219, processHandleBroadcastAction <*>
+s3, 1220, onReceive action: <*>
+s1, 1221, onStandStepChanged <*>
+s2, 1222, <*> <*> <*> <*>
+s3, 1223, onReceive action: <*>
+s4, 1224, processHandleBroadcastAction <*>
+s5, 1225, flush sensor data
+s6, 1226, getTodayTotalDetailSteps <?> <*>
+s7, 1227, <*>
+s1, 1228, onStandStepChanged <*>
+s8, 1229, calculateCaloriesWithCache <*>
+s9, 1230, calculateAltitudeWithCache <*>
+s10, 1231, REPORT : <*> <*> <*> <*>
+s1, 1232, onStandStepChanged <*>
+s2, 1233, <*> <*> <*> <*>
+s1, 1234, onStandStepChanged <*>
+s2, 1235, <*> <*> <*> <*>
+s6, 1236, getTodayTotalDetailSteps <?> <*>
+s7, 1237, <*>
+s8, 1238, calculateCaloriesWithCache <*>
+s9, 1239, calculateAltitudeWithCache <*>
+s4, 1240, processHandleBroadcastAction <*>
+s3, 1241, onReceive action: <*>
+s4, 1242, processHandleBroadcastAction <*>
+s4, 1243, processHandleBroadcastAction <*>
+s4, 1244, processHandleBroadcastAction <*>
+s4, 1245, processHandleBroadcastAction <*>
+s4, 1246, processHandleBroadcastAction <*>
+s4, 1247, processHandleBroadcastAction <*>
+s4, 1248, processHandleBroadcastAction <*>
+s1, 1249, onStandStepChanged <*>
+s2, 1250, <*> <*> <*> <*>
+s2, 1251, <*> <*> <*> <*>
+s2, 1252, <*> <*> <*> <*>
+s2, 1253, <*> <*> <*> <*>
+s2, 1254, <*> <*> <*> <*>
+s2, 1255, <*> <*> <*> <*>
+s2, 1256, <*> <*> <*> <*>
+s2, 1257, <*> <*> <*> <*>
+s2, 1258, <*> <*> <*> <*>
+s2, 1259, <*> <*> <*> <*>
+s2, 1260, <*> <*> <*> <*>
+s2, 1261, <*> <*> <*> <*>
+s3, 1262, onReceive action: <*>
+s4, 1263, processHandleBroadcastAction <*>
+s5, 1264, flush sensor data
+s1, 1265, onStandStepChanged <*>
+s6, 1266, getTodayTotalDetailSteps <?> <*>
+s7, 1267, <*>
+s8, 1268, calculateCaloriesWithCache <*>
+s9, 1269, calculateAltitudeWithCache <*>
+s10, 1270, REPORT : <*> <*> <*> <*>
+s1, 1271, onStandStepChanged <*>
+s2, 1272, <*> <*> <*> <*>
+s4, 1273, processHandleBroadcastAction <*>
+s6, 1274, getTodayTotalDetailSteps <?> <*>
+s7, 1275, <*>
+s8, 1276, calculateCaloriesWithCache <*>
+s9, 1277, calculateAltitudeWithCache <*>
+s1, 1278, onStandStepChanged <*>
+s2, 1279, <*> <*> <*> <*>
+s6, 1280, getTodayTotalDetailSteps <?> <*>
+s7, 1281, <*>
+s8, 1282, calculateCaloriesWithCache <*>
+s9, 1283, calculateAltitudeWithCache <*>
+s54, 1284, getTodaySportData <*>
+s10, 1285, REPORT : <*> <*> <*> <*>
+s6, 1286, getTodayTotalDetailSteps <?> <*>
+s7, 1287, <*>
+s8, 1288, calculateCaloriesWithCache <*>
+s9, 1289, calculateAltitudeWithCache <*>
+s54, 1290, getTodaySportData <*>
+s54, 1291, getTodaySportData <*>
+s10, 1292, REPORT : <*> <*> <*> <*>
+s6, 1293, getTodayTotalDetailSteps <?> <*>
+s7, 1294, <*>
+s8, 1295, calculateCaloriesWithCache <*>
+s9, 1296, calculateAltitudeWithCache <*>
+s54, 1297, getTodaySportData <*>
+s4, 1298, processHandleBroadcastAction <*>
+s54, 1299, getTodaySportData <*>
+s10, 1300, REPORT : <*> <*> <*> <*>
+s6, 1301, getTodayTotalDetailSteps <?> <*>
+s7, 1302, <*>
+s8, 1303, calculateCaloriesWithCache <*>
+s9, 1304, calculateAltitudeWithCache <*>
+s54, 1305, getTodaySportData <*>
+s1, 1306, onStandStepChanged <*>
+s2, 1307, <*> <*> <*> <*>
+s6, 1308, getTodayTotalDetailSteps <?> <*>
+s7, 1309, <*>
+s8, 1310, calculateCaloriesWithCache <*>
+s9, 1311, calculateAltitudeWithCache <*>
+s3, 1312, onReceive action: <*>
+s4, 1313, processHandleBroadcastAction <*>
+s4, 1314, processHandleBroadcastAction <*>
+s4, 1315, processHandleBroadcastAction <*>
+s4, 1316, processHandleBroadcastAction <*>
+s4, 1317, processHandleBroadcastAction <*>
+s1, 1318, onStandStepChanged <*>
+s2, 1319, <*> <*> <*> <*>
+s2, 1320, <*> <*> <*> <*>
+s2, 1321, <*> <*> <*> <*>
+s2, 1322, <*> <*> <*> <*>
+s2, 1323, <*> <*> <*> <*>
+s2, 1324, <*> <*> <*> <*>
+s2, 1325, <*> <*> <*> <*>
+s3, 1326, onReceive action: <*>
+s4, 1327, processHandleBroadcastAction <*>
+s5, 1328, flush sensor data
+s6, 1329, getTodayTotalDetailSteps <?> <*>
+s7, 1330, <*>
+s1, 1331, onStandStepChanged <*>
+s8, 1332, calculateCaloriesWithCache <*>
+s9, 1333, calculateAltitudeWithCache <*>
+s10, 1334, REPORT : <*> <*> <*> <*>
+s1, 1335, onStandStepChanged <*>
+s2, 1336, <*> <*> <*> <*>
+s51, 1337, timeStamp <*>
+s6, 1338, getTodayTotalDetailSteps <?> <*>
+s7, 1339, <*>
+s8, 1340, calculateCaloriesWithCache <*>
+s9, 1341, calculateAltitudeWithCache <*>
+s1, 1342, onStandStepChanged <*>
+s2, 1343, <*> <*> <*> <*>
+s6, 1344, getTodayTotalDetailSteps <?> <*>
+s7, 1345, <*>
+s8, 1346, calculateCaloriesWithCache <*>
+s9, 1347, calculateAltitudeWithCache <*>
+s1, 1348, onStandStepChanged <*>
+s2, 1349, <*> <*> <*> <*>
+s6, 1350, getTodayTotalDetailSteps <?> <*>
+s7, 1351, <*>
+s8, 1352, calculateCaloriesWithCache <*>
+s9, 1353, calculateAltitudeWithCache <*>
+s10, 1354, REPORT : <*> <*> <*> <*>
+s1, 1355, onStandStepChanged <*>
+s2, 1356, <*> <*> <*> <*>
+s6, 1357, getTodayTotalDetailSteps <?> <*>
+s7, 1358, <*>
+s8, 1359, calculateCaloriesWithCache <*>
+s9, 1360, calculateAltitudeWithCache <*>
+s10, 1361, REPORT : <*> <*> <*> <*>
+s1, 1362, onStandStepChanged <*>
+s2, 1363, <*> <*> <*> <*>
+s6, 1364, getTodayTotalDetailSteps <?> <*>
+s7, 1365, <*>
+s8, 1366, calculateCaloriesWithCache <*>
+s9, 1367, calculateAltitudeWithCache <*>
+s10, 1368, REPORT : <*> <*> <*> <*>
+s1, 1369, onStandStepChanged <*>
+s2, 1370, <*> <*> <*> <*>
+s6, 1371, getTodayTotalDetailSteps <?> <*>
+s7, 1372, <*>
+s8, 1373, calculateCaloriesWithCache <*>
+s9, 1374, calculateAltitudeWithCache <*>
+s10, 1375, REPORT : <*> <*> <*> <*>
+s1, 1376, onStandStepChanged <*>
+s2, 1377, <*> <*> <*> <*>
+s6, 1378, getTodayTotalDetailSteps <?> <*>
+s7, 1379, <*>
+s8, 1380, calculateCaloriesWithCache <*>
+s9, 1381, calculateAltitudeWithCache <*>
+s10, 1382, REPORT : <*> <*> <*> <*>
+s1, 1383, onStandStepChanged <*>
+s2, 1384, <*> <*> <*> <*>
+s6, 1385, getTodayTotalDetailSteps <?> <*>
+s7, 1386, <*>
+s8, 1387, calculateCaloriesWithCache <*>
+s9, 1388, calculateAltitudeWithCache <*>
+s10, 1389, REPORT : <*> <*> <*> <*>
+s1, 1390, onStandStepChanged <*>
+s2, 1391, <*> <*> <*> <*>
+s6, 1392, getTodayTotalDetailSteps <?> <*>
+s7, 1393, <*>
+s8, 1394, calculateCaloriesWithCache <*>
+s9, 1395, calculateAltitudeWithCache <*>
+s10, 1396, REPORT : <*> <*> <*> <*>
+s1, 1397, onStandStepChanged <*>
+s2, 1398, <*> <*> <*> <*>
+s6, 1399, getTodayTotalDetailSteps <?> <*>
+s7, 1400, <*>
+s8, 1401, calculateCaloriesWithCache <*>
+s9, 1402, calculateAltitudeWithCache <*>
+s10, 1403, REPORT : <*> <*> <*> <*>
+s1, 1404, onStandStepChanged <*>
+s2, 1405, <*> <*> <*> <*>
+s6, 1406, getTodayTotalDetailSteps <?> <*>
+s7, 1407, <*>
+s8, 1408, calculateCaloriesWithCache <*>
+s9, 1409, calculateAltitudeWithCache <*>
+s10, 1410, REPORT : <*> <*> <*> <*>
+s1, 1411, onStandStepChanged <*>
+s2, 1412, <*> <*> <*> <*>
+s6, 1413, getTodayTotalDetailSteps <?> <*>
+s7, 1414, <*>
+s8, 1415, calculateCaloriesWithCache <*>
+s9, 1416, calculateAltitudeWithCache <*>
+s10, 1417, REPORT : <*> <*> <*> <*>
+s1, 1418, onStandStepChanged <*>
+s2, 1419, <*> <*> <*> <*>
+s6, 1420, getTodayTotalDetailSteps <?> <*>
+s7, 1421, <*>
+s8, 1422, calculateCaloriesWithCache <*>
+s9, 1423, calculateAltitudeWithCache <*>
+s10, 1424, REPORT : <*> <*> <*> <*>
+s1, 1425, onStandStepChanged <*>
+s2, 1426, <*> <*> <*> <*>
+s6, 1427, getTodayTotalDetailSteps <?> <*>
+s7, 1428, <*>
+s8, 1429, calculateCaloriesWithCache <*>
+s9, 1430, calculateAltitudeWithCache <*>
+s10, 1431, REPORT : <*> <*> <*> <*>
+s1, 1432, onStandStepChanged <*>
+s2, 1433, <*> <*> <*> <*>
+s6, 1434, getTodayTotalDetailSteps <?> <*>
+s7, 1435, <*>
+s8, 1436, calculateCaloriesWithCache <*>
+s9, 1437, calculateAltitudeWithCache <*>
+s4, 1438, processHandleBroadcastAction <*>
+s4, 1439, processHandleBroadcastAction <*>
+s1, 1440, onStandStepChanged <*>
+s2, 1441, <*> <*> <*> <*>
+s6, 1442, getTodayTotalDetailSteps <?> <*>
+s7, 1443, <*>
+s8, 1444, calculateCaloriesWithCache <*>
+s9, 1445, calculateAltitudeWithCache <*>
+s3, 1446, onReceive action: <*>
+s1, 1447, onStandStepChanged <*>
+s2, 1448, <*> <*> <*> <*>
+s2, 1449, <*> <*> <*> <*>
+s3, 1450, onReceive action: <*>
+s4, 1451, processHandleBroadcastAction <*>
+s5, 1452, flush sensor data
+s6, 1453, getTodayTotalDetailSteps <?> <*>
+s7, 1454, <*>
+s1, 1455, onStandStepChanged <*>
+s8, 1456, calculateCaloriesWithCache <*>
+s9, 1457, calculateAltitudeWithCache <*>
+s10, 1458, REPORT : <*> <*> <*> <*>
+s1, 1459, onStandStepChanged <*>
+s2, 1460, <*> <*> <*> <*>
+s51, 1461, timeStamp <*>
+s6, 1462, getTodayTotalDetailSteps <?> <*>
+s7, 1463, <*>
+s8, 1464, calculateCaloriesWithCache <*>
+s9, 1465, calculateAltitudeWithCache <*>
+s4, 1466, processHandleBroadcastAction <*>
+s1, 1467, onStandStepChanged <*>
+s2, 1468, <*> <*> <*> <*>
+s3, 1469, onReceive action: <*>
+s3, 1470, onReceive action: <*>
+s4, 1471, processHandleBroadcastAction <*>
+s5, 1472, flush sensor data
+s1, 1473, onStandStepChanged <*>
+s6, 1474, getTodayTotalDetailSteps <?> <*>
+s7, 1475, <*>
+s8, 1476, calculateCaloriesWithCache <*>
+s9, 1477, calculateAltitudeWithCache <*>
+s10, 1478, REPORT : <*> <*> <*> <*>
+s1, 1479, onStandStepChanged <*>
+s2, 1480, <*> <*> <*> <*>
+s6, 1481, getTodayTotalDetailSteps <?> <*>
+s7, 1482, <*>
+s8, 1483, calculateCaloriesWithCache <*>
+s9, 1484, calculateAltitudeWithCache <*>
+s4, 1485, processHandleBroadcastAction <*>
+s4, 1486, processHandleBroadcastAction <*>
+s1, 1487, onStandStepChanged <*>
+s2, 1488, <*> <*> <*> <*>
+s6, 1489, getTodayTotalDetailSteps <?> <*>
+s7, 1490, <*>
+s8, 1491, calculateCaloriesWithCache <*>
+s9, 1492, calculateAltitudeWithCache <*>
+s1, 1493, onStandStepChanged <*>
+s2, 1494, <*> <*> <*> <*>
+s6, 1495, getTodayTotalDetailSteps <?> <*>
+s7, 1496, <*>
+s8, 1497, calculateCaloriesWithCache <*>
+s9, 1498, calculateAltitudeWithCache <*>
+s4, 1499, processHandleBroadcastAction <*>
+s4, 1500, processHandleBroadcastAction <*>
+s4, 1501, processHandleBroadcastAction <*>
+s1, 1502, onStandStepChanged <*>
+s2, 1503, <*> <*> <*> <*>
+s6, 1504, getTodayTotalDetailSteps <?> <*>
+s7, 1505, <*>
+s8, 1506, calculateCaloriesWithCache <*>
+s9, 1507, calculateAltitudeWithCache <*>
+s1, 1508, onStandStepChanged <*>
+s2, 1509, <*> <*> <*> <*>
+s6, 1510, getTodayTotalDetailSteps <?> <*>
+s7, 1511, <*>
+s8, 1512, calculateCaloriesWithCache <*>
+s9, 1513, calculateAltitudeWithCache <*>
+s4, 1514, processHandleBroadcastAction <*>
+s4, 1515, processHandleBroadcastAction <*>
+s4, 1516, processHandleBroadcastAction <*>
+s4, 1517, processHandleBroadcastAction <*>
+s4, 1518, processHandleBroadcastAction <*>
+s4, 1519, processHandleBroadcastAction <*>
+s4, 1520, processHandleBroadcastAction <*>
+s1, 1521, onStandStepChanged <*>
+s2, 1522, <*> <*> <*> <*>
+s6, 1523, getTodayTotalDetailSteps <?> <*>
+s7, 1524, <*>
+s8, 1525, calculateCaloriesWithCache <*>
+s9, 1526, calculateAltitudeWithCache <*>
+s1, 1527, onStandStepChanged <*>
+s2, 1528, <*> <*> <*> <*>
+s6, 1529, getTodayTotalDetailSteps <?> <*>
+s7, 1530, <*>
+s8, 1531, calculateCaloriesWithCache <*>
+s9, 1532, calculateAltitudeWithCache <*>
+s4, 1533, processHandleBroadcastAction <*>
+s4, 1534, processHandleBroadcastAction <*>
+s4, 1535, processHandleBroadcastAction <*>
+s52, 1536, startTimer start autoSync
+s37, 1537, startSync hiSyncOption <?> <*> <*> <*> <*> <*> <*> <?> <*> who <?> <*>
+s53, 1538, stepSyncOrNot appSynTimes is <*>
+s38, 1539, needAutoSync autoSyncSwitch is open
+s39, 1540, initDataPrivacy the dataPrivacy switch is open, start push health data!
+s40, 1541, initDataPrivacy the dataPrivacy is <*>
+s41, 1542, initUserPrivacy the userPrivacy switch is open, start push user data!
+s42, 1543, initUserPrivacy the userPrivacy is <*>
+s43, 1544, ifCanSync not! no cloud version
+s44, 1545, sendSyncFailedBroadcast
+s4, 1546, processHandleBroadcastAction <*>
+s4, 1547, processHandleBroadcastAction <*>
+s4, 1548, processHandleBroadcastAction <*>
+s4, 1549, processHandleBroadcastAction <*>
+s4, 1550, processHandleBroadcastAction <*>
+s1, 1551, onStandStepChanged <*>
+s2, 1552, <*> <*> <*> <*>
+s6, 1553, getTodayTotalDetailSteps <?> <*>
+s7, 1554, <*>
+s8, 1555, calculateCaloriesWithCache <*>
+s9, 1556, calculateAltitudeWithCache <*>
+s1, 1557, onStandStepChanged <*>
+s2, 1558, <*> <*> <*> <*>
+s6, 1559, getTodayTotalDetailSteps <?> <*>
+s7, 1560, <*>
+s8, 1561, calculateCaloriesWithCache <*>
+s9, 1562, calculateAltitudeWithCache <*>
+s4, 1563, processHandleBroadcastAction <*>
+s4, 1564, processHandleBroadcastAction <*>
+s4, 1565, processHandleBroadcastAction <*>
+s1, 1566, onStandStepChanged <*>
+s2, 1567, <*> <*> <*> <*>
+s6, 1568, getTodayTotalDetailSteps <?> <*>
+s7, 1569, <*>
+s8, 1570, calculateCaloriesWithCache <*>
+s9, 1571, calculateAltitudeWithCache <*>
+s1, 1572, onStandStepChanged <*>
+s2, 1573, <*> <*> <*> <*>
+s6, 1574, getTodayTotalDetailSteps <?> <*>
+s7, 1575, <*>
+s8, 1576, calculateCaloriesWithCache <*>
+s9, 1577, calculateAltitudeWithCache <*>
+s4, 1578, processHandleBroadcastAction <*>
+s4, 1579, processHandleBroadcastAction <*>
+s1, 1580, onStandStepChanged <*>
+s2, 1581, <*> <*> <*> <*>
+s6, 1582, getTodayTotalDetailSteps <?> <*>
+s7, 1583, <*>
+s8, 1584, calculateCaloriesWithCache <*>
+s9, 1585, calculateAltitudeWithCache <*>
+s4, 1586, processHandleBroadcastAction <*>
+s4, 1587, processHandleBroadcastAction <*>
+s4, 1588, processHandleBroadcastAction <*>
+s4, 1589, processHandleBroadcastAction <*>
+s1, 1590, onStandStepChanged <*>
+s2, 1591, <*> <*> <*> <*>
+s6, 1592, getTodayTotalDetailSteps <?> <*>
+s7, 1593, <*>
+s8, 1594, calculateCaloriesWithCache <*>
+s9, 1595, calculateAltitudeWithCache <*>
+s1, 1596, onStandStepChanged <*>
+s2, 1597, <*> <*> <*> <*>
+s6, 1598, getTodayTotalDetailSteps <?> <*>
+s7, 1599, <*>
+s8, 1600, calculateCaloriesWithCache <*>
+s9, 1601, calculateAltitudeWithCache <*>
+s4, 1602, processHandleBroadcastAction <*>
+s4, 1603, processHandleBroadcastAction <*>
+s4, 1604, processHandleBroadcastAction <*>
+s4, 1605, processHandleBroadcastAction <*>
+s1, 1606, onStandStepChanged <*>
+s2, 1607, <*> <*> <*> <*>
+s6, 1608, getTodayTotalDetailSteps <?> <*>
+s7, 1609, <*>
+s8, 1610, calculateCaloriesWithCache <*>
+s9, 1611, calculateAltitudeWithCache <*>
+s4, 1612, processHandleBroadcastAction <*>
+s4, 1613, processHandleBroadcastAction <*>
+s1, 1614, onStandStepChanged <*>
+s2, 1615, <*> <*> <*> <*>
+s6, 1616, getTodayTotalDetailSteps <?> <*>
+s7, 1617, <*>
+s8, 1618, calculateCaloriesWithCache <*>
+s9, 1619, calculateAltitudeWithCache <*>
+s4, 1620, processHandleBroadcastAction <*>
+s1, 1621, onStandStepChanged <*>
+s2, 1622, <*> <*> <*> <*>
+s6, 1623, getTodayTotalDetailSteps <?> <*>
+s7, 1624, <*>
+s8, 1625, calculateCaloriesWithCache <*>
+s9, 1626, calculateAltitudeWithCache <*>
+s1, 1627, onStandStepChanged <*>
+s2, 1628, <*> <*> <*> <*>
+s6, 1629, getTodayTotalDetailSteps <?> <*>
+s7, 1630, <*>
+s8, 1631, calculateCaloriesWithCache <*>
+s9, 1632, calculateAltitudeWithCache <*>
+s1, 1633, onStandStepChanged <*>
+s2, 1634, <*> <*> <*> <*>
+s6, 1635, getTodayTotalDetailSteps <?> <*>
+s7, 1636, <*>
+s8, 1637, calculateCaloriesWithCache <*>
+s9, 1638, calculateAltitudeWithCache <*>
+s1, 1639, onStandStepChanged <*>
+s2, 1640, <*> <*> <*> <*>
+s6, 1641, getTodayTotalDetailSteps <?> <*>
+s7, 1642, <*>
+s8, 1643, calculateCaloriesWithCache <*>
+s9, 1644, calculateAltitudeWithCache <*>
+s1, 1645, onStandStepChanged <*>
+s2, 1646, <*> <*> <*> <*>
+s6, 1647, getTodayTotalDetailSteps <?> <*>
+s7, 1648, <*>
+s8, 1649, calculateCaloriesWithCache <*>
+s9, 1650, calculateAltitudeWithCache <*>
+s1, 1651, onStandStepChanged <*>
+s2, 1652, <*> <*> <*> <*>
+s6, 1653, getTodayTotalDetailSteps <?> <*>
+s7, 1654, <*>
+s8, 1655, calculateCaloriesWithCache <*>
+s9, 1656, calculateAltitudeWithCache <*>
+s1, 1657, onStandStepChanged <*>
+s2, 1658, <*> <*> <*> <*>
+s6, 1659, getTodayTotalDetailSteps <?> <*>
+s7, 1660, <*>
+s8, 1661, calculateCaloriesWithCache <*>
+s9, 1662, calculateAltitudeWithCache <*>
+s1, 1663, onStandStepChanged <*>
+s2, 1664, <*> <*> <*> <*>
+s6, 1665, getTodayTotalDetailSteps <?> <*>
+s7, 1666, <*>
+s8, 1667, calculateCaloriesWithCache <*>
+s9, 1668, calculateAltitudeWithCache <*>
+s1, 1669, onStandStepChanged <*>
+s2, 1670, <*> <*> <*> <*>
+s6, 1671, getTodayTotalDetailSteps <?> <*>
+s7, 1672, <*>
+s8, 1673, calculateCaloriesWithCache <*>
+s9, 1674, calculateAltitudeWithCache <*>
+s4, 1675, processHandleBroadcastAction <*>
+s1, 1676, onStandStepChanged <*>
+s2, 1677, <*> <*> <*> <*>
+s6, 1678, getTodayTotalDetailSteps <?> <*>
+s7, 1679, <*>
+s8, 1680, calculateCaloriesWithCache <*>
+s9, 1681, calculateAltitudeWithCache <*>
+s1, 1682, onStandStepChanged <*>
+s2, 1683, <*> <*> <*> <*>
+s6, 1684, getTodayTotalDetailSteps <?> <*>
+s7, 1685, <*>
+s8, 1686, calculateCaloriesWithCache <*>
+s9, 1687, calculateAltitudeWithCache <*>
+s1, 1688, onStandStepChanged <*>
+s2, 1689, <*> <*> <*> <*>
+s6, 1690, getTodayTotalDetailSteps <?> <*>
+s7, 1691, <*>
+s8, 1692, calculateCaloriesWithCache <*>
+s9, 1693, calculateAltitudeWithCache <*>
+s1, 1694, onStandStepChanged <*>
+s2, 1695, <*> <*> <*> <*>
+s6, 1696, getTodayTotalDetailSteps <?> <*>
+s7, 1697, <*>
+s8, 1698, calculateCaloriesWithCache <*>
+s9, 1699, calculateAltitudeWithCache <*>
+s1, 1700, onStandStepChanged <*>
+s2, 1701, <*> <*> <*> <*>
+s6, 1702, getTodayTotalDetailSteps <?> <*>
+s7, 1703, <*>
+s8, 1704, calculateCaloriesWithCache <*>
+s9, 1705, calculateAltitudeWithCache <*>
+s1, 1706, onStandStepChanged <*>
+s2, 1707, <*> <*> <*> <*>
+s6, 1708, getTodayTotalDetailSteps <?> <*>
+s7, 1709, <*>
+s8, 1710, calculateCaloriesWithCache <*>
+s9, 1711, calculateAltitudeWithCache <*>
+s1, 1712, onStandStepChanged <*>
+s2, 1713, <*> <*> <*> <*>
+s6, 1714, getTodayTotalDetailSteps <?> <*>
+s7, 1715, <*>
+s8, 1716, calculateCaloriesWithCache <*>
+s9, 1717, calculateAltitudeWithCache <*>
+s1, 1718, onStandStepChanged <*>
+s2, 1719, <*> <*> <*> <*>
+s6, 1720, getTodayTotalDetailSteps <?> <*>
+s7, 1721, <*>
+s8, 1722, calculateCaloriesWithCache <*>
+s9, 1723, calculateAltitudeWithCache <*>
+s4, 1724, processHandleBroadcastAction <*>
+s1, 1725, onStandStepChanged <*>
+s2, 1726, <*> <*> <*> <*>
+s6, 1727, getTodayTotalDetailSteps <?> <*>
+s7, 1728, <*>
+s8, 1729, calculateCaloriesWithCache <*>
+s9, 1730, calculateAltitudeWithCache <*>
+s1, 1731, onStandStepChanged <*>
+s2, 1732, <*> <*> <*> <*>
+s6, 1733, getTodayTotalDetailSteps <?> <*>
+s7, 1734, <*>
+s8, 1735, calculateCaloriesWithCache <*>
+s9, 1736, calculateAltitudeWithCache <*>
+s4, 1737, processHandleBroadcastAction <*>
+s1, 1738, onStandStepChanged <*>
+s2, 1739, <*> <*> <*> <*>
+s6, 1740, getTodayTotalDetailSteps <?> <*>
+s7, 1741, <*>
+s8, 1742, calculateCaloriesWithCache <*>
+s9, 1743, calculateAltitudeWithCache <*>
+s1, 1744, onStandStepChanged <*>
+s2, 1745, <*> <*> <*> <*>
+s6, 1746, getTodayTotalDetailSteps <?> <*>
+s7, 1747, <*>
+s8, 1748, calculateCaloriesWithCache <*>
+s9, 1749, calculateAltitudeWithCache <*>
+s1, 1750, onStandStepChanged <*>
+s2, 1751, <*> <*> <*> <*>
+s6, 1752, getTodayTotalDetailSteps <?> <*>
+s7, 1753, <*>
+s8, 1754, calculateCaloriesWithCache <*>
+s9, 1755, calculateAltitudeWithCache <*>
+s1, 1756, onStandStepChanged <*>
+s2, 1757, <*> <*> <*> <*>
+s6, 1758, getTodayTotalDetailSteps <?> <*>
+s7, 1759, <*>
+s8, 1760, calculateCaloriesWithCache <*>
+s9, 1761, calculateAltitudeWithCache <*>
+s4, 1762, processHandleBroadcastAction <*>
+s1, 1763, onStandStepChanged <*>
+s2, 1764, <*> <*> <*> <*>
+s6, 1765, getTodayTotalDetailSteps <?> <*>
+s7, 1766, <*>
+s8, 1767, calculateCaloriesWithCache <*>
+s9, 1768, calculateAltitudeWithCache <*>
+s1, 1769, onStandStepChanged <*>
+s2, 1770, <*> <*> <*> <*>
+s6, 1771, getTodayTotalDetailSteps <?> <*>
+s7, 1772, <*>
+s8, 1773, calculateCaloriesWithCache <*>
+s9, 1774, calculateAltitudeWithCache <*>
+s4, 1775, processHandleBroadcastAction <*>
+s4, 1776, processHandleBroadcastAction <*>
+s4, 1777, processHandleBroadcastAction <*>
+s55, 1778, theDayChanged <*>
+s56, 1779, initEnviroument
+s57, 1780, getStepCounterStatus
+s58, 1781, <?> <*>
+s59, 1782, reStartStepCounter
+s1, 1783, onStandStepChanged <*>
+s60, 1784, registersensorsuccess: <*>
+s61, 1785, clear()
+s62, 1786, <?> <*>
+s63, 1787, tryToRecordAsBasicStepData bWrite <*>
+s64, 1788, <?> <*>
+s65, 1789, setBasicStandardSteps <*> <*>
+s66, 1790, <*>
+s6, 1791, getTodayTotalDetailSteps <?> <*>
+s62, 1792, <?> <*>
+s64, 1793, <?> <*>
+s67, 1794, <*>
+s68, 1795, reload : <*> restar <*>
+s6, 1796, getTodayTotalDetailSteps <?> <*>
+s7, 1797, <*>
+s8, 1798, calculateCaloriesWithCache <*>
+s9, 1799, calculateAltitudeWithCache <*>
+s10, 1800, REPORT : <*> <*> <*> <*>
+s69, 1801, next <*>
+s70, 1802, setGoalNotifiShownRecord <*> <*>
+s71, 1803, <*>
+s72, 1804, deleteHealthNotification()
+s1, 1805, onStandStepChanged <*>
+s2, 1806, <*> <*> <*> <*>
+s6, 1807, getTodayTotalDetailSteps <?> <*>
+s7, 1808, <*>
+s8, 1809, calculateCaloriesWithCache <*>
+s9, 1810, calculateAltitudeWithCache <*>
+s1, 1811, onStandStepChanged <*>
+s2, 1812, <*> <*> <*> <*>
+s6, 1813, getTodayTotalDetailSteps <?> <*>
+s7, 1814, <*>
+s8, 1815, calculateCaloriesWithCache <*>
+s9, 1816, calculateAltitudeWithCache <*>
+s1, 1817, onStandStepChanged <*>
+s2, 1818, <*> <*> <*> <*>
+s6, 1819, getTodayTotalDetailSteps <?> <*>
+s7, 1820, <*>
+s8, 1821, calculateCaloriesWithCache <*>
+s9, 1822, calculateAltitudeWithCache <*>
+s4, 1823, processHandleBroadcastAction <*>
+s4, 1824, processHandleBroadcastAction <*>
+s4, 1825, processHandleBroadcastAction <*>
+s4, 1826, processHandleBroadcastAction <*>
+s4, 1827, processHandleBroadcastAction <*>
+s1, 1828, onStandStepChanged <*>
+s2, 1829, <*> <*> <*> <*>
+s6, 1830, getTodayTotalDetailSteps <?> <*>
+s7, 1831, <*>
+s8, 1832, calculateCaloriesWithCache <*>
+s9, 1833, calculateAltitudeWithCache <*>
+s4, 1834, processHandleBroadcastAction <*>
+s1, 1835, onStandStepChanged <*>
+s2, 1836, <*> <*> <*> <*>
+s6, 1837, getTodayTotalDetailSteps <?> <*>
+s7, 1838, <*>
+s8, 1839, calculateCaloriesWithCache <*>
+s9, 1840, calculateAltitudeWithCache <*>
+s4, 1841, processHandleBroadcastAction <*>
+s1, 1842, onStandStepChanged <*>
+s2, 1843, <*> <*> <*> <*>
+s6, 1844, getTodayTotalDetailSteps <?> <*>
+s7, 1845, <*>
+s8, 1846, calculateCaloriesWithCache <*>
+s9, 1847, calculateAltitudeWithCache <*>
+s1, 1848, onStandStepChanged <*>
+s2, 1849, <*> <*> <*> <*>
+s6, 1850, getTodayTotalDetailSteps <?> <*>
+s7, 1851, <*>
+s8, 1852, calculateCaloriesWithCache <*>
+s9, 1853, calculateAltitudeWithCache <*>
+s1, 1854, onStandStepChanged <*>
+s2, 1855, <*> <*> <*> <*>
+s6, 1856, getTodayTotalDetailSteps <?> <*>
+s7, 1857, <*>
+s8, 1858, calculateCaloriesWithCache <*>
+s9, 1859, calculateAltitudeWithCache <*>
+s1, 1860, onStandStepChanged <*>
+s2, 1861, <*> <*> <*> <*>
+s6, 1862, getTodayTotalDetailSteps <?> <*>
+s7, 1863, <*>
+s8, 1864, calculateCaloriesWithCache <*>
+s9, 1865, calculateAltitudeWithCache <*>
+s4, 1866, processHandleBroadcastAction <*>
+s4, 1867, processHandleBroadcastAction <*>
+s1, 1868, onStandStepChanged <*>
+s2, 1869, <*> <*> <*> <*>
+s6, 1870, getTodayTotalDetailSteps <?> <*>
+s7, 1871, <*>
+s8, 1872, calculateCaloriesWithCache <*>
+s9, 1873, calculateAltitudeWithCache <*>
+s1, 1874, onStandStepChanged <*>
+s2, 1875, <*> <*> <*> <*>
+s6, 1876, getTodayTotalDetailSteps <?> <*>
+s7, 1877, <*>
+s8, 1878, calculateCaloriesWithCache <*>
+s9, 1879, calculateAltitudeWithCache <*>
+s1, 1880, onStandStepChanged <*>
+s2, 1881, <*> <*> <*> <*>
+s6, 1882, getTodayTotalDetailSteps <?> <*>
+s7, 1883, <*>
+s8, 1884, calculateCaloriesWithCache <*>
+s9, 1885, calculateAltitudeWithCache <*>
+s1, 1886, onStandStepChanged <*>
+s2, 1887, <*> <*> <*> <*>
+s6, 1888, getTodayTotalDetailSteps <?> <*>
+s7, 1889, <*>
+s8, 1890, calculateCaloriesWithCache <*>
+s9, 1891, calculateAltitudeWithCache <*>
+s4, 1892, processHandleBroadcastAction <*>
+s1, 1893, onStandStepChanged <*>
+s2, 1894, <*> <*> <*> <*>
+s6, 1895, getTodayTotalDetailSteps <?> <*>
+s7, 1896, <*>
+s8, 1897, calculateCaloriesWithCache <*>
+s9, 1898, calculateAltitudeWithCache <*>
+s1, 1899, onStandStepChanged <*>
+s2, 1900, <*> <*> <*> <*>
+s6, 1901, getTodayTotalDetailSteps <?> <*>
+s7, 1902, <*>
+s8, 1903, calculateCaloriesWithCache <*>
+s9, 1904, calculateAltitudeWithCache <*>
+s1, 1905, onStandStepChanged <*>
+s2, 1906, <*> <*> <*> <*>
+s6, 1907, getTodayTotalDetailSteps <?> <*>
+s7, 1908, <*>
+s8, 1909, calculateCaloriesWithCache <*>
+s9, 1910, calculateAltitudeWithCache <*>
+s1, 1911, onStandStepChanged <*>
+s2, 1912, <*> <*> <*> <*>
+s6, 1913, getTodayTotalDetailSteps <?> <*>
+s7, 1914, <*>
+s8, 1915, calculateCaloriesWithCache <*>
+s9, 1916, calculateAltitudeWithCache <*>
+s4, 1917, processHandleBroadcastAction <*>
+s1, 1918, onStandStepChanged <*>
+s2, 1919, <*> <*> <*> <*>
+s6, 1920, getTodayTotalDetailSteps <?> <*>
+s7, 1921, <*>
+s8, 1922, calculateCaloriesWithCache <*>
+s9, 1923, calculateAltitudeWithCache <*>
+s1, 1924, onStandStepChanged <*>
+s2, 1925, <*> <*> <*> <*>
+s6, 1926, getTodayTotalDetailSteps <?> <*>
+s7, 1927, <*>
+s8, 1928, calculateCaloriesWithCache <*>
+s9, 1929, calculateAltitudeWithCache <*>
+s4, 1930, processHandleBroadcastAction <*>
+s4, 1931, processHandleBroadcastAction <*>
+s4, 1932, processHandleBroadcastAction <*>
+s4, 1933, processHandleBroadcastAction <*>
+s1, 1934, onStandStepChanged <*>
+s2, 1935, <*> <*> <*> <*>
+s6, 1936, getTodayTotalDetailSteps <?> <*>
+s7, 1937, <*>
+s8, 1938, calculateCaloriesWithCache <*>
+s9, 1939, calculateAltitudeWithCache <*>
+s4, 1940, processHandleBroadcastAction <*>
+s4, 1941, processHandleBroadcastAction <*>
+s4, 1942, processHandleBroadcastAction <*>
+s4, 1943, processHandleBroadcastAction <*>
+s4, 1944, processHandleBroadcastAction <*>
+s4, 1945, processHandleBroadcastAction <*>
+s4, 1946, processHandleBroadcastAction <*>
+s4, 1947, processHandleBroadcastAction <*>
+s4, 1948, processHandleBroadcastAction <*>
+s4, 1949, processHandleBroadcastAction <*>
+s1, 1950, onStandStepChanged <*>
+s2, 1951, <*> <*> <*> <*>
+s6, 1952, getTodayTotalDetailSteps <?> <*>
+s7, 1953, <*>
+s8, 1954, calculateCaloriesWithCache <*>
+s9, 1955, calculateAltitudeWithCache <*>
+s1, 1956, onStandStepChanged <*>
+s2, 1957, <*> <*> <*> <*>
+s6, 1958, getTodayTotalDetailSteps <?> <*>
+s7, 1959, <*>
+s8, 1960, calculateCaloriesWithCache <*>
+s9, 1961, calculateAltitudeWithCache <*>
+s4, 1962, processHandleBroadcastAction <*>
+s4, 1963, processHandleBroadcastAction <*>
+s4, 1964, processHandleBroadcastAction <*>
+s1, 1965, onStandStepChanged <*>
+s2, 1966, <*> <*> <*> <*>
+s6, 1967, getTodayTotalDetailSteps <?> <*>
+s7, 1968, <*>
+s8, 1969, calculateCaloriesWithCache <*>
+s9, 1970, calculateAltitudeWithCache <*>
+s3, 1971, onReceive action: <*>
+s4, 1972, processHandleBroadcastAction <*>
+s52, 1973, startTimer start autoSync
+s37, 1974, startSync hiSyncOption <?> <*> <*> <*> <*> <*> <*> <?> <*> who <?> <*>
+s73, 1975, checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is <*> oldDay is <*>
+s53, 1976, stepSyncOrNot appSynTimes is <*>
+s38, 1977, needAutoSync autoSyncSwitch is open
+s39, 1978, initDataPrivacy the dataPrivacy switch is open, start push health data!
+s40, 1979, initDataPrivacy the dataPrivacy is <*>
+s41, 1980, initUserPrivacy the userPrivacy switch is open, start push user data!
+s42, 1981, initUserPrivacy the userPrivacy is <*>
+s43, 1982, ifCanSync not! no cloud version
+s44, 1983, sendSyncFailedBroadcast
+s4, 1984, processHandleBroadcastAction <*>
+s4, 1985, processHandleBroadcastAction <*>
+s4, 1986, processHandleBroadcastAction <*>
+s4, 1987, processHandleBroadcastAction <*>
+s4, 1988, processHandleBroadcastAction <*>
+s4, 1989, processHandleBroadcastAction <*>
+s4, 1990, processHandleBroadcastAction <*>
+s4, 1991, processHandleBroadcastAction <*>
+s4, 1992, processHandleBroadcastAction <*>
+s4, 1993, processHandleBroadcastAction <*>
+s4, 1994, processHandleBroadcastAction <*>
+s4, 1995, processHandleBroadcastAction <*>
+s4, 1996, processHandleBroadcastAction <*>
+s4, 1997, processHandleBroadcastAction <*>
+s4, 1998, processHandleBroadcastAction <*>
+s4, 1999, processHandleBroadcastAction <*>
+s4, 2000, processHandleBroadcastAction <*>

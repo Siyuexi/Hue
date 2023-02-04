@@ -1,0 +1,3 @@
+symbol: s64
+template: Submit MapReduce Job: <*> <?> <*> jar <*> HiBench.DataGen <?> pagerank <?> <*> <?> Input <?> <*> <?> <*> <?> <*> <?> <?> <?> text
+2900,/usr/hdp/3.0.1.0-187/hadoop/bin/hadoop,--config,/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop,/home/team7/HiBench3/autogen/target/autogen-8.0-SNAPSHOT-jar-with-dependencies.jar,-t,-b,hdfs://cuhkcluster/dataspace/team7/HiBench/Pagerank,-n,-m,1,-r,1,-p,50,-pbalance,-pbalance,-o,

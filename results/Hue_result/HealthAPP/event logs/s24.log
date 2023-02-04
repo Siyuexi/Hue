@@ -1,0 +1,4 @@
+symbol: s24
+template: saveHealthDetailData() saveOneDetailData fail hiHealthData <?> <*> <?> <*>
+722,=,1513958400000,type,=,40003,
+725,=,1513958400000,type,=,40005,

@@ -1,0 +1,4 @@
+symbol: s9
+template: SQM: Failed to start upload with file pattern: <*> flags: <*> <?> <*> E_FAIL]
+11,C:\Windows\servicing\sqm\*_std.sqm,,0x2,[HRESULT,=,0x80004005,
+965,C:\Windows\servicing\sqm\*_std.sqm,,0x2,[HRESULT,=,0x80004005,

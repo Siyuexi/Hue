@@ -1,0 +1,5 @@
+symbol: s12
+template: Disconnecting: Too many authentication failures for <*> [preauth]
+31,root,
+286,root,
+1001,admin,

@@ -1,0 +1,4 @@
+symbol: s89
+template: <*> e1000_probe: Intel(R) <*> Network Connection
+1306,eth0:,PRO/1000,
+1308,eth1:,PRO/1000,

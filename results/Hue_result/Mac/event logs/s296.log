@@ -1,0 +1,3 @@
+symbol: s296
+template: <?> notifyChanges:toListWithIdentifier:] Notified of item changes to list with identifier <*>
+1402,-[SFLListManager(ServiceReplyProtocol),com.apple.LSSharedFileList.RecentApplications,

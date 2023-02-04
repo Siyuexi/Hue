@@ -1,0 +1,12 @@
+symbol: m4
+identifier: display clock Time Zone(DefaultZoneName): UTC
+31,
+|| display clock
+||2011-05-13 15:00:13
+||Tuesday
+||Time Zone(DefaultZoneName): UTC
+922,
+|| display clock
+||2012-05-13 15:00:13
+||Tuesday
+||Time Zone(DefaultZoneName): UTC

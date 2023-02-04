@@ -1,0 +1,6 @@
+symbol: s124
+template: registered new driver <*>
+1356,hiddev,
+1357,hub,
+1358,usbfs,
+1359,usbhid,

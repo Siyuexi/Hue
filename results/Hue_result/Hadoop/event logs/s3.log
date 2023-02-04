@@ -1,0 +1,3 @@
+symbol: s3
+template: Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: <*> cluster_timestamp: <*> } attemptId: <*> } keyId: <*>
+3,20,1445144423722,1,-127633188),

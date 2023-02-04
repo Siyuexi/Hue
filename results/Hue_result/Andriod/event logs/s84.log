@@ -1,0 +1,4 @@
+symbol: s84
+template: cancelNotificationLocked\, remove <*>
+233,cancelNotificationLocked,remove,=com.tencent.mobileqq,
+1471,cancelNotificationLocked,remove,=com.tencent.mobileqq,

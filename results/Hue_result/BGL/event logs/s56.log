@@ -1,0 +1,3 @@
+symbol: s56
+template: rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, <*> <*> <*> <*>
+1030,type=42315,,cpu=105,,index=1207960804,,total=2691015,

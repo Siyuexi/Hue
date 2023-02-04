@@ -1,0 +1,3 @@
+symbol: s139
+template: new Process <?> <*> name: <*> euid: <*>
+1025,app=ProcessRecord{6eaaf00,0:com.tencent.mobileqq:qzone/u0a111},,com.tencent.mobileqq:qzone,,0,

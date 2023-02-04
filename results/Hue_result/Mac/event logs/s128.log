@@ -1,0 +1,11 @@
+symbol: s128
+template: in6_unlink_ifa: IPv6 address <*> no prefix
+304,0x77c9114551ab23ab,has,no,
+385,0x77c9114551ab225b,has,no,
+1453,0x77c911454f1523ab,has,no,
+1494,0x77c911454f152b8b,has,no,
+1513,0x77c911453a6db3ab,has,no,
+1728,0x77c911453a6dbcdb,has,no,
+1791,0x77c911454f15210b,has,no,
+1913,0x77c911454f1523ab,has,no,
+1951,0x77c911454f1528eb,has,no,

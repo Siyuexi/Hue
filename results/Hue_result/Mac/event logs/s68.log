@@ -1,0 +1,10 @@
+symbol: s68
+template: [HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host <*>
+127,(0x01),
+905,(0x01),
+1003,(0x01),
+1163,(0x01),
+1390,(0x01),
+1530,(0x01),
+1608,(0x01),
+1841,(0x01),

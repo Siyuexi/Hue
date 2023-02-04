@@ -1,0 +1,6 @@
+symbol: s37
+template: LAPIC_NMI <*> edge <*>
+1201,(acpi_id[0x01],high,edge,
+1202,(acpi_id[0x02],high,edge,
+1203,(acpi_id[0x03],high,edge,
+1204,(acpi_id[0x04],high,edge,

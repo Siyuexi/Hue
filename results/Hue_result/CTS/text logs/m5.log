@@ -1,0 +1,16 @@
+symbol: m5
+identifier: display patch verbose <?> <?> <?>
+92,-,-,-,
+|| display patch verbose
+||Info: No patch exists.
+||The current state is: Idle
+||Board Info:
+||Slot-id PatchType Count
+||-       -        -
+983,-,-,-,
+|| display patch verbose
+||Info: No patch exists.
+||The current state is: Idle
+||Board Info:
+||Slot-id PatchType Count
+||-       -        -

@@ -1,0 +1,5 @@
+symbol: s5
+template: <*> error : Could not connect through proxy <*> <?> Proxy closed the connection unexpectedly.
+254,tcpconn4.tencent.com:80,proxy.cse.cuhk.edu.hk:5070,-,
+482,86.99.222.235:443,proxy.cse.cuhk.edu.hk:5070,-,
+1744,config.pinyin.sogou.com:80,proxy.cse.cuhk.edu.hk:5070,-,

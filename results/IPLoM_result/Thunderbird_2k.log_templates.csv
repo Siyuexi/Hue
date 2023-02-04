@@ -1,0 +1,143 @@
+EventId,EventTemplate,Occurrences
+0d5ddf5d,PCI Interrupt Link <*> (IRQs 3 4 5 6 7 10 11 12) <*>,2
+e11557b0,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd) illegal attempt to update using time 1131559854 when last update time is 1131559854 (minimum one second step),1
+f64bd41d,RRD_update <*> <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step),10
+33a9b242,<*> to root ctladdr root (0/0) delay 00 00 <*> xdelay 00 00 00 mailer relay pri <*> relay [] [] dsn 4.0.0 stat Deferred Connection refused by [],10
+7f533fb9,Initializing.,1
+84d10a1e,initialized,1
+f36e8103,passed.,1
+9b1751bd,succeeded,2
+836ea819,Subsystem revision 20040816,1
+9209dd1f,L2 cache 2048K,5
+b6d701a5,colour VGA+ 80x25,1
+b79ffc59,Disabled at runtime.,1
+1f178134,<*> netfilter hooks,2
+75765837,Disk quotas dquot_6.5.1,1
+1d7c8312,RNG not detected,1
+cd2a6bd5,... autorun DONE.,2
+953a8d97,Autodetecting RAID arrays.,2
+ceae4977,<*> <*> succeeded,6
+8c112e82,Version 1.0.6 Starting,1
+3735007d,"connection from ""#28#""",2
+5947eee3,(root) CMD <*> <*>,19
+4c79fc5a,synchronized to stratum 3,566
+40d5b8a0,connection lost 'Connection closed.',3
+d89e5477,time reset +0.182379 s,1
+61ddf178,(supports S0 S4 S5),1
+8c51f196,IRQ0 used by override.,1
+b9228d7a,IRQ2 used by override.,1
+35b10d5b,IRQ9 used by override.,1
+460b8859,LAPIC <*> <*> enabled),4
+04ea23b0,Power Button (FF) [PWRF],1
+712fbe4d,Processor <*> (supports C1),4
+9beef13e,Physical Processor ID <*>,5
+c47c3599,Registered protocol family <*>,5
+25ea518d,Starting in permissive mode,1
+13481907,Mounted root (ext2 filesystem).,1
+8bd4b5f8,initializing netlink socket (disabled),1
+45b6b5d3,4.1.0-ioctl (2003-12-10) initialised #36#@#37#,1
+b3dc57c4,allocating divert_blk for <*>,2
+16483862,no floppy controllers found,1
+bfcd95ed,Installing public key data,1
+7f146802,LSI Logic MegaRAID driver,1
+a48a4202,sda1 sda2 sda3 sda4,1
+30c0ff51,Registering secondary module capability,1
+c648b2ba,syslog-ng version 1.6.7 starting,1
+2db65c57,Detected 3591.360 MHz processor.,1
+f3719837,Creating Topspin /dev entries,1
+a4430800,registered new driver <*>,4
+34bcee67,Mounting <*> filesystems <*>,2
+2bf8498f,[ib_sm_sweep.c 1455] No topology change,62
+98327d24,START tftp pid 16563 from,1
+99132f5d,kernel time sync <*> <*>,2
+4d20657c,Received SNMP packet(s) from #34#,1
+379c7ff3,synchronized to LOCAL(0) stratum 10,1
+92c26d99,synchronized to #3# stratum 1,1
+3956ae6c,CentOS-4 (Kernel Module GPG key),1
+8a76d1d5,HPET id 0xffffffff base 0xfed00000,1
+2bd14d50,LAPIC_NMI <*> high edge lint[0x1]),4
+f3156356,PCI Interrupt Routing Table <*>,10
+7a555835,Probing PCI hardware (bus 00),1
+7abd32d6,<*> ANSI SCSI revision 02,2
+5d886ebe,v2.0 USB HID core driver,1
+a56daf2e,(C) 2000-2002 Netfilter core team,4
+c3fac8e7,Using 14.318180 MHz HPET timer.,1
+27f8ed3a,Started working 1 available service,1
+357c4d1d,PCI Root Bridge [PCI0] (00 00),1
+7be80732,RSDP (v000 DELL ) @ 0x00000000000fd650,1
+6be61616,Intel(R) Xeon(TM) CPU 3.60GHz stepping 03,1
+a0162353,mounted filesystem with ordered data mode.,3
+96212a59,Transparent bridge - 0000 00 1e.0,1
+91f4af36,Compressed image found at block 0,1
+396b4d2c,eth0 e1000_probe Intel(R) PRO/1000 Network Connection,1
+2479393d,eth1 e1000_probe Intel(R) PRO/1000 Network Connection,1
+24e7d883,fw version [516A] bios version [H418],1
+25955d57,User #29# coming from #30# authenticated.,2
+79af7456,Changing permissions on special file /dev/logsurfer,1
+53d24910,PCI Hot Plug PCI Core version 0.5,1
+f927eeab,Using software bounce buffering for IO (SWIOTLB),1
+c87fe378,Hash tables configured (established 262144 bind 65536),1
+fdaf892f,PE/PV Model 1x2 SCSI BP Rev 1.0,1
+cafdce56,not allocating divert_blk for non-ethernet device <*>,2
+279d4fa2,Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda,1
+15a567ba,md driver 0.90.0 MAX_MD_DEVS 256 MD_SB_DISKS 27,1
+a2351676,PS/2 mouse device common for all mice,1
+a195237a,session opened for user root by (uid 0),19
+6391d957,data_thread() got not answer from any <*> datasource,819
+e38c36ca,Trace cache 12K uops L1 D cache 16K,5
+9f20fda3,apic_id <*> version 32 address <*> GSI <*>,3
+3cfa1852,routing cache hash table of 65536 buckets 1024Kbytes,1
+6569eb7b,MegaRAID Model LD 0 RAID1 139G Rev 516A,1
+e7fc75d3,scanning scsi channel 1 [virtual] for logical drives,1
+054a8df4,i8042 <*> port at 0x60 0x64 irq <*>,2
+182a3d2f,My unqualified host name <*> unknown; sleeping for retry,5
+6101631b,INT_SRC_OVR (bus 0 bus_irq <*> global_irq <*> <*> <*>,2
+9460c3d1,scanning scsi channel 0 [Phy 0] for non-raid devices,1
+b1810386,Reading included configuration file <*> [file <*> [line <*>,17
+03821598,DHCPDISCOVER from 00 11 43 e3 ba c3 via eth1,5
+043fe8bf,<*> (v001 DELL PE BKC 0x00000001 MSFT <*> @ <*>,7
+a53b636c,sys_ia32.c v 1.32 2002/03/24 13 02 28 ak Exp $,1
+9800a9e7,eth0 e1000_watchdog NIC Link is Up 1000 Mbps Full Duplex,1
+8befabdf,Warning we failed to resolve trusted host name dadmin3 dadmin4,1
+3f023526,xinetd Version 2.3.13 started with libwrap loadavg options compiled in.,1
+19ff83bc,Warning we failed to resolve data source name dadmin2 dadmin3 dadmin4,1
+712394d8,Cannot open file /dev/logsurfer for writing (No such file or directory),1
+fadd4d28,unable to qualify my own domain name <*> -- using short name,10
+266186b3,DHCPREQUEST for () from 00 11 43 e3 ba c3 via eth1,3
+14af6eeb,Assuming 33MHz system bus speed for PIO modes; override with idebus xx,1
+6318b4d0,Device /dev/sda Temperature changed -2 Celsius to 26 Celsius since last report,1
+513163e0,<*> from root size <*> class 0 nrcpts 1 msgid <*> relay #7#@localhost,10
+5d2be451,PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 10 *11 12),1
+5c318951,PCI interrupt 0000 <*> <*> -> GSI <*> (level low) -> IRQ <*>,11
+04d1d857,root LABEL / initrd /x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console tty0 console ttyS0 19200 fastboot BOOT_IMAGE /x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr,1
+a08b7537,probe new device 0x1028 0x0013 0x1028 0x016c bus 2 slot 14 func 0,1
+06803475,DHCPDISCOVER from 00 11 43 e3 ba c3 via eth1 network A_net no free leases,15
+43562fc0,DHCPREQUEST for () from 00 11 43 e3 ba c3 via eth1 unknown lease .,9
+75a3d28d,PCI Interrupt Link <*> (IRQs 3 4 5 6 7 10 11 12) *0 disabled.,5
+59b8144e,Warning we failed to resolve data source name <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,33
+2188fc64,Interpreter enabled,1
+7ce70afa,autorun ...,2
+491b5cf3,v2.0 (20020519),1
+49f6bba5,removing <*>,16
+4660e6df,Local disconnected Connection closed.,3
+a9781187,Local APIC address 0xfee00000,1
+657e921e,IOAPIC (id[0x08] address[0xfec00000] gsi_base[0]),1
+7c08ee8a,IOAPIC (id[0x09] address[0xfec80000] gsi_base[32]),1
+b82099c6,IOAPIC (id[0x0a] address[0xfec83000] gsi_base[64]),1
+a60bce0b,Using MMCONFIG at e0000000,1
+a3b3ca94,Using configuration type 1,1
+e8ca34b7,Using HPET based timekeeping.,1
+3be46d32,session closed for user root,24
+ff635931,Using <*> for <*> routing,2
+6a604788,asking for cache data failed,1
+b7bd2f09,assuming drive cache write through,1
+b42be2bb,Now running on #29#'s privileges.,2
+88dd85e3,Server listening on port 22.,1
+a9a34d6c,[ib_sm_sweep.c 1831] ********************** NEW SWEEP ********************,62
+535ebc6d,[ib_sm_sweep.c 1482] No configuration change required,62
+708630cc,Wait for ready failed before probe !,6
+2752726e,probe of vesafb0 failed with error -6,1
+64e7f550,<*> on to 00 11 43 e3 ba c3 via eth1,8
+7c71a84c,error Bind to port 22 on failed Address already in use.,1
+715de97e,#38#-rh1 (Release Date Fri Dec 10 19 02 14 EST 2004),1
+153e5080,#39# (Release Date Mon Sep 27 22 15 07 EDT 2004),1

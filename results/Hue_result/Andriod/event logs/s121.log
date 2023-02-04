@@ -1,0 +1,8 @@
+symbol: s121
+template: stopWifiDisplayScanLocked <*>
+420,mWifiDisplayScanRequestCount=0,
+787,mWifiDisplayScanRequestCount=0,
+792,mWifiDisplayScanRequestCount=0,
+797,mWifiDisplayScanRequestCount=0,
+1008,mWifiDisplayScanRequestCount=0,
+1185,mWifiDisplayScanRequestCount=0,

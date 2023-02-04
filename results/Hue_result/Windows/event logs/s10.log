@@ -1,0 +1,4 @@
+symbol: s10
+template: SQM: Failed to start standard sample upload. [HRESULT <?> <*> E_FAIL]
+12,=,0x80004005,-,
+966,=,0x80004005,-,

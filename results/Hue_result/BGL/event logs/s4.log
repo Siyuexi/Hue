@@ -1,0 +1,5 @@
+symbol: s4
+template: ciod: failed to read message prefix on control stream (CioStream socket to <*>
+9,172.16.96.116:33569,
+10,172.16.96.116:33370,
+346,172.16.96.116:51706,

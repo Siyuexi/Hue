@@ -1,0 +1,28 @@
+EventId,EventTemplate,Occurrences
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+9302fad4,Invalid user <*> from <*>,113
+7f975a55,input_userauth_request invalid user <*> [preauth],113
+f9422447,pam_unix(sshd auth) check pass; user unknown,135
+290b1093,pam_unix(sshd auth) authentication failure; logname uid 0 euid 0 tty ssh ruser rhost <*>,494
+21bb6d0e,Failed password for invalid user <*> from <*> port <*> ssh2,135
+2491ca3e,Connection closed by <*> [preauth],34
+0d962896,Received disconnect from <*> 11 Bye Bye [preauth],413
+0af355cc,Failed password for root from <*> port <*> ssh2,368
+f0cb1435,message repeated 5 times [ Failed password for root from <*> port <*> ssh2],2
+dbea380c,Disconnecting Too many authentication failures for <*> [preauth],3
+ba814e32,PAM <*> more authentication <*> logname uid 0 euid 0 tty ssh ruser rhost <*>,10
+00a684b8,PAM service(sshd) ignoring max retries; <*> > 3,7
+c926c7d9,Did not receive identification string from <*>,10
+70494f20,error Received disconnect from <*> 3 <*> Auth fail [preauth],2
+c166da54,Failed password for uucp from <*> port <*> ssh2,5
+0b3b9c13,Received disconnect from <*> 11 Closed due to user request. [preauth],7
+2702de18,Failed none for invalid user <*> from <*> port <*> ssh2,4
+494f6c4a,Failed password for ftp from <*> port <*> ssh2,3
+ead82201,error Received disconnect from <*> 14 No more user authentication methods available. [preauth],45
+d4621573,Failed password for sshd from <*> port <*> ssh2,2
+16ac812e,Failed password for git from <*> port <*> ssh2,3
+3dd1f7c5,Failed password for mysql from <*> port <*> ssh2,2
+bb75510d,Accepted password for fztu from <*> port 49116 ssh2,1
+a9b694f7,pam_unix(sshd session) session <*> for user fztu <*>,2
+6b0d579a,Received disconnect from <*> 11 disconnected by user,1
+e55c6b89,fatal Write failed Connection reset by peer [preauth],1

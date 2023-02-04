@@ -1,0 +1,452 @@
+EventId,EventTemplate,Occurrences
+231762c7,"<*> ""GET <*>HTTP<*>status <*> len <*> time <*>.<*>",931
+b2a36a66,[instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] VM Started (Lifecycle Event),1
+c688cd09,[instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] VM Paused (Lifecycle Event),1
+b446aee1,[instance <*> During sync_power_state the instance has a pending task (spawning). Skip.,43
+8970be39,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking,82
+e8e61b8d,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use on this node <*> local <*> on other nodes sharing this instance storage,82
+181762c5,Active base files /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,82
+2889f221,Creating event network-vif-plugged e<*>ffd-<*>cd<*>-<*>-bddd-<*>f<*>b<*> for instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d,1
+4dba6664,"<*> ""POST <*>HTTP<*>status <*> len <*> time <*>.<*>",64
+d8667d9a,[instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] VM Resumed (Lifecycle Event),2
+86641f6f,[instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Instance spawned successfully.,1
+646f0bad,[instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+43b8d30a,[instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Took <*>.<*> seconds to build instance.,1
+304a219c,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,15
+30743775,Total usable vcpus <*> total allocated vcpus <*>,15
+64506064,Final resource view name cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram <*>MB used_ram <*>MB phys_disk <*>GB used_disk <*>GB total_vcpus <*> used_vcpus <*> pci_stats [],15
+2cd466e5,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,15
+3aa67099,"<*> ""DELETE <*>HTTP<*>status <*> len <*> time <*>.<*>",22
+b1fd70a4,[instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Terminating instance,1
+60915413,[instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Instance destroyed successfully.,1
+a071462a,[instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Deleting instance files /var/lib/nova/instances/b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d_del,1
+58f397e9,[instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Deletion of <*>complete,1
+ddcb86e6,[instance <*> Took <*>.<*> seconds to deallocate network for instance.,21
+ef22ecc0,Unknown base file /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,30
+6d4eba6f,Removable base files /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,30
+2e06fecb,Removing base or swap file /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,21
+829a8040,HTTP exception thrown No instances found for any event,21
+257b69e2,[instance <*> Attempting claim memory <*> MB disk <*> GB vcpus <*> CPU,21
+1fe25927,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Total memory <*> MB used <*>.<*> MB,1
+3b8869f0,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] memory limit <*>.<*> MB free <*>.<*> MB,1
+1a9e6f3a,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Total disk <*> GB used <*>.<*> GB,1
+29b654d8,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] disk limit not specified defaulting to unlimited,1
+da7a0109,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+3ebc0978,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] vcpu limit not specified defaulting to unlimited,1
+24470c20,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Claim successful,1
+78cc3678,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Creating image,1
+2aceda26,[instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] VM Stopped (Lifecycle Event),1
+4056a2a0,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] VM Started (Lifecycle Event),1
+f22104d7,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] VM Paused (Lifecycle Event),1
+e93bf823,Creating event network-vif-plugged a<*>c-c<*>e<*>-<*>-a<*>a<*>-d<*>e<*>afd<*> for instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>,1
+c5f33816,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] VM Resumed (Lifecycle Event),2
+d38ca012,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Instance spawned successfully.,1
+850da525,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+a793fe88,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Took <*>.<*> seconds to build instance.,1
+732653ea,Successfully synced instances from host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us'.,2
+2eea8b2f,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Terminating instance,1
+6fdecc45,Running instance usage audit for host cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us from <*>-<*>-<*> <*> <*> <*> to <*>-<*>-<*> <*> <*> <*>. <*> instances.,1
+6c3b41ff,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Instance destroyed successfully.,1
+5f346455,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Deleting instance files /var/lib/nova/instances/<*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>_del,1
+dbe1c630,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Deletion of <*>complete,1
+00fe25d9,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Total memory <*> MB used <*>.<*> MB,1
+556392be,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] memory limit <*>.<*> MB free <*>.<*> MB,1
+28d9025d,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Total disk <*> GB used <*>.<*> GB,1
+4efe3465,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] disk limit not specified defaulting to unlimited,1
+34e72ae3,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+3d0ae40f,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] vcpu limit not specified defaulting to unlimited,1
+26ab6cc7,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Claim successful,1
+549083fa,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Creating image,1
+382c4a64,[instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] VM Stopped (Lifecycle Event),1
+8427cb73,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] VM Started (Lifecycle Event),1
+6441e635,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] VM Paused (Lifecycle Event),1
+a53ddce3,Creating event network-vif-plugged d<*>ce<*>c<*>a-<*>-<*>c<*>-<*>a<*>a-<*>f<*>e<*>defcb<*> for instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>,1
+2234c788,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] VM Resumed (Lifecycle Event),2
+7403d02f,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Instance spawned successfully.,1
+0578e5a5,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+255fbf27,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Took <*>.<*> seconds to build instance.,1
+f7b01b9f,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Terminating instance,1
+eacbe64f,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Instance destroyed successfully.,1
+b039ea5a,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Deleting instance files /var/lib/nova/instances/b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>_del,1
+d7846cb5,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Deletion of <*>complete,1
+e6ff7645,Base or swap file too young to remove /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,9
+b8019229,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Total memory <*> MB used <*>.<*> MB,1
+9f36cd42,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] memory limit <*>.<*> MB free <*>.<*> MB,1
+266e20e2,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Total disk <*> GB used <*>.<*> GB,1
+9118ef29,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] disk limit not specified defaulting to unlimited,1
+e67d83c6,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+8fd314c0,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] vcpu limit not specified defaulting to unlimited,1
+40e18f6e,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Claim successful,1
+c175ce7f,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Creating image,1
+6b016417,[instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] VM Stopped (Lifecycle Event),1
+f3c68df5,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] VM Started (Lifecycle Event),1
+ac631253,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] VM Paused (Lifecycle Event),1
+b607135c,Creating event network-vif-plugged b<*>c<*>-<*>-<*>e<*>-<*>ba<*>-ec<*>d<*>d<*>d for instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf,1
+7a091e85,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] VM Resumed (Lifecycle Event),2
+ea92602f,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Instance spawned successfully.,1
+68c4cf8f,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+06ea063d,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Took <*>.<*> seconds to build instance.,1
+cef03a17,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Terminating instance,1
+562bcb11,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Instance destroyed successfully.,1
+f713ecae,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Deleting instance files /var/lib/nova/instances/<*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf_del,1
+dea00895,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Deletion of <*>complete,1
+12893827,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Total memory <*> MB used <*>.<*> MB,1
+a3613679,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] memory limit <*>.<*> MB free <*>.<*> MB,1
+c2ad884e,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Total disk <*> GB used <*>.<*> GB,1
+f3f54beb,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] disk limit not specified defaulting to unlimited,1
+a8bdb7a9,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+a1def29d,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] vcpu limit not specified defaulting to unlimited,1
+42173ab9,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Claim successful,1
+a0727009,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Creating image,1
+648408a2,[instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] VM Stopped (Lifecycle Event),1
+d4e8fd46,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] VM Started (Lifecycle Event),1
+7653678d,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] VM Paused (Lifecycle Event),1
+c65b5c9b,Creating event network-vif-plugged <*>cf<*>-<*>-<*>f<*>c-<*>c-<*>ba<*>e<*>f<*> for instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c,1
+31d08965,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] VM Resumed (Lifecycle Event),2
+8c9c5150,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Instance spawned successfully.,1
+15b0590f,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+3c7a4595,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Took <*>.<*> seconds to build instance.,1
+68baf98a,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Terminating instance,1
+e8f94258,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Instance destroyed successfully.,1
+c55b9512,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Deleting instance files /var/lib/nova/instances/<*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c_del,1
+17a9c822,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Deletion of <*>complete,1
+b5e366ef,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Total memory <*> MB used <*>.<*> MB,1
+f123eb7d,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] memory limit <*>.<*> MB free <*>.<*> MB,1
+c31b247a,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Total disk <*> GB used <*>.<*> GB,1
+872f230a,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] disk limit not specified defaulting to unlimited,1
+67209c33,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+c8f53a1f,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] vcpu limit not specified defaulting to unlimited,1
+49f7079e,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Claim successful,1
+69676b9b,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Creating image,1
+be262b10,[instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] VM Stopped (Lifecycle Event),1
+9145c896,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] VM Started (Lifecycle Event),1
+962d2e4c,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] VM Paused (Lifecycle Event),1
+322e1e08,Creating event network-vif-plugged <*>-baff-<*>ad-<*>e<*>-a<*>c<*> for instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>,1
+39e3c42a,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] VM Resumed (Lifecycle Event),2
+5c1b1146,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Instance spawned successfully.,1
+25254173,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+d50be922,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Took <*>.<*> seconds to build instance.,1
+81ac16ca,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Terminating instance,1
+8f29995f,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Instance destroyed successfully.,1
+7d5eb379,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Deleting instance files /var/lib/nova/instances/<*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>_del,1
+3b100fc6,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Deletion of <*>complete,1
+210a42a2,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Total memory <*> MB used <*>.<*> MB,1
+536f675e,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] memory limit <*>.<*> MB free <*>.<*> MB,1
+19e224cb,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Total disk <*> GB used <*>.<*> GB,1
+06dd9c99,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] disk limit not specified defaulting to unlimited,1
+3b5acb38,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+b319c136,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] vcpu limit not specified defaulting to unlimited,1
+da5a46fd,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Claim successful,1
+ace5873a,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Creating image,1
+f4321410,[instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] VM Stopped (Lifecycle Event),1
+d17ad574,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] VM Started (Lifecycle Event),1
+598df33d,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] VM Paused (Lifecycle Event),1
+fb0239ac,Creating event network-vif-plugged <*>bdba<*>d-dd<*>-<*>c-ab<*>-<*>d<*>c<*>c<*> for instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>,1
+1e2805fb,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] VM Resumed (Lifecycle Event),2
+5f6dc4f8,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Instance spawned successfully.,1
+e1b55878,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+38b442ea,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Took <*>.<*> seconds to build instance.,1
+dc620942,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Terminating instance,1
+5961df0e,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Instance destroyed successfully.,1
+8b749145,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Deleting instance files /var/lib/nova/instances/af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>_del,1
+10eec592,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Deletion of <*>complete,1
+e6962c8e,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Total memory <*> MB used <*>.<*> MB,1
+dcd7e88e,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] memory limit <*>.<*> MB free <*>.<*> MB,1
+4a01072b,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Total disk <*> GB used <*>.<*> GB,1
+21f13b84,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] disk limit not specified defaulting to unlimited,1
+b5ad257f,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+06513171,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] vcpu limit not specified defaulting to unlimited,1
+92eec1ff,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Claim successful,1
+fae2aacd,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Creating image,1
+74d91c82,[instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] VM Stopped (Lifecycle Event),1
+40ba8412,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] VM Started (Lifecycle Event),1
+33c9a12b,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] VM Paused (Lifecycle Event),1
+41c623ba,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.,5
+e01f477a,Creating event network-vif-plugged <*>dbd<*>a<*>-<*>e-<*>cd<*>-<*>-fa<*>e<*>d<*>dd<*> for instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f,1
+4d3fc488,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] VM Resumed (Lifecycle Event),2
+4150efd1,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Instance spawned successfully.,1
+bf55d0de,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+bd0f149d,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Took <*>.<*> seconds to build instance.,1
+35cf879f,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Terminating instance,1
+3a59ca05,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Instance destroyed successfully.,1
+056c1f22,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Deleting instance files /var/lib/nova/instances/ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f_del,1
+8cbce1e4,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Deletion of <*>complete,1
+abbd7d8e,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Total memory <*> MB used <*>.<*> MB,1
+69943a44,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] memory limit <*>.<*> MB free <*>.<*> MB,1
+5374744c,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Total disk <*> GB used <*>.<*> GB,1
+599ab5fc,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] disk limit not specified defaulting to unlimited,1
+6e418e13,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+b911ee02,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] vcpu limit not specified defaulting to unlimited,1
+68577fb5,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Claim successful,1
+69cab4db,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Creating image,1
+17ff7b3b,[instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] VM Stopped (Lifecycle Event),1
+95b502e9,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] VM Started (Lifecycle Event),1
+2be43e37,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] VM Paused (Lifecycle Event),1
+91fe1f1a,Creating event network-vif-plugged <*>df<*>c<*>-a<*>-<*>-aeed-<*>a<*> for instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>,1
+dfd5f56e,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] VM Resumed (Lifecycle Event),2
+b8ee15fe,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Instance spawned successfully.,1
+4b8e72a3,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+88f93da3,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Took <*>.<*> seconds to build instance.,1
+a18ae538,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Terminating instance,1
+3c424eb1,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Instance destroyed successfully.,1
+e400a4f9,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Deleting instance files /var/lib/nova/instances/<*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>_del,1
+24160d3a,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Deletion of <*>complete,1
+14a82f07,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Total memory <*> MB used <*>.<*> MB,1
+9597eedf,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] memory limit <*>.<*> MB free <*>.<*> MB,1
+63642910,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Total disk <*> GB used <*>.<*> GB,1
+7fea4dc6,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] disk limit not specified defaulting to unlimited,1
+054f3ea3,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+b783b870,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] vcpu limit not specified defaulting to unlimited,1
+e3127c91,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Claim successful,1
+c3fca031,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Creating image,1
+4d5408cb,[instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] VM Stopped (Lifecycle Event),1
+c76852ea,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] VM Started (Lifecycle Event),1
+9ac25c83,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] VM Paused (Lifecycle Event),1
+2f71595e,Creating event network-vif-plugged <*>b<*>-<*>-<*>-aa<*>-<*>c<*>b<*>b<*> for instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e,1
+2f6f8f2f,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] VM Resumed (Lifecycle Event),2
+6cbb9fd4,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Instance spawned successfully.,1
+fc023505,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+db72eeae,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Took <*>.<*> seconds to build instance.,1
+8ca3a563,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Terminating instance,1
+618a4b78,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Instance destroyed successfully.,1
+9d2416c9,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Deleting instance files /var/lib/nova/instances/fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e_del,1
+57d23881,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Deletion of <*>complete,1
+ac1b9beb,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Total memory <*> MB used <*>.<*> MB,1
+747e1191,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] memory limit <*>.<*> MB free <*>.<*> MB,1
+de2e6552,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Total disk <*> GB used <*>.<*> GB,1
+b3dbad5b,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] disk limit not specified defaulting to unlimited,1
+3cd1a44d,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+c40b8e17,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] vcpu limit not specified defaulting to unlimited,1
+afb30c26,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Claim successful,1
+8552e9ac,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Creating image,1
+b74552cd,[instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] VM Stopped (Lifecycle Event),1
+efc888b7,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] VM Started (Lifecycle Event),1
+a3cab438,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] VM Paused (Lifecycle Event),1
+015d9570,Creating event network-vif-plugged e<*>bf<*>-ae<*>-<*>e<*>-b<*>d<*>-<*>a<*>b<*>bed for instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf,1
+e0549906,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] VM Resumed (Lifecycle Event),2
+eca5da97,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Instance spawned successfully.,1
+1ab7c4b7,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+c978e268,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Took <*>.<*> seconds to build instance.,1
+3cafeb3a,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Terminating instance,1
+c92d705f,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Instance destroyed successfully.,1
+6ce8d307,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Deleting instance files /var/lib/nova/instances/<*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf_del,1
+7c3d390d,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Deletion of <*>complete,1
+dac464e3,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Total memory <*> MB used <*>.<*> MB,1
+7810f0f5,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] memory limit <*>.<*> MB free <*>.<*> MB,1
+e579cd43,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Total disk <*> GB used <*>.<*> GB,1
+85ee02d2,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] disk limit not specified defaulting to unlimited,1
+dec5da3f,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+989b6940,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] vcpu limit not specified defaulting to unlimited,1
+62682ff3,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Claim successful,1
+5e27c3ec,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Creating image,1
+0663fa98,[instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] VM Stopped (Lifecycle Event),1
+0f34d0c1,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] VM Started (Lifecycle Event),1
+913538e6,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] VM Paused (Lifecycle Event),1
+fb98314f,Creating event network-vif-plugged f<*>e<*>f<*>-<*>f<*>-<*>-<*>abf-<*>df<*>d<*>e<*>b<*> for instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c,1
+bbe4b6dd,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] VM Resumed (Lifecycle Event),2
+a73e42d1,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Instance spawned successfully.,1
+c7b6dd34,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+ce6caeaf,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Took <*>.<*> seconds to build instance.,1
+9424e953,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Terminating instance,1
+6e0ff473,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Instance destroyed successfully.,1
+c57d809c,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Deleting instance files /var/lib/nova/instances/d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c_del,1
+9a501f5c,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Deletion of <*>complete,1
+f83e50b2,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Total memory <*> MB used <*>.<*> MB,1
+f6e5560b,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] memory limit <*>.<*> MB free <*>.<*> MB,1
+b062edc2,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Total disk <*> GB used <*>.<*> GB,1
+6a38c479,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] disk limit not specified defaulting to unlimited,1
+bb81f77a,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+2416c138,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] vcpu limit not specified defaulting to unlimited,1
+8fbdfc94,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Claim successful,1
+ed1da571,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Creating image,1
+48ff6da8,[instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] VM Stopped (Lifecycle Event),1
+08765958,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] VM Started (Lifecycle Event),1
+7a43f75d,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] VM Paused (Lifecycle Event),1
+d4e92934,Creating event network-vif-plugged <*>a<*>ed-<*>-<*>-<*>e-f<*>ac<*>acc<*>d for instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>,1
+2d63fbee,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] VM Resumed (Lifecycle Event),2
+557378ea,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Instance spawned successfully.,1
+8edceebd,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+03c08699,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Took <*>.<*> seconds to build instance.,1
+f09ea4f5,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Terminating instance,1
+19462b65,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Instance destroyed successfully.,1
+b49c70cc,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Deleting instance files /var/lib/nova/instances/<*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>_del,1
+93df649b,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Deletion of <*>complete,1
+e68b6068,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Total memory <*> MB used <*>.<*> MB,1
+5bc64749,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] memory limit <*>.<*> MB free <*>.<*> MB,1
+0972ad35,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Total disk <*> GB used <*>.<*> GB,1
+065e729d,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] disk limit not specified defaulting to unlimited,1
+d5164413,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+22bbcc35,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] vcpu limit not specified defaulting to unlimited,1
+a45200e1,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Claim successful,1
+141c364b,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Creating image,1
+715101f7,[instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] VM Stopped (Lifecycle Event),1
+d427be2d,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] VM Started (Lifecycle Event),1
+8ac44b5b,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] VM Paused (Lifecycle Event),1
+aea1aedd,Creating event network-vif-plugged <*>bb<*>c<*>a<*>-effa-<*>-<*>cf<*>-<*>b<*>a<*>df<*> for instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>,1
+a8d1e729,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] VM Resumed (Lifecycle Event),2
+949fd7b7,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Instance spawned successfully.,1
+089f8fa8,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+4e580907,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Took <*>.<*> seconds to build instance.,1
+2da4f2d8,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Terminating instance,1
+faed50e0,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Instance destroyed successfully.,1
+6c64fb8b,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Deleting instance files /var/lib/nova/instances/<*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>_del,1
+b551347a,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Deletion of <*>complete,1
+6df0b854,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Total memory <*> MB used <*>.<*> MB,1
+de6d378f,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] memory limit <*>.<*> MB free <*>.<*> MB,1
+21e3e6e6,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Total disk <*> GB used <*>.<*> GB,1
+9da5a07b,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] disk limit not specified defaulting to unlimited,1
+a1dd32cb,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+0200d10f,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] vcpu limit not specified defaulting to unlimited,1
+5d1e82f2,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Claim successful,1
+275f6fe1,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Creating image,1
+e8907247,[instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] VM Stopped (Lifecycle Event),1
+191f4d3c,While synchronizing instance power states found <*> instances in the database and <*> instances on the hypervisor.,1
+9b16bff9,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] VM Started (Lifecycle Event),1
+20d502e5,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] VM Paused (Lifecycle Event),1
+3a7deba9,Creating event network-vif-plugged <*>c<*>b<*>a-<*>a<*>-<*>d<*>-<*>-<*>c<*>aa<*> for instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e,1
+711d2e16,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] VM Resumed (Lifecycle Event),2
+24084d89,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Instance spawned successfully.,1
+87036253,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+be6ac759,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Took <*>.<*> seconds to build instance.,1
+ca7cce0b,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Terminating instance,1
+aeb6c5c3,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Instance destroyed successfully.,1
+d54a2227,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Deleting instance files /var/lib/nova/instances/bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e_del,1
+d4866412,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Deletion of <*>complete,1
+cf45f6f6,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Total memory <*> MB used <*>.<*> MB,1
+baef331c,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] memory limit <*>.<*> MB free <*>.<*> MB,1
+137c7a26,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Total disk <*> GB used <*>.<*> GB,1
+8cf307ec,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] disk limit not specified defaulting to unlimited,1
+67097658,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+887071c8,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] vcpu limit not specified defaulting to unlimited,1
+c795ee17,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Claim successful,1
+6cb5c534,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Creating image,1
+ce9514c1,[instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] VM Stopped (Lifecycle Event),1
+3db98e15,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] VM Started (Lifecycle Event),1
+d090163d,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] VM Paused (Lifecycle Event),1
+83c23c7b,Creating event network-vif-plugged <*>c<*>f-<*>d<*>-<*>-ae<*>b-<*>bca<*>d<*>a<*> for instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc,1
+343eda68,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] VM Resumed (Lifecycle Event),2
+df0040f6,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Instance spawned successfully.,1
+830630e3,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+0089fb20,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Took <*>.<*> seconds to build instance.,1
+6661dc65,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Terminating instance,1
+f661d111,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Instance destroyed successfully.,1
+0c6c42b2,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Deleting instance files /var/lib/nova/instances/be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc_del,1
+ee687406,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Deletion of <*>complete,1
+ae643893,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Total memory <*> MB used <*>.<*> MB,1
+321617d5,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] memory limit <*>.<*> MB free <*>.<*> MB,1
+0c9c3f08,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Total disk <*> GB used <*>.<*> GB,1
+f6649f53,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] disk limit not specified defaulting to unlimited,1
+d1257279,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+2213e407,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] vcpu limit not specified defaulting to unlimited,1
+5092ec8d,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Claim successful,1
+14ff15f2,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Creating image,1
+8ddedf42,[instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] VM Stopped (Lifecycle Event),1
+da30d61e,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] VM Started (Lifecycle Event),1
+24a4356e,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] VM Paused (Lifecycle Event),1
+ab87ffe0,Creating event network-vif-plugged <*>ba<*>-<*>ef-<*>f<*>-<*>d<*>-d<*>c<*>f<*>cb<*> for instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d,1
+2fb91513,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] VM Resumed (Lifecycle Event),2
+18e5b6d6,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Instance spawned successfully.,1
+427d7810,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+c721b0ab,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Took <*>.<*> seconds to build instance.,1
+8b73a68b,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Terminating instance,1
+86e44899,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Instance destroyed successfully.,1
+f30a13c9,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Deleting instance files /var/lib/nova/instances/a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d_del,1
+f187e787,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Deletion of <*>complete,1
+5f32ab21,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Total memory <*> MB used <*>.<*> MB,1
+9fca694d,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] memory limit <*>.<*> MB free <*>.<*> MB,1
+55585aa2,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Total disk <*> GB used <*>.<*> GB,1
+90d4eac1,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] disk limit not specified defaulting to unlimited,1
+bae716ce,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+98c2ae4a,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] vcpu limit not specified defaulting to unlimited,1
+2f6d431d,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Claim successful,1
+e0b32a1c,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Creating image,1
+b0a3690b,[instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] VM Stopped (Lifecycle Event),1
+5090cac4,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] VM Started (Lifecycle Event),1
+4d59a463,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] VM Paused (Lifecycle Event),1
+72dc7e0c,Creating event network-vif-plugged a<*>c<*>d-<*>cb-<*>ef<*>-b<*>c<*>-dbc<*>c<*>a<*>bd<*>c for instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d,1
+cb09bfbd,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] VM Resumed (Lifecycle Event),2
+4ca11ee9,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Instance spawned successfully.,1
+881eb16d,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+14f1d485,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Took <*>.<*> seconds to build instance.,1
+b2c87fab,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Terminating instance,1
+bdc9ae5e,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Instance destroyed successfully.,1
+c59893e3,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Deleting instance files /var/lib/nova/instances/d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d_del,1
+a2ca85ca,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Deletion of <*>complete,1
+208882e3,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Total memory <*> MB used <*>.<*> MB,1
+a3848dc2,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] memory limit <*>.<*> MB free <*>.<*> MB,1
+dcabe9e3,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Total disk <*> GB used <*>.<*> GB,1
+8dc0e37d,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] disk limit not specified defaulting to unlimited,1
+123eb55f,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+ec1a016c,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] vcpu limit not specified defaulting to unlimited,1
+48606a24,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Claim successful,1
+ef722cf8,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Creating image,1
+85539cf3,[instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] VM Stopped (Lifecycle Event),1
+0347c495,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] VM Started (Lifecycle Event),1
+1f9ef657,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] VM Paused (Lifecycle Event),1
+0b70ee43,Creating event network-vif-plugged <*>b<*>aca<*>-<*>e-<*>-<*>ff<*>-<*>d<*>ff<*> for instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e,1
+3403c6b8,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] VM Resumed (Lifecycle Event),2
+980e66d4,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Instance spawned successfully.,1
+e3ab840b,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+d3a30c30,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Took <*>.<*> seconds to build instance.,1
+073b47e4,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Terminating instance,1
+06e7ef34,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Instance destroyed successfully.,1
+be2e67db,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Deleting instance files /var/lib/nova/instances/d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e_del,1
+b94af454,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Deletion of <*>complete,1
+33bf08e6,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Total memory <*> MB used <*>.<*> MB,1
+7c9a8353,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] memory limit <*>.<*> MB free <*>.<*> MB,1
+c7e51f9e,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Total disk <*> GB used <*>.<*> GB,1
+ad6f0c7c,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] disk limit not specified defaulting to unlimited,1
+5e8f7ea4,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+15956268,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] vcpu limit not specified defaulting to unlimited,1
+c746355a,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Claim successful,1
+4cadd240,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Creating image,1
+7ef5c94b,[instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] VM Stopped (Lifecycle Event),1
+f044cbcd,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] VM Started (Lifecycle Event),1
+babdef22,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] VM Paused (Lifecycle Event),1
+56dfa859,Creating event network-vif-plugged b<*>f<*>d-d<*>bd-<*>-b<*>f-<*>e<*>fe<*>c<*>c for instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>,1
+33d3d5a8,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] VM Resumed (Lifecycle Event),2
+18fdb1cb,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Instance spawned successfully.,1
+9dc8280d,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+2e5d9b68,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Took <*>.<*> seconds to build instance.,1
+5312f05f,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Terminating instance,1
+f4594dc6,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Instance destroyed successfully.,1
+6d7ae64c,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Deleting instance files /var/lib/nova/instances/<*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>_del,1
+b86761da,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Deletion of <*>complete,1
+f6d11e53,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Total memory <*> MB used <*>.<*> MB,1
+98c30e98,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] memory limit <*>.<*> MB free <*>.<*> MB,1
+d4287c6d,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Total disk <*> GB used <*>.<*> GB,1
+56145289,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] disk limit not specified defaulting to unlimited,1
+3089cc43,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+d36fb822,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] vcpu limit not specified defaulting to unlimited,1
+03e10a10,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Claim successful,1
+2ebe9aa1,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Creating image,1
+b155ebe7,[instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] VM Stopped (Lifecycle Event),1
+8808fb56,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] VM Started (Lifecycle Event),1
+6edfddf5,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] VM Paused (Lifecycle Event),1
+6be28a2f,Creating event network-vif-plugged b<*>a<*>d<*>-ce<*>e-<*>ff-bb<*>d-a<*>b<*>f<*>e<*> for instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf,1
+5b828c76,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] VM Resumed (Lifecycle Event),2
+7458a927,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Instance spawned successfully.,1
+a1cab1fa,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Took <*>.<*> seconds to <*> the instance on the hypervisor.,2
+d43eecb8,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Took <*>.<*> seconds to build instance.,1
+61e515cb,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Terminating instance,1
+d7a57318,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Instance destroyed successfully.,1
+45d2165b,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Deleting instance files /var/lib/nova/instances/c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf_del,1
+da340f2a,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Deletion of <*>complete,1
+c538513b,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Total memory <*> MB used <*>.<*> MB,1
+1a36bf15,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] memory limit <*>.<*> MB free <*>.<*> MB,1
+031ec0df,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Total disk <*> GB used <*>.<*> GB,1
+89146075,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] disk limit not specified defaulting to unlimited,1
+ccbe9b64,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Total vcpu <*> VCPU used <*>.<*> VCPU,1
+01c08656,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] vcpu limit not specified defaulting to unlimited,1
+bf464cc5,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Claim successful,1
+3189a8ad,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Creating image,1
+f90f7838,[instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] VM Stopped (Lifecycle Event),1
+d4cabf3e,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] VM Started (Lifecycle Event),1
+84561f76,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] VM Paused (Lifecycle Event),1
+6976e917,Creating event network-vif-plugged <*>f<*>af-aae<*>-<*>b<*>-<*>c<*>-a<*>bc<*>c<*>e<*>bb<*> for instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f,1
+44e11b26,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] VM Resumed (Lifecycle Event),2
+965f9300,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Instance spawned successfully.,1
+6e373b8a,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Took <*>.<*> seconds to spawn the instance on the hypervisor.,1
+ab3bac85,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Took <*>.<*> seconds to build instance.,1
+91ab24c1,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Terminating instance,1
+1d66a94c,[instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Instance destroyed successfully.,1

@@ -1,0 +1,7 @@
+symbol: s63
+template: Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK.
+1217,2.5,1.5,
+1220,2.5,1.5,
+1231,2.5,1.5,
+1330,2.5,1.5,
+1408,2.5,1.5,

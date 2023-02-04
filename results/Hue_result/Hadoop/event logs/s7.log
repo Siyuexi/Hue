@@ -1,0 +1,11 @@
+symbol: s7
+template: Registering class <*> for class <*>
+7,org.apache.hadoop.mapreduce.jobhistory.EventType,org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler,
+8,org.apache.hadoop.mapreduce.v2.app.job.event.JobEventType,org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobEventDispatcher,
+9,org.apache.hadoop.mapreduce.v2.app.job.event.TaskEventType,org.apache.hadoop.mapreduce.v2.app.MRAppMaster$TaskEventDispatcher,
+10,org.apache.hadoop.mapreduce.v2.app.job.event.TaskAttemptEventType,org.apache.hadoop.mapreduce.v2.app.MRAppMaster$TaskAttemptEventDispatcher,
+11,org.apache.hadoop.mapreduce.v2.app.commit.CommitterEventType,org.apache.hadoop.mapreduce.v2.app.commit.CommitterEventHandler,
+12,org.apache.hadoop.mapreduce.v2.app.speculate.Speculator$EventType,org.apache.hadoop.mapreduce.v2.app.MRAppMaster$SpeculatorEventDispatcher,
+13,org.apache.hadoop.mapreduce.v2.app.rm.ContainerAllocator$EventType,org.apache.hadoop.mapreduce.v2.app.MRAppMaster$ContainerAllocatorRouter,
+14,org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncher$EventType,org.apache.hadoop.mapreduce.v2.app.MRAppMaster$ContainerLauncherRouter,
+19,org.apache.hadoop.mapreduce.v2.app.job.event.JobFinishEvent$Type,org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobFinishEventHandler,

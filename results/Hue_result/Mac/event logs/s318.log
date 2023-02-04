@@ -1,0 +1,3 @@
+symbol: s318
+template: Failed to connect (titleField) outlet from (MMSessionPickerChoosenRowView) to (NSTextField): missing setter or instance variable
+1579,

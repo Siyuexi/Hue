@@ -1,0 +1,4 @@
+symbol: s227
+template: CCLogTap::profileRemoved, Owner: <*> Name: IO80211AWDLPeerManager
+913,com.apple.iokit.IO80211Family,,
+1284,com.apple.iokit.IO80211Family,,

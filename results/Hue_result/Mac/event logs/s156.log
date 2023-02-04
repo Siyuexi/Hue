@@ -1,0 +1,4 @@
+symbol: s156
+template: hibernate_alloc_pages act <*> inact <*> anon <*> throt <*> spec <*> wire <*> wireinit <*>
+447,173850,,24957,,891,,0,,73492,,527143,,39927,
+1372,107794,,10088,,460,,0,,58021,,572831,,39927,

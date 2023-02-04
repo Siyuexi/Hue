@@ -1,0 +1,15 @@
+symbol: t6
+identifier: | event_time | user_host | thread_id | server_id | command_type | argument |
+3339,
+2022-11-20,12:34:36,root[root],@,localhost,[],1,1,Query,show,variables,like,'general%',
+2022-11-20,12:34:36,root[root],@,localhost,[],1,1,Query,show,variables,like,'log_output',
+2022-11-20,12:34:36,[root],@,localhost,[],3,1,Connect,root@localhost,on,
+2022-11-20,12:34:36,root[root],@,localhost,[],3,1,Query,KILL,QUERY,1,
+2022-11-20,12:34:36,root[root],@,localhost,[],3,1,Quit,
+2022-11-20,12:34:51,root[root],@,localhost,[],1,1,Query,select,*,from,mysql.general_log,
+3577,
+2022-11-20,12:32:41,root[root],@,localhost,[],1,1,Query,select,*,from,MyDB.test,
+2022-11-20,12:34:36,[root],@,localhost,[],3,1,Connect,root@localhost,on,
+2022-11-20,12:34:36,root[root],@,localhost,[],3,1,Query,KILL,QUERY,1,
+2022-11-20,12:34:36,root[root],@,localhost,[],3,1,Quit,
+2022-11-20,12:34:51,root[root],@,localhost,[],1,1,Query,select,*,from,mysql.general_log,

@@ -1,0 +1,5 @@
+symbol: s162
+template: Opened file <*> size <*> extents <*> maxio <*> ssd <*>
+484,/var/log/SleepWakeStacks.bin,,172032,,1,,2000000,1,
+1002,/var/log/SleepWakeStacks.bin,,172032,,1,,2000000,1,
+1386,/var/vm/sleepimage,,1073741824,,3,,2000000,1,

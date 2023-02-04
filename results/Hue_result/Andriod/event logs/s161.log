@@ -1,0 +1,3 @@
+symbol: s161
+template: updateIsPoweredLocked: <?> <?> <*> <*> <*>
+1776,wasPowered=false,,mIsPowered=false,,oldPlugType=0,,mPlugType=0,,mBatteryLevel=23,

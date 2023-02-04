@@ -1,0 +1,33 @@
+EventId,EventTemplate,Occurrences
+2cf5ec1d,Running instance usage audit for host cp-.slowvm.tcloud-pg.utah.cloudlab.us from -- to -- . instances.,1
+da298f94,While synchronizing instance power states found instances in the database and instances on the hypervisor.,1
+d339b320,image dd-c-fbb-c-fbeb at (in use on this node local on other nodes sharing this instance storage,82
+d1b7aad3,Final resource view name cp-.slowvm.tcloud-pg.utah.cloudlab.us phys_ram MB used_ram MB phys_disk GB used_disk GB total_vcpus used_vcpus pci_stats [],15
+813e46ae,image dd-c-fbb-c-fbeb at (checking,82
+5441e6cd,Active base files /var/lib/nova/instances/_base/acfcdabcbbace,82
+52e39d6f,Unknown base file /var/lib/nova/instances/_base/acfcdabcbbace,30
+79e25cb8,Removable base files /var/lib/nova/instances/_base/acfcdabcbbace,30
+ca9217df,<*> HTTPstatus len time .,1017
+9e3d1a0d,[instance <*> Instance <*> successfully.,44
+cd9dfb0c,[instance <*> Deletion of complete,21
+43887554,Total usable vcpus total allocated vcpus,15
+5d4332a6,Compute_service record updated for cp-.slowvm.tcloud-pg.utah.cloudlab.us cp-.slowvm.tcloud-pg.utah.cloudlab.us,15
+7939bdef,Removing base or swap file /var/lib/nova/instances/_base/acfcdabcbbace,21
+f601c5c8,Successfully synced instances from host 'cp-.slowvm.tcloud-pg.utah.cloudlab.us'.,2
+ead99d8d,Auditing locally available compute resources for node cp-.slowvm.tcloud-pg.utah.cloudlab.us,15
+829a8040,HTTP exception thrown No instances found for any event,21
+dd43cd13,Base or swap file too young to remove /var/lib/nova/instances/_base/acfcdabcbbace,9
+8cc7361d,The instance sync for host 'cp-.slowvm.tcloud-pg.utah.cloudlab.us' did not match. Re-created its InstanceList.,5
+b20bcab5,Creating event network-vif-plugged <*> for instance <*>,22
+3471438e,[instance <*> Took . seconds to deallocate network for instance.,21
+3051612d,[instance <*> Attempting claim memory MB disk GB vcpus CPU,21
+0faefd0d,[instance <*> Terminating instance,22
+10443457,[instance <*> Claim successful,21
+c4fc8163,[instance <*> Creating image,21
+7c6f2a14,[instance <*> <*> <*> <*> <*>,130
+b0153164,[instance <*> Took . seconds to build instance.,22
+f270c1ca,[instance <*> Total <*> <*> used . <*>,63
+5629c32e,[instance <*> memory limit . MB free . MB,21
+291524ee,[instance <*> <*> limit not specified defaulting to unlimited,42
+b446aee1,[instance <*> During sync_power_state the instance has a pending task (spawning). Skip.,43
+da831c5f,[instance <*> Took . seconds to <*> the instance on the hypervisor.,43

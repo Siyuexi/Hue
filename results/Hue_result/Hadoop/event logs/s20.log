@@ -1,0 +1,4 @@
+symbol: s20
+template: Starting Socket Reader <*> for port <*>
+30,#1,62260,
+53,#1,62270,

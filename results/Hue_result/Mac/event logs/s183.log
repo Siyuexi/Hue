@@ -1,0 +1,4 @@
+symbol: s183
+template: <*> <<<< CRABS >>>> crabsFlumeHostUnavailable: <*> flume reports host unavailable.
+579,[16:25:45.631],[0x7f961cf08cf0],Byte,flume,reports,host,
+646,[18:56:23.837],[0x7f961cf08cf0],Byte,flume,reports,host,

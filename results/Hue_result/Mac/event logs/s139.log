@@ -1,0 +1,5 @@
+symbol: s139
+template: Sandbox: <*> <*> <*> <*>
+342,QQ(10018),deny(1),mach-lookup,com.apple.networking.captivenetworksupport,
+699,QQ(10018),deny(1),mach-lookup,com.apple.networking.captivenetworksupport,
+848,QQ(10018),deny(1),mach-lookup,com.apple.networking.captivenetworksupport,

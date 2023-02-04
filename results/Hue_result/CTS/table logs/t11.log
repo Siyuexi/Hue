@@ -1,0 +1,16 @@
+symbol: t11
+identifier: Destination/Mask Proto Pre Cost Flags NextHop Interface
+467,
+9.32.0.0/14,Direct,0,0,D,9.32.200.14,GigabitEthernet1/1/1,
+9.32.0.0/24,Direct,0,0,D,9.32.200.14,GigabitEthernet1/1/1,
+9.32.0.0/34,Direct,0,0,D,9.32.200.14,GigabitEthernet1/1/1,
+9.32.0.0/14,Direct,0,0,D,9.32.200.14,InLoopBack1,
+9.32.0.0/12,Direct,0,0,D,9.32.200.14,InLoopBack1,
+9.32.0.0/13,Direct,0,0,D,9.32.200.14,InLoopBack1,
+1354,
+7.32.0.0/14,Direct,0,0,D,7.32.200.14,GigabitEthernet1/1/1,
+7.32.0.0/24,Direct,0,0,D,7.32.200.14,GigabitEthernet1/1/1,
+7.32.0.0/34,Direct,0,0,D,7.32.200.14,GigabitEthernet1/1/1,
+7.32.0.0/14,Direct,0,0,D,7.32.200.14,InLoopBack1,
+7.32.0.0/12,Direct,0,0,D,7.32.200.14,InLoopBack1,
+7.32.0.0/13,Direct,0,0,D,7.32.200.14,InLoopBack1,

@@ -1,0 +1,4 @@
+symbol: s19
+template: insertHiHealthData() checkAppType <*> appID <?> <*>
+715,0,=,1,
+746,0,=,1,

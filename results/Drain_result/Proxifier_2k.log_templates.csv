@@ -1,0 +1,19 @@
+EventId,EventTemplate,Occurrences
+56ab45ba,<*> open through proxy <*> HTTPS,954
+dff2fdce,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",355
+562370b9,"<*> close, <*> bytes sent, <*> bytes (<*> <*>) received, lifetime <*>",162
+0dc9f004,"<*> close, <*> bytes (<*> <*>) sent, <*> bytes <*> <*>) received, lifetime <*>",300
+3ced113c,"<*> close, <*> bytes (<*> <*>) sent, <*> bytes received, lifetime <*>",121
+b1fe74a1,<*> open through proxy <*> SOCKS5,2
+cb4cfc43,<*> error : A connection request was canceled before the completion.,31
+bd37133d,<*> error : Could not connect through proxy <*> - Proxy closed the connection unexpectedly.,3
+68218296,"<*> close, 466 bytes sent, 125682 bytes (122 <*>) received, lifetime <*>",1
+2b71c77d,"<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>",17
+b701120f,"<*> close, 983 bytes sent, <*> bytes <*> <*>) received, lifetime <*>",2
+6ae39528,"<*> close, 326 bytes sent, 103039 bytes (100 <*>) received, lifetime <*>",1
+783c3385,"<*> close, 588 bytes sent, 215882 bytes (210 <*>) received, lifetime <*>",1
+a40bb140,"<*> close, <*> bytes <*> <*>) sent, <*> bytes (<*> <*>) received, lifetime <*>",2
+e365f1af,"<*> close, 446 bytes sent, 195160 bytes (190 <*>) received, lifetime <*>",1
+089371af,"<*> close, 154863 bytes (151 <*>) sent, 321609 bytes (314 <*>) received, lifetime <*>",1
+00188feb,<*> error : Could not connect to proxy <*> - Could not resolve <*> error 11001,20
+89c754fa,<*> error : Could not connect to proxy <*> - connection attempt failed with error 10061,26

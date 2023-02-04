@@ -1,0 +1,10 @@
+symbol: s44
+template: acquire <*> <*> <?> <?> <*> <*> <*>
+83,lock=189667585,,flags=0x1,,tag="*launch*",,name=android,,ws=WorkSource{10113},,uid=1000,,pid=1702,
+225,lock=189667585,,flags=0x1,,tag="*launch*",,name=android,,ws=WorkSource{10111},,uid=1000,,pid=1702,
+1113,lock=189667585,,flags=0x1,,tag="*launch*",,name=android,,ws=WorkSource{10057},,uid=1000,,pid=1702,
+1263,lock=189667585,,flags=0x1,,tag="*launch*",,name=android,,ws=WorkSource{10020},,uid=1000,,pid=1702,
+1373,lock=189667585,,flags=0x1,,tag="*launch*",,name=android,,ws=WorkSource{10057},,uid=1000,,pid=1702,
+1438,lock=189667585,,flags=0x1,,tag="*launch*",,name=android,,ws=WorkSource{10111},,uid=1000,,pid=1702,
+1835,lock=189667585,,flags=0x1,,tag="*launch*",,name=android,,ws=WorkSource{10057},,uid=1000,,pid=1702,
+1960,lock=189667585,,flags=0x1,,tag="*launch*",,name=android,,ws=WorkSource{10112},,uid=1000,,pid=1702,

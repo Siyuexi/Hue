@@ -1,0 +1,3 @@
+symbol: s94
+template: PCI: Using IRQ router <*> <*> at <*>
+1980,PIIX/ICH,[8086/2410],0000:00:1f.0,

@@ -1,0 +1,8 @@
+symbol: s120
+template: stopWifiDisplayScanLocked <*>
+419,record.mWifiDisplayScanRequested=false,
+786,record.mWifiDisplayScanRequested=false,
+791,record.mWifiDisplayScanRequested=false,
+796,record.mWifiDisplayScanRequested=false,
+1007,record.mWifiDisplayScanRequested=false,
+1184,record.mWifiDisplayScanRequested=false,

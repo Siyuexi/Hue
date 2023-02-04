@@ -1,0 +1,7 @@
+symbol: s13
+template: psu failure\ <*>
+173,ambient=28,
+174,ambient=28,
+175,ambient=28,
+176,ambient=28,
+177,ambient=31,

@@ -1,0 +1,3 @@
+symbol: s48
+template: <*> <*> cannot be cast to <*>
+91,java.lang.ClassCastException:,android.os.BinderProxy,com.android.server.am.ActivityRecord$Token,

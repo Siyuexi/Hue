@@ -1,0 +1,5 @@
+symbol: s17
+template: <*> <<<< CRABS >>>> crabsFlumeHostAvailable: <*> flume reports host available again.
+18,[09:21:58.929],[0x7f961cf08cf0],Byte,flume,reports,host,available,
+872,[10:13:05.044],[0x7f961cf08cf0],Byte,flume,reports,host,available,
+1299,[17:22:36.133],[0x7f961cf08cf0],Byte,flume,reports,host,available,

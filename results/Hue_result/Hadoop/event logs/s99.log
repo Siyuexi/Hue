@@ -1,0 +1,3 @@
+symbol: s99
+template: Error writing History Event: <*>
+1039,org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@7317849d,

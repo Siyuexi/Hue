@@ -1,0 +1,2000 @@
+s1, 1, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 2, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 3, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 4, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 5, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 6, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 7, VM Started (Lifecycle Event)
+s3, 8, VM Paused (Lifecycle Event)
+s4, 9, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 10, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 11, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 12, image <*> at <*> checking
+s6, 13, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 14, Active base files: <*>
+s1, 15, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 16, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 17, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 18, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 19, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 20, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 21, Creating event <*> for instance <*>
+s9, 22, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 23, VM Resumed (Lifecycle Event)
+s11, 24, Instance spawned successfully.
+s12, 25, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 26, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 27, VM Resumed (Lifecycle Event)
+s5, 28, image <*> at <*> checking
+s6, 29, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s13, 30, Took <*> seconds to build instance.
+s7, 31, Active base files: <*>
+s1, 32, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 33, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s14, 34, Auditing locally available compute resources for node <*>
+s15, 35, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 36, 
+s17, 37, Compute_service record updated for <*>
+s5, 38, image <*> at <*> checking
+s6, 39, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 40, Active base files: <*>
+s1, 41, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 42, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 43, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 44, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 45, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s1, 46, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s19, 47, Terminating instance
+s20, 48, Instance destroyed successfully.
+s1, 49, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 50, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 51, Deleting instance files <*>
+s22, 52, Deletion of <*> complete
+s23, 53, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 54, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 55, Took <*> seconds to deallocate network for instance.
+s1, 56, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s25, 57, Unknown base file: <*>
+s26, 58, Removable base files: <*>
+s27, 59, Removing base or swap file: <*>
+s28, 60, HTTP exception thrown: No instances found for any event
+s9, 61, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s9, 62, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 63, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 64, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 65, Total memory: <*> MB, used: <*> MB
+s31, 66, memory limit: <*> MB, free: <*> MB
+s32, 67, Total disk: <*> GB, used: <*> GB
+s33, 68, disk limit not specified, defaulting to unlimited
+s34, 69, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 70, vcpu limit not specified, defaulting to unlimited
+s36, 71, Claim successful
+s1, 72, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 73, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 74, Creating image
+s1, 75, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 76, VM Stopped (Lifecycle Event)
+s1, 77, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 78, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 79, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 80, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 81, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 82, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 83, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 84, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 85, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 86, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 87, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 88, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 89, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 90, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 91, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 92, VM Started (Lifecycle Event)
+s3, 93, VM Paused (Lifecycle Event)
+s4, 94, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 95, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 96, image <*> at <*> checking
+s6, 97, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 98, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 99, Active base files: <*>
+s1, 100, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 101, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 102, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 103, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 104, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 105, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 106, image <*> at <*> checking
+s6, 107, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 108, Active base files: <*>
+s1, 109, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 110, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 111, Creating event <*> for instance <*>
+s9, 112, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 113, VM Resumed (Lifecycle Event)
+s11, 114, Instance spawned successfully.
+s12, 115, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 116, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 117, VM Resumed (Lifecycle Event)
+s13, 118, Took <*> seconds to build instance.
+s1, 119, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 120, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 121, image <*> at <*> checking
+s6, 122, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 123, Active base files: <*>
+s39, 124, Successfully synced instances from host <*>
+s1, 125, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 126, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 127, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 128, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 129, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 130, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 131, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 132, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 133, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 134, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 135, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 136, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 137, Terminating instance
+s1, 138, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 139, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s40, 140, Running instance usage audit for host <*> from <*> <*> to <*> <*> <*> instances.
+s20, 141, Instance destroyed successfully.
+s21, 142, Deleting instance files <*>
+s22, 143, Deletion of <*> complete
+s23, 144, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 145, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 146, Took <*> seconds to deallocate network for instance.
+s25, 147, Unknown base file: <*>
+s26, 148, Removable base files: <*>
+s27, 149, Removing base or swap file: <*>
+s1, 150, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 151, HTTP exception thrown: No instances found for any event
+s9, 152, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s9, 153, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 154, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 155, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 156, Total memory: <*> MB, used: <*> MB
+s31, 157, memory limit: <*> MB, free: <*> MB
+s32, 158, Total disk: <*> GB, used: <*> GB
+s33, 159, disk limit not specified, defaulting to unlimited
+s34, 160, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 161, vcpu limit not specified, defaulting to unlimited
+s36, 162, Claim successful
+s1, 163, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s14, 164, Auditing locally available compute resources for node <*>
+s1, 165, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s15, 166, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 167, 
+s37, 168, Creating image
+s17, 169, Compute_service record updated for <*>
+s1, 170, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 171, VM Stopped (Lifecycle Event)
+s1, 172, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 173, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 174, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 175, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 176, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 177, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 178, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 179, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 180, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 181, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 182, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 183, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 184, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 185, image <*> at <*> checking
+s6, 186, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 187, Active base files: <*>
+s1, 188, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 189, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 190, VM Started (Lifecycle Event)
+s3, 191, VM Paused (Lifecycle Event)
+s4, 192, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 193, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 194, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 195, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 196, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 197, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 198, image <*> at <*> checking
+s6, 199, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 200, Active base files: <*>
+s1, 201, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 202, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 203, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 204, Creating event <*> for instance <*>
+s9, 205, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 206, VM Resumed (Lifecycle Event)
+s11, 207, Instance spawned successfully.
+s12, 208, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 209, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 210, VM Resumed (Lifecycle Event)
+s13, 211, Took <*> seconds to build instance.
+s1, 212, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 213, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 214, image <*> at <*> checking
+s6, 215, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 216, Active base files: <*>
+s1, 217, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 218, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 219, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 220, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 221, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 222, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 223, Terminating instance
+s1, 224, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 225, Instance destroyed successfully.
+s1, 226, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 227, image <*> at <*> checking
+s6, 228, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 229, Active base files: <*>
+s21, 230, Deleting instance files <*>
+s22, 231, Deletion of <*> complete
+s23, 232, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 233, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 234, Took <*> seconds to deallocate network for instance.
+s1, 235, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 236, HTTP exception thrown: No instances found for any event
+s9, 237, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s25, 238, Unknown base file: <*>
+s26, 239, Removable base files: <*>
+s41, 240, Base or swap file too young to remove: <*>
+s25, 241, Unknown base file: <*>
+s26, 242, Removable base files: <*>
+s27, 243, Removing base or swap file: <*>
+s9, 244, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 245, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 246, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 247, Total memory: <*> MB, used: <*> MB
+s31, 248, memory limit: <*> MB, free: <*> MB
+s32, 249, Total disk: <*> GB, used: <*> GB
+s33, 250, disk limit not specified, defaulting to unlimited
+s34, 251, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 252, vcpu limit not specified, defaulting to unlimited
+s36, 253, Claim successful
+s1, 254, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 255, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 256, Creating image
+s1, 257, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 258, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 259, VM Stopped (Lifecycle Event)
+s1, 260, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 261, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 262, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 263, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 264, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 265, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 266, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 267, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 268, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 269, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 270, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 271, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 272, image <*> at <*> checking
+s6, 273, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 274, Active base files: <*>
+s1, 275, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 276, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 277, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 278, VM Started (Lifecycle Event)
+s3, 279, VM Paused (Lifecycle Event)
+s1, 280, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s4, 281, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 282, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 283, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 284, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 285, image <*> at <*> checking
+s6, 286, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 287, Active base files: <*>
+s1, 288, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 289, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 290, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 291, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 292, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s14, 293, Auditing locally available compute resources for node <*>
+s8, 294, Creating event <*> for instance <*>
+s9, 295, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 296, VM Resumed (Lifecycle Event)
+s11, 297, Instance spawned successfully.
+s12, 298, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 299, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 300, VM Resumed (Lifecycle Event)
+s13, 301, Took <*> seconds to build instance.
+s15, 302, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 303, 
+s17, 304, Compute_service record updated for <*>
+s1, 305, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 306, image <*> at <*> checking
+s6, 307, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 308, Active base files: <*>
+s1, 309, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 310, image <*> at <*> checking
+s6, 311, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 312, Active base files: <*>
+s1, 313, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 314, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 315, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 316, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 317, Terminating instance
+s1, 318, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 319, Instance destroyed successfully.
+s1, 320, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 321, Deleting instance files <*>
+s22, 322, Deletion of <*> complete
+s23, 323, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 324, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 325, Took <*> seconds to deallocate network for instance.
+s1, 326, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s25, 327, Unknown base file: <*>
+s26, 328, Removable base files: <*>
+s41, 329, Base or swap file too young to remove: <*>
+s28, 330, HTTP exception thrown: No instances found for any event
+s9, 331, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s25, 332, Unknown base file: <*>
+s26, 333, Removable base files: <*>
+s27, 334, Removing base or swap file: <*>
+s9, 335, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 336, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 337, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 338, Total memory: <*> MB, used: <*> MB
+s31, 339, memory limit: <*> MB, free: <*> MB
+s32, 340, Total disk: <*> GB, used: <*> GB
+s33, 341, disk limit not specified, defaulting to unlimited
+s34, 342, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 343, vcpu limit not specified, defaulting to unlimited
+s36, 344, Claim successful
+s1, 345, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 346, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 347, Creating image
+s1, 348, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 349, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 350, VM Stopped (Lifecycle Event)
+s1, 351, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 352, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 353, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 354, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 355, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 356, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 357, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 358, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 359, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 360, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 361, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 362, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 363, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 364, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 365, VM Started (Lifecycle Event)
+s1, 366, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s3, 367, VM Paused (Lifecycle Event)
+s4, 368, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 369, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 370, image <*> at <*> checking
+s6, 371, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 372, Active base files: <*>
+s1, 373, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 374, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 375, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 376, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 377, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 378, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 379, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 380, image <*> at <*> checking
+s6, 381, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s8, 382, Creating event <*> for instance <*>
+s9, 383, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 384, VM Resumed (Lifecycle Event)
+s11, 385, Instance spawned successfully.
+s12, 386, Took <*> seconds to spawn the instance on the hypervisor.
+s1, 387, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 388, Active base files: <*>
+s4, 389, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 390, VM Resumed (Lifecycle Event)
+s13, 391, Took <*> seconds to build instance.
+s1, 392, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 393, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s39, 394, Successfully synced instances from host <*>
+s5, 395, image <*> at <*> checking
+s6, 396, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 397, Active base files: <*>
+s1, 398, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 399, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 400, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 401, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 402, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 403, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 404, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 405, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 406, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 407, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 408, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 409, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 410, Terminating instance
+s1, 411, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 412, Instance destroyed successfully.
+s1, 413, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 414, Deleting instance files <*>
+s22, 415, Deletion of <*> complete
+s23, 416, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 417, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 418, Took <*> seconds to deallocate network for instance.
+s5, 419, image <*> at <*> checking
+s6, 420, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 421, Active base files: <*>
+s1, 422, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 423, HTTP exception thrown: No instances found for any event
+s9, 424, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s25, 425, Unknown base file: <*>
+s26, 426, Removable base files: <*>
+s27, 427, Removing base or swap file: <*>
+s14, 428, Auditing locally available compute resources for node <*>
+s15, 429, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 430, 
+s17, 431, Compute_service record updated for <*>
+s9, 432, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 433, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 434, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 435, Total memory: <*> MB, used: <*> MB
+s31, 436, memory limit: <*> MB, free: <*> MB
+s32, 437, Total disk: <*> GB, used: <*> GB
+s33, 438, disk limit not specified, defaulting to unlimited
+s34, 439, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 440, vcpu limit not specified, defaulting to unlimited
+s36, 441, Claim successful
+s1, 442, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 443, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 444, Creating image
+s1, 445, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 446, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 447, VM Stopped (Lifecycle Event)
+s1, 448, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 449, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 450, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 451, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 452, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 453, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 454, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 455, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 456, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 457, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 458, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 459, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 460, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 461, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 462, image <*> at <*> checking
+s6, 463, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 464, Active base files: <*>
+s2, 465, VM Started (Lifecycle Event)
+s3, 466, VM Paused (Lifecycle Event)
+s1, 467, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s4, 468, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 469, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 470, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 471, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 472, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 473, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 474, image <*> at <*> checking
+s6, 475, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 476, Active base files: <*>
+s1, 477, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 478, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 479, Creating event <*> for instance <*>
+s9, 480, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 481, VM Resumed (Lifecycle Event)
+s11, 482, Instance spawned successfully.
+s12, 483, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 484, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 485, VM Resumed (Lifecycle Event)
+s13, 486, Took <*> seconds to build instance.
+s1, 487, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 488, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 489, image <*> at <*> checking
+s6, 490, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 491, Active base files: <*>
+s1, 492, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 493, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 494, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 495, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 496, Terminating instance
+s1, 497, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 498, Instance destroyed successfully.
+s1, 499, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 500, Deleting instance files <*>
+s22, 501, Deletion of <*> complete
+s23, 502, Took <*> seconds to destroy the instance on the hypervisor.
+s5, 503, image <*> at <*> checking
+s6, 504, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 505, Active base files: <*>
+s24, 506, Took <*> seconds to deallocate network for instance.
+s1, 507, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 508, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 509, HTTP exception thrown: No instances found for any event
+s9, 510, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s25, 511, Unknown base file: <*>
+s26, 512, Removable base files: <*>
+s27, 513, Removing base or swap file: <*>
+s9, 514, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 515, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 516, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 517, Total memory: <*> MB, used: <*> MB
+s31, 518, memory limit: <*> MB, free: <*> MB
+s32, 519, Total disk: <*> GB, used: <*> GB
+s33, 520, disk limit not specified, defaulting to unlimited
+s34, 521, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 522, vcpu limit not specified, defaulting to unlimited
+s36, 523, Claim successful
+s1, 524, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 525, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 526, Creating image
+s1, 527, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 528, VM Stopped (Lifecycle Event)
+s1, 529, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 530, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 531, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 532, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 533, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 534, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 535, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 536, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 537, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 538, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 539, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 540, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 541, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 542, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 543, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 544, image <*> at <*> checking
+s6, 545, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 546, Active base files: <*>
+s2, 547, VM Started (Lifecycle Event)
+s3, 548, VM Paused (Lifecycle Event)
+s1, 549, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s4, 550, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 551, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 552, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 553, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 554, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 555, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 556, image <*> at <*> checking
+s6, 557, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 558, Active base files: <*>
+s1, 559, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 560, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s14, 561, Auditing locally available compute resources for node <*>
+s1, 562, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s15, 563, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 564, 
+s17, 565, Compute_service record updated for <*>
+s1, 566, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 567, Creating event <*> for instance <*>
+s9, 568, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 569, VM Resumed (Lifecycle Event)
+s11, 570, Instance spawned successfully.
+s12, 571, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 572, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 573, VM Resumed (Lifecycle Event)
+s13, 574, Took <*> seconds to build instance.
+s1, 575, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 576, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 577, image <*> at <*> checking
+s6, 578, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 579, Active base files: <*>
+s1, 580, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 581, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 582, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 583, image <*> at <*> checking
+s6, 584, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 585, Active base files: <*>
+s1, 586, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 587, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s1, 588, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s19, 589, Terminating instance
+s20, 590, Instance destroyed successfully.
+s1, 591, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 592, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 593, Deleting instance files <*>
+s22, 594, Deletion of <*> complete
+s23, 595, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 596, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 597, Took <*> seconds to deallocate network for instance.
+s1, 598, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 599, HTTP exception thrown: No instances found for any event
+s9, 600, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s25, 601, Unknown base file: <*>
+s26, 602, Removable base files: <*>
+s41, 603, Base or swap file too young to remove: <*>
+s25, 604, Unknown base file: <*>
+s26, 605, Removable base files: <*>
+s27, 606, Removing base or swap file: <*>
+s9, 607, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 608, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 609, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 610, Total memory: <*> MB, used: <*> MB
+s31, 611, memory limit: <*> MB, free: <*> MB
+s32, 612, Total disk: <*> GB, used: <*> GB
+s33, 613, disk limit not specified, defaulting to unlimited
+s34, 614, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 615, vcpu limit not specified, defaulting to unlimited
+s36, 616, Claim successful
+s1, 617, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 618, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 619, Creating image
+s1, 620, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 621, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 622, VM Stopped (Lifecycle Event)
+s1, 623, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 624, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 625, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 626, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 627, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 628, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 629, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 630, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 631, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 632, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 633, image <*> at <*> checking
+s6, 634, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 635, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 636, Active base files: <*>
+s1, 637, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 638, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 639, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 640, VM Started (Lifecycle Event)
+s3, 641, VM Paused (Lifecycle Event)
+s4, 642, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 643, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 644, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 645, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 646, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 647, image <*> at <*> checking
+s6, 648, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 649, Active base files: <*>
+s1, 650, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 651, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 652, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 653, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 654, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s42, 655, The instance sync for host <*> did not match. <*> its InstanceList.
+s1, 656, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 657, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 658, Creating event <*> for instance <*>
+s9, 659, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 660, VM Resumed (Lifecycle Event)
+s11, 661, Instance spawned successfully.
+s12, 662, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 663, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 664, VM Resumed (Lifecycle Event)
+s5, 665, image <*> at <*> checking
+s6, 666, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s13, 667, Took <*> seconds to build instance.
+s7, 668, Active base files: <*>
+s1, 669, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 670, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 671, image <*> at <*> checking
+s6, 672, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 673, Active base files: <*>
+s1, 674, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 675, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 676, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 677, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 678, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 679, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 680, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 681, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 682, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 683, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 684, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 685, Terminating instance
+s1, 686, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 687, Instance destroyed successfully.
+s1, 688, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 689, Deleting instance files <*>
+s22, 690, Deletion of <*> complete
+s23, 691, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 692, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 693, Took <*> seconds to deallocate network for instance.
+s25, 694, Unknown base file: <*>
+s26, 695, Removable base files: <*>
+s27, 696, Removing base or swap file: <*>
+s1, 697, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 698, HTTP exception thrown: No instances found for any event
+s9, 699, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 700, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 701, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 702, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s14, 703, Auditing locally available compute resources for node <*>
+s15, 704, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 705, 
+s17, 706, Compute_service record updated for <*>
+s9, 707, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 708, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 709, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 710, Total memory: <*> MB, used: <*> MB
+s31, 711, memory limit: <*> MB, free: <*> MB
+s32, 712, Total disk: <*> GB, used: <*> GB
+s33, 713, disk limit not specified, defaulting to unlimited
+s34, 714, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 715, vcpu limit not specified, defaulting to unlimited
+s36, 716, Claim successful
+s1, 717, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 718, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 719, Creating image
+s1, 720, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 721, VM Stopped (Lifecycle Event)
+s1, 722, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 723, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 724, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 725, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 726, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 727, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 728, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 729, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 730, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 731, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 732, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 733, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 734, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 735, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 736, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 737, VM Started (Lifecycle Event)
+s3, 738, VM Paused (Lifecycle Event)
+s4, 739, During sync_power_state the instance has a pending task (spawning). Skip.
+s5, 740, image <*> at <*> checking
+s6, 741, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 742, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 743, Active base files: <*>
+s1, 744, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 745, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 746, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 747, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 748, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 749, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 750, image <*> at <*> checking
+s6, 751, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 752, Active base files: <*>
+s1, 753, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 754, Creating event <*> for instance <*>
+s9, 755, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 756, VM Resumed (Lifecycle Event)
+s11, 757, Instance spawned successfully.
+s12, 758, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 759, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 760, VM Resumed (Lifecycle Event)
+s13, 761, Took <*> seconds to build instance.
+s1, 762, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 763, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 764, image <*> at <*> checking
+s6, 765, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 766, Active base files: <*>
+s1, 767, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 768, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 769, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 770, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 771, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 772, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 773, Terminating instance
+s1, 774, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 775, Instance destroyed successfully.
+s1, 776, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 777, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 778, Deleting instance files <*>
+s22, 779, Deletion of <*> complete
+s23, 780, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 781, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 782, Took <*> seconds to deallocate network for instance.
+s25, 783, Unknown base file: <*>
+s26, 784, Removable base files: <*>
+s41, 785, Base or swap file too young to remove: <*>
+s1, 786, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 787, HTTP exception thrown: No instances found for any event
+s9, 788, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s25, 789, Unknown base file: <*>
+s26, 790, Removable base files: <*>
+s27, 791, Removing base or swap file: <*>
+s9, 792, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 793, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 794, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 795, Total memory: <*> MB, used: <*> MB
+s31, 796, memory limit: <*> MB, free: <*> MB
+s32, 797, Total disk: <*> GB, used: <*> GB
+s33, 798, disk limit not specified, defaulting to unlimited
+s34, 799, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 800, vcpu limit not specified, defaulting to unlimited
+s36, 801, Claim successful
+s1, 802, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 803, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 804, Creating image
+s1, 805, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 806, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 807, VM Stopped (Lifecycle Event)
+s1, 808, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 809, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 810, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 811, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 812, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 813, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 814, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 815, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 816, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 817, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 818, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 819, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 820, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 821, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 822, image <*> at <*> checking
+s6, 823, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 824, Active base files: <*>
+s1, 825, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 826, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 827, VM Started (Lifecycle Event)
+s3, 828, VM Paused (Lifecycle Event)
+s4, 829, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 830, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 831, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s14, 832, Auditing locally available compute resources for node <*>
+s15, 833, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 834, 
+s17, 835, Compute_service record updated for <*>
+s1, 836, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 837, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 838, image <*> at <*> checking
+s6, 839, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 840, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 841, Active base files: <*>
+s1, 842, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 843, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 844, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 845, Creating event <*> for instance <*>
+s9, 846, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 847, VM Resumed (Lifecycle Event)
+s11, 848, Instance spawned successfully.
+s12, 849, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 850, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 851, VM Resumed (Lifecycle Event)
+s13, 852, Took <*> seconds to build instance.
+s1, 853, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 854, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 855, image <*> at <*> checking
+s6, 856, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 857, Active base files: <*>
+s1, 858, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 859, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 860, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 861, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 862, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 863, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 864, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 865, Terminating instance
+s1, 866, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 867, image <*> at <*> checking
+s6, 868, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s20, 869, Instance destroyed successfully.
+s1, 870, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 871, Active base files: <*>
+s21, 872, Deleting instance files <*>
+s22, 873, Deletion of <*> complete
+s23, 874, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 875, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 876, Took <*> seconds to deallocate network for instance.
+s1, 877, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 878, HTTP exception thrown: No instances found for any event
+s9, 879, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s25, 880, Unknown base file: <*>
+s26, 881, Removable base files: <*>
+s27, 882, Removing base or swap file: <*>
+s9, 883, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 884, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 885, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 886, Total memory: <*> MB, used: <*> MB
+s31, 887, memory limit: <*> MB, free: <*> MB
+s32, 888, Total disk: <*> GB, used: <*> GB
+s33, 889, disk limit not specified, defaulting to unlimited
+s34, 890, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 891, vcpu limit not specified, defaulting to unlimited
+s36, 892, Claim successful
+s1, 893, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 894, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 895, Creating image
+s1, 896, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 897, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 898, VM Stopped (Lifecycle Event)
+s1, 899, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 900, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 901, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 902, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 903, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 904, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 905, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 906, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 907, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 908, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 909, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 910, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 911, image <*> at <*> checking
+s6, 912, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 913, Active base files: <*>
+s1, 914, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 915, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 916, VM Started (Lifecycle Event)
+s3, 917, VM Paused (Lifecycle Event)
+s4, 918, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 919, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 920, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 921, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 922, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s42, 923, The instance sync for host <*> did not match. <*> its InstanceList.
+s5, 924, image <*> at <*> checking
+s6, 925, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 926, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 927, Active base files: <*>
+s1, 928, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 929, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 930, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 931, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 932, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 933, Creating event <*> for instance <*>
+s9, 934, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 935, VM Resumed (Lifecycle Event)
+s11, 936, Instance spawned successfully.
+s12, 937, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 938, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 939, VM Resumed (Lifecycle Event)
+s13, 940, Took <*> seconds to build instance.
+s1, 941, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 942, image <*> at <*> checking
+s6, 943, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 944, Active base files: <*>
+s1, 945, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 946, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 947, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 948, image <*> at <*> checking
+s6, 949, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 950, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 951, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 952, Active base files: <*>
+s1, 953, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 954, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 955, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 956, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 957, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 958, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 959, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 960, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 961, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 962, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 963, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 964, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 965, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 966, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 967, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s1, 968, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s19, 969, Terminating instance
+s1, 970, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 971, Instance destroyed successfully.
+s1, 972, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 973, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 974, Deleting instance files <*>
+s22, 975, Deletion of <*> complete
+s23, 976, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 977, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 978, Took <*> seconds to deallocate network for instance.
+s1, 979, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 980, HTTP exception thrown: No instances found for any event
+s9, 981, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s25, 982, Unknown base file: <*>
+s26, 983, Removable base files: <*>
+s27, 984, Removing base or swap file: <*>
+s14, 985, Auditing locally available compute resources for node <*>
+s15, 986, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 987, 
+s17, 988, Compute_service record updated for <*>
+s9, 989, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 990, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 991, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 992, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 993, Total memory: <*> MB, used: <*> MB
+s31, 994, memory limit: <*> MB, free: <*> MB
+s32, 995, Total disk: <*> GB, used: <*> GB
+s33, 996, disk limit not specified, defaulting to unlimited
+s34, 997, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 998, vcpu limit not specified, defaulting to unlimited
+s36, 999, Claim successful
+s1, 1000, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 1001, Creating image
+s1, 1002, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1003, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 1004, VM Stopped (Lifecycle Event)
+s1, 1005, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1006, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1007, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1008, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1009, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1010, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1011, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1012, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1013, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1014, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1015, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1016, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1017, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1018, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1019, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1020, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 1021, VM Started (Lifecycle Event)
+s3, 1022, VM Paused (Lifecycle Event)
+s4, 1023, During sync_power_state the instance has a pending task (spawning). Skip.
+s5, 1024, image <*> at <*> checking
+s6, 1025, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1026, Active base files: <*>
+s1, 1027, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1028, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1029, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1030, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1031, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1032, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 1033, Creating event <*> for instance <*>
+s9, 1034, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 1035, VM Resumed (Lifecycle Event)
+s11, 1036, Instance spawned successfully.
+s12, 1037, Took <*> seconds to spawn the instance on the hypervisor.
+s5, 1038, image <*> at <*> checking
+s6, 1039, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 1040, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s10, 1041, VM Resumed (Lifecycle Event)
+s13, 1042, Took <*> seconds to build instance.
+s7, 1043, Active base files: <*>
+s1, 1044, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1045, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1046, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1047, image <*> at <*> checking
+s6, 1048, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1049, Active base files: <*>
+s1, 1050, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1051, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1052, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1053, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1054, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1055, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1056, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1057, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1058, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 1059, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 1060, Terminating instance
+s20, 1061, Instance destroyed successfully.
+s1, 1062, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1063, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 1064, Deleting instance files <*>
+s22, 1065, Deletion of <*> complete
+s23, 1066, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 1067, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 1068, Took <*> seconds to deallocate network for instance.
+s25, 1069, Unknown base file: <*>
+s26, 1070, Removable base files: <*>
+s27, 1071, Removing base or swap file: <*>
+s1, 1072, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 1073, HTTP exception thrown: No instances found for any event
+s9, 1074, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s9, 1075, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 1076, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 1077, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 1078, Total memory: <*> MB, used: <*> MB
+s31, 1079, memory limit: <*> MB, free: <*> MB
+s32, 1080, Total disk: <*> GB, used: <*> GB
+s33, 1081, disk limit not specified, defaulting to unlimited
+s34, 1082, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 1083, vcpu limit not specified, defaulting to unlimited
+s36, 1084, Claim successful
+s1, 1085, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1086, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 1087, Creating image
+s1, 1088, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 1089, VM Stopped (Lifecycle Event)
+s1, 1090, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1091, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1092, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1093, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1094, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1095, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1096, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1097, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1098, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1099, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1100, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1101, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1102, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s14, 1103, Auditing locally available compute resources for node <*>
+s15, 1104, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 1105, 
+s17, 1106, Compute_service record updated for <*>
+s1, 1107, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1108, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1109, image <*> at <*> checking
+s6, 1110, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s2, 1111, VM Started (Lifecycle Event)
+s3, 1112, VM Paused (Lifecycle Event)
+s7, 1113, Active base files: <*>
+s4, 1114, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 1115, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1116, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1117, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1118, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1119, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1120, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1121, image <*> at <*> checking
+s6, 1122, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1123, Active base files: <*>
+s1, 1124, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1125, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 1126, Creating event <*> for instance <*>
+s9, 1127, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 1128, VM Resumed (Lifecycle Event)
+s11, 1129, Instance spawned successfully.
+s12, 1130, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 1131, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 1132, VM Resumed (Lifecycle Event)
+s13, 1133, Took <*> seconds to build instance.
+s1, 1134, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1135, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1136, image <*> at <*> checking
+s6, 1137, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1138, Active base files: <*>
+s1, 1139, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1140, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1141, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1142, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 1143, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 1144, Terminating instance
+s1, 1145, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 1146, Instance destroyed successfully.
+s1, 1147, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 1148, Deleting instance files <*>
+s22, 1149, Deletion of <*> complete
+s23, 1150, Took <*> seconds to destroy the instance on the hypervisor.
+s5, 1151, image <*> at <*> checking
+s6, 1152, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1153, Active base files: <*>
+s1, 1154, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 1155, Took <*> seconds to deallocate network for instance.
+s1, 1156, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 1157, HTTP exception thrown: No instances found for any event
+s9, 1158, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s25, 1159, Unknown base file: <*>
+s26, 1160, Removable base files: <*>
+s27, 1161, Removing base or swap file: <*>
+s9, 1162, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 1163, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 1164, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 1165, Total memory: <*> MB, used: <*> MB
+s31, 1166, memory limit: <*> MB, free: <*> MB
+s32, 1167, Total disk: <*> GB, used: <*> GB
+s33, 1168, disk limit not specified, defaulting to unlimited
+s34, 1169, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 1170, vcpu limit not specified, defaulting to unlimited
+s36, 1171, Claim successful
+s1, 1172, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1173, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 1174, Creating image
+s1, 1175, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 1176, VM Stopped (Lifecycle Event)
+s1, 1177, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1178, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1179, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1180, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1181, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1182, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1183, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1184, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1185, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1186, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1187, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1188, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1189, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1190, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1191, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1192, image <*> at <*> checking
+s6, 1193, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1194, Active base files: <*>
+s2, 1195, VM Started (Lifecycle Event)
+s3, 1196, VM Paused (Lifecycle Event)
+s4, 1197, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 1198, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1199, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1200, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1201, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s42, 1202, The instance sync for host <*> did not match. <*> its InstanceList.
+s1, 1203, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1204, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1205, image <*> at <*> checking
+s6, 1206, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1207, Active base files: <*>
+s1, 1208, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1209, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1210, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 1211, Creating event <*> for instance <*>
+s9, 1212, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 1213, VM Resumed (Lifecycle Event)
+s1, 1214, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s11, 1215, Instance spawned successfully.
+s12, 1216, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 1217, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 1218, VM Resumed (Lifecycle Event)
+s13, 1219, Took <*> seconds to build instance.
+s1, 1220, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1221, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1222, image <*> at <*> checking
+s6, 1223, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1224, Active base files: <*>
+s1, 1225, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1226, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1227, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1228, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1229, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1230, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1231, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1232, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1233, image <*> at <*> checking
+s6, 1234, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 1235, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 1236, Active base files: <*>
+s1, 1237, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1238, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1239, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1240, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1241, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 1242, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 1243, Terminating instance
+s1, 1244, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 1245, Instance destroyed successfully.
+s1, 1246, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 1247, Deleting instance files <*>
+s22, 1248, Deletion of <*> complete
+s23, 1249, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 1250, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 1251, Took <*> seconds to deallocate network for instance.
+s1, 1252, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 1253, HTTP exception thrown: No instances found for any event
+s9, 1254, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s14, 1255, Auditing locally available compute resources for node <*>
+s15, 1256, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 1257, 
+s17, 1258, Compute_service record updated for <*>
+s25, 1259, Unknown base file: <*>
+s26, 1260, Removable base files: <*>
+s41, 1261, Base or swap file too young to remove: <*>
+s25, 1262, Unknown base file: <*>
+s26, 1263, Removable base files: <*>
+s27, 1264, Removing base or swap file: <*>
+s9, 1265, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 1266, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 1267, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 1268, Total memory: <*> MB, used: <*> MB
+s31, 1269, memory limit: <*> MB, free: <*> MB
+s32, 1270, Total disk: <*> GB, used: <*> GB
+s33, 1271, disk limit not specified, defaulting to unlimited
+s34, 1272, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 1273, vcpu limit not specified, defaulting to unlimited
+s36, 1274, Claim successful
+s1, 1275, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1276, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 1277, Creating image
+s1, 1278, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 1279, VM Stopped (Lifecycle Event)
+s1, 1280, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1281, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1282, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1283, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1284, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1285, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1286, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1287, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1288, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1289, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1290, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1291, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1292, image <*> at <*> checking
+s6, 1293, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1294, Active base files: <*>
+s1, 1295, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1296, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s43, 1297, While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.
+s1, 1298, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 1299, VM Started (Lifecycle Event)
+s1, 1300, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s3, 1301, VM Paused (Lifecycle Event)
+s4, 1302, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 1303, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1304, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1305, image <*> at <*> checking
+s6, 1306, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 1307, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 1308, Active base files: <*>
+s1, 1309, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1310, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1311, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1312, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 1313, Creating event <*> for instance <*>
+s9, 1314, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 1315, VM Resumed (Lifecycle Event)
+s11, 1316, Instance spawned successfully.
+s12, 1317, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 1318, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 1319, VM Resumed (Lifecycle Event)
+s13, 1320, Took <*> seconds to build instance.
+s4, 1321, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 1322, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1323, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1324, image <*> at <*> checking
+s6, 1325, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1326, Active base files: <*>
+s1, 1327, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1328, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1329, image <*> at <*> checking
+s6, 1330, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1331, Active base files: <*>
+s1, 1332, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1333, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1334, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1335, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1336, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1337, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1338, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1339, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1340, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1341, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1342, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1343, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 1344, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 1345, Terminating instance
+s1, 1346, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 1347, Instance destroyed successfully.
+s1, 1348, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 1349, Deleting instance files <*>
+s22, 1350, Deletion of <*> complete
+s23, 1351, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 1352, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 1353, Took <*> seconds to deallocate network for instance.
+s1, 1354, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s25, 1355, Unknown base file: <*>
+s26, 1356, Removable base files: <*>
+s27, 1357, Removing base or swap file: <*>
+s28, 1358, HTTP exception thrown: No instances found for any event
+s9, 1359, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s9, 1360, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 1361, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 1362, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 1363, Total memory: <*> MB, used: <*> MB
+s31, 1364, memory limit: <*> MB, free: <*> MB
+s32, 1365, Total disk: <*> GB, used: <*> GB
+s33, 1366, disk limit not specified, defaulting to unlimited
+s34, 1367, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 1368, vcpu limit not specified, defaulting to unlimited
+s36, 1369, Claim successful
+s1, 1370, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1371, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 1372, Creating image
+s1, 1373, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1374, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 1375, VM Stopped (Lifecycle Event)
+s1, 1376, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1377, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1378, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1379, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1380, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1381, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1382, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1383, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1384, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1385, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s14, 1386, Auditing locally available compute resources for node <*>
+s15, 1387, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 1388, 
+s17, 1389, Compute_service record updated for <*>
+s1, 1390, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1391, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1392, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1393, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 1394, VM Started (Lifecycle Event)
+s3, 1395, VM Paused (Lifecycle Event)
+s4, 1396, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 1397, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1398, image <*> at <*> checking
+s6, 1399, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 1400, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 1401, Active base files: <*>
+s1, 1402, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1403, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1404, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1405, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1406, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1407, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1408, image <*> at <*> checking
+s6, 1409, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1410, Active base files: <*>
+s8, 1411, Creating event <*> for instance <*>
+s9, 1412, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 1413, VM Resumed (Lifecycle Event)
+s11, 1414, Instance spawned successfully.
+s12, 1415, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 1416, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 1417, VM Resumed (Lifecycle Event)
+s13, 1418, Took <*> seconds to build instance.
+s1, 1419, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1420, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1421, image <*> at <*> checking
+s6, 1422, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1423, Active base files: <*>
+s1, 1424, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1425, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1426, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1427, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1428, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1429, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1430, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 1431, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 1432, Terminating instance
+s1, 1433, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 1434, Instance destroyed successfully.
+s1, 1435, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 1436, Deleting instance files <*>
+s22, 1437, Deletion of <*> complete
+s23, 1438, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 1439, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 1440, Took <*> seconds to deallocate network for instance.
+s25, 1441, Unknown base file: <*>
+s26, 1442, Removable base files: <*>
+s27, 1443, Removing base or swap file: <*>
+s1, 1444, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 1445, HTTP exception thrown: No instances found for any event
+s9, 1446, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s9, 1447, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 1448, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 1449, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 1450, Total memory: <*> MB, used: <*> MB
+s31, 1451, memory limit: <*> MB, free: <*> MB
+s32, 1452, Total disk: <*> GB, used: <*> GB
+s33, 1453, disk limit not specified, defaulting to unlimited
+s34, 1454, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 1455, vcpu limit not specified, defaulting to unlimited
+s36, 1456, Claim successful
+s1, 1457, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1458, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 1459, Creating image
+s1, 1460, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1461, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 1462, VM Stopped (Lifecycle Event)
+s1, 1463, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1464, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1465, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1466, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1467, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1468, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1469, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1470, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1471, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1472, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1473, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1474, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1475, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1476, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 1477, VM Started (Lifecycle Event)
+s3, 1478, VM Paused (Lifecycle Event)
+s4, 1479, During sync_power_state the instance has a pending task (spawning). Skip.
+s42, 1480, The instance sync for host <*> did not match. <*> its InstanceList.
+s5, 1481, image <*> at <*> checking
+s6, 1482, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 1483, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 1484, Active base files: <*>
+s1, 1485, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1486, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1487, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1488, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1489, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1490, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1491, image <*> at <*> checking
+s6, 1492, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 1493, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 1494, Active base files: <*>
+s1, 1495, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1496, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 1497, Creating event <*> for instance <*>
+s9, 1498, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 1499, VM Resumed (Lifecycle Event)
+s11, 1500, Instance spawned successfully.
+s12, 1501, Took <*> seconds to spawn the instance on the hypervisor.
+s13, 1502, Took <*> seconds to build instance.
+s10, 1503, VM Resumed (Lifecycle Event)
+s1, 1504, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1505, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1506, image <*> at <*> checking
+s6, 1507, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1508, Active base files: <*>
+s1, 1509, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1510, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1511, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1512, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1513, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1514, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 1515, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 1516, Terminating instance
+s1, 1517, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 1518, Instance destroyed successfully.
+s1, 1519, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 1520, Deleting instance files <*>
+s22, 1521, Deletion of <*> complete
+s5, 1522, image <*> at <*> checking
+s6, 1523, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s23, 1524, Took <*> seconds to destroy the instance on the hypervisor.
+s7, 1525, Active base files: <*>
+s1, 1526, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 1527, Took <*> seconds to deallocate network for instance.
+s1, 1528, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s14, 1529, Auditing locally available compute resources for node <*>
+s28, 1530, HTTP exception thrown: No instances found for any event
+s9, 1531, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s15, 1532, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 1533, 
+s17, 1534, Compute_service record updated for <*>
+s25, 1535, Unknown base file: <*>
+s26, 1536, Removable base files: <*>
+s41, 1537, Base or swap file too young to remove: <*>
+s25, 1538, Unknown base file: <*>
+s26, 1539, Removable base files: <*>
+s27, 1540, Removing base or swap file: <*>
+s9, 1541, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 1542, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 1543, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 1544, Total memory: <*> MB, used: <*> MB
+s31, 1545, memory limit: <*> MB, free: <*> MB
+s32, 1546, Total disk: <*> GB, used: <*> GB
+s33, 1547, disk limit not specified, defaulting to unlimited
+s34, 1548, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 1549, vcpu limit not specified, defaulting to unlimited
+s36, 1550, Claim successful
+s1, 1551, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1552, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 1553, Creating image
+s1, 1554, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 1555, VM Stopped (Lifecycle Event)
+s1, 1556, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1557, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1558, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1559, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1560, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1561, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1562, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1563, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1564, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1565, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1566, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1567, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1568, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1569, image <*> at <*> checking
+s6, 1570, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1571, Active base files: <*>
+s1, 1572, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1573, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 1574, VM Started (Lifecycle Event)
+s3, 1575, VM Paused (Lifecycle Event)
+s4, 1576, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 1577, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1578, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1579, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1580, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1581, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1582, image <*> at <*> checking
+s6, 1583, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1584, Active base files: <*>
+s1, 1585, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1586, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1587, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 1588, Creating event <*> for instance <*>
+s9, 1589, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 1590, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s10, 1591, VM Resumed (Lifecycle Event)
+s11, 1592, Instance spawned successfully.
+s12, 1593, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 1594, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 1595, VM Resumed (Lifecycle Event)
+s13, 1596, Took <*> seconds to build instance.
+s1, 1597, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1598, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1599, image <*> at <*> checking
+s6, 1600, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 1601, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 1602, Active base files: <*>
+s1, 1603, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1604, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1605, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1606, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1607, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1608, image <*> at <*> checking
+s6, 1609, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 1610, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1611, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1612, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 1613, Active base files: <*>
+s1, 1614, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1615, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1616, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1617, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1618, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1619, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1620, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1621, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1622, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 1623, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 1624, Terminating instance
+s1, 1625, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 1626, Instance destroyed successfully.
+s1, 1627, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 1628, Deleting instance files <*>
+s22, 1629, Deletion of <*> complete
+s23, 1630, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 1631, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 1632, Took <*> seconds to deallocate network for instance.
+s1, 1633, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s25, 1634, Unknown base file: <*>
+s28, 1635, HTTP exception thrown: No instances found for any event
+s26, 1636, Removable base files: <*>
+s41, 1637, Base or swap file too young to remove: <*>
+s9, 1638, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s25, 1639, Unknown base file: <*>
+s26, 1640, Removable base files: <*>
+s27, 1641, Removing base or swap file: <*>
+s9, 1642, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 1643, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 1644, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 1645, Total memory: <*> MB, used: <*> MB
+s31, 1646, memory limit: <*> MB, free: <*> MB
+s32, 1647, Total disk: <*> GB, used: <*> GB
+s33, 1648, disk limit not specified, defaulting to unlimited
+s34, 1649, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 1650, vcpu limit not specified, defaulting to unlimited
+s36, 1651, Claim successful
+s1, 1652, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1653, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 1654, Creating image
+s1, 1655, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1656, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 1657, VM Stopped (Lifecycle Event)
+s1, 1658, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1659, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1660, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1661, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1662, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1663, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1664, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1665, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1666, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1667, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s14, 1668, Auditing locally available compute resources for node <*>
+s15, 1669, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 1670, 
+s17, 1671, Compute_service record updated for <*>
+s5, 1672, image <*> at <*> checking
+s6, 1673, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1674, Active base files: <*>
+s1, 1675, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1676, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1677, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1678, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 1679, VM Started (Lifecycle Event)
+s3, 1680, VM Paused (Lifecycle Event)
+s4, 1681, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 1682, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1683, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1684, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1685, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1686, image <*> at <*> checking
+s6, 1687, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1688, Active base files: <*>
+s1, 1689, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1690, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1691, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1692, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 1693, Creating event <*> for instance <*>
+s9, 1694, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 1695, VM Resumed (Lifecycle Event)
+s11, 1696, Instance spawned successfully.
+s12, 1697, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 1698, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 1699, VM Resumed (Lifecycle Event)
+s13, 1700, Took <*> seconds to build instance.
+s5, 1701, image <*> at <*> checking
+s6, 1702, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1703, Active base files: <*>
+s1, 1704, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1705, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1706, image <*> at <*> checking
+s6, 1707, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1708, Active base files: <*>
+s1, 1709, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1710, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1711, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1712, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1713, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1714, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 1715, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 1716, Terminating instance
+s1, 1717, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 1718, Instance destroyed successfully.
+s1, 1719, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 1720, Deleting instance files <*>
+s22, 1721, Deletion of <*> complete
+s23, 1722, Took <*> seconds to destroy the instance on the hypervisor.
+s24, 1723, Took <*> seconds to deallocate network for instance.
+s1, 1724, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1725, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s25, 1726, Unknown base file: <*>
+s26, 1727, Removable base files: <*>
+s27, 1728, Removing base or swap file: <*>
+s28, 1729, HTTP exception thrown: No instances found for any event
+s9, 1730, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s9, 1731, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 1732, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 1733, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 1734, Total memory: <*> MB, used: <*> MB
+s31, 1735, memory limit: <*> MB, free: <*> MB
+s32, 1736, Total disk: <*> GB, used: <*> GB
+s33, 1737, disk limit not specified, defaulting to unlimited
+s34, 1738, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 1739, vcpu limit not specified, defaulting to unlimited
+s36, 1740, Claim successful
+s1, 1741, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1742, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 1743, Creating image
+s1, 1744, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1745, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 1746, VM Stopped (Lifecycle Event)
+s1, 1747, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1748, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1749, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1750, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1751, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1752, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1753, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1754, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1755, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1756, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1757, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1758, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1759, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1760, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 1761, VM Started (Lifecycle Event)
+s42, 1762, The instance sync for host <*> did not match. <*> its InstanceList.
+s3, 1763, VM Paused (Lifecycle Event)
+s1, 1764, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s4, 1765, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 1766, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1767, image <*> at <*> checking
+s6, 1768, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1769, Active base files: <*>
+s1, 1770, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1771, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1772, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1773, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1774, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1775, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1776, image <*> at <*> checking
+s6, 1777, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1778, Active base files: <*>
+s1, 1779, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1780, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 1781, Creating event <*> for instance <*>
+s9, 1782, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 1783, VM Resumed (Lifecycle Event)
+s11, 1784, Instance spawned successfully.
+s12, 1785, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 1786, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 1787, VM Resumed (Lifecycle Event)
+s13, 1788, Took <*> seconds to build instance.
+s1, 1789, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1790, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1791, image <*> at <*> checking
+s6, 1792, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1793, Active base files: <*>
+s1, 1794, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1795, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1796, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1797, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1798, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1799, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1800, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1801, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 1802, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 1803, Terminating instance
+s1, 1804, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 1805, Instance destroyed successfully.
+s1, 1806, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 1807, Deleting instance files <*>
+s22, 1808, Deletion of <*> complete
+s23, 1809, Took <*> seconds to destroy the instance on the hypervisor.
+s14, 1810, Auditing locally available compute resources for node <*>
+s1, 1811, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 1812, Took <*> seconds to deallocate network for instance.
+s15, 1813, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 1814, 
+s17, 1815, Compute_service record updated for <*>
+s25, 1816, Unknown base file: <*>
+s26, 1817, Removable base files: <*>
+s41, 1818, Base or swap file too young to remove: <*>
+s1, 1819, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 1820, HTTP exception thrown: No instances found for any event
+s9, 1821, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s25, 1822, Unknown base file: <*>
+s26, 1823, Removable base files: <*>
+s27, 1824, Removing base or swap file: <*>
+s9, 1825, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 1826, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 1827, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 1828, Total memory: <*> MB, used: <*> MB
+s31, 1829, memory limit: <*> MB, free: <*> MB
+s32, 1830, Total disk: <*> GB, used: <*> GB
+s33, 1831, disk limit not specified, defaulting to unlimited
+s34, 1832, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 1833, vcpu limit not specified, defaulting to unlimited
+s36, 1834, Claim successful
+s1, 1835, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1836, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 1837, Creating image
+s1, 1838, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1839, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 1840, VM Stopped (Lifecycle Event)
+s1, 1841, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1842, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1843, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1844, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1845, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1846, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1847, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1848, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1849, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1850, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1851, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1852, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1853, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1854, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1855, image <*> at <*> checking
+s6, 1856, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1857, Active base files: <*>
+s2, 1858, VM Started (Lifecycle Event)
+s3, 1859, VM Paused (Lifecycle Event)
+s4, 1860, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 1861, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1862, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1863, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1864, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1865, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1866, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1867, image <*> at <*> checking
+s6, 1868, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1869, Active base files: <*>
+s1, 1870, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1871, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1872, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1873, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 1874, Creating event <*> for instance <*>
+s9, 1875, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 1876, VM Resumed (Lifecycle Event)
+s11, 1877, Instance spawned successfully.
+s12, 1878, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 1879, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 1880, VM Resumed (Lifecycle Event)
+s13, 1881, Took <*> seconds to build instance.
+s1, 1882, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1883, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1884, image <*> at <*> checking
+s6, 1885, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1886, Active base files: <*>
+s1, 1887, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1888, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1889, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1890, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1891, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1892, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1893, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1894, image <*> at <*> checking
+s6, 1895, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s18, 1896, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 1897, Terminating instance
+s7, 1898, Active base files: <*>
+s1, 1899, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 1900, Instance destroyed successfully.
+s1, 1901, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s21, 1902, Deleting instance files <*>
+s22, 1903, Deletion of <*> complete
+s23, 1904, Took <*> seconds to destroy the instance on the hypervisor.
+s1, 1905, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s24, 1906, Took <*> seconds to deallocate network for instance.
+s1, 1907, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s28, 1908, HTTP exception thrown: No instances found for any event
+s9, 1909, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s25, 1910, Unknown base file: <*>
+s26, 1911, Removable base files: <*>
+s41, 1912, Base or swap file too young to remove: <*>
+s25, 1913, Unknown base file: <*>
+s26, 1914, Removable base files: <*>
+s27, 1915, Removing base or swap file: <*>
+s9, 1916, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s1, 1917, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s29, 1918, Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU
+s30, 1919, Total memory: <*> MB, used: <*> MB
+s31, 1920, memory limit: <*> MB, free: <*> MB
+s32, 1921, Total disk: <*> GB, used: <*> GB
+s33, 1922, disk limit not specified, defaulting to unlimited
+s34, 1923, Total vcpu: <*> VCPU, used: <*> VCPU
+s35, 1924, vcpu limit not specified, defaulting to unlimited
+s36, 1925, Claim successful
+s1, 1926, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1927, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s37, 1928, Creating image
+s1, 1929, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1930, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s38, 1931, VM Stopped (Lifecycle Event)
+s1, 1932, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1933, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1934, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1935, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s14, 1936, Auditing locally available compute resources for node <*>
+s1, 1937, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1938, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s15, 1939, Total usable vcpus: <*> total allocated vcpus: <*>
+s16, 1940, 
+s17, 1941, Compute_service record updated for <*>
+s1, 1942, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1943, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1944, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1945, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1946, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1947, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1948, image <*> at <*> checking
+s6, 1949, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1950, Active base files: <*>
+s1, 1951, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1952, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1953, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s2, 1954, VM Started (Lifecycle Event)
+s3, 1955, VM Paused (Lifecycle Event)
+s1, 1956, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s4, 1957, During sync_power_state the instance has a pending task (spawning). Skip.
+s1, 1958, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1959, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1960, image <*> at <*> checking
+s6, 1961, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1962, Active base files: <*>
+s1, 1963, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1964, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1965, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1966, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s8, 1967, Creating event <*> for instance <*>
+s9, 1968, <*> "POST <*> <*> status: <*> len: <*> time: <*>
+s10, 1969, VM Resumed (Lifecycle Event)
+s11, 1970, Instance spawned successfully.
+s12, 1971, Took <*> seconds to spawn the instance on the hypervisor.
+s4, 1972, During sync_power_state the instance has a pending task (spawning). Skip.
+s10, 1973, VM Resumed (Lifecycle Event)
+s13, 1974, Took <*> seconds to build instance.
+s1, 1975, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1976, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1977, image <*> at <*> checking
+s6, 1978, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s7, 1979, Active base files: <*>
+s1, 1980, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1981, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s5, 1982, image <*> at <*> checking
+s6, 1983, image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage
+s1, 1984, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1985, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s7, 1986, Active base files: <*>
+s1, 1987, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1988, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1989, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1990, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1991, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1992, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1993, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1994, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s1, 1995, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s18, 1996, <*> "DELETE <*> <*> status: <*> len: <*> time: <*>
+s19, 1997, Terminating instance
+s1, 1998, <*> "GET <*> <*> status: <*> len: <*> time: <*>
+s20, 1999, Instance destroyed successfully.
+s1, 2000, <*> "GET <*> <*> status: <*> len: <*> time: <*>

@@ -1,0 +1,14 @@
+symbol: s26
+template: Notification: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> (my state)
+598,3,(n.leader),,0x700000197,(n.zxid),,0x1,(n.round),,LEADING,(n.state),,3,(n.sid),,0x7,(n.peerEPoch),,
+625,2,(n.leader),,0xb00000084,(n.zxid),,0x2,(n.round),,LOOKING,(n.state),,1,(n.sid),,0xb,(n.peerEPoch),,
+626,3,(n.leader),,0xb0000007b,(n.zxid),,0x2,(n.round),,LOOKING,(n.state),,3,(n.sid),,0xb,(n.peerEPoch),,
+1268,3,(n.leader),,0x10000006b,(n.zxid),,0x2,(n.round),,LOOKING,(n.state),,3,(n.sid),,0x1,(n.peerEPoch),,
+1420,2,(n.leader),,0xa0000009a,(n.zxid),,0x1,(n.round),,FOLLOWING,(n.state),,1,(n.sid),,0xa,(n.peerEPoch),,
+1434,1,(n.leader),,0xb0000007b,(n.zxid),,0x2,(n.round),,LOOKING,(n.state),,1,(n.sid),,0xb,(n.peerEPoch),,
+1435,1,(n.leader),,0xb0000007b,(n.zxid),,0x2,(n.round),,LOOKING,(n.state),,1,(n.sid),,0xb,(n.peerEPoch),,
+1463,3,(n.leader),,0x0,(n.zxid),,0x1,(n.round),,LOOKING,(n.state),,3,(n.sid),,0x0,(n.peerEPoch),,
+1464,3,(n.leader),,0x0,(n.zxid),,0x1,(n.round),,LOOKING,(n.state),,3,(n.sid),,0x0,(n.peerEPoch),,
+1922,3,(n.leader),,0x10000006b,(n.zxid),,0x2,(n.round),,LOOKING,(n.state),,3,(n.sid),,0x1,(n.peerEPoch),,
+1959,3,(n.leader),,0x100001564,(n.zxid),,0x3,(n.round),,FOLLOWING,(n.state),,3,(n.sid),,0x2,(n.peerEPoch),,
+1995,3,(n.leader),,0x700000197,(n.zxid),,0x1,(n.round),,LOOKING,(n.state),,3,(n.sid),,0x7,(n.peerEPoch),,

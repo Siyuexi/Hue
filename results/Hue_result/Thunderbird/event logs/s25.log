@@ -1,0 +1,7 @@
+symbol: s25
+template: My unqualified host name <*> unknown; sleeping for retry
+1162,(eadmin1),
+1163,(aadmin1),
+1164,(badmin1),
+1168,(cadmin1),
+1170,(dadmin1),

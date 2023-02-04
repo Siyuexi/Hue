@@ -1,0 +1,9 @@
+symbol: s56
+template: Setting BTCoex Config: <*> <*> <*> <*>
+102,enable_2G:1,,profile_2g:0,,enable_5G:1,,profile_5G:0,
+134,enable_2G:1,,profile_2g:0,,enable_5G:1,,profile_5G:0,
+302,enable_2G:1,,profile_2g:0,,enable_5G:1,,profile_5G:0,
+875,enable_2G:1,,profile_2g:0,,enable_5G:1,,profile_5G:0,
+1206,enable_2G:1,,profile_2g:0,,enable_5G:1,,profile_5G:0,
+1807,enable_2G:1,,profile_2g:0,,enable_5G:1,,profile_5G:0,
+1953,enable_2G:1,,profile_2g:0,,enable_5G:1,,profile_5G:0,

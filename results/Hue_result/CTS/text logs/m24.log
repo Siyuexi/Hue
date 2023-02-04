@@ -1,0 +1,10 @@
+symbol: m24
+identifier: undo netconf Error: command found at '^' position
+667,
+|| undo netconf
+||   ^
+||Error: command found at '^' position
+1552,
+|| undo netconf
+||   ^
+||Error: command found at '^' position

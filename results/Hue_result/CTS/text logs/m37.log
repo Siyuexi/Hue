@@ -1,0 +1,6 @@
+symbol: m37
+identifier: The current login time is <*> <*>
+917,2019-01-11,16:00:13.,
+|| 
+||Info: The max number of VTY users is 26, the number of current VTY users online is 7, and total number of terminal users online is 7.
+|| The current login time is 2019-01-11 16:00:13.

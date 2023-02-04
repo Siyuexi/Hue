@@ -1,0 +1,6 @@
+symbol: s25
+template: Link error on broadcast tree <*>
+319,Interconnect-0T00:00:2:1,
+320,Interconnect-1T00:00:3:6,
+321,Interconnect-1T00:00:2:0,
+322,Interconnect-1T00:00:2:0,

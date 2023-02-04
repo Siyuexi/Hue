@@ -1,0 +1,4 @@
+symbol: s6
+template: mDNS_DeregisterInterface: Frequent transitions for interface awdl0 <*>
+6,(FE80:0000:0000:0000:D8A5:90FF:FEF5:7FFF),
+43,(FE80:0000:0000:0000:D8A5:90FF:FEF5:7FFF),

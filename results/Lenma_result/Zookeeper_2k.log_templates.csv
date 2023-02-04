@@ -1,0 +1,57 @@
+EventId,EventTemplate,Occurrences
+2f812e41,Notification time out: ,37
+e8d8d50d,Received connection request <*>,299
+2f792fdd,Send worker leaving thread,262
+0780b54c,Interrupted while waiting for message on queue,314
+0cace660,"Connection broken for id 188978561024, my id =  error =",289
+c392bf2d,Interrupting SendWorker,266
+87226ad0,Closed socket connection for client <*> which had sessionid ,44
+e4df7d6f,caught end of stream exception,37
+4261dc00,Client attempting to renew session  at <*>,3
+5c70aa69,Client attempting to establish new session at <*>,41
+1e0768c1,Established session  with negotiated timeout  for client <*>,50
+5f33d890,Accepted socket connection from <*>,48
+68eb6b09,Unexpected Exception:,1
+62370915,Connection request from old client <*>; will be dropped if server is in r-o mode,39
+b318128d,Server environment:user.dir=/,1
+3b7aae9b,Cannot open channel to  at election address <*>,86
+601b70f5,Processed session termination for sessionid: ,47
+d99e8832,Expiring session  timeout of  exceeded,40
+9dde456f,******* GOODBYE <*> ********,19
+d8b815b6,LOOKING,4
+b203390b,My election bind port: <*><*>,1
+288e93da,"Have smaller server identifier, so dropping the connection: (2, 1)",1
+3370cdfe,FOLLOWING,2
+bb83c43e,"New election. My id = 1, proposed zxid=0x700000000",1
+3ccafedd,Server environment:host.name=mesos-master-1,1
+9c23f19e,FOLLOWING - LEADER ELECTION TOOK - ,2
+73407c50,"Notification:  (n.leader),  (n.zxid),  (n.round),  (n.state),  (n.sid),  (n.peerEPoch),  (my state)",12
+7ce6ebaa,autopurge.snapRetainCount set to 3,1
+8fc4030d,Server environment:java.vendor=Oracle Corporation,2
+a22d3f18,Revalidating client: 0x14f05578bd80018,1
+c91ddb28,"Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT",1
+a1bf33cd,Server environment:user.name=zookeeper,2
+73b6a9ae,Revalidating client: 0x14f05578bd80013,1
+a2c69338,Server environment:os.name=Linux,2
+4fb07033,Closed socket connection for client <*> (no session established for client),4
+12842c62,Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running,3
+f3711f1b,tickTime set to 2000,1
+455af2d2,Connection broken for id  my id =  error =,2
+34153587,Unexpected exception causing shutdown while sock still open,12
+b579a1d0,Got user-level KeeperException when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper,1
+0511920d,Starting quorum peer,1
+3c7b03d0,Snapshotting: 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,1
+09fb92f8,autopurge.purgeInterval set to 0,3
+2882eb9c,Snapshotting: 0x50000062e to /var/lib/zookeeper/version-2/snapshot.50000062e,1
+1ce454df,Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,1
+a0609df7,Revalidating client: 0x24f0557806a001c,1
+3e6b6468,maxSessionTimeout set to -1,1
+f04e1bf5,Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar,1
+f7db7e7d,Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000,1
+2511521c,shutdown of request processor complete,1
+159f6506,First is 0x0,1
+4c6e7ad9,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084,1
+cdc119d1,Sending DIFF,1
+e1dd5530,Getting a snapshot from leader,2
+7afd854e,minSessionTimeout set to -1,2
+45688c52,Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre,1

@@ -1,0 +1,4 @@
+symbol: s116
+template: getDevicesForStream streamType: <*>
+406,3,
+408,3,

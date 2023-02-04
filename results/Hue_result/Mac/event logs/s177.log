@@ -1,0 +1,5 @@
+symbol: s177
+template: <<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of <*> bytes @ <*> took <*> <*> to complete, <*> reads <?> <*> sec.
+530,4812,358800,1.053312,secs.,5,>=,1,
+547,4321,48,0.607292,sec.,7,>=,0.5,
+1143,21335,5481561,0.501237,sec.,16,>=,0.5,

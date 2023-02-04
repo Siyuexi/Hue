@@ -1,0 +1,4 @@
+symbol: s143
+template: Configuration Notice: ASL Module <*> claims selected messages. Those messages may not appear in standard system log files or in the ASL database.
+362,"com.apple.performance",
+1156,"com.apple.corecdp.osx.asl",

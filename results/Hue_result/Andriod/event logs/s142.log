@@ -1,0 +1,5 @@
+symbol: s142
+template: setSystemUiVisibility <?> <?> <*> <?> <?> <*> <*> <*> <*> <?> <*> <*> <*> <*> <?> <*> <*>
+1146,vis=c0000700,mask=ffffffff,oldVal=708,newVal=c0000700,diff=c0000008,fullscreenStackVis=0,dockedStackVis=0,,fullscreenStackBounds=Rect(0,,0,-,720,,1280),,dockedStackBounds=Rect(0,,0,-,0,,0),
+1400,vis=c0000700,mask=ffffffff,oldVal=708,newVal=c0000700,diff=c0000008,fullscreenStackVis=0,dockedStackVis=0,,fullscreenStackBounds=Rect(0,,0,-,720,,1280),,dockedStackBounds=Rect(0,,0,-,0,,0),
+1866,vis=c0000700,mask=ffffffff,oldVal=708,newVal=c0000700,diff=c0000008,fullscreenStackVis=0,dockedStackVis=0,,fullscreenStackBounds=Rect(0,,0,-,720,,1280),,dockedStackBounds=Rect(0,,0,-,0,,0),

@@ -1,0 +1,47 @@
+EventId,EventTemplate,Occurrences
+4baf7d57,Component State Change Component <*> <*> <*> is in the unavailable state (HWID<*>),12
+b6d38bd5,clusterAddMember (command <*>,2
+7dc94577,<*> (command 1903),2
+8d336518,boot (command <*>,67
+28889bc4,wait (command <*>,66
+ffd891af,halt (command <*>,3
+118d61cf,bootGenvmunix (command 4185),1
+b4e25afc,Command has completed successfully,10
+a55ec506,Targeting domains <*> and nodes <*> child of command <*>,5
+4ddd30d6,Targeting domains <*> and nodes <*>,4
+9262d36c,<*> <*> ambient<*>,297
+2194faef,<*> <*> <*> warning <*>,207
+eecaca39,ClusterFileSystem There is no server for ServerFileSystem domain <*>,32
+d082990b,NIFF node <*> detected a failed network connection on network 5.5.224.0 via interface alt0,2
+162dfff2,ServerFileSystem An ServerFileSystem domain panic has occurred on storage442,1
+3020731a,Fan speeds ( 3552 3534 <*> <*> 3515 3479 ),75
+97c795cc,Fan speeds ( 3552 3552 3391 **** 3515 3497 ),2
+38884487,Fan speeds ( 3534 3534 3375 <*> 3497 3479 ),13
+5452c51c,Command has been aborted,1
+e13d082a,power/control problem,1
+ec4e03ec,Link error,13
+db5aa7f9,Link in reset,9
+641961b9,Link ok,13
+fdd6a490,Link error on broadcast tree <*> 00 <*>,4
+9cac1bf6,ServerFileSystem ServerFileSystem domain <*> is full,12
+8f3207a1,ClusterFileSystem ServerFileSystem domain <*> is no longer served by node <*>,36
+75101dcd,running,162
+61326117,blocked,15
+b02b9741,not responding,60
+8cfafe98,configured out,91
+445dbb18,inconsistent nodesets node-160 0x0001edfe <ok> node-161 0x1001fdfe <ok> node-162 0x1001fdfe <ok> node-163 0x1001fdfe <ok>,1
+c76a5e84,active,5
+1793c40e,inconsistent nodesets node-32 0x00000002 <ok> node-34 0x000001fe <ok> node-33 0x000001fe <ok> node-35 0x000001fe <ok>,1
+252f035f,not-responding,1
+13856549,inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>,1
+1ee85f6c,starting,1
+3b38bec1,closing,1
+86d6833d,inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>,1
+fea08751,normal,206
+7e85bcb6,critical,20
+9050ee25,Linkerror event interval expired,394
+98452bf8,risBoot (command 1903) Error Timed out while waiting for SRM prompt <ABORT code completed>,1
+91e567c2,boot (command 2092) Error HALT asserted\ cannot continue,1
+bde73f88,Failed subcommands 3406,1
+551adf73,link errors remain current,56
+56597868,NIFF node <*> has detected an available network connection on network <*> via interface <*>,91

@@ -1,0 +1,30 @@
+EventId,EventTemplate,Occurrences
+7d3ea91e,Block <*> stored as <*> in memory (estimated size <*> free <*> ),149
+33da0487,Finished task <*> in stage <*> (TID <*> <*> bytes result sent to driver,300
+1750d225,SecurityManager authentication disabled; ui acls disabled; users with view permissions Set(yarn curi); users with modify permissions Set(yarn curi),2
+5a5c5838,Successfully registered with driver,1
+a352752c,Server created on 40984,1
+17f432d4,Trying to register BlockManager,1
+9ba7fdc2,Got assigned task <*>,305
+a6b20688,is deprecated. Instead use,5
+d7f24216,Found block <*> locally,257
+9ffef012,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,1
+6b503441,MemoryStore started with capacity 17.7,1
+6c90e140,Started reading broadcast variable <*>,37
+e44841ee,Changing <*> acls to yarn curi,4
+b2431426,Connecting to driver spark //CoarseGrainedScheduler@ 48069,1
+cf025708,Partition <*> not found computing it,75
+303d5a5a,Input split hdfs // 9000/pjhe/logs/2kSOSP.log <*>,45
+868b7c11,Registered signal handlers for [TERM HUP INT],1
+c0edc03b,Reading broadcast variable <*> took <*> ms,37
+a899e693,File Output Committer Algorithm version is 1,30
+a466d131,Remoting started; listening on addresses [akka.tcp //sparkExecutorActorSystem@mesos-slave-07 55904],1
+ae0572db,Running task <*> in stage <*> (TID <*>,305
+ce01f966,Times total <*> boot <*> init <*> finish <*>,375
+57883cb8,Saved output of task <*> to hdfs // <*>,30
+b923f8c3,Slf4jLogger started,1
+e99571c6,Starting remoting,1
+1c507e44,Registered BlockManager,1
+9a5790d1,<*> Committed,30
+f5a68e94,Successfully started service <*> on port <*>,2
+508e4f7f,Starting executor ID 5 on host mesos-slave-07,1

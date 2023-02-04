@@ -1,0 +1,8 @@
+symbol: s153
+template: setSystemUiVisibility <*> <?> <*> <*> <*> <*> <*> <*> <*> <?> <*> <*> <*> <*> <?> <*> <*>
+1286,vis=40000600,mask=ffffffff,oldVal=80000608,newVal=40000600,diff=c0000008,fullscreenStackVis=0,dockedStackVis=0,,fullscreenStackBounds=Rect(0,,0,-,720,,1280),,dockedStackBounds=Rect(0,,0,-,0,,0),
+1349,vis=40000000,mask=ffffffff,oldVal=40000600,newVal=40000000,diff=600,fullscreenStackVis=0,dockedStackVis=0,,fullscreenStackBounds=Rect(0,,0,-,720,,1280),,dockedStackBounds=Rect(0,,0,-,0,,0),
+1351,vis=40000600,mask=ffffffff,oldVal=40000000,newVal=40000600,diff=600,fullscreenStackVis=0,dockedStackVis=0,,fullscreenStackBounds=Rect(0,,0,-,720,,1280),,dockedStackBounds=Rect(0,,0,-,0,,0),
+1381,vis=708,mask=ffffffff,oldVal=40000600,newVal=708,diff=40000108,fullscreenStackVis=0,dockedStackVis=0,,fullscreenStackBounds=Rect(0,,0,-,720,,1280),,dockedStackBounds=Rect(0,,0,-,0,,0),
+1477,vis=40000500,mask=ffffffff,oldVal=80000508,newVal=40000500,diff=c0000008,fullscreenStackVis=0,dockedStackVis=0,,fullscreenStackBounds=Rect(0,,0,-,720,,1280),,dockedStackBounds=Rect(0,,0,-,0,,0),
+1848,vis=708,mask=ffffffff,oldVal=40000500,newVal=708,diff=40000208,fullscreenStackVis=0,dockedStackVis=0,,fullscreenStackBounds=Rect(0,,0,-,720,,1280),,dockedStackBounds=Rect(0,,0,-,0,,0),

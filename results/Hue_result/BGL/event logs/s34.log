@@ -1,0 +1,5 @@
+symbol: s34
+template: icache prefetch <*>
+283,depth....................0,
+286,threshold................0,
+287,threshold................0,

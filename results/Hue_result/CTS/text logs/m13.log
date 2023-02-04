@@ -1,0 +1,10 @@
+symbol: m13
+identifier: display ipv6 prefix Error: command found at '^' position
+209,
+|| display ipv6 prefix
+||                             ^
+||Error: command found at '^' position
+1134,
+|| display ipv6 prefix
+||                             ^
+||Error: command found at '^' position

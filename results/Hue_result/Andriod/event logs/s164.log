@@ -1,0 +1,3 @@
+symbol: s164
+template: onReceive\, <*>
+1780,onReceive,,action:android.intent.action.BATTERY_CHANGED,

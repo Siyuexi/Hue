@@ -1,0 +1,3 @@
+symbol: s48
+template: Kernel command line: ro <?> rhgb quiet
+1931,root=LABEL=/,

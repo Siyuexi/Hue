@@ -1,0 +1,7 @@
+symbol: s90
+template: SecOSStatusWith <*> Error <?> <*> "query missing class name" (paramErr: error in user parameter list) <?> missing class name}
+190,error:[-50],Domain=NSOSStatusErrorDomain,Code=-50,UserInfo={NSDescription=query,
+275,error:[-50],Domain=NSOSStatusErrorDomain,Code=-50,UserInfo={NSDescription=query,
+756,error:[-50],Domain=NSOSStatusErrorDomain,Code=-50,UserInfo={NSDescription=query,
+914,error:[-50],Domain=NSOSStatusErrorDomain,Code=-50,UserInfo={NSDescription=query,
+1788,error:[-50],Domain=NSOSStatusErrorDomain,Code=-50,UserInfo={NSDescription=query,

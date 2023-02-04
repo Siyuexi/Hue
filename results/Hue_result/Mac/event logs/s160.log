@@ -1,0 +1,3 @@
+symbol: s160
+template: <*> <*> <*> <*> <?> updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.
+462,2017-07-03,10:40:42.940,GoogleSoftwareUpdateAgent[33263/0x700000323000],[lvl=2],-[KSOmahaServer,

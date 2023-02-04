@@ -1,0 +1,4 @@
+symbol: s54
+template: Warning: This operation will revert configuration changes to the file <*> Continue? <*>
+270,auto_9.08.100.56.cfg.,[Y/N]:,
+1195,auto_9.08.100.56.cfg.,[Y/N]:,

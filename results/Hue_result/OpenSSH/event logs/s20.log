@@ -1,0 +1,10 @@
+symbol: s20
+template: PAM <*> more authentication failures; <?> <*> <*> <?> <?> <*>
+222,4,logname=,uid=0,euid=0,tty=ssh,ruser=,rhost=5.188.10.180,
+238,4,logname=,uid=0,euid=0,tty=ssh,ruser=,rhost=5.188.10.180,
+254,1,failure;,logname=,uid=0,euid=0,tty=ssh,ruser=,rhost=5.188.10.180,
+316,2,logname=,uid=0,euid=0,tty=ssh,ruser=,rhost=185.190.58.151,
+331,4,logname=,uid=0,euid=0,tty=ssh,ruser=,rhost=185.190.58.151,
+387,4,logname=,uid=0,euid=0,tty=ssh,ruser=,rhost=185.190.58.151,
+476,1,failure;,logname=,uid=0,euid=0,tty=ssh,ruser=,rhost=185.190.58.151,
+1002,5,logname=,uid=0,euid=0,tty=ssh,ruser=,rhost=119.4.203.64,

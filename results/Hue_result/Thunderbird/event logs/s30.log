@@ -1,0 +1,4 @@
+symbol: s30
+template: INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> <*> <*>
+1188,0,0,2,dfl,dfl),
+1189,0,9,9,high,level),

@@ -1,0 +1,4 @@
+symbol: s109
+template: setWiredDeviceConnectionState type: <*> state: <*>
+373,-2147483632,0,
+376,4,0,

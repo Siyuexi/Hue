@@ -1,0 +1,14 @@
+symbol: m41
+identifier: delete rui user all Error: Unrecognized command found at '^' position
+1750,
+|| delete rui user all
+||   ^
+||Error: Unrecognized command found at '^' position
+1758,
+|| delete rui user all
+||   ^
+||Error: Unrecognized command found at '^' position
+1763,
+|| delete rui user all
+||   ^
+||Error: Unrecognized command found at '^' position

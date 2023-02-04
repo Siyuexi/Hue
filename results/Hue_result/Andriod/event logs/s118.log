@@ -1,0 +1,8 @@
+symbol: s118
+template: cleanUpApplicationRecordLocked\, pid: <*> restart: false
+417,cleanUpApplicationRecordLocked,,12025,,
+789,cleanUpApplicationRecordLocked,,5784,,
+794,cleanUpApplicationRecordLocked,,23484,,
+799,cleanUpApplicationRecordLocked,,5769,,
+1012,cleanUpApplicationRecordLocked,,12236,,
+1187,cleanUpApplicationRecordLocked,,13094,,

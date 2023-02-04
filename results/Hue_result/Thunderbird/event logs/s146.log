@@ -1,0 +1,3 @@
+symbol: s146
+template: RRD_update <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+1407,(/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd):,1131559854,1131559854,

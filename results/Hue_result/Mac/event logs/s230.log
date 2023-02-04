@@ -1,0 +1,4 @@
+symbol: s230
+template: [Accounts] Failed to update account with identifier <*> error: Error <?> <*> "(null)"
+947,76FE6715-3D27-4F21-AA35-C88C1EA820E8,,Domain=ABAddressBookErrorDomain,Code=1002,
+1397,76FE6715-3D27-4F21-AA35-C88C1EA820E8,,Domain=ABAddressBookErrorDomain,Code=1002,

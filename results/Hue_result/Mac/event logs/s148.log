@@ -1,0 +1,3 @@
+symbol: s148
+template: [HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.
+376,

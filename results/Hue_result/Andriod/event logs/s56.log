@@ -1,0 +1,15 @@
+symbol: s56
+template: updateClipping isOverlap:true\, <*> <*>
+115,isOverlap:true,,getTopPadding=333.0,,Translation=-529.0,
+128,isOverlap:true,,getTopPadding=333.0,,Translation=-479.0,
+133,isOverlap:true,,getTopPadding=333.0,,Translation=-452.0,
+138,isOverlap:true,,getTopPadding=333.0,,Translation=-418.0,
+143,isOverlap:true,,getTopPadding=333.0,,Translation=-379.0,
+148,isOverlap:true,,getTopPadding=333.0,,Translation=-338.0,
+267,isOverlap:true,,getTopPadding=333.0,,Translation=-428.0,
+276,isOverlap:true,,getTopPadding=333.0,,Translation=-487.0,
+280,isOverlap:true,,getTopPadding=333.0,,Translation=-546.0,
+1298,isOverlap:true,,getTopPadding=333.0,,Translation=-497.0,
+1306,isOverlap:true,,getTopPadding=333.0,,Translation=-553.0,
+1942,isOverlap:true,,getTopPadding=333.0,,Translation=-553.0,
+1957,isOverlap:true,,getTopPadding=333.0,,Translation=-553.0,

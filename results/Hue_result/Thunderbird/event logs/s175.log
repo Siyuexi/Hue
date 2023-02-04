@@ -1,0 +1,18 @@
+symbol: s175
+template: removing <*>
+1504,chargen,
+1505,chargen,
+1506,daytime,
+1507,daytime,
+1508,echo,
+1509,echo,
+1510,eklogin,
+1511,ftp,
+1512,klogin,
+1513,kshell,
+1514,ntalk,
+1515,printer,
+1516,rsync,
+1517,telnet,
+1518,time,
+1519,time,

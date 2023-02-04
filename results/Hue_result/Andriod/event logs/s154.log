@@ -1,0 +1,4 @@
+symbol: s154
+template: ACTIVITY check resid: <*> <*>
+1300,com.example.android.notepad,,size=0,
+1348,com.example.android.notepad,,size=1,

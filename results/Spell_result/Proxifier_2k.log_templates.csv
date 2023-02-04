@@ -1,0 +1,95 @@
+EventId,EventTemplate,Occurrences
+56ab45ba,<*> open through proxy <*> HTTPS,954
+73f72432,<*> close 0 bytes sent 0 bytes received lifetime <*>,197
+829801ca,<*> close <*> bytes sent 426 bytes received lifetime <*>,3
+efe36654,<*> close 451 bytes sent 18846 bytes (<*> <*>) received lifetime <*>,1
+cdfe5582,<*> close 445 bytes sent 5174 bytes (<*> <*>) received lifetime <*>,1
+95a28d49,<*> close <*> bytes (<*> <*>) sent <*> bytes (<*> <*>) received lifetime <*>,581
+991ec0e5,<*> close <*> bytes sent 421 bytes received lifetime <*>,2
+8969d1bb,<*> close 483 bytes sent 342 bytes received lifetime <*>,1
+d2cd443e,<*> close 697 bytes sent <*> bytes received lifetime <*>,2
+85909032,<*> close 489 bytes sent 566 bytes received lifetime <*>,1
+fecd099d,<*> close 303 bytes sent 275 bytes received lifetime <*>,1
+d95c976b,<*> close <*> bytes sent 782 bytes received lifetime <*>,4
+70177ed0,<*> close <*> bytes sent 278 bytes received lifetime <*>,2
+fca30597,<*> close 896 bytes sent 375 bytes received lifetime <*>,1
+799967a3,<*> close <*> bytes sent 353 bytes received lifetime <*>,9
+b1fe74a1,<*> open through proxy <*> SOCKS5,2
+e58291d6,<*> close 946 bytes sent 783 bytes received lifetime <*>,2
+5e5062ed,<*> close 791 bytes sent 778 bytes received lifetime <*>,1
+2433a74c,<*> close <*> bytes sent 186 bytes received lifetime <*>,3
+d9950269,<*> close <*> bytes sent 316 bytes received lifetime <*>,2
+62e9e3b4,<*> error A connection request was canceled before the completion.,31
+e6224744,<*> error Could not connect through proxy <*> - Proxy closed the connection unexpectedly.,3
+cd8f9d41,<*> close <*> bytes sent 346 bytes received lifetime <*>,3
+88bc1b0f,<*> close 519 bytes sent 313 bytes received lifetime <*>,1
+fba822d6,<*> close 415 bytes sent 599 bytes received lifetime <*>,1
+8d213fdf,<*> close 793 bytes sent 180 bytes received lifetime <*>,1
+31386019,<*> close 595 bytes sent 269 bytes received lifetime <*>,1
+ed355bd9,<*> close 877 bytes sent 507 bytes received lifetime <*>,1
+9a025bc7,<*> close 1015 bytes sent 590 bytes received lifetime <*>,1
+2dfb201b,<*> close 149 bytes sent 121 bytes received lifetime <*>,1
+595cd6e8,<*> close 477 bytes sent 448 bytes received lifetime <*>,1
+47baf59f,<*> close 724 bytes sent 516 bytes received lifetime <*>,1
+d557ca16,<*> close 466 bytes sent 125682 bytes (122 <*>) received lifetime <*>,1
+373b2fbd,<*> close 493 bytes sent 523 bytes received lifetime <*>,2
+15aa1491,<*> close 666 bytes sent 709 bytes received lifetime <*>,1
+a2342bc1,<*> close 293 bytes sent 514 bytes received lifetime <*>,1
+1544bb1f,<*> error Could not connect through proxy <*> - Proxy server cannot establish a connection with the target status code <*>,17
+bd06b8eb,<*> close 497 bytes sent 302 bytes received lifetime <*>,1
+8aad92a2,<*> close 429 bytes sent 318 bytes received lifetime <*>,1
+be227eb4,<*> close 131 bytes sent 153 bytes received lifetime <*>,1
+22108ec4,<*> close 5 bytes sent 5 bytes received lifetime <*>,1
+02547396,<*> close 983 bytes sent 308385 bytes (301 <*>) received lifetime <*>,1
+eedd8963,<*> close 983 bytes sent 268665 bytes (262 <*>) received lifetime <*>,1
+d928228c,<*> close 705 bytes sent 492 bytes received lifetime <*>,1
+451f37c2,<*> close 326 bytes sent 103039 bytes (100 <*>) received lifetime <*>,1
+574a3a2e,<*> close 576 bytes sent 649 bytes received lifetime <*>,1
+81b9d6b7,<*> close 628 bytes sent 466 bytes received lifetime <*>,1
+03dd54f9,<*> close 530 bytes sent 546 bytes received lifetime <*>,1
+2a047431,<*> close <*> bytes sent 388 bytes received lifetime <*>,2
+e015b019,<*> close 1007 bytes sent 355 bytes received lifetime <*>,1
+499fd285,<*> close 453 bytes sent 352 bytes received lifetime <*>,1
+f0cc6ad3,<*> close 555 bytes sent 400 bytes received lifetime <*>,1
+08867055,<*> close 634 bytes sent 538 bytes received lifetime <*>,1
+70027732,<*> close 996 bytes sent 367 bytes received lifetime <*>,1
+09464a33,<*> close <*> bytes sent 310 bytes received lifetime <*>,5
+3d7dfc35,<*> close <*> bytes sent 398 bytes received lifetime <*>,3
+243c7e5b,<*> close <*> bytes sent 348 bytes received lifetime <*>,3
+e18fc2dd,<*> close 968 bytes sent 272 bytes received lifetime <*>,1
+114db4af,<*> close 694 bytes sent 892 bytes received lifetime <*>,1
+afe6d8a5,<*> close 941 bytes sent <*> bytes received lifetime <*>,2
+7aff96d7,<*> close 588 bytes sent 215882 bytes (210 <*>) received lifetime <*>,1
+794d04f7,<*> close 696 bytes sent 889 bytes received lifetime <*>,1
+dc71fe05,<*> close 435 bytes sent 356 bytes received lifetime <*>,1
+eb2e023f,<*> close 643 bytes sent 442 bytes received lifetime <*>,1
+e6a0f0c3,<*> close 441 bytes sent <*> bytes received lifetime <*>,3
+61809a3f,<*> close 964 bytes sent 848 bytes received lifetime <*>,1
+31e68312,<*> close 389 bytes sent 409 bytes received lifetime <*>,1
+ea44efd2,<*> close 686 bytes sent 579 bytes received lifetime <*>,1
+a9de1081,<*> close 494 bytes sent 208 bytes received lifetime <*>,11
+031bd289,<*> close <*> bytes sent 161 bytes received lifetime <*>,4
+fcf6eaaf,<*> close 1020 bytes sent 607 bytes received lifetime <*>,2
+2ba0e7e7,<*> close 785 bytes sent 145 bytes received lifetime <*>,1
+9249b7bf,<*> close 985 bytes sent <*> bytes received lifetime <*>,3
+cdec2336,<*> close <*> bytes sent 160 bytes received lifetime <*>,2
+607be1ff,<*> close <*> bytes sent 229 bytes received lifetime <*>,5
+62eb6259,<*> close 568 bytes sent <*> bytes received lifetime <*>,4
+f90ef387,<*> close 446 bytes sent 195160 bytes (190 <*>) received lifetime <*>,1
+0c14d9e2,<*> close 399 bytes sent 498 bytes received lifetime <*>,1
+8c953ca1,<*> close 413 bytes sent 534 bytes received lifetime <*>,1
+32373eec,<*> close <*> bytes sent 184 bytes received lifetime <*>,9
+e6a0fda5,<*> close 154863 bytes (151 <*>) sent 321609 bytes (314 <*>) received lifetime <*>,1
+1dbec84f,<*> error Could not connect to proxy <*> - Could not resolve <*> error 11001,20
+e8a66463,<*> close 357 bytes sent <*> bytes received lifetime <*>,4
+22654265,<*> close <*> bytes sent 166 bytes received lifetime <*>,4
+a43e09c1,<*> close 739 bytes sent 404 bytes received lifetime <*>,1
+59491fe0,<*> close 733 bytes sent <*> bytes received lifetime <*>,7
+053fb0fa,<*> close 170 bytes sent 370 bytes received lifetime <*>,1
+8deca913,<*> close <*> bytes sent 328 bytes received lifetime <*>,6
+4bb1a3a5,<*> error Could not connect to proxy <*> - connection attempt failed with error 10061,26
+9ffb6b9b,<*> close 606 bytes sent 857 bytes received lifetime <*>,1
+3869b5fa,<*> close 816 bytes sent 264 bytes received lifetime <*>,1
+7df64803,<*> close 575 bytes sent 243 bytes received lifetime <*>,1
+606b84f5,<*> close 923 bytes sent 456 bytes received lifetime <*>,1
+32774bc1,<*> close 261 bytes sent 70 bytes received lifetime <*>,1

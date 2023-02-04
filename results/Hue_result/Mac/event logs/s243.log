@@ -1,0 +1,3 @@
+symbol: s243
+template: <?> is deprecated for NSScrollWheel. Please use <?>
+1151,-_continuousScroll,-hasPreciseScrollingDeltas.,

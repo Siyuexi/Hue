@@ -1,0 +1,6 @@
+symbol: s22
+template: saveStatData() type <*> <?> <*> <?> <*> is <*>
+718,=40002,time,=,1513958400000,statClient,=,2,who,1,
+720,=40003,time,=,1513958400000,statClient,=,2,who,1,
+723,=40005,time,=,1513958400000,statClient,=,2,who,1,
+726,=40004,time,=,1513958400000,statClient,=,2,who,1,

@@ -1,0 +1,10 @@
+symbol: m26
+identifier: undo ssh client Error: Too many parameters found at '^' position
+676,
+|| undo ssh client
+||   ^
+||Error: Too many parameters found at '^' position
+1561,
+|| undo ssh client
+||   ^
+||Error: Too many parameters found at '^' position

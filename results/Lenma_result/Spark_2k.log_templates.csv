@@ -1,0 +1,99 @@
+EventId,EventTemplate,Occurrences
+18d37603,"Registered signal handlers for [TERM, HUP, INT]",1
+44440b45,"Changing  acls to: yarn,curi",4
+97a448ac,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",2
+5d9b5072,Slf4jLogger started,1
+608cc03a,Starting remoting,1
+deb755d9,Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],1
+ed3bef70,Successfully started service 'sparkExecutorActorSystem' on port 55904.,1
+679b3c55,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,1
+6a2a4dbe,MemoryStore started with capacity 17.7 <*>,1
+1b21ea15,Connecting to driver: spark://CoarseGrainedScheduler@<*>:48069,1
+610be07b,Successfully registered with driver,1
+2d154906,Starting executor ID 5 on host mesos-slave-07,1
+90fd0a16,Successfully started service '<*>' on port 40984.,1
+23e98b39,Server created on 40984,1
+d56d7443,Trying to register BlockManager,1
+d7b4c6cc,Registered BlockManager,1
+6aa70158,Got assigned task ,305
+74648d3a,Running task  in stage  (TID ,305
+fb20752f,Started reading broadcast variable ,37
+9563e3f0,"Block  stored as  in memory (estimated size  <*>, free  <*>)",149
+b07601fd,Reading broadcast variable  took  ms,37
+d3ee94c4,"Partition  not found, computing it",75
+3ad14b06,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:21876+7292,2
+ca694468,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:14584+7292,2
+fdb2196c,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:0+7292,2
+fbce8373,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:7292+7292,2
+1740b770,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:29168+7292,2
+d4bbafca,"<*> is deprecated. Instead, use <*>",5
+b2db4ae3,Times: total =  boot =  init =  finish = ,375
+7d1a9d71,Finished task  in stage  (TID   bytes result sent to driver,300
+a67aa459,Found block  locally,257
+d2ae97ac,File Output Committer Algorithm version is 1,30
+b6d63410,Saved output of task  to ,30
+70674a31,attempt_201706092018_0024_m_000004_1026: Committed,1
+9999b9c2,attempt_201706092018_0024_m_000002_998: Committed,1
+c47dda63,attempt_201706092018_0024_m_000003_1012: Committed,1
+97156be9,attempt_201706092018_0024_m_000001_984: Committed,1
+9e820912,attempt_201706092018_0024_m_000000_970: Committed,1
+40604495,attempt_201706092018_0024_m_000044_1129: Committed,1
+d3393114,attempt_201706092018_0024_m_000043_1128: Committed,1
+b25199f7,attempt_201706092018_0024_m_000040_1125: Committed,1
+ccc4e1aa,attempt_201706092018_0024_m_000042_1127: Committed,1
+f34ed12e,attempt_201706092018_0024_m_000041_1126: Committed,1
+05416230,attempt_201706092018_0024_m_000083_1138: Committed,1
+89e371b1,attempt_201706092018_0024_m_000084_1141: Committed,1
+38851bc3,attempt_201706092018_0024_m_000080_1135: Committed,1
+00310d2e,attempt_201706092018_0024_m_000082_1137: Committed,1
+e091fca3,attempt_201706092018_0024_m_000081_1136: Committed,1
+56ab958d,attempt_201706092018_0024_m_000124_1151: Committed,1
+26e6bda4,attempt_201706092018_0024_m_000120_1145: Committed,1
+c3079eda,attempt_201706092018_0024_m_000122_1147: Committed,1
+7698f28e,attempt_201706092018_0024_m_000121_1146: Committed,1
+aeb3e648,attempt_201706092018_0024_m_000123_1150: Committed,1
+be525790,attempt_201706092018_0024_m_000160_1155: Committed,1
+a61b2939,attempt_201706092018_0024_m_000163_1158: Committed,1
+cd45fe1a,attempt_201706092018_0024_m_000164_1159: Committed,1
+44dfb186,attempt_201706092018_0024_m_000162_1157: Committed,1
+42842be7,attempt_201706092018_0024_m_000161_1156: Committed,1
+0382d7b8,attempt_201706092018_0025_m_000004_1199: Committed,1
+ff15eff2,attempt_201706092018_0025_m_000003_1198: Committed,1
+6944957e,attempt_201706092018_0025_m_000000_1166: Committed,1
+4b6e5509,attempt_201706092018_0025_m_000002_1194: Committed,1
+977977db,attempt_201706092018_0025_m_000001_1180: Committed,1
+721df98e,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:36460+7292,1
+c8dcde9d,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:43752+7292,1
+49a32cdf,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:51044+7292,1
+b8b4f68c,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:58336+7292,1
+5f522f07,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:65628+7292,1
+6bbf4296,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:72920+7292,1
+9f732b7f,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:80212+7292,1
+3411a55b,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:87504+7292,1
+c73bb85c,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:94796+7292,1
+04c1d436,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:102088+7292,1
+cccab15a,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:109380+7292,1
+82d1c1dd,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:116672+7292,1
+6ab59570,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:123964+7292,1
+1b163236,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:131256+7292,1
+8061f817,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:138548+7292,1
+ae2a2381,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:145840+7292,1
+5e84c347,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:153132+7292,1
+064ffb46,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:160424+7292,1
+4a154710,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:167716+7292,1
+95db3848,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:175008+7292,1
+ef8bb2b9,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:182300+7292,1
+b814be1e,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:189592+7292,1
+c2997f23,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:196884+7292,1
+6ee33dd0,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:204176+7292,1
+9f04988c,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:211468+7292,1
+8dbd3efc,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:218760+7292,1
+e46873bf,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:226052+7292,1
+31b3cf40,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:233344+7292,1
+04e582e0,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:247928+7292,1
+6bef08b6,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:240636+7292,1
+f0490d30,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:255220+7292,1
+b8673ceb,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:262512+7292,1
+79008362,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:269804+7292,1
+9b6c2519,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:277096+7292,1
+5160acda,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:284388+7303,1

@@ -1,0 +1,4 @@
+symbol: s31
+template: guaranteed instruction cache block <*>
+275,touch.0,
+276,touch.0,

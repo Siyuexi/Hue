@@ -1,0 +1,3 @@
+symbol: s172
+template: enqueueNotificationInternal: <*> <*> <*> <?> <?> <?> tick <*> <?>
+1873,pkg=com.tencent.mm,id=4097,notification=Notification(pri=1,contentView=null,vibrate=[],sound=null,defaults=0x0,flags=0x101,

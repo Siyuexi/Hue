@@ -1,0 +1,4 @@
+symbol: s66
+template: <*> <*> INFO HiBench.PagerankData: <*> <*> data generator...
+2902,22/11/21,21:00:00,Initializing,PageRank,
+3059,22/11/21,21:01:00,Closing,pagerank,

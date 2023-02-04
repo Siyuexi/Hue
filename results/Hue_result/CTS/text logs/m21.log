@@ -1,0 +1,10 @@
+symbol: m21
+identifier: <?> aux <*> Error: command found at '^' position.
+622,user-interface,2,
+|| user-interface aux 2
+||         ^
+||Error: command found at '^' position.
+1509,user-interface,22,
+|| user-interface aux 22
+||         ^
+||Error: command found at '^' position.

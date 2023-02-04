@@ -1,0 +1,3 @@
+symbol: s53
+template: <*> <*>
+108,reduceResourceRequest:<memory:1024,,vCores:1>,

@@ -1,0 +1,9 @@
+symbol: s140
+template: MACHINE CHECK DCR read timeout <?> iar <*> <*>
+1770,(mc=e08x,0x00000000,lr,
+1771,(mc=e08x,0x00000000,lr,
+1772,(mc=e08x,0x00000000,lr,
+1773,(mc=e08x,0x00000000,lr,
+1774,(mc=e08x,0x00000000,lr,
+1775,(mc=e08x,0x00000000,lr,
+1776,(mc=e08x,0x00000000,lr,

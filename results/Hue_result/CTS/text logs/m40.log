@@ -1,0 +1,8 @@
+symbol: m40
+identifier: <?> immediately Enter system view,return view with command
+1536,system-view,
+|| system-view immediately
+||Enter system view,return view with command
+1540,system-view,
+|| system-view immediately
+||Enter system view,return view with command

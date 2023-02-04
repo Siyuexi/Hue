@@ -1,0 +1,15 @@
+symbol: m2
+identifier: Traceback (most recent call last): AssertionError: Get workers from <?> page failed, reason:( <*> node <?> <*> <*> <?> grep RUNNING ) executed timedout for <*> seconds
+24,yarn-site.xml,/usr/hdp/3.0.1.0-187/hadoop/bin/yarn,-list,2>,/dev/null,|,5,
+|| Traceback (most recent call last):
+||  File "/home/team7/HiBench3/bin/functions/load_config.py", line 713, in <module>
+||    load_config(conf_root, workload_configFile, workload_folder, patching_config)
+||  File "/home/team7/HiBench3/bin/functions/load_config.py", line 217, in load_config
+||    generate_optional_value()
+||  File "/home/team7/HiBench3/bin/functions/load_config.py", line 641, in generate_optional_value
+||    probe_masters_slaves_hostnames()
+||  File "/home/team7/HiBench3/bin/functions/load_config.py", line 577, in probe_masters_slaves_hostnames
+||    probe_masters_slaves_by_Yarn()
+||  File "/home/team7/HiBench3/bin/functions/load_config.py", line 528, in probe_masters_slaves_by_Yarn
+||    assert 0, "Get workers from yarn-site.xml page failed, reason:%s\nplease set `hibench.masters.hostnames` and `hibench.slaves.hostnames` manually" % e
+||AssertionError: Get workers from yarn-site.xml page failed, reason:( /usr/hdp/3.0.1.0-187/hadoop/bin/yarn node -list 2> /dev/null | grep RUNNING ) executed timedout for 5 seconds

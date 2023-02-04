@@ -1,0 +1,4 @@
+symbol: s18
+template: getAppContext() isAppValid health or wear, packageName <?> <*>
+711,=,com.huawei.health,
+737,=,com.huawei.health,

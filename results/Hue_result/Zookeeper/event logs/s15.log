@@ -1,0 +1,10 @@
+symbol: s15
+template: Server <*>
+540,environment:user.dir=/,
+587,environment:host.name=mesos-master-1,
+615,environment:user.name=zookeeper,
+620,environment:os.name=Linux,
+1418,environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar,
+1976,environment:os.name=Linux,
+1977,environment:user.name=zookeeper,
+1990,environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre,

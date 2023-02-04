@@ -1,0 +1,8 @@
+symbol: t1
+identifier: 55 bytes of data.
+10,
+32,from,6.35.100.35:,icmp_seq=1,ttl=502,time=1.35,ms,
+32,from,6.35.100.35:,icmp_seq=1,ttl=502,time=1.36,ms,
+32,from,6.35.100.35:,icmp_seq=1,ttl=502,time=1.27ms,
+32,from,6.35.100.35:,icmp_seq=1,ttl=502,time=1.04,ms,
+32,from,6.35.100.35:,icmp_seq=1,ttl=502,time=1.38,ms,

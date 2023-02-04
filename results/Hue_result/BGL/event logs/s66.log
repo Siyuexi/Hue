@@ -1,0 +1,5 @@
+symbol: s66
+template: <*> tree receiver <*> in <*> state event(s) (dcr <*>
+1234,1,2,re-synch,0x019a),
+1497,4,2,re-synch,0x019a),
+1519,16,2,re-synch,0x019a),

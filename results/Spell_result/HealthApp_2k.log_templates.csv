@@ -1,0 +1,215 @@
+EventId,EventTemplate,Occurrences
+93067dc4,onStandStepChanged <*>,260
+8f787cab,<*> <*> <*> 0 <*>,162
+4a92eb9e,<*> action android.intent.action.SCREEN_ON,34
+b8f897f8,flush sensor data,17
+5ffdf11c,getTodayTotalDetailSteps <*>,242
+f492f53f,setTodayTotalDetailSteps <*>,241
+567a996e,calculateCaloriesWithCache totalCalories <*>,241
+a19aa487,calculateAltitudeWithCache totalAltitude 240,217
+2b358f8a,REPORT 7007 5002 150089 240,1
+b2d70ecf,REPORT 7008 5003 150111 240,1
+1ffe4fc6,REPORT 7009 5004 150132 240,1
+3b7a2665,REPORT 7011 5005 150175 240,1
+605e5145,REPORT 7012 5006 150197 240,1
+b1a715f4,REPORT <*> 5007 <*> 240,2
+82090fa7,REPORT 7015 5008 150261 240,1
+4939e0ea,onReceive action android.intent.action.SCREEN_OFF,17
+1703b836,<*> true,3
+cb1bca0a,screen status unknown think screen on,1
+8bafd4e4,REPORT <*> 5010 <*> 240,3
+53075a15,REPORT 7019 5011 150346 240,1
+287c11e9,REPORT <*> 5012 <*> 240,2
+6d9e54d1,REPORT 7022 5013 150411 240,1
+771d7983,REPORT 7023 5014 150432 240,1
+18f98051,REPORT <*> 5015 <*> 240,2
+8c4b069a,REPORT 7026 5016 150496 240,1
+5c37f611,REPORT <*> 5017 <*> 240,2
+18c81606,REPORT 7029 5018 150561 240,1
+7005a235,REPORT 7030 5019 150582 240,1
+82d444f6,REPORT <*> 5020 <*> 240,2
+2af04e36,REPORT 7033 5021 150646 240,1
+8edb47c5,REPORT <*> 5022 <*> 240,2
+cde9f049,REPORT 7036 5023 150711 240,1
+a073e4e6,REPORT 7037 5024 150732 240,1
+ab9edc7e,REPORT <*> 5025 <*> 240,2
+acaa6a21,REPORT 7040 5026 150796 240,1
+13ddddd7,REPORT <*> 5027 <*> 240,2
+89754be1,REPORT 7044 5029 150882 240,1
+61f91af3,REPORT 7045 5030 150903 240,1
+910eaa16,REPORT 7047 5031 150946 240,1
+2e596605,REPORT 7048 5032 150968 240,1
+c96f53b0,REPORT 7050 5033 151011 240,1
+acfd3753,REPORT <*> 5035 <*> 240,2
+7f4d8019,processHandleBroadcastAction action android.intent.action.TIME_TICK,144
+b4b6b01c,REPORT 7054 5036 151096 240,1
+477efc1c,onExtend 1514038561000 0 0 0,1
+abe6c47f,REPORT 7056 5037 151139 240,1
+f3fabf07,REPORT 7058 5039 151182 240,1
+62b3b952,REPORT 7060 5040 151225 240,1
+a3b75033,REPORT 7062 5042 151268 240,1
+c84b9405,REPORT 7064 5043 151310 240,1
+0b2cd3c2,REPORT 7066 5045 151353 240,1
+cf31326f,REPORT 7068 5046 151396 240,1
+b0bc95df,REPORT 7070 5047 151439 240,1
+6d5176c0,REPORT 7071 5048 151460 240,1
+ea3e790e,REPORT 7074 5050 151525 240,1
+bf53edd8,onExtend 1514038648000 0 0 0,1
+779427cd,REPORT 7075 5051 151546 240,1
+065bc4af,REPORT 7077 5052 151589 240,1
+bf257975,REPORT 7079 5054 151632 240,1
+4013648f,REPORT 7081 5055 151675 240,1
+7b7d3d66,REPORT <*> 5057 <*> 240,2
+14e6834f,REPORT 7086 5059 151782 240,1
+057bcaaf,REPORT 7088 5060 151824 240,1
+792e90f3,REPORT 7090 5062 151867 240,1
+67739053,REPORT 7092 5063 151910 240,1
+d9f789fa,REPORT <*> 5065 <*> 240,2
+47384f87,REPORT 7097 5067 152017 240,1
+c156d931,REPORT 7099 5068 152060 240,1
+691b77e9,REPORT <*> 5070 <*> 240,2
+20f1c023,REPORT 7103 5071 152146 240,1
+cc3f0c58,REPORT <*> 5072 <*> 240,2
+baefc4a3,REPORT 7106 5073 152210 240,1
+c7645b8c,REPORT 7107 5074 152231 240,1
+32fd5017,REPORT 7109 5075 152274 240,1
+38bc872f,REPORT <*> 5077 <*> 240,2
+d10b8c2b,REPORT 7113 5078 152360 240,1
+28bef299,REPORT 7114 5079 152381 240,1
+5fb615e6,onExtend 1514038686000 0 0 0,1
+063d29e1,REPORT 7117 5081 152446 240,1
+5ec486ee,REPORT 7122 5085 152553 240,1
+561e1e75,REPORT 7124 5086 152596 240,1
+e0f2e772,REPORT 7126 5087 152638 240,1
+5f79fdce,REPORT 7128 5089 152681 240,1
+dbff31ac,REPORT 7130 5090 152724 240,1
+d26e8524,REPORT 7132 5092 152767 240,1
+9d285cc5,REPORT 7135 5094 152831 240,1
+18474d81,REPORT <*> 5097 <*> 240,2
+f5ec68b4,REPORT 7154 5107 153238 240,1
+562ef865,onExtend 1514038756000 0 0 0,1
+35a8493d,REPORT 7160 5112 153367 240,1
+0635a938,flushTempCacheToDB by stand,1
+a323890f,Alarm uploadStaticsToDB totalSteps 7163Calories 153367Floor 240Distance 5112,1
+0da159ce,writeDataToDB size 327,1
+8f091f59,upLoadOneMinuteDataToEngine time <*> 0 <*> 0 20002,5
+abda682b,getBinderPackageName packageName com.huawei.health,8
+893a4f3f,getAppContext() isAppValid health or wear packageName com.huawei.health,2
+d8b19cfd,insertHiHealthData() checkAppType 0 appID 1,2
+aac7414a,insertHiHealthData() size <*> app 1 One Data Type <*> packageName com.huawei.health writeStatType 0,2
+b5d8f32c,saveHealthDetailData() deviceID 2 clientID 1 id 1,2
+1252792c,saveStatData() type <*> time 1513958400000 statClient 2 who is 1,4
+8778e7bd,new date 20171223 type <*> <*> old <*>,17
+e98e90a8,saveHealthDetailData() saveOneDetailData fail hiHealthData 1513958400000 type <*>,2
+90ca6463,bulkSaveDetailHiHealthData() size <*> totalTime <*>,2
+e08168d7,startListenerChange subscribeList [1],2
+432654b8,insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode 4 errorMessage ERR_DATA_INSERT,1
+a92b3128,insertHiHealthData() end totalTime <*>,2
+472e1dbf,uploadStaticsToDB() onResult type 4 obj true,1
+48a170b5,uploadStaticsToDB failed message true,1
+c0df8ce6,checkInsertStatus <*> or <*> is enough,4
+629a1b11,stepSyncOrNot appSynTimes is 0 <*>,5
+7181eb84,startInsertSportSync start auto sync app is 1,2
+e1fe025b,checkFirstSyncByType no such data in db type is 1 deviceCode is 0,2
+7979a2cf,startInsertSportSync first 500 steps sync do all sync,2
+ac2f6107,startSync hiSyncOption HiSyncOption{syncAction 2 syncMethod 2 syncScope 0 syncDataType 20000 syncModel 2 pushAction 0} app 1 who 1,5
+6e805a4c,needAutoSync autoSyncSwitch is open,5
+a4602c7d,initDataPrivacy the dataPrivacy <*> is <*>,10
+684d9ff3,initUserPrivacy the userPrivacy <*> is <*>,10
+3f9b4da2,ifCanSync not! no cloud version,5
+8764d489,sendSyncFailedBroadcast,5
+f8d9959c,saveRealTimeHealthDatasStat() size 1 totalTime 48,1
+27f33a1c,InsertCallBack() onSuccess type 0 data true,1
+4ce547ba,<*> <*> <*> <*> <*> 25233979,2
+042d7a7a,setWriteDBLastDataMinute success,1
+b3d6ad7f,flush2DB result success,1
+385cc35d,REPORT 7163 5114 153431 240,1
+92c2bd9d,REPORT 7165 5115 153474 240,1
+70a38add,REPORT 7167 5117 153517 240,1
+577aa7af,REPORT 7170 5119 153581 240,1
+7d81b9cc,REPORT 7173 5121 153645 240,1
+55da9ec2,REPORT 7174 5122 153667 240,1
+61ec8923,REPORT 7176 5123 153709 240,1
+217ed7b1,REPORT 7179 5125 153774 240,1
+71c708b7,REPORT 7181 5127 153817 240,1
+ad04af25,REPORT 7183 5128 153859 240,1
+5535dbc4,REPORT <*> 5130 <*> 240,2
+dd242dfa,REPORT 7187 5131 153945 240,1
+bbbeea95,REPORT <*> 5132 <*> 240,17
+d1b31d55,onExtend 1514038813000 0 0 0,1
+9019545d,onExtend <*> 0 0 5,83
+4be51e1d,onExtend 1514039059000 0 0 0,1
+ca1c4513,onExtend 1514039062000 0 0 0,1
+331af7c5,onExtend 1514039093000 0 0 0,1
+788f8e9c,onExtend 1514039412000 0 0 0,1
+9be2f913,onExtend 1514039424000 0 0 0,1
+f5505061,onExtend 1514039515000 0 0 0,1
+9a83eac3,onExtend 1514039575000 0 0 0,1
+94175204,onExtend 1514039520000 0 0 0,1
+e1b689f5,timeStamp back extendReportTimeStamp <*>,5
+3ba40b70,startTimer start autoSync,3
+92ebedef,onExtend 1514039626000 0 0 0,2
+6893457e,onExtend 1514039977000 0 0 0,1
+1ca96548,onExtend 1514039965000 0 0 0,1
+2ff6b4f4,onExtend 1514040354000 0 0 0,1
+f82bcabb,onExtend 1514040697000 0 0 0,2
+8ea9805b,onExtend 1514040700000 0 0 0,1
+c07e8ed7,onExtend 1514040766000 0 0 0,1
+db173439,onExtend 1514040836000 0 0 0,1
+84e64c9d,onExtend 1514040781000 0 0 0,1
+fcbbdc9e,onExtend 1514040793000 0 0 0,1
+4d65ba60,onExtend 1514040956000 0 0 0,1
+743a2501,onExtend 1514041627000 0 0 0,1
+e89aa876,getTodaySportData mStepsRecordManager com.huawei.health.g.c@8a2a501,6
+9adb94cc,onExtend 1514042064000 0 0 0,1
+2bc53037,onExtend 1514042082000 2 0 0,1
+f418eb38,REPORT 7191 5134 154031 240,1
+a7948b19,REPORT <*> 5135 <*> 240,2
+9c845559,REPORT 7196 5137 154138 240,1
+f36dad16,REPORT 7198 5139 154181 240,1
+9137e45a,REPORT 7200 5140 154223 240,1
+7d2d9f52,REPORT 7202 5142 154266 240,1
+4857b4b5,REPORT 7205 5144 154331 240,1
+0d1f505f,REPORT 7208 5146 154395 240,1
+557122af,REPORT 7211 5148 154459 240,1
+94a2d22b,REPORT 7212 5149 154481 240,1
+fb10eec7,REPORT 7214 5150 154523 240,3
+99250daa,onExtend 1514042091000 0 0 0,1
+ca1f2477,onExtend 1514042265000 0 0 0,1
+6c9919f1,onExtend 1514042261000 0 0 0,1
+f80da96c,onExtend 1514042262000 0 0 0,2
+5423d0ff,onExtend 1514042361000 0 0 0,1
+03b2f49b,onExtend 1514042599000 0 0 0,1
+4b8e0135,onExtend 1514042945000 0 0 0,1
+dfaa8343,onExtend 1514043436000 0 0 0,1
+e7662350,onExtend 1514043614000 0 0 0,1
+7ae6bd8f,onExtend 1514043759000 0 0 0,1
+9c50a9a8,onExtend 1514043974000 0 0 0,1
+26d71ea5,onExtend 1514044249000 0 0 0,1
+d75a079d,onExtend 1514044380000 0 0 0,1
+2d89db3f,onExtend 1514044397000 0 0 0,1
+3e8830fe,onExtend 1514044411000 0 0 0,1
+f8a4ba98,onExtend 1514044422000 0 0 0,1
+6b1d9418,onExtend 1514044437000 0 0 0,1
+6f1e2b48,onExtend 1514044469000 0 0 0,1
+775c6f4e,onExtend 1514044475000 0 0 0,1
+5c618383,onExtend 1514044487000 0 0 0,1
+668e9da1,onExtend 1514044496000 0 0 0,1
+72e615bf,onExtend 1514044525000 0 0 0,1
+ab5cb284,onExtend 1514044573000 0 0 0,1
+048eed82,onExtend 1514044595000 0 0 0,1
+c5ed7236,onExtend 1514044662000 0 0 0,1
+e1fe8d25,theDayChanged 1514044800216,1
+e788f919,initEnviroument,1
+3244bf49,getStepCounterStatus,2
+86bcfaea,reStartStepCounter,1
+3616b800,clear(),1
+9f083f99,getTodayBasicStandardSteps <*>,2
+a21db504,getDiffTotalSteps <*>,2
+facd1a62,setBasicStandardSteps basicStandardStep 3786 restartSteps 0,1
+71ffe66c,tryToReloadTodayBasicSteps1514044800223|3786|0|0,1
+3752bcc6,next day steps0mLastReport7214,1
+9bf7cf41,setGoalNotifiShownRecord 1514044800237 false,1
+8e523808,closeNotification...,1
+c5a628cf,deleteHealthNotification(),1
+931b994e,checkCurrentDay a new day comes reset basicSyncCondition currentDay is 20171224 oldDay is 20171223,1
