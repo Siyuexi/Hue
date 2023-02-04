@@ -1,5 +1,0 @@
-symbol: s21
-template: INFO mapreduce.Job: Job job_<*it>_<*it> running in uber mode : <*bl>
-tid: 76b7de02
-104,job_1667571544727_0240,false,
-172,job_1667571544727_0239,false,

@@ -1,5 +1,0 @@
-symbol: s4
-template: INFO dfs.DataNode$PacketResponder: Received block blk_<*it> of size <*it> from <*ip>
-tid: 5019b647
-78,blk_3587508140051953248,67108864,/10.251.42.84,
-79,blk_5402003568334525940,67108864,/10.251.214.112,

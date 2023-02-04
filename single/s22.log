@@ -1,7 +1,0 @@
-symbol: s22
-template: INFO mapreduce.Job: map <*it>% reduce <*it>%
-tid: cff4adba
-105,0%,0%,
-106,0%,100%,
-173,0%,0%,
-396,100%,0%,

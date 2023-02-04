@@ -1,4 +1,0 @@
-symbol: s3
-template: <*it> <*it> <*it> INFO dfs.DataNode$PacketResponder: PacketResponder <*it> for block blk_<*it> terminating
-tid: def7b634
-22,081109,204106,329,2,blk_-6670958622368987959,
