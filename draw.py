@@ -138,20 +138,20 @@ labels = ["AEL", "LenMa", "Spell", "IPLoM", "Drain", "Hue"]
 total = np.array([1879,64,2057,92,18,7])
 width = 0.3
 x = np.arange(len(labels))
-eventGA = np.array([1198,913,1383,1138,1732,1650])/total[0]
-textGA = np.array([17,24,24,28,20,21])/total[1]
-tableGA = np.array([16,16,32,32,16,2057])/total[2]
-eventF1 = np.array([77,54,62,63,80,80])/total[3]
-textF1 = np.array([12,12,12,14,9,10])/total[4]
-tableF1 = np.array([1,1,2,2,1,7])/total[5]
-plt.bar(x - 0.15, eventGA, width=width, label='Event log GA', color = '#ff8484')
-plt.bar(x - 0.15, textGA, width=width, label='Text log GA', bottom=eventGA, color='#ff84ff')
-plt.bar(x - 0.15, tableGA, width=width, label='Table log GA', bottom=eventGA+textGA, color='#8484ff')
-plt.bar(x + 0.15, eventF1, width=width, label='Event log F1', color='#84ffff')
-plt.bar(x + 0.15, textF1, width=width, label='Text log F1', bottom=eventF1, color='#84ff84')
-plt.bar(x + 0.15, tableF1, width=width, label='Table log F1', bottom=eventF1+textF1, color='#ffff84')
+eventMessage = np.array([1198,913,1383,1138,1732,1650])/total[0]
+textMessage = np.array([17,24,24,28,20,21])/total[1]
+tableMessage = np.array([16,16,32,32,16,2057])/total[2]
+eventTemplate = np.array([77,54,62,63,80,80])/total[3]
+textTemplate = np.array([12,12,12,14,9,10])/total[4]
+tableTemplate = np.array([1,1,2,2,1,7])/total[5]
+plt.bar(x - 0.15, eventMessage, width=width, label='Event log message', color = '#ff8484')
+plt.bar(x - 0.15, textMessage, width=width, label='Text log message', bottom=eventMessage, color='#ff84ff')
+plt.bar(x - 0.15, tableMessage, width=width, label='Table log message', bottom=eventMessage+textMessage, color='#8484ff')
+plt.bar(x + 0.15, eventTemplate, width=width, label='Event log template', color='#84ffff')
+plt.bar(x + 0.15, textTemplate, width=width, label='Text log template', bottom=eventTemplate, color='#84ff84')
+plt.bar(x + 0.15, tableTemplate, width=width, label='Table log template', bottom=eventTemplate+textTemplate, color='#ffff84')
 plt.xlabel("Datasets")
-plt.ylabel("Ratio of each metric")
+plt.ylabel("Correctness Ratio")
 plt.xticks(x, labels=labels)
 plt.grid(True, linestyle='--', alpha=0.5)
 plt.legend()
