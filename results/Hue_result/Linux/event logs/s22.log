@@ -1,6 +1,0 @@
-symbol: s22
-template: creating device node <*>
-903,'/udev/vcs2',
-904,'/udev/vcsa2',
-907,'/udev/vcs2',
-908,'/udev/vcsa2',

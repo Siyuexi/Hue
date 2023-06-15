@@ -1,6 +1,0 @@
-symbol: m6
-identifier: Traceback (most recent call last): IndexError: list index out of range
-4047,
-|| Traceback (most recent call last):
-||  File "<stdin>", line 1, in <module>
-||IndexError: list index out of range

@@ -1,3 +1,0 @@
-symbol: s7
-template: Remoting started; listening on addresses <*>
-10,:[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],

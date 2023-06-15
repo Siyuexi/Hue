@@ -1,4 +1,0 @@
-symbol: s11
-template: message repeated <*> times: [ Failed password for root from <*> port <*> ssh2]
-30,5,5.36.59.76,42393,
-285,5,106.5.5.195,50719,

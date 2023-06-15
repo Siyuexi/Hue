@@ -1,3 +1,0 @@
-symbol: s26
-template: Http request log for <*> is not defined
-36,http.requests.mapreduce,

@@ -1,4 +1,0 @@
-symbol: s116
-template: <*> <*> <*> <*> <?> updateAllExceptProduct:] KSUpdateEngine updating all installed products, <*>
-270,2017-07-02,15:46:40.697,GoogleSoftwareUpdateAgent[32432/0x7000002a0000],[lvl=2],-[KSUpdateEngine,except:'com.google.Keystone'.,
-1355,2017-07-06,00:30:37.071,GoogleSoftwareUpdateAgent[36436/0x7000002a0000],[lvl=2],-[KSUpdateEngine,except:'com.google.Keystone'.,

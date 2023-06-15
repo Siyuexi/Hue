@@ -1,7 +1,0 @@
-symbol: t13
-identifier: Traceback (most recent call last):
-5099,
-File,"<stdin>",,line,1,,in,<module>,
-File,"<stdin>",,line,3,,in,demo,
-File,"<stdin>",,line,3,,in,demo,
-File,"<stdin>",,line,3,,in,demo,

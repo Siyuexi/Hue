@@ -1,3 +1,0 @@
-symbol: s14
-template: Successfully started service <*> on port <*>
-17,'org.apache.spark.network.netty.NettyBlockTransferService',40984.,

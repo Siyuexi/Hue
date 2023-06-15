@@ -1,5 +1,0 @@
-symbol: s51
-template: disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >
-106,
-1236,
-1879,

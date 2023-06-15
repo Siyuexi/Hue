@@ -1,3 +1,0 @@
-symbol: s21
-template: Adding protocol <*> to the server
-31,org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB,

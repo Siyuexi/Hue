@@ -1,4 +1,0 @@
-symbol: s16
-template: error: Received disconnect from <*> <*> <*> Auth fail [preauth]
-158,195.154.37.122:,3:,com.jcraft.jsch.JSchException:,
-162,195.154.37.122:,3:,com.jcraft.jsch.JSchException:,

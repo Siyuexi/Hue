@@ -1,3 +1,0 @@
-symbol: s16
-template: Destroying surface <?> <?> <*> called by <*> <*> <*> <*> <*> <*> <bottom of call stack> <bottom of call stack>
-26,Surface(name=SurfaceView,-,com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity),com.android.server.wm.WindowStateAnimator.destroyDeferredSurfaceLocked:942,com.android.server.wm.WindowManagerService.performDeferredDestroyWindow:3407,com.android.server.wm.Session.performDeferredDestroy:225,android.view.IWindowSession$Stub.onTransact:398,com.android.server.wm.Session.onTransact:136,android.os.Binder.execTransact:565,

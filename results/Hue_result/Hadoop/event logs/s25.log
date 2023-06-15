@@ -1,3 +1,0 @@
-symbol: s25
-template: Logging to <*> via <*>
-35,org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log),org.mortbay.log.Slf4jLog,

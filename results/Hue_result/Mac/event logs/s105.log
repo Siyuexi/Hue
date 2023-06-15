@@ -1,6 +1,0 @@
-symbol: s105
-template: <*> <*> <?> I <?> VoipWrapper <?> <*> <?> close video chat. llFriendUIN <?> <*>
-228,2017/07/02,11:38:49.414,|,|,|,DAVEngineImpl.cpp:1400:Close,|,=,******2341.,
-1202,2017/07/05,10:57:01.130,|,|,|,DAVEngineImpl.cpp:1400:Close,|,=,1742124257.,
-1527,2017/07/06,18:22:57.953,|,|,|,DAVEngineImpl.cpp:1400:Close,|,=,1742124257.,
-1894,2017/07/07,21:47:20.392,|,|,|,DAVEngineImpl.cpp:1400:Close,|,=,515629905.,

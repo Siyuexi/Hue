@@ -1,5 +1,0 @@
-symbol: s198
-template: polled file major <*> minor <*> blocksize <*> pollers <*>
-633,1,,0,,4096,,5,
-1351,1,,0,,4096,,5,
-1382,1,,0,,4096,,5,

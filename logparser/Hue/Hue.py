@@ -322,6 +322,8 @@ class Parser:
         """
         begintime = time.time()
         print("Building meta file...")
+        if not os.path.exists(self.odir):
+            os.makedirs(self.odir)
         f = open(self.odir + "meta.log",'w', encoding='UTF-8')
         for item in self.meta.list:
             f.write(item + '\n')

@@ -1,6 +1,0 @@
-symbol: s62
-template: tcp_connection_destination_perform_socket_connect <*> connectx to <*> failed: <*> Network is <*>
-119,19110,183.57.48.75:80@0,[50],down,
-592,21152,203.205.147.206:8080@0,[51],unreachable,
-1214,44073,123.125.50.30:143@0,[50],down,
-1464,45238,123.125.50.30:993@0,[50],down,

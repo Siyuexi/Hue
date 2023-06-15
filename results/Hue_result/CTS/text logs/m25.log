@@ -1,8 +1,0 @@
-symbol: m25
-identifier: undo pki domain default Error: Illegal to delete PKI undo netconf
-672,
-|| undo pki domain default
-||Error: Illegal to delete PKI undo netconf
-1557,
-|| undo pki domain default
-||Error: Illegal to delete PKI undo netconf

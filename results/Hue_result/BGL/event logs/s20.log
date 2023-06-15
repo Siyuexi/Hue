@@ -1,6 +1,0 @@
-symbol: s20
-template: machine state register: <*>
-252,0x00002000,
-284,0x00002000,
-285,0x00002000,
-288,0x00002000,

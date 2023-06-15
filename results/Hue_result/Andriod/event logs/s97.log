@@ -1,9 +1,0 @@
-symbol: s97
-template: Skipping\, withExcluded: false\, <*> { <*> <*> <*> <*> (has extras) }
-295,Skipping,,false,,tr.intent:Intent,act=android.intent.action.VIEW,dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk,typ=application/vnd.android.package-archive,flg=0x10800000,cmp=com.android.packageinstaller/.PackageInstallerActivity,(has,extras),
-1138,Skipping,,false,,tr.intent:Intent,act=android.intent.action.VIEW,dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk,typ=application/vnd.android.package-archive,flg=0x10800000,cmp=com.android.packageinstaller/.PackageInstallerActivity,(has,extras),
-1278,Skipping,,false,,tr.intent:Intent,act=android.intent.action.VIEW,dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk,typ=application/vnd.android.package-archive,flg=0x10800000,cmp=com.android.packageinstaller/.PackageInstallerActivity,(has,extras),
-1391,Skipping,,false,,tr.intent:Intent,act=android.intent.action.VIEW,dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk,typ=application/vnd.android.package-archive,flg=0x10800000,cmp=com.android.packageinstaller/.PackageInstallerActivity,(has,extras),
-1455,Skipping,,false,,tr.intent:Intent,act=android.intent.action.VIEW,dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk,typ=application/vnd.android.package-archive,flg=0x10800000,cmp=com.android.packageinstaller/.PackageInstallerActivity,(has,extras),
-1858,Skipping,,false,,tr.intent:Intent,act=android.intent.action.VIEW,dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk,typ=application/vnd.android.package-archive,flg=0x10800000,cmp=com.android.packageinstaller/.PackageInstallerActivity,(has,extras),
-1972,Skipping,,false,,tr.intent:Intent,act=android.intent.action.VIEW,dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk,typ=application/vnd.android.package-archive,flg=0x10800000,cmp=com.android.packageinstaller/.PackageInstallerActivity,(has,extras),

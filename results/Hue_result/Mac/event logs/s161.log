@@ -1,6 +1,0 @@
-symbol: s161
-template: <*> itemasync_CopyProperty signalled <*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>
-466,[11:31:49.593],err=-12785,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c,2092,
-467,[11:34:44.290],err=-12785,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c,2092,
-477,[11:58:36.563],err=-12785,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c,2092,
-481,[12:11:47.043],err=-12785,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c,2092,

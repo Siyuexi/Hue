@@ -1,3 +1,0 @@
-symbol: s100
-template: Thread <*> threw an Exception.
-1040,Thread[eventHandlingThread,5,main],

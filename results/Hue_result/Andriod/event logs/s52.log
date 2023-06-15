@@ -1,6 +1,0 @@
-symbol: s52
-template: updateLightsLocked\, mInCall <?> mScreenOn <?> true\, ledNotification <?> null?true
-108,updateLightsLocked,mInCall,=false,mScreenOn,=,true,ledNotification,==,null?true,
-111,updateLightsLocked,mInCall,=false,mScreenOn,=,true,ledNotification,==,null?true,
-250,updateLightsLocked,mInCall,=false,mScreenOn,=,true,ledNotification,==,null?true,
-1473,updateLightsLocked,mInCall,=false,mScreenOn,=,true,ledNotification,==,null?true,

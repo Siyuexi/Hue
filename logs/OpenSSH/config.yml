@@ -1,7 +1,7 @@
 
 
-min_length: 0
-max_length: 10
+min_length: 6
+max_length: 12
 max_depth: 2
 max_child: 100
 t_extract : 0.8

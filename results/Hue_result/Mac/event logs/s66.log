@@ -1,6 +1,0 @@
-symbol: s66
-template: <*> Failed to read DnsConfig.
-125,[0701/114930:WARNING:dns_config_service_posix.cc(306)],
-1317,[0705/190016:WARNING:dns_config_service_posix.cc(306)],
-1357,[0706/011106:WARNING:dns_config_service_posix.cc(306)],
-1445,[0706/120312:WARNING:dns_config_service_posix.cc(306)],

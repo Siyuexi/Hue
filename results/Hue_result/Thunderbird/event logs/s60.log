@@ -1,5 +1,0 @@
-symbol: s60
-template: apic_id <*> version <*> address <*> <*>
-1269,8,,32,,0xfec00000,,GSI,
-1270,9,,32,,0xfec80000,,GSI,
-1271,10,,32,,0xfec83000,,GSI,

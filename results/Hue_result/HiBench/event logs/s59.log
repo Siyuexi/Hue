@@ -1,8 +1,0 @@
-symbol: s59
-template: <*> <*> INFO <*> <*> file <*> as <*>
-2751,22/11/21,20:58:57,HiBench.BayesData:,Pages,hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/temp/dummy,input,
-2752,22/11/21,20:58:57,HiBench.BayesData:,Rankings,hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Input,output,
-2907,22/11/21,21:00:02,HiBench.PagerankData:,Dummy,hdfs://cuhkcluster/dataspace/team7/HiBench/Pagerank/temp/dummy,input,
-2908,22/11/21,21:00:02,HiBench.PagerankData:,Vertices,hdfs://cuhkcluster/dataspace/team7/HiBench/Pagerank/Input/vertices,output,
-2995,22/11/21,21:00:39,HiBench.PagerankData:,Dummy,hdfs://cuhkcluster/dataspace/team7/HiBench/Pagerank/temp/dummy,input,
-2996,22/11/21,21:00:39,HiBench.PagerankData:,Edges,hdfs://cuhkcluster/dataspace/team7/HiBench/Pagerank/Input/edges,output,

@@ -1,3 +1,0 @@
-symbol: s51
-template: CPU <*> irqstacks, <*> <*>
-1934,0,hard=02345000,soft=02344000,

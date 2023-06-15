@@ -1,3 +1,0 @@
-symbol: s64
-template: PrepareForService shutting down <*> mCardSernum(203231503833343000000000594c31304b34333431303158), <*> <*> <*> as part of Service Action <*>
-1224,NodeCard(mLctn(R25-M1-N2),,mLp(FF:F2:9F:16:CF:0F:00:0D:60:E9:30:F0),,mIp(10.2.2.80),,mType(4)),310,

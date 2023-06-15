@@ -1,4 +1,0 @@
-symbol: s83
-template: <*> <*> INFO AbstractJob: Command line arguments: <*> <*> <*> <*> <*> <?> <*> <*>
-3513,22/11/21,21:04:12,{--alphaI=[1.0],,--endPhase=[2147483647],,--input=[hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/vectors/tfidf-vectors],,--labelIndex=[hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/labelindex],,--output=[hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/model],,--overwrite=null,,--startPhase=[0],,--tempDir=[hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/temp]},
-5055,22/11/22,22:56:02,{--alphaI=[1.0],,--endPhase=[2147483647],,--input=[hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/vectors/tfidf-vectors],,--labelIndex=[hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/labelindex],,--output=[hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/model],,--overwrite=null,,--startPhase=[0],,--tempDir=[hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/temp]},

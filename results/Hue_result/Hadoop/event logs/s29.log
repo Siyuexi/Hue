@@ -1,4 +1,0 @@
-symbol: s29
-template: adding path spec: <*>
-40,/mapreduce/*,
-41,/ws/*,

@@ -1,7 +1,0 @@
-symbol: s14
-template: DHCPDISCOVER from <*> via <*>
-128,00:11:43:e3:ba:c3,eth1,
-189,00:11:43:e3:ba:c3,eth1,
-190,00:11:43:e3:ba:c3,eth1,
-207,00:11:43:e3:ba:c3,eth1,
-208,00:11:43:e3:ba:c3,eth1,

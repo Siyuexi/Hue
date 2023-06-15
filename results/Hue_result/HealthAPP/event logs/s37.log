@@ -1,7 +1,0 @@
-symbol: s37
-template: startSync hiSyncOption <?> <*> <*> <*> <*> <*> <*> <?> <*> who <?> <*>
-745,=,HiSyncOption{syncAction=2,,syncMethod=2,,syncScope=0,,syncDataType=20000,,syncModel=2,,pushAction=0},app,=,1,=,1,
-787,=,HiSyncOption{syncAction=2,,syncMethod=2,,syncScope=0,,syncDataType=20000,,syncModel=2,,pushAction=0},app,=,1,=,1,
-1007,=,HiSyncOption{syncAction=1,,syncMethod=2,,syncScope=0,,syncDataType=20000,,syncModel=2,,pushAction=0},app,=,1,=,1,
-1537,=,HiSyncOption{syncAction=1,,syncMethod=2,,syncScope=0,,syncDataType=20000,,syncModel=2,,pushAction=0},app,=,1,=,1,
-1974,=,HiSyncOption{syncAction=1,,syncMethod=2,,syncScope=0,,syncDataType=20000,,syncModel=2,,pushAction=0},app,=,1,=,1,

@@ -1,5 +1,0 @@
-symbol: s58
-template: <*> <*> INFO <*> Running Job: Create <*> <*>
-2750,22/11/21,20:58:57,HiBench.BayesData:,bayes,data,
-2906,22/11/21,21:00:02,HiBench.PagerankData:,pagerank,nodes,
-2994,22/11/21,21:00:39,HiBench.PagerankData:,pagerank,links,

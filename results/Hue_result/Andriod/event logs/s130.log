@@ -1,3 +1,0 @@
-symbol: s130
-template: sending alarm Alarm{19069ff type <*> when <*> PendingIntent{50303cc: PendingIntentRecord{e204f60 <*> broadcastIntent}}}\, repeatInterval <?> <*> listenerTag <?>
-780,3,509169377,com.android.phone,broadcastIntent}}},repeatInterval,=,0,listenerTag,=null,

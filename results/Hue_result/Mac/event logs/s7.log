@@ -1,7 +1,0 @@
-symbol: s7
-template: ARPT: <*> IOPMPowerSource Information: onSleep, SleepType: Normal Sleep, 'ExternalConnected': <*> 'TimeRemaining': <*>
-7,620749.901374:,Yes,,0,,
-26,621145.554555:,Yes,,0,,
-229,645791.413780:,No,,156,,
-363,671856.784669:,No,,18011,,
-443,673399.580233:,No,,13027,,

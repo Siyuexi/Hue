@@ -1,6 +1,0 @@
-symbol: s67
-template: Saw change in network reachability <*>
-126,(isReachable=2),
-1273,(isReachable=0),
-1780,(isReachable=2),
-1842,(isReachable=0),

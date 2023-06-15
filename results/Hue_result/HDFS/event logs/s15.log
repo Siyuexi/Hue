@@ -1,3 +1,0 @@
-symbol: s15
-template: BLOCK* ask <*> to replicate <*> to datanode(s) <*>
-1765,10.250.14.38:50010,blk_-7571492020523929240,10.251.122.38:50010,

@@ -1,4 +1,0 @@
-symbol: s188
-template: hibernate_machine_init pagesDone <*> sum2 <*> time: <*> ms, <*> <*> comp bytes: <*> time: <*> ms <*> <*> crypt bytes: <*> time: <*> ms <*> <*>
-615,455920,81cafc41,,185,disk(0x20000),847,Mb/s,,comp,bytes:,47288320,time:,32,ms,1369,Mb/s,,crypt,bytes:,158441472,time:,38,ms,3973,
-1185,451550,4886d9d9,,197,disk(0x20000),799,Mb/s,,comp,bytes:,40017920,time:,27,ms,1412,Mb/s,,crypt,bytes:,160550912,time:,39,ms,3904,

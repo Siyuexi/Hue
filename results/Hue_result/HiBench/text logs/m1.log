@@ -1,7 +1,0 @@
-symbol: m1
-identifier: ERROR, execute cmd: '( <*> node <?> <*> <*> <?> grep RUNNING )' timedout. Please check!
-18,/usr/hdp/3.0.1.0-187/hadoop/bin/yarn,-list,2>,/dev/null,|,
-|| ERROR, execute cmd: '( /usr/hdp/3.0.1.0-187/hadoop/bin/yarn node -list 2> /dev/null | grep RUNNING )' timedout.
-||  STDOUT:
-||  STDERR:
-||  Please check!

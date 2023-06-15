@@ -1,8 +1,0 @@
-symbol: s69
-template: Export env: <*>
-3177,HADOOP_EXECUTABLE=/usr/hdp/3.0.1.0-187/hadoop/bin/hadoop,
-3178,HADOOP_HOME=/usr/hdp/3.0.1.0-187/hadoop,
-3179,HADOOP_CONF_DIR=/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop,
-5217,HADOOP_EXECUTABLE=/usr/hdp/3.0.1.0-187/hadoop/bin/hadoop,
-5218,HADOOP_HOME=/usr/hdp/3.0.1.0-187/hadoop,
-5219,HADOOP_CONF_DIR=/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop,

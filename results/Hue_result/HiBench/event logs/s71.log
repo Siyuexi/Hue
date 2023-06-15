@@ -1,7 +1,0 @@
-symbol: s71
-template: Running on hadoop, using <*> and <*>
-3184,/usr/hdp/3.0.1.0-187/hadoop/bin/hadoop,HADOOP_CONF_DIR=/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop,
-3510,/usr/hdp/3.0.1.0-187/hadoop/bin/hadoop,HADOOP_CONF_DIR=/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop,
-4051,/usr/hdp/3.0.1.0-187/hadoop/bin/hadoop,HADOOP_CONF_DIR=/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop,
-5052,/usr/hdp/3.0.1.0-187/hadoop/bin/hadoop,HADOOP_CONF_DIR=/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop,
-5224,/usr/hdp/3.0.1.0-187/hadoop/bin/hadoop,HADOOP_CONF_DIR=/usr/hdp/3.0.1.0-187/hadoop/etc/hadoop,

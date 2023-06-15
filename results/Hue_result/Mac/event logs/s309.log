@@ -1,5 +1,0 @@
-symbol: s309
-template: Service <*> tried to hijack endpoint <*> from owner: <*>
-1476,"com.apple.xpc.launchd.unmanaged.loginwindow.94","com.apple.tsm.uiserver",com.apple.SystemUIServer.agent,
-1713,"com.apple.xpc.launchd.unmanaged.loginwindow.94","com.apple.tsm.uiserver",com.apple.SystemUIServer.agent,
-1789,"com.apple.xpc.launchd.unmanaged.loginwindow.94","com.apple.tsm.uiserver",com.apple.SystemUIServer.agent,

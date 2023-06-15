@@ -1,4 +1,0 @@
-symbol: s82
-template: cancelNotification\, cancelNotificationLocked\, callingUid <?> <*> callingPid <?> <*>
-230,cancelNotification,cancelNotificationLocked,callingUid,=,10037,callingPid,=,2227,
-1467,cancelNotification,cancelNotificationLocked,callingUid,=,10111,callingPid,=,28601,

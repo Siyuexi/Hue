@@ -1,4 +1,0 @@
-symbol: s28
-template: Failed to create backup log cab. [HRESULT <?> <*> ERROR_INVALID_FUNCTION]
-936,=,0x80070001,-,
-1103,=,0x80070001,-,

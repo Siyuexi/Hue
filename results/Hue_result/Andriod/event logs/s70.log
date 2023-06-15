@@ -1,5 +1,0 @@
-symbol: s70
-template: <*> Must execute in UI
-201,android.util.AndroidRuntimeException:,
-204,android.util.AndroidRuntimeException:,
-345,android.util.AndroidRuntimeException:,

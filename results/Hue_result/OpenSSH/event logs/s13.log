@@ -1,4 +1,0 @@
-symbol: s13
-template: PAM <*> more authentication failures; <?> <*> <*> <?> <?> <*> <?>
-32,5,logname=,uid=0,euid=0,tty=ssh,ruser=,rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om,user=root,
-287,5,logname=,uid=0,euid=0,tty=ssh,ruser=,rhost=106.5.5.195,user=root,

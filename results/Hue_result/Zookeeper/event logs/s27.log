@@ -1,6 +1,0 @@
-symbol: s27
-template: <*> set to <*>
-608,autopurge.snapRetainCount,3,
-1377,autopurge.purgeInterval,0,
-1407,autopurge.purgeInterval,0,
-1454,autopurge.purgeInterval,0,

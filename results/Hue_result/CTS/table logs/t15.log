@@ -1,8 +1,0 @@
-symbol: t15
-identifier: 155 bytes of data.
-903,
-32,from,6.35.100.35:,icmp_seq=1,ttl=532,time=1.35,ms,
-32,from,6.35.100.35:,icmp_seq=1,ttl=555,time=1.36,ms,
-32,from,6.35.100.35:,icmp_seq=1,ttl=512,time=1.27ms,
-32,from,6.35.100.35:,icmp_seq=1,ttl=522,time=1.04,ms,
-32,from,6.35.100.35:,icmp_seq=1,ttl=542,time=1.38,ms,

@@ -1,4 +1,0 @@
-symbol: s20
-template: insertHiHealthData() size <?> <*> <?> <*> Data Type <?> <*> <?> <*> <?> <*>
-716,=,4,app,=,1,One,=,40002,packageName,=,com.huawei.health,writeStatType,=,0,
-747,=,20,app,=,1,One,=,2,packageName,=,com.huawei.health,writeStatType,=,0,

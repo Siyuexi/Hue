@@ -1,3 +1,0 @@
-symbol: s94
-template: Assuming 33MHz system bus speed for PIO modes; override with <?>
-1317,idebus=xx,

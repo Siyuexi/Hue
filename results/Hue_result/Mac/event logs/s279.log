@@ -1,3 +1,0 @@
-symbol: s279
-template: **** [BroadcomBluetoothHostController][SetupController] <?> Delay HCI Reset by 300ms ****
-1344,--,

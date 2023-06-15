@@ -1,3 +1,0 @@
-symbol: s25
-template: pam_unix(sshd:session): session closed for user fztu
-965,

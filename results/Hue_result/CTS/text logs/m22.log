@@ -1,8 +1,0 @@
-symbol: m22
-identifier: <?> <*> <*> Warning: <?> is configured as <*>
-636,idle-timeout,1,1,idle-timeout,1,
-||  idle-timeout 1  1
-||Warning: idle-timeout is configured as 1
-1523,idle-timeout,1,19,idle-timeout,19,
-||  idle-timeout 1  19
-||Warning: idle-timeout is configured as 19

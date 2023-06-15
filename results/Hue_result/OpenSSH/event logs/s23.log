@@ -1,3 +1,0 @@
-symbol: s23
-template: pam_unix(sshd:session): session opened for user fztu by <*>
-957,(uid=0),

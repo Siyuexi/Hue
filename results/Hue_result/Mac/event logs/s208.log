@@ -1,3 +1,0 @@
-symbol: s208
-template: hibernate_teardown: wired_pages <*> free_pages <*> active_pages <*> inactive_pages <*> speculative_pages <*> cleaned_pages <*> compressor_pages <*>
-660,544767,,3578340,,40000,,0,,0,,0,,112,

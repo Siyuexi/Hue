@@ -1,6 +1,0 @@
-symbol: s21
-template: removing device node <*>
-901,'/udev/vcsa2',
-902,'/udev/vcs2',
-905,'/udev/vcs2',
-906,'/udev/vcsa2',

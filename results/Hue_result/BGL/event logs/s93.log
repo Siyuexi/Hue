@@ -1,3 +1,0 @@
-symbol: s93
-template: rts: bad message header: expecting type <*> instead of type <*> <?> 81aa0003 <*> <*> <?> <*> <*> <*>
-1448,57,3,(softheader=00131db8,00000002,00000000),PSR0=00001f01,PSR1=00000000,PRXF=00000002,PIXF=00000007,

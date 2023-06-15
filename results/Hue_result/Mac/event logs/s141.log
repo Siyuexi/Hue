@@ -1,7 +1,0 @@
-symbol: s141
-template: sigio_handler: sigio_handler_active <?> <*>
-360,!=,0,
-410,!=,0,
-457,!=,1,
-693,!=,1,
-1943,!=,1,

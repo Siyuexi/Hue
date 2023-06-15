@@ -1,3 +1,0 @@
-symbol: s253
-template: <*> <*> <*> <*> main() Fetcher received a request: <NSMutableURLRequest: <*> URL: <*> }
-1199,2017-07-05,10:52:16.779,ksfetch[35863/0x7fff79824000],[lvl=2],0x100501610>,{,URL:,https://tools.google.com/service/update2?cup2hreq=a7873a51b1cb55518e420d20dff47d463781ed3f7aa83c3153129eefb148070b&cup2key=7:2501762722,

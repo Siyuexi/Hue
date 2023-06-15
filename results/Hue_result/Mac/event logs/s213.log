@@ -1,3 +1,0 @@
-symbol: s213
-template: <*> <*> <*> <*> <?> performAction] KSUpdateCheckAction starting update check for ticket(s): {( <*> <*> <*> <*> <*> <*> <*> > )} Using server: <*>
-683,2017-07-03,20:25:13.378,GoogleSoftwareUpdateAgent[33847/0x7000002a0000],[lvl=2],-[KSUpdateCheckAction,<KSTicket:0x10053b310,productID=com.google.Keystone,version=1.2.8.57,xc=<KSPathExistenceChecker:0x10053ac30,path=/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle>,url=https://tools.google.com/service/update2,creationDate=2017-02-18,15:41:17,ticketVersion=1,>,)},Using,

@@ -1,5 +1,0 @@
-symbol: s31
-template: IOAPIC <*>
-1190,(id[0x08],
-1191,(id[0x09],
-1192,(id[0x0a],

@@ -1,9 +1,0 @@
-symbol: s42
-template: interceptKeyTq <*> <?> <?> <?> down false canceled false
-80,keycode=4,interactive=true,keyguardActive=false,policyFlags=2b000002,
-1069,keycode=4,interactive=true,keyguardActive=false,policyFlags=2b000002,
-1087,keycode=4,interactive=true,keyguardActive=false,policyFlags=2b000002,
-1101,keycode=3,interactive=true,keyguardActive=false,policyFlags=2b000002,
-1363,keycode=3,interactive=true,keyguardActive=false,policyFlags=2b000002,
-1422,keycode=3,interactive=true,keyguardActive=false,policyFlags=2b000002,
-1823,keycode=3,interactive=true,keyguardActive=false,policyFlags=2b000002,

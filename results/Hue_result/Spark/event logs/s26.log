@@ -1,7 +1,0 @@
-symbol: s26
-template: <*> is deprecated. Instead, use <*>
-49,mapred.tip.id,mapreduce.task.id,
-50,mapred.task.id,mapreduce.task.attempt.id,
-51,mapred.task.is.map,mapreduce.task.ismap,
-52,mapred.job.id,mapreduce.job.id,
-53,mapred.task.partition,mapreduce.task.partition,

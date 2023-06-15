@@ -1,7 +1,0 @@
-symbol: s9
-template: Targeting <*> and <*> child of command <*>
-164,domains:node-D3,nodes:node-[104-127],1963,
-165,domains:node-D4,nodes:node-[136-159],1964,
-167,domains:node-D4,nodes:node-[128-135],2401,
-168,domains:node-D0,nodes:node-[8-31],2489,
-171,domains:node-D2,nodes:node-[64-95],3488,

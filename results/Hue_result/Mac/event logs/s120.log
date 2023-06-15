@@ -1,7 +1,0 @@
-symbol: s120
-template: <*> itemasync_SetProperty signalled <*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>
-279,[17:19:15.148],err=-12785,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c,2306,
-472,[11:50:02.531],err=-12785,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c,2306,
-473,[11:50:13.362],err=-12785,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c,2306,
-474,[11:51:29.334],err=-12785,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c,2306,
-482,[12:22:42.202],err=-12785,/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c,2306,

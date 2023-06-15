@@ -1,3 +1,0 @@
-symbol: s8
-template: <*> <*> <?> Lock"\, <*> <?> <*> <*>
-15,release:lock=233570404,,flg=0x0,,tag="View,Lock",,name=com.android.systemui",,ws=null,,uid=10037,,pid=2227,

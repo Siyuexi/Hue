@@ -1,3 +1,0 @@
-symbol: s323
-template: tcp_connection_destination_handle_tls_close_notify <*> closing socket due to TLS CLOSE_NOTIFY alert
-1592,111,

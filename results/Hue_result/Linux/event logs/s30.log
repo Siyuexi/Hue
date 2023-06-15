@@ -1,3 +1,0 @@
-symbol: s30
-template: klogd <*> log source <?> <*> started.
-1910,1.4.1,,=,/proc/kmsg,

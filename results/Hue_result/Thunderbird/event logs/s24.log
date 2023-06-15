@@ -1,7 +1,0 @@
-symbol: s24
-template: (root) CMD <*> <*>
-1101,(/projects/tbird/temps/get_temps,a),
-1103,(/projects/tbird/temps/get_temps,b),
-1105,(/projects/tbird/temps/get_temps,c),
-1107,(/projects/tbird/temps/get_temps,d),
-1109,(/projects/tbird/temps/get_temps,e),

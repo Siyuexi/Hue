@@ -1,8 +1,0 @@
-symbol: s78
-template: <*> deny <*> <*>
-170,QQ(10018),mach-lookup,com.apple.networking.captivenetworksupport,
-257,QQ(10018),mach-lookup,com.apple.networking.captivenetworksupport,
-1310,QQ(10018),mach-lookup,com.apple.networking.captivenetworksupport,
-1337,QQ(10018),mach-lookup,com.apple.networking.captivenetworksupport,
-1365,QQ(10018),mach-lookup,com.apple.networking.captivenetworksupport,
-1674,QQ(10018),mach-lookup,com.apple.networking.captivenetworksupport,

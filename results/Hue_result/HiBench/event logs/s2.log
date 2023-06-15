@@ -1,5 +1,0 @@
-symbol: s2
-template: <?> Start obtain and cache Kerberos <?> ticket <?>
-2,======,ticket-granting,======,
-40,======,ticket-granting,======,
-2727,======,ticket-granting,======,

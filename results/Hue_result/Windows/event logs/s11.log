@@ -1,4 +1,0 @@
-symbol: s11
-template: SQM: Queued <*> file(s) for upload with pattern: <*> flags: <*>
-13,0,C:\Windows\servicing\sqm\*_all.sqm,,0x6,
-967,0,C:\Windows\servicing\sqm\*_all.sqm,,0x6,

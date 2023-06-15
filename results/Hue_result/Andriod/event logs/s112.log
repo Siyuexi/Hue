@@ -1,6 +1,0 @@
-symbol: s112
-template: ActivityManagerService\, attachApplication\, callingPid <?> <*>
-380,ActivityManagerService,attachApplication,callingPid,=,12787,
-1027,ActivityManagerService,attachApplication,callingPid,=,13003,
-1156,ActivityManagerService,attachApplication,callingPid,=,13094,
-1346,ActivityManagerService,attachApplication,callingPid,=,13175,

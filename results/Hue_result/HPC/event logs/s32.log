@@ -1,4 +1,0 @@
-symbol: s32
-template: inconsistent nodesets <*> <*> <*> <*> <*> <*> <*> <*>
-402,node-160,0x0001edfe,<ok>,node-161,0x1001fdfe,<ok>,node-162,0x1001fdfe,
-429,node-32,0x00000002,<ok>,node-34,0x000001fe,<ok>,node-33,0x000001fe,

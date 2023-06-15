@@ -1,5 +1,0 @@
-symbol: s32
-template: Exception causing close of session <*> to <*> ZooKeeperServer not running
-624,0x0,due,to,java.io.IOException:,ZooKeeperServer,not,
-1430,0x0,due,to,java.io.IOException:,ZooKeeperServer,not,
-1432,0x0,due,to,java.io.IOException:,ZooKeeperServer,not,

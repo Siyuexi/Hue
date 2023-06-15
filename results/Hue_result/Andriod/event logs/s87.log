@@ -1,6 +1,0 @@
-symbol: s87
-template: Taking screenshot from Surface with <*> <*> <?> <*> <*> <*> <*> <*> <*> inRotation:[false]\, <*>
-243,crop:[Rect(0,,48,-,720,,1208)],,width:[432],,height:[696],,minLayer:[21085],,maxLayer:[21085],,inRotation:[false],,rot:[0],
-1125,crop:[Rect(0,,48,-,720,,1208)],,width:[432],,height:[696],,minLayer:[21000],,maxLayer:[21080],,inRotation:[false],,rot:[0],
-1378,crop:[Rect(0,,48,-,720,,1208)],,width:[432],,height:[696],,minLayer:[21080],,maxLayer:[21085],,inRotation:[false],,rot:[0],
-1845,crop:[Rect(0,,48,-,720,,1208)],,width:[432],,height:[696],,minLayer:[21000],,maxLayer:[21080],,inRotation:[false],,rot:[0],

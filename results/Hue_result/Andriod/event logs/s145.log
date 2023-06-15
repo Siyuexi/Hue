@@ -1,4 +1,0 @@
-symbol: s145
-template: updateLightsLocked\, mInCall <?> mScreenOn <?> true\, ledNotification <?> null?false
-1232,updateLightsLocked,mInCall,=false,mScreenOn,=,true,ledNotification,==,null?false,
-1875,updateLightsLocked,mInCall,=false,mScreenOn,=,true,ledNotification,==,null?false,

@@ -1,5 +1,0 @@
-symbol: s60
-template: <*> <*> WARN mapreduce.JobResourceUploader: Hadoop <?> option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this.
-2760,22/11/21,20:58:57,command-line,
-2916,22/11/21,21:00:03,command-line,
-3004,22/11/21,21:00:39,command-line,

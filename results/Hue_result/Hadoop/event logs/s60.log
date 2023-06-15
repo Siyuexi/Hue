@@ -1,4 +1,0 @@
-symbol: s60
-template: The <*> file on the remote FS is <*>
-122,job-jar,hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.jar,
-123,job-conf,/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.xml,

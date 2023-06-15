@@ -1,3 +1,0 @@
-symbol: s76
-template: Cannot assign container Container: [ContainerId: <*> NodeId: <*> NodeHttpAddress: <*> Resource: <*> <*> Priority: <*> Token: Token { kind: ContainerToken, service: <*> }, ] for a map as either container memory less than required <*> <*> or no pending map tasks <?> <*>
-659,container_1445144423722_0020_01_000012,,MSRA-SA-39.fareast.corp.microsoft.com:28345,,MSRA-SA-39.fareast.corp.microsoft.com:8042,,<memory:1024,,vCores:1>,,20,,172.22.149.145:28345,<memory:1024,,vCores:1>,-,maps.isEmpty=true,

@@ -1,7 +1,0 @@
-symbol: s261
-template: ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': No, 'TimeRemaining': <*>
-1250,724869.297011:,onWake,,4551,,
-1324,728563.210777:,onSleep,,3174,,
-1515,740631.402908:,onWake,,5802,,
-1803,771631.938256:,onSleep,,9235,,
-1908,784055.560270:,onSleep,,5600,,

@@ -1,4 +1,0 @@
-symbol: s25
-template: bulkSaveDetailHiHealthData() size <?> <*> <?> <*>
-728,=,4,totalTime,=,30,
-756,=,20,totalTime,=,34,

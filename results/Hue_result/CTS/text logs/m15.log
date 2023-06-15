@@ -1,8 +1,0 @@
-symbol: m15
-identifier: <?> Enter system view, return command.
-231,system-view,
-|| system-view
-||Enter system view, return command.
-1156,system-view,
-|| system-view
-||Enter system view, return command.

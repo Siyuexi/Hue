@@ -1,5 +1,0 @@
-symbol: s136
-template: critical input interrupt <*> for <*> <*> wire, suppressing further interrupts of same type
-1751,(unit=0x0b,bit=0x0a):,warning,for,torus,z+,wire,,suppressing,further,interrupts,of,
-1950,(unit=0x0b,bit=0x17):,warning,for,tree,C1,wire,,suppressing,further,interrupts,of,
-1978,(unit=0x0b,bit=0x0a):,warning,for,torus,z+,wire,,suppressing,further,interrupts,of,

@@ -66,7 +66,7 @@ Dataset: Andriod        Accuracy: 0.8260        Recall: 0.8614  Precision: 0.807
 Dataset: Mac    Accuracy: 0.9005        Recall: 0.9150  Precision: 0.8571       F1-Score: 0.8851
 Dataset: Hadoop Accuracy: 0.9655        Recall: 0.8333  Precision: 0.9314       F1-Score: 0.8796
 Dataset: HealthApp      Accuracy: 0.9025        Recall: 0.9467  Precision: 0.9726       F1-Score: 0.9595
-Dataset: OpenSSH        Accuracy: 0.8120        Recall: 0.7037  Precision: 0.7308       F1-Score: 0.7170
+Dataset: OpenSSH        Accuracy: 0.9250        Recall: 0.7778  Precision: 0.8400       F1-Score: 0.8077
 Dataset: Thunderbird    Accuracy: 0.9620        Recall: 0.8523  Precision: 0.7175       F1-Score: 0.7791
 Dataset: Proxifier      Accuracy: 1.0000        Recall: 1.0000  Precision: 1.0000       F1-Score: 1.0000
 Dataset: Apache Accuracy: 1.0000        Recall: 1.0000  Precision: 1.0000       F1-Score: 1.0000

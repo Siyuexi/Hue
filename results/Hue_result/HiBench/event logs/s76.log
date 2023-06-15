@@ -1,5 +1,0 @@
-symbol: s76
-template: <*> <*> INFO SparseVectorsFromSequenceFiles: Tokenizing documents in <*>
-3189,22/11/21,21:01:54,hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Input,
-4056,22/11/21,21:50:29,hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Input,
-5229,22/11/22,22:58:01,hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Input,

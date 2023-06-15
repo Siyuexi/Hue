@@ -1,4 +1,0 @@
-symbol: s118
-template: i8042 <*> port at <*> <*>
-1348,AUX,0x60,0x64,irq,
-1349,KBD,0x60,0x64,irq,

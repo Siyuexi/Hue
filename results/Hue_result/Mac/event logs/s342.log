@@ -1,3 +1,0 @@
-symbol: s342
-template: CoreAnimation: warning, deleted thread with uncommitted CATransaction; set <*> in environment to log backtraces.
-1835,CA_DEBUG_TRANSACTIONS=1,

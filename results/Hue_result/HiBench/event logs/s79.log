@@ -1,5 +1,0 @@
-symbol: s79
-template: <*> <*> INFO DictionaryVectorizer: Creating dictionary from <*> and saving at <*>
-3256,22/11/21,21:02:22,hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/vectors/tokenized-documents,hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/vectors/wordcount,
-4123,22/11/22,21:50:57,hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/vectors/tokenized-documents,hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/vectors/wordcount,
-4826,22/11/22,22:55:17,hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/vectors/tokenized-documents,hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/Output/vectors/wordcount,

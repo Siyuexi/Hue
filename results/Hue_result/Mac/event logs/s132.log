@@ -1,5 +1,0 @@
-symbol: s132
-template: device_generate_lock_screen_screenshot: authw <*> <*> <*> shield <*> <*>
-329,0x7fa823962400(2000)[0,,0,,1440,,900],shield,0x7fa82d372000(2001),,
-1050,0x7fa824145a00(2000)[0,,0,,1440,,900],shield,0x7fa825dafc00(2001),,
-1291,0x7fa82502bc00(2000)[0,,0,,0,,0],shield,0x7fa823930c00(2001),,

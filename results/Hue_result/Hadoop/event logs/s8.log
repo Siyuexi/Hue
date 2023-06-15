@@ -1,5 +1,0 @@
-symbol: s8
-template: Default file system <*>
-15,[hdfs://msra-sa-41:9000],
-16,[hdfs://msra-sa-41:9000],
-17,[hdfs://msra-sa-41:9000],

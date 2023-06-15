@@ -1,4 +1,0 @@
-symbol: s55
-template: <*> <*> INFO HiBench.Dummy: Creating dummy file <*> with <*> slots...
-2747,22/11/21,20:58:55,hdfs://cuhkcluster/dataspace/team7/HiBench/Bayes/temp/dummy,1,
-2904,22/11/21,21:00:02,hdfs://cuhkcluster/dataspace/team7/HiBench/Pagerank/temp/dummy,1,

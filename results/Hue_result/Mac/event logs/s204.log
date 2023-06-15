@@ -1,3 +1,0 @@
-symbol: s204
-template: CCFile::captureLog Received Capture notice id: <*> reason <?> <*>
-649,1499133420.914478,,=,DeauthInd:sts:0_rsn:7,

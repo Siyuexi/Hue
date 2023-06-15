@@ -1,4 +1,0 @@
-symbol: s64
-template: Sending <*> broadcast <*> from system <*> pkg <*>
-195,non-protected,com.android.systemui.statusbar.visible.change,2227:com.android.systemui/u0a37,com.android.systemui,
-287,non-protected,com.android.systemui.statusbar.visible.change,2227:com.android.systemui/u0a37,com.android.systemui,

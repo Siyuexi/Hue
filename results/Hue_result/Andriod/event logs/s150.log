@@ -1,4 +1,0 @@
-symbol: s150
-template: START u0 <*> <*> <*> <*> <*> <*> from uid <*> on display <*>
-1261,{act=android.intent.action.MAIN,cat=[android.intent.category.LAUNCHER],flg=0x10200000,cmp=com.example.android.notepad/.NotePadActivity,bnds=[8,820][184,1011]},from,uid,10057,on,display,0,
-1436,{act=android.intent.action.MAIN,cat=[android.intent.category.LAUNCHER],flg=0x10200000,cmp=com.tencent.mobileqq/.activity.SplashActivity,bnds=[360,820][536,1011]},from,uid,10057,on,display,0,

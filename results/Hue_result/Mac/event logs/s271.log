@@ -1,3 +1,0 @@
-symbol: s271
-template: <*> <*> <*> <*> <?> beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: <*>
-1277,2017-07-05,16:18:06.450,GoogleSoftwareUpdateAgent[36128/0x7000002a0000],[lvl=2],-[KSOutOfProcessFetcher,"https://tools.google.com/service/update2?cup2hreq=ac844e04cbb398fcef4cf81b4ffc44a3ebc863e89d19c0b5d39d02d78d26675b&cup2key=7:677488741",
