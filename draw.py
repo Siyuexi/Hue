@@ -316,6 +316,40 @@ plt.legend()
 plt.grid(True, linestyle='--', alpha=0.5)
 plt.show()
 
+# # OpenSSH/feedback
+x = [0, 9, 12, 13]
+ga = [0.7330, 0.8125, 0.9250, 0.9265]
+f1 = [0.7170, 0.7451, 0.7636, 0.8214]
+
+maxlen = 25
+xx = np.arange(maxlen)
+y1 = np.array([0.0 for i in range(maxlen)])
+y2 = np.array([0.0 for i in range(maxlen)])
+y3 = np.array([gabase for i in range(maxlen)])
+y4 = np.array([f1base for i in range(maxlen)])
+j = 0
+for i in range(maxlen):
+    if j == len(x):
+        y1[i] = y1[i-1]
+        y2[i] = y2[i-1]
+        continue
+    if i == x[j]:
+        y1[i] = ga[j]
+        y2[i] = f1[j]
+        j += 1
+    else:
+        y1[i] = y1[i-1]
+        y2[i] = y2[i-1]
+plt.plot(xx, y1, color = 'C0', linestyle='-.', label='GA')
+plt.plot(xx, y2, color = 'C1', linestyle='-.', label='F1')
+# plt.plot(xx, y3, color = 'C0', linestyle='--', label='GA base without elastic threshold', linewidth=0.5)
+# plt.plot(xx, y4, color = 'C1', linestyle='--', label='F1 base without elastic threshold', linewidth=0.5)
+plt.xlabel("Number of Merge Queries")
+plt.ylabel("Metrics")
+plt.legend()
+plt.grid(True, linestyle='--', alpha=0.5)
+plt.show()
+
 # # HiBench/feedback
 x = [0, 1, 3, 13, 17]
 ga = [0.9320, 0.9477, 0.9590, 0.9600, 0.9605]
