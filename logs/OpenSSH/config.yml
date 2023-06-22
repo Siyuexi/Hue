@@ -1,13 +1,12 @@
 
 
-# min_length: 6
 min_length: 0
 max_length: 12
-max_depth: 2
+max_depth: 3
 max_child: 100
 t_extract : 0.8
 t_aggregate: 0.4
-t_feedback: 0.1
+t_feedback: 0.2
 regex: # the regex order is important: The first must be timestame and the last must be splitter
   -
     name: header
@@ -26,10 +25,6 @@ regex: # the regex order is important: The first must be timestame and the last 
     name: ip
     re: '(/|)([0-9]+\.){3}[0-9]+(:[0-9]+|)(:|)'
     symbol: <*ip>
-  -
-    name: int
-    re: '(0x.*?\s)|(?<=[^A-Za-z0-9])(\-?\+?\d+)(?=[^A-Za-z0-9])|[0-9]+$'
-    symbol: <*it>
   -
     name: bool
     re: '(=*|)(True)|(False)|(true)|(false)'

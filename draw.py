@@ -144,12 +144,12 @@ tableMessage = np.array([16,16,32,32,16,2057])/total[2]
 eventTemplate = np.array([77,54,62,63,80,80])/total[3]
 textTemplate = np.array([12,12,12,14,9,10])/total[4]
 tableTemplate = np.array([1,1,2,2,1,7])/total[5]
-plt.bar(x - 0.15, eventMessage, width=width, label='Event log message', color = '#ff8484')
-plt.bar(x - 0.15, textMessage, width=width, label='Text log message', bottom=eventMessage, color='#ff84ff')
-plt.bar(x - 0.15, tableMessage, width=width, label='Table log message', bottom=eventMessage+textMessage, color='#8484ff')
-plt.bar(x + 0.15, eventTemplate, width=width, label='Event log template', color='#84ffff')
-plt.bar(x + 0.15, textTemplate, width=width, label='Text log template', bottom=eventTemplate, color='#84ff84')
-plt.bar(x + 0.15, tableTemplate, width=width, label='Table log template', bottom=eventTemplate+textTemplate, color='#ffff84')
+plt.bar(x - 0.15, eventMessage, width=width, label='Event log message', color = '#2878b5')
+plt.bar(x - 0.15, textMessage, width=width, label='Text log message', bottom=eventMessage, color='#9ac9db')
+plt.bar(x - 0.15, tableMessage, width=width, label='Table log message', bottom=eventMessage+textMessage, color='#f8ac8c')
+plt.bar(x + 0.15, eventTemplate, width=width, label='Event log template', color='#c82423')
+plt.bar(x + 0.15, textTemplate, width=width, label='Text log template', bottom=eventTemplate, color='#ff8884')
+plt.bar(x + 0.15, tableTemplate, width=width, label='Table log template', bottom=eventTemplate+textTemplate, color='#f7e1ed')
 plt.xlabel("Datasets")
 plt.ylabel("Correctness Ratio")
 plt.xticks(x, labels=labels)
@@ -317,9 +317,9 @@ plt.grid(True, linestyle='--', alpha=0.5)
 plt.show()
 
 # # OpenSSH/feedback
-x = [0, 9, 12, 13]
-ga = [0.7330, 0.8125, 0.9250, 0.9265]
-f1 = [0.7170, 0.7451, 0.7636, 0.8214]
+x = [0, 9, 10]
+ga = [0.7885, 0.9955, 0.9970]
+f1 = [0.8148, 0.8727, 0.9286]
 
 maxlen = 25
 xx = np.arange(maxlen)
