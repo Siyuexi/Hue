@@ -1,6 +1,20 @@
 # README
-This is the artifacts of:
-**Hue: A User-Adaptive Parser for Hybrid Logs**
+
+## !!!Declarition
+
+T**he algorithm implementation of Hue is in `logparser/Hue/Hue.py`,** 
+
+If you want to ***re-run*** the parser for all log files and ***re-produce*** all accuracy results in the paper, just run `python benchmark/Hue_benchmark.py`. It is not only output the accuracy of parsed log files, but also parse all log files each time.
+
+You can also delete the `results` directory and re-run the benchmark files to get new parsed files.
+
+## Directory
+
+- benchmark: the **program entries** for each parser
+- logparser: the **algorithm implementation** for each parser
+- logs: all log files and their labels, including **16** LogPAI single-line datasets, and **2** open-accessed hybrid log datasets.
+- draw.py
+- 
 
 ## Environment
 
@@ -21,9 +35,9 @@ pip install xxx # xxx is the name of libs
 
 for setting up the environments.
 
-## Declaration
+## Tutorial
 
-1. All implementations of the parser (except Hue), logs (except HiBench and CTS), and tools are from LogPAI (https://github.com/logpai). 
+1. All implementations of the parser (except Hue), logs (except HiBench and CTS), and tools are from LogPAI (https://github.com/logpai).
 2. We offer reproduction of the following experiments：
    1. Experiments on parser accuracy in RQ1 and RQ2.
    2. Experiments on Hue's feedback mechanism in RQ3.
@@ -113,7 +127,6 @@ Before starting, you need to change some settings first:
    ```
    vim logparser/Hue/Hue.py
    ```
-
 2. Adjust the feedback switch on line **14** from "False" to "True".
 
    From:
@@ -127,22 +140,18 @@ Before starting, you need to change some settings first:
    ```python
    feedback = True # whether to enable feedback query
    ```
-
 3. Change the feedback_target in line **17** to the dataset you want to reproduce
 
    ```python
    feedback_target = 'Linux' # choose a dataset for feedback experiment
    ```
-
 4. Re-run the benchmark script:
 
    ```python
    python benchmark/Hue_benchmark.py
    ```
 
-   
-
-You can then interact with the command line to guide the parser through feedback. 
+You can then interact with the command line to guide the parser through feedback.
 
 Specifically, each time you enter "Enter" or "y", you will accept the merge, while entering 'n' means you reject the merge.
 
@@ -328,4 +337,3 @@ just run the 'draw.py' for all results.
 ```
 python draw.py
 ```
-

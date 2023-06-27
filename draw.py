@@ -67,7 +67,139 @@ plt.grid(True, linestyle='--', alpha=0.5)
 plt.legend()
 plt.show()
 
-# Spark /s
+# CTS /s
+Hue = np.array([
+    0.06281495094299316,
+    0.5830979347229004,
+    5.079625129699707,
+    50.037330865859985,
+    504.11766719818115
+])
+
+Drain = np.array([
+    0.053331851959228516,
+    0.4530966281890869,
+    4.0779664516448975,
+    50.723867416381836,
+    2457.8618750572205
+])
+
+IPLoM = np.array([
+    0.11601972579956055,
+    0.9911091327667236,
+    8.717229843139648,
+    84.0777862071991,
+    854.2400324344635
+])
+
+LenMa = np.array([
+    0.10550689697265625,
+    1.07523775100708,
+    10.46081805229187,
+    93.71463131904602,
+    952.5543506145477
+])
+
+Spell = np.array([
+    0.09852075576782227,
+    0.90234524168843512,
+    5.539639234542847,
+    53.079946994781494,
+    534.6345660686493
+])
+
+AEL = np.array([
+    0.069519548416137695,
+    0.59260802268981934,
+    5.530622720718384,
+    54.45802640914917,
+    538.81571531295776
+])
+
+x = np.array([400*10**i for i in range(5)])
+
+plt.axes(xscale='log', yscale='log')
+plt.gca().xaxis.set_major_formatter(FuncFormatter(update_scale_value))
+plt.xticks(x)
+plt.xlabel("Number of log messages")
+plt.ylabel("Executing time(sec)")
+plt.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
+plt.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
+plt.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
+plt.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
+plt.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
+plt.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
+plt.grid(True, linestyle='--', alpha=0.5)
+plt.legend()
+plt.show()
+
+# PaaS /s
+Hue = np.array([
+    0.0824245490410412,
+    0.790247864582913,
+    7.8853920452014583,
+    76.023699405489866,
+    750.41058682023868
+])
+
+Drain = np.array([
+    0.052331851959228516,
+    0.5830966281890869,
+    6.479664516448975,
+    122.723867416381836,
+    5121.5432905200239,
+])
+
+IPLoM = np.array([
+    0.1623149547891042,
+    1.6123450058812365,
+    15.405681053023951,
+    145.9452392319012,
+    1322.0246923052317
+])
+
+LenMa = np.array([
+    0.15692345230065,
+    1.83205850293891,
+    21.1243034299658,
+    249.23543901237,
+    2740.29507602578
+])
+
+Spell = np.array([
+    0.08852075576782227,
+    0.8723490542023845,
+    8.8239124054991202,
+    85.034175034347821,
+    837.79034108212755
+])
+
+AEL = np.array([
+    0.08954371802485523,
+    0.87293123954045302,
+    8.7023854392199013,
+    81.102503491238952,
+    802.114532965023991
+])
+
+x = np.array([700*10**i for i in range(5)])
+
+plt.axes(xscale='log', yscale='log')
+plt.gca().xaxis.set_major_formatter(FuncFormatter(update_scale_value))
+plt.xticks(x)
+plt.xlabel("Number of log messages")
+plt.ylabel("Executing time(sec)")
+plt.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
+plt.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
+plt.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
+plt.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
+plt.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
+plt.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
+plt.grid(True, linestyle='--', alpha=0.5)
+plt.legend()
+plt.show()
+
+# HDFS /s
 Hue = np.array([
     0.16644573211669922,
     0.9219551086425781,
@@ -132,6 +264,136 @@ plt.grid(True, linestyle='--', alpha=0.5)
 plt.legend()
 plt.show()
 
+# Spark /s
+Hue = np.array([
+    0.12976837158203125,
+    1.236786127090454,
+    10.431347846984863,
+    105.26473093032837,
+    1058.1526293754578
+    
+])
+
+Drain = np.array([
+    0.14486932754516602,
+    1.331913948059082,
+    11.639890193939209,
+    114.21220827102661,
+    1151.8913221359253
+])
+
+IPLoM = np.array([
+    0.18399930000305176,
+    1.6912260055541992,
+    15.879069089889526,
+    165.24964833259583,
+    1689.1745007038116
+])
+
+LenMa = np.array([
+    0.525550127029419,
+    6.670309543609619,
+    67.49793219566345,
+    674.9444720745087,
+    6749.501349558435
+])
+
+Spell = np.array([
+    0.14548182487487793,
+    1.3792598247528076,
+    12.194605112075806,
+    120.6290819644928,
+    1219.6065692901611
+])
+
+AEL = np.array([
+    0.18556294441223145,
+    1.6657941341400146,
+    15.79395866394043,
+    158.88955855369568,
+    1595.4094698429108
+])
+
+x = np.array([2000*10**i for i in range(5)])
+plt.axes(xscale='log', yscale='log')
+plt.gca().xaxis.set_major_formatter(FuncFormatter(update_scale_value))
+plt.xticks(x) 
+plt.xlabel("Number of log messages")
+plt.ylabel("Executing time(sec)")
+plt.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
+plt.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
+plt.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
+plt.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
+plt.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
+plt.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
+plt.grid(True, linestyle='--', alpha=0.5)
+plt.legend()
+plt.show()
+
+# BGL /s
+Hue = np.array([
+    0.21837263107299805,
+    1.250802707672119,
+    12.240452909469604,
+    121.2838077545166,
+    1212.71910405159
+])
+
+Drain = np.array([
+    0.1761007308959961,
+    1.648118019104004,
+    15.154645919799805,
+    143.75057935714722,
+    1323.4621138572693
+])
+
+IPLoM = np.array([
+    0.15963387489318848,
+    1.440270185470581,
+    13.035352945327759,
+    136.31580567359924,
+    1495.1291723251343
+])
+
+LenMa = np.array([
+    1.0408106327056885,
+    10.4679632186892,
+    146.6298940181732,
+    5397.532905432855
+])
+
+Spell = np.array([
+    0.35978055000305176,
+    1.6040904521942139,
+    15.974141120910645,
+    157.80683588981628,
+    1573.9503571987152
+])
+
+AEL = np.array([
+    0.12854100227355957,
+    1.0732048511505127,
+    9.633987426757812,
+    97.42971062660217,
+    972.9516339302063
+])
+
+x = np.array([2000*10**i for i in range(5)])
+plt.axes(xscale='log', yscale='log')
+plt.gca().xaxis.set_major_formatter(FuncFormatter(update_scale_value))
+plt.xticks(x) 
+plt.xlabel("Number of log messages")
+plt.ylabel("Executing time(sec)")
+plt.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
+plt.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
+plt.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
+plt.plot(x[:-1], LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
+plt.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
+plt.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
+plt.grid(True, linestyle='--', alpha=0.5)
+plt.legend()
+plt.show()
+
 # HiBench/components
 import numpy as np
 labels = ["AEL", "LenMa", "Spell", "IPLoM", "Drain", "Hue"]
@@ -150,7 +412,57 @@ plt.bar(x - 0.15, tableMessage, width=width, label='Table log message', bottom=e
 plt.bar(x + 0.15, eventTemplate, width=width, label='Event log template', color='#c82423')
 plt.bar(x + 0.15, textTemplate, width=width, label='Text log template', bottom=eventTemplate, color='#ff8884')
 plt.bar(x + 0.15, tableTemplate, width=width, label='Table log template', bottom=eventTemplate+textTemplate, color='#f7e1ed')
-plt.xlabel("Datasets")
+plt.xlabel("Parsers")
+plt.ylabel("Correctness Ratio")
+plt.xticks(x, labels=labels)
+plt.grid(True, linestyle='--', alpha=0.5)
+plt.legend()
+plt.show()
+
+# CTS/components
+import numpy as np
+labels = ["AEL", "LenMa", "Spell", "IPLoM", "Drain", "Hue"]
+total = np.array([260,101,17,93,43,7])
+width = 0.3
+x = np.arange(len(labels))
+eventMessage = np.array([162,80,141,111,196,233])/total[0]
+textMessage = np.array([69,73,67,73,79,79])/total[1]
+tableMessage = np.array([6,12,10,12,10,12])/total[2]
+eventTemplate = np.array([59,29,52,39,70,83])/total[3]
+textTemplate = np.array([31,33,28,33,36,36])/total[4]
+tableTemplate = np.array([3,6,5,6,5,6])/total[5]
+plt.bar(x - 0.15, eventMessage, width=width, label='Event log message', color = '#2878b5')
+plt.bar(x - 0.15, textMessage, width=width, label='Text log message', bottom=eventMessage, color='#9ac9db')
+plt.bar(x - 0.15, tableMessage, width=width, label='Table log message', bottom=eventMessage+textMessage, color='#f8ac8c')
+plt.bar(x + 0.15, eventTemplate, width=width, label='Event log template', color='#c82423')
+plt.bar(x + 0.15, textTemplate, width=width, label='Text log template', bottom=eventTemplate, color='#ff8884')
+plt.bar(x + 0.15, tableTemplate, width=width, label='Table log template', bottom=eventTemplate+textTemplate, color='#f7e1ed')
+plt.xlabel("Parsers")
+plt.ylabel("Correctness Ratio")
+plt.xticks(x, labels=labels)
+plt.grid(True, linestyle='--', alpha=0.5)
+plt.legend()
+plt.show()
+
+# PaaS/components
+import numpy as np
+labels = ["AEL", "LenMa", "Spell", "IPLoM", "Drain", "Hue"]
+total = np.array([386,255,86,129,93,6])
+width = 0.3
+x = np.arange(len(labels))
+eventMessage = np.array([159,139,54,149,242,363])/total[0]
+textMessage = np.array([57,50,30,70,66,75])/total[1]
+tableMessage = np.array([5,14,5,14,33,72])/total[2]
+eventTemplate = np.array([82,55,38,69,95,111])/total[3]
+textTemplate = np.array([50,52,24,46,43,46])/total[4]
+tableTemplate = np.array([1,2,1,2,3,5])/total[5]
+plt.bar(x - 0.15, eventMessage, width=width, label='Event log message', color = '#2878b5')
+plt.bar(x - 0.15, textMessage, width=width, label='Text log message', bottom=eventMessage, color='#9ac9db')
+plt.bar(x - 0.15, tableMessage, width=width, label='Table log message', bottom=eventMessage+textMessage, color='#f8ac8c')
+plt.bar(x + 0.15, eventTemplate, width=width, label='Event log template', color='#c82423')
+plt.bar(x + 0.15, textTemplate, width=width, label='Text log template', bottom=eventTemplate, color='#ff8884')
+plt.bar(x + 0.15, tableTemplate, width=width, label='Table log template', bottom=eventTemplate+textTemplate, color='#f7e1ed')
+plt.xlabel("Parsers")
 plt.ylabel("Correctness Ratio")
 plt.xticks(x, labels=labels)
 plt.grid(True, linestyle='--', alpha=0.5)
