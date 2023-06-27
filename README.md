@@ -13,8 +13,6 @@ You can also delete the `results` directory and re-run the benchmark files to ge
 - benchmark: the **program entries** for each parser
 - logparser: the **algorithm implementation** for each parser
 - logs: all log files and their labels, including **16** LogPAI single-line datasets, and **2** open-accessed hybrid log datasets.
-- draw.py
-- 
 
 ## Environment
 
