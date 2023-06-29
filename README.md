@@ -73,12 +73,12 @@ Dataset: HDFS   Accuracy: 0.9975        Recall: 0.9286  Precision: 0.8125       
 Dataset: Spark  Accuracy: 0.9415        Recall: 0.8333  Precision: 0.9091       F1-Score: 0.8696
 Dataset: BGL    Accuracy: 0.8490        Recall: 0.8167  Precision: 0.6125       F1-Score: 0.7000
 Dataset: Windows        Accuracy: 0.9900        Recall: 0.9000  Precision: 0.7377       F1-Score: 0.8108
-Dataset: Linux  Accuracy: 0.3560        Recall: 0.9068  Precision: 0.9469       F1-Score: 0.9264
+Dataset: Linux  Accuracy: 0.7490        Recall: 0.8983  Precision: 0.9550       F1-Score: 0.9258
 Dataset: Andriod        Accuracy: 0.8260        Recall: 0.8614  Precision: 0.8079       F1-Score: 0.8338
 Dataset: Mac    Accuracy: 0.9005        Recall: 0.9150  Precision: 0.8571       F1-Score: 0.8851
 Dataset: Hadoop Accuracy: 0.9655        Recall: 0.8333  Precision: 0.9314       F1-Score: 0.8796
 Dataset: HealthApp      Accuracy: 0.9025        Recall: 0.9467  Precision: 0.9726       F1-Score: 0.9595
-Dataset: OpenSSH        Accuracy: 0.8040        Recall: 0.8519  Precision: 0.6970      F1-Score: 0.7667
+Dataset: OpenSSH        Accuracy: 0.8040        Recall: 0.8519  Precision: 0.6970       F1-Score: 0.7667
 Dataset: Thunderbird    Accuracy: 0.9620        Recall: 0.8523  Precision: 0.7175       F1-Score: 0.7791
 Dataset: Proxifier      Accuracy: 1.0000        Recall: 1.0000  Precision: 1.0000       F1-Score: 1.0000
 Dataset: Apache Accuracy: 1.0000        Recall: 1.0000  Precision: 1.0000       F1-Score: 1.0000

@@ -4,7 +4,7 @@ min_length: 0
 max_length: 10
 max_depth: 7
 max_child: 100
-t_extract : 0.95
+t_extract : 0.9
 t_aggregate: 0.4
 t_feedback: 0.2
 regex: # the regex order is important: The first must be timestame and the last must be splitter
