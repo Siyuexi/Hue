@@ -8,6 +8,8 @@ def update_scale_value(temp, position):
     else:
         return "{}M".format(temp / 1000000)
 
+plt.figure(figsize=(22, 5))
+
 # HiBench /s
 Hue = np.array([
     0.7173445224761963,
@@ -52,20 +54,21 @@ AEL = np.array([
 
 x = np.array([4000*10**i for i in range(4)])
 
-plt.axes(xscale='log', yscale='log')
+ax1 = plt.subplot(1, 3, 1)
+ax1.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
+ax1.plot(x[:-1], Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
+ax1.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
+ax1.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
+ax1.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
+ax1.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
+ax1.grid(True, linestyle='--', alpha=0.5)
+ax1.set_xscale('log')
+ax1.set_yscale('log')
 plt.gca().xaxis.set_major_formatter(FuncFormatter(update_scale_value))
-plt.xticks(x)
-plt.xlabel("Number of log messages")
-plt.ylabel("Executing time(sec)")
-plt.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
-plt.plot(x[:-1], Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
-plt.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
-plt.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
-plt.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
-plt.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
-plt.grid(True, linestyle='--', alpha=0.5)
-plt.legend()
-plt.show()
+ax1.set_xticks(x)
+ax1.tick_params(labelsize=14)
+ax1.set_xlabel("Number of log messages on HiBench", fontsize=14, labelpad=0)
+ax1.set_ylabel("Executing time(sec)", fontsize=14, labelpad=0)
 
 # CTS /s
 Hue = np.array([
@@ -118,20 +121,22 @@ AEL = np.array([
 
 x = np.array([400*10**i for i in range(5)])
 
-plt.axes(xscale='log', yscale='log')
+ax2 = plt.subplot(1, 3, 2)
+ax2.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
+ax2.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
+ax2.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
+ax2.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
+ax2.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
+ax2.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
+ax2.grid(True, linestyle='--', alpha=0.5)
+ax2.set_xscale('log')
+ax2.set_yscale('log')
 plt.gca().xaxis.set_major_formatter(FuncFormatter(update_scale_value))
-plt.xticks(x)
-plt.xlabel("Number of log messages")
-plt.ylabel("Executing time(sec)")
-plt.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
-plt.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
-plt.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
-plt.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
-plt.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
-plt.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
-plt.grid(True, linestyle='--', alpha=0.5)
-plt.legend()
-plt.show()
+ax2.set_xticks(x)
+ax2.tick_params(labelsize=14)
+ax2.set_xlabel("Number of log messages on CTS", fontsize=14, labelpad=0)
+ax2.set_ylabel("Executing time(sec)", fontsize=14, labelpad=0)
+plt.legend(loc=9, ncol=6, prop={'size': 20}, bbox_to_anchor=(0.5, 1.17))
 
 # PaaS /s
 Hue = np.array([
@@ -184,20 +189,25 @@ AEL = np.array([
 
 x = np.array([700*10**i for i in range(5)])
 
-plt.axes(xscale='log', yscale='log')
+ax3 = plt.subplot(1, 3, 3)
+ax3.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
+ax3.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
+ax3.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
+ax3.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
+ax3.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
+ax3.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
+ax3.grid(True, linestyle='--', alpha=0.5)
+ax3.set_xscale('log')
+ax3.set_yscale('log')
+ax3.set_xticks(x)
 plt.gca().xaxis.set_major_formatter(FuncFormatter(update_scale_value))
-plt.xticks(x)
-plt.xlabel("Number of log messages")
-plt.ylabel("Executing time(sec)")
-plt.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
-plt.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
-plt.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
-plt.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
-plt.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
-plt.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
-plt.grid(True, linestyle='--', alpha=0.5)
-plt.legend()
+ax3.tick_params(labelsize=14)
+ax3.set_xlabel("Number of log messages on PaaS", fontsize=14, labelpad=0)
+ax3.set_ylabel("Executing time(sec)", fontsize=14, labelpad=0)
+plt.subplots_adjust(wspace=0.15)
 plt.show()
+
+plt.figure(figsize=(22, 5))
 
 # HDFS /s
 Hue = np.array([
@@ -249,20 +259,22 @@ AEL = np.array([
 ])
 
 x = np.array([2000*10**i for i in range(5)])
-plt.axes(xscale='log', yscale='log')
+
+ax1 = plt.subplot(1, 3, 1)
+ax1.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
+ax1.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
+ax1.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
+ax1.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
+ax1.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
+ax1.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
+ax1.grid(True, linestyle='--', alpha=0.5)
+ax1.set_xscale('log')
+ax1.set_yscale('log')
 plt.gca().xaxis.set_major_formatter(FuncFormatter(update_scale_value))
-plt.xticks(x) 
-plt.xlabel("Number of log messages")
-plt.ylabel("Executing time(sec)")
-plt.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
-plt.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
-plt.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
-plt.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
-plt.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
-plt.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
-plt.grid(True, linestyle='--', alpha=0.5)
-plt.legend()
-plt.show()
+ax1.set_xticks(x)
+ax1.tick_params(labelsize=14)
+ax1.set_xlabel("Number of log messages on HDFS", fontsize=14, labelpad=0)
+ax1.set_ylabel("Executing time(sec)", fontsize=14, labelpad=0)
 
 # Spark /s
 Hue = np.array([
@@ -315,20 +327,23 @@ AEL = np.array([
 ])
 
 x = np.array([2000*10**i for i in range(5)])
-plt.axes(xscale='log', yscale='log')
+
+ax2 = plt.subplot(1, 3, 2)
+ax2.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
+ax2.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
+ax2.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
+ax2.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
+ax2.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
+ax2.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
+ax2.grid(True, linestyle='--', alpha=0.5)
+ax2.set_xscale('log')
+ax2.set_yscale('log')
 plt.gca().xaxis.set_major_formatter(FuncFormatter(update_scale_value))
-plt.xticks(x) 
-plt.xlabel("Number of log messages")
-plt.ylabel("Executing time(sec)")
-plt.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
-plt.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
-plt.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
-plt.plot(x, LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
-plt.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
-plt.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
-plt.grid(True, linestyle='--', alpha=0.5)
-plt.legend()
-plt.show()
+ax2.set_xticks(x)
+ax2.tick_params(labelsize=14)
+ax2.set_xlabel("Number of log messages on Spark", fontsize=14, labelpad=0)
+ax2.set_ylabel("Executing time(sec)", fontsize=14, labelpad=0)
+plt.legend(loc=9, ncol=6, prop={'size': 20}, bbox_to_anchor=(0.5, 1.17))
 
 # BGL /s
 Hue = np.array([
@@ -379,23 +394,30 @@ AEL = np.array([
 ])
 
 x = np.array([2000*10**i for i in range(5)])
-plt.axes(xscale='log', yscale='log')
+
+ax3 = plt.subplot(1, 3, 3)
+ax3.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
+ax3.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
+ax3.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
+ax3.plot(x[:-1], LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
+ax3.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
+ax3.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
+ax3.grid(True, linestyle='--', alpha=0.5)
+ax3.set_xscale('log')
+ax3.set_yscale('log')
+ax3.set_xticks(x)
 plt.gca().xaxis.set_major_formatter(FuncFormatter(update_scale_value))
-plt.xticks(x) 
-plt.xlabel("Number of log messages")
-plt.ylabel("Executing time(sec)")
-plt.plot(x, Hue, marker='^',label = 'Hue', markerfacecolor = 'white', markersize='8')
-plt.plot(x, Drain, marker='+',label = 'Drain', markerfacecolor = 'white', markersize='8')
-plt.plot(x, IPLoM, marker='v',label = 'IPLoM', markerfacecolor = 'white', markersize='8')
-plt.plot(x[:-1], LenMa, marker='.',label = 'LenMa', markerfacecolor = 'white', markersize='10')
-plt.plot(x, Spell, marker='x',label = 'Spell', markerfacecolor = 'white', markersize='8')
-plt.plot(x, AEL, marker='s',label = 'AEL', markerfacecolor = 'white', markersize='6')
-plt.grid(True, linestyle='--', alpha=0.5)
-plt.legend()
+ax3.tick_params(labelsize=14)
+ax3.set_xlabel("Number of log messages on BGL", fontsize=14, labelpad=0)
+ax3.set_ylabel("Executing time(sec)", fontsize=14, labelpad=0)
+plt.subplots_adjust(wspace=0.15)
 plt.show()
+
+plt.figure(figsize=(22, 5))
 
 # HiBench/components
 import numpy as np
+plt.subplot(1, 3, 1)
 labels = ["AEL", "LenMa", "Spell", "IPLoM", "Drain", "Hue"]
 total = np.array([1879,64,2057,92,18,7])
 width = 0.3
@@ -412,15 +434,15 @@ plt.bar(x - 0.15, tableMessage, width=width, label='Table log message', bottom=e
 plt.bar(x + 0.15, eventTemplate, width=width, label='Event log template', color='#c82423')
 plt.bar(x + 0.15, textTemplate, width=width, label='Text log template', bottom=eventTemplate, color='#ff8884')
 plt.bar(x + 0.15, tableTemplate, width=width, label='Table log template', bottom=eventTemplate+textTemplate, color='#f7e1ed')
-plt.xlabel("Parsers")
-plt.ylabel("Correctness Ratio")
+plt.tick_params(labelsize=14)
+plt.xlabel("Parsers", fontsize=14, labelpad=0)
+plt.ylabel("Correctness Ratio", fontsize=14, labelpad=0)
 plt.xticks(x, labels=labels)
 plt.grid(True, linestyle='--', alpha=0.5)
-plt.legend()
-plt.show()
 
 # CTS/components
 import numpy as np
+plt.subplot(1, 3, 2)
 labels = ["AEL", "LenMa", "Spell", "IPLoM", "Drain", "Hue"]
 total = np.array([260,101,17,93,43,7])
 width = 0.3
@@ -437,15 +459,16 @@ plt.bar(x - 0.15, tableMessage, width=width, label='Table log message', bottom=e
 plt.bar(x + 0.15, eventTemplate, width=width, label='Event log template', color='#c82423')
 plt.bar(x + 0.15, textTemplate, width=width, label='Text log template', bottom=eventTemplate, color='#ff8884')
 plt.bar(x + 0.15, tableTemplate, width=width, label='Table log template', bottom=eventTemplate+textTemplate, color='#f7e1ed')
-plt.xlabel("Parsers")
-plt.ylabel("Correctness Ratio")
+plt.tick_params(labelsize=14)
+plt.xlabel("Parsers", fontsize=14, labelpad=0)
+plt.ylabel("Correctness Ratio", fontsize=14, labelpad=0)
 plt.xticks(x, labels=labels)
 plt.grid(True, linestyle='--', alpha=0.5)
-plt.legend()
-plt.show()
+plt.legend(loc=9, ncol=6, prop={'size': 15}, bbox_to_anchor=(0.5, 1.13))
 
 # PaaS/components
 import numpy as np
+plt.subplot(1, 3, 3)
 labels = ["AEL", "LenMa", "Spell", "IPLoM", "Drain", "Hue"]
 total = np.array([386,255,86,129,93,6])
 width = 0.3
@@ -462,11 +485,12 @@ plt.bar(x - 0.15, tableMessage, width=width, label='Table log message', bottom=e
 plt.bar(x + 0.15, eventTemplate, width=width, label='Event log template', color='#c82423')
 plt.bar(x + 0.15, textTemplate, width=width, label='Text log template', bottom=eventTemplate, color='#ff8884')
 plt.bar(x + 0.15, tableTemplate, width=width, label='Table log template', bottom=eventTemplate+textTemplate, color='#f7e1ed')
-plt.xlabel("Parsers")
-plt.ylabel("Correctness Ratio")
+plt.tick_params(labelsize=14)
+plt.xlabel("Parsers", fontsize=14, labelpad=0)
+plt.ylabel("Correctness Ratio", fontsize=14, labelpad=0)
 plt.xticks(x, labels=labels)
 plt.grid(True, linestyle='--', alpha=0.5)
-plt.legend()
+plt.subplots_adjust(wspace=0.12)
 plt.show()
 
 # Linux+Comparison/feedback(GA)

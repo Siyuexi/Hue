@@ -91,7 +91,7 @@ benchmark_settings = {
     'HealthApp': {
         'log_file': 'HealthApp/HealthApp_2k.log',
         'log_format': '<Time>\|<Component>\|<Pid>\|<Content>',
-        'regex': [],
+        'regex': [r'blk_-?\d+', r'(\d+\.){3}\d+(:\d+)?'],
         't2': 23,
         't3': 5
         },
