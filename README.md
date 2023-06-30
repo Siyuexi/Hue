@@ -2,9 +2,11 @@
 
 ## !!!Declarition
 
-T**he algorithm implementation of Hue is in `logparser/Hue/Hue.py`,** 
+T**he algorithm implementation of Hue is in `logparser/Hue/Hue.py`,**
 
 If you want to ***re-run*** the parser for all log files and ***re-produce*** all accuracy results in the paper, just run `python benchmark/Hue_benchmark.py`. It is not only output the accuracy of parsed log files, but also parse all log files each time.
+
+The repository and the package no longer contain the parsed log files. You need to run the codes to produce the results for evaluation.
 
 You can also delete the `results` directory and re-run the benchmark files to get new parsed files.
 
@@ -53,7 +55,7 @@ cd artifact
 
 ### 1. Accuracy in RQ1&RQ2
 
-just run these command for all parsers:
+Run the program entry of each parser `benchmark/<PARSER>_benchmark.py` to re-produce the parsed log files and evaluate the parsing performance.
 
 ```shell
 python benchmark/AEL_benchmark.py
@@ -64,7 +66,7 @@ python benchmark/Drain_benchmark.py
 python benchmark/Hue_benchmark.py
 ```
 
-and you will get the results like these:
+The parsing results are as follows:
 
 - Hue's results format:
 
