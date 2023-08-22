@@ -1,8 +1,8 @@
 # README
 
-## !!!Declarition
+## Declaration
 
-T**he algorithm implementation of Hue is in `logparser/Hue/Hue.py`,**
+**The algorithm implementation of Hue is in `logparser/Hue/Hue.py`,**
 
 If you want to ***re-run*** the parser for all log files and ***re-produce*** all accuracy results in the paper, just run `python benchmark/Hue_benchmark.py`. It is not only output the accuracy of parsed log files, but also parse all log files each time.
 
@@ -41,9 +41,9 @@ for setting up the environments.
 2. We offer reproduction of the following experiments：
    1. Experiments on parser accuracy in RQ1 and RQ2.
    2. Experiments on Hue's feedback mechanism in RQ3.
-3. We also provide the source code for generating figures in paper.
+3. We also provide the source code for generating figures in paper at `draw.py`. The result data in the source code can be reproduced with the following guidance.
 4. We do not offer experiments on SPINE because SPINE is not yet open source.
-5. We do not provide reproduction of the experiment about execution time. This is because the experiment requires a large number of logs, which are difficult to upload to the support material.  And the results vary considerably from one device to another.
+5. We do not provide reproduction data of the experiment about execution time. This is because the experiment requires a large number of logs, which are difficult to upload to the support material.  And the results vary considerably from one device to another. To reproduce the results of parsing efficiency, people can copy and paste the raw data and ground-truth labels to scale-up the dataset and also run benchmarks on their own device.
 
 ## Reproduction
 
@@ -337,3 +337,5 @@ just run the 'draw.py' for all results.
 ```
 python draw.py
 ```
+
+The raw data used in the `draw.py` can be reproduced with the guidance above.
