@@ -1,6 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
+import matplotlib
+matplotlib.rcParams['pdf.fonttype'] = 42
+matplotlib.rcParams['ps.fonttype'] = 42
 
 def update_scale_value(temp, position):
     if np.log(temp / 4000) < 3:
@@ -435,7 +438,7 @@ plt.bar(x + 0.15, eventTemplate, width=width, label='Event log template', color=
 plt.bar(x + 0.15, textTemplate, width=width, label='Text log template', bottom=eventTemplate, color='#ff8884')
 plt.bar(x + 0.15, tableTemplate, width=width, label='Table log template', bottom=eventTemplate+textTemplate, color='#f7e1ed')
 plt.tick_params(labelsize=14)
-plt.xlabel("Parsers", fontsize=14, labelpad=0)
+plt.xlabel("HiBench", fontsize=14, labelpad=0)
 plt.ylabel("Correctness Ratio", fontsize=14, labelpad=0)
 plt.xticks(x, labels=labels)
 plt.grid(True, linestyle='--', alpha=0.5)
@@ -460,7 +463,7 @@ plt.bar(x + 0.15, eventTemplate, width=width, label='Event log template', color=
 plt.bar(x + 0.15, textTemplate, width=width, label='Text log template', bottom=eventTemplate, color='#ff8884')
 plt.bar(x + 0.15, tableTemplate, width=width, label='Table log template', bottom=eventTemplate+textTemplate, color='#f7e1ed')
 plt.tick_params(labelsize=14)
-plt.xlabel("Parsers", fontsize=14, labelpad=0)
+plt.xlabel("CTS", fontsize=14, labelpad=0)
 plt.ylabel("Correctness Ratio", fontsize=14, labelpad=0)
 plt.xticks(x, labels=labels)
 plt.grid(True, linestyle='--', alpha=0.5)
@@ -486,7 +489,7 @@ plt.bar(x + 0.15, eventTemplate, width=width, label='Event log template', color=
 plt.bar(x + 0.15, textTemplate, width=width, label='Text log template', bottom=eventTemplate, color='#ff8884')
 plt.bar(x + 0.15, tableTemplate, width=width, label='Table log template', bottom=eventTemplate+textTemplate, color='#f7e1ed')
 plt.tick_params(labelsize=14)
-plt.xlabel("Parsers", fontsize=14, labelpad=0)
+plt.xlabel("PaaS", fontsize=14, labelpad=0)
 plt.ylabel("Correctness Ratio", fontsize=14, labelpad=0)
 plt.xticks(x, labels=labels)
 plt.grid(True, linestyle='--', alpha=0.5)
